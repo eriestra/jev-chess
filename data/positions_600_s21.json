@@ -1,0 +1,5033 @@
+[
+ {
+  "id": "lichess-2013-01-10",
+  "fen": "1R6/p4r1k/2p1rp2/6pp/bPpP4/2P4P/P2B1PP1/2R3K1 b - - 1 28",
+  "ply": 55,
+  "human_move": "e6e2",
+  "human_rating": 1544,
+  "time_control": "600+8",
+  "url": "https://lichess.org/1hi3aveq"
+ },
+ {
+  "id": "lichess-2013-01-64",
+  "fen": "r1b1kbnr/qp1n1ppp/2p1p3/2Pp4/1B1P4/P3P3/5PPP/RN1QKBNR w KQkq - 1 9",
+  "ply": 16,
+  "human_move": "g1f3",
+  "human_rating": 1514,
+  "time_control": "480+0",
+  "url": "https://lichess.org/r5urywfn"
+ },
+ {
+  "id": "lichess-2013-01-432",
+  "fen": "4rrk1/pp3p2/2p2qp1/3p4/6Q1/P2P4/5PP1/R3R1K1 w - - 0 26",
+  "ply": 50,
+  "human_move": "e1e8",
+  "human_rating": 1756,
+  "time_control": "120+2",
+  "url": "https://lichess.org/c3j6dqoa"
+ },
+ {
+  "id": "lichess-2013-01-731",
+  "fen": "rnbqr1k1/pp1p1ppp/2p2n2/4p3/1b2P3/2NP1N2/PPP1BPPP/R1BQ1RK1 w - - 0 7",
+  "ply": 12,
+  "human_move": "c1e3",
+  "human_rating": 1540,
+  "time_control": "60+0",
+  "url": "https://lichess.org/fveyply9"
+ },
+ {
+  "id": "lichess-2013-01-1012",
+  "fen": "r1bqkbnr/ppp2ppp/2n5/1B2P3/3pP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 5",
+  "ply": 9,
+  "human_move": "c8g4",
+  "human_rating": 1374,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/eh5w3atd"
+ },
+ {
+  "id": "lichess-2013-01-1115",
+  "fen": "r1bq1rk1/ppp2pbp/2np2p1/5P2/2BP4/P4N2/1PP2PPP/RN1Q1RK1 b - - 0 9",
+  "ply": 17,
+  "human_move": "c8f5",
+  "human_rating": 1632,
+  "time_control": "300+0",
+  "url": "https://lichess.org/b0pymkxt"
+ },
+ {
+  "id": "lichess-2013-01-1140",
+  "fen": "r1bqk1nr/ppp1bppp/3p4/n2Np3/2B1P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 4 6",
+  "ply": 11,
+  "human_move": "a5c4",
+  "human_rating": 1712,
+  "time_control": "300+0",
+  "url": "https://lichess.org/yf8475eh"
+ },
+ {
+  "id": "lichess-2013-01-1660",
+  "fen": "r3r1k1/p1q2p1p/3p1p2/1b6/3NP3/2P5/P4PPP/3RR1K1 b - - 1 20",
+  "ply": 39,
+  "human_move": "b5a4",
+  "human_rating": 1775,
+  "time_control": "60+0",
+  "url": "https://lichess.org/su6juvrv"
+ },
+ {
+  "id": "lichess-2013-01-2634",
+  "fen": "r1bqk2r/ppp2ppp/2np1n2/2b1p3/4P3/1P1P1N1P/PBP2PP1/RN1QKB1R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "c8e6",
+  "human_rating": 1697,
+  "time_control": "240+0",
+  "url": "https://lichess.org/d8jv2ayx"
+ },
+ {
+  "id": "lichess-2013-01-2776",
+  "fen": "r4rk1/6pp/p3bq2/1p1pp3/8/NP6/1PP1QPPP/3R1RK1 w - - 0 19",
+  "ply": 36,
+  "human_move": "d1e1",
+  "human_rating": 1919,
+  "time_control": "120+0",
+  "url": "https://lichess.org/oghz5zap"
+ },
+ {
+  "id": "lichess-2013-01-2954",
+  "fen": "2r3k1/3Nbp2/p6p/1p1R2p1/2p5/PP2P3/b4PPP/3B2K1 w - - 0 26",
+  "ply": 50,
+  "human_move": "b3c4",
+  "human_rating": 1515,
+  "time_control": "240+0",
+  "url": "https://lichess.org/l8osjvww"
+ },
+ {
+  "id": "lichess-2013-01-3459",
+  "fen": "r7/P7/8/1k6/8/R1KP4/8/8 b - - 4 60",
+  "ply": 119,
+  "human_move": "b5b6",
+  "human_rating": 1539,
+  "time_control": "480+0",
+  "url": "https://lichess.org/tstbr0l1"
+ },
+ {
+  "id": "lichess-2013-01-3514",
+  "fen": "2k2b1r/ppp3pp/8/5p2/3rbP2/P1B5/1P2B2P/2KRR3 b - - 1 18",
+  "ply": 35,
+  "human_move": "d4d1",
+  "human_rating": 1973,
+  "time_control": "240+0",
+  "url": "https://lichess.org/b2q1mpwc"
+ },
+ {
+  "id": "lichess-2013-01-3813",
+  "fen": "rnbqkbnr/pp3ppp/2p1p3/8/2pP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "f1c4",
+  "human_rating": 1556,
+  "time_control": "60+0",
+  "url": "https://lichess.org/uwwh6c82"
+ },
+ {
+  "id": "lichess-2013-01-3878",
+  "fen": "1k3bnr/pp4p1/5q2/2p4p/5P2/2N1B2P/PPQ2KP1/R6R w - - 2 26",
+  "ply": 50,
+  "human_move": "c3d5",
+  "human_rating": 1441,
+  "time_control": "600+10",
+  "url": "https://lichess.org/ojxw10l6"
+ },
+ {
+  "id": "lichess-2013-01-4274",
+  "fen": "2rr2k1/b5pp/p4pn1/Pp1NqN1P/4Pp2/2P2Q2/5PP1/2RR2K1 b - - 0 30",
+  "ply": 59,
+  "human_move": "g6h8",
+  "human_rating": 1558,
+  "time_control": "300+5",
+  "url": "https://lichess.org/yclzkhbd"
+ },
+ {
+  "id": "lichess-2013-01-4412",
+  "fen": "2k5/ppp3N1/2n2p2/3b4/5r2/3r4/P5R1/R6K w - - 2 29",
+  "ply": 56,
+  "human_move": "g7h5",
+  "human_rating": 1502,
+  "time_control": "420+3",
+  "url": "https://lichess.org/dlbktg2d"
+ },
+ {
+  "id": "lichess-2013-01-4646",
+  "fen": "r4rk1/1p1bbppp/pqn1p1n1/3pP3/PPpP4/2P2N2/2BN1PPP/R1BQ1RK1 w - - 2 13",
+  "ply": 24,
+  "human_move": "g2g3",
+  "human_rating": 2013,
+  "time_control": "60+1",
+  "url": "https://lichess.org/sj1mqcte"
+ },
+ {
+  "id": "lichess-2013-01-5057",
+  "fen": "r1bqk2r/ppp2ppp/2n1pn2/3p2B1/QbPP4/2N5/PP2PPPP/R3KBNR w KQkq - 4 6",
+  "ply": 10,
+  "human_move": "g1f3",
+  "human_rating": 1582,
+  "time_control": "240+0",
+  "url": "https://lichess.org/k6gbs7o1"
+ },
+ {
+  "id": "lichess-2013-01-5259",
+  "fen": "r3r3/pkp3Qp/3b1B2/1p6/bP6/P1KP1nPB/5P1P/R7 b - - 0 25",
+  "ply": 49,
+  "human_move": "b7b6",
+  "human_rating": 1411,
+  "time_control": "660+11",
+  "url": "https://lichess.org/6ozs36si"
+ },
+ {
+  "id": "lichess-2013-01-5364",
+  "fen": "r3r1k1/p1bb1pp1/1pp2n1p/8/4P3/2NBBP1P/PPP3P1/R4RK1 w - - 0 15",
+  "ply": 28,
+  "human_move": "c3e2",
+  "human_rating": 1581,
+  "time_control": "300+0",
+  "url": "https://lichess.org/corospy7"
+ },
+ {
+  "id": "lichess-2013-01-5455",
+  "fen": "r2qkb1r/p2n1ppp/1p2p1b1/1Qnp4/6P1/2P1P2P/PP3PB1/RNB1K1NR w KQkq - 2 11",
+  "ply": 20,
+  "human_move": "g1f3",
+  "human_rating": 1510,
+  "time_control": "180+3",
+  "url": "https://lichess.org/lb7o96aj"
+ },
+ {
+  "id": "lichess-2013-01-5706",
+  "fen": "rnb1kbnr/p3pppp/1qp5/1p6/P1pPP3/2N5/1P3PPP/R1BQKBNR w KQkq - 1 6",
+  "ply": 10,
+  "human_move": "a4b5",
+  "human_rating": 1791,
+  "time_control": "300+2",
+  "url": "https://lichess.org/hkgmoxiw"
+ },
+ {
+  "id": "lichess-2013-01-5807",
+  "fen": "2rr3k/p3q2p/7p/4Pp2/1p5P/1P2QNP1/P1p2P2/2R3K1 w - - 0 30",
+  "ply": 58,
+  "human_move": "e3h6",
+  "human_rating": 1546,
+  "time_control": "300+8",
+  "url": "https://lichess.org/uj96egn2"
+ },
+ {
+  "id": "lichess-2013-01-6189",
+  "fen": "1k1r3r/pp6/3p1p2/2pP2pp/3qP3/3Q4/PP6/1K1R1R2 w - - 2 26",
+  "ply": 50,
+  "human_move": "d3d4",
+  "human_rating": 1481,
+  "time_control": "120+0",
+  "url": "https://lichess.org/p0zbiyvm"
+ },
+ {
+  "id": "lichess-2013-01-6283",
+  "fen": "8/3k1Np1/n4p2/3p1P2/PP4p1/2N3P1/8/3KR3 w - - 0 38",
+  "ply": 74,
+  "human_move": "c3d5",
+  "human_rating": 1339,
+  "time_control": "300+0",
+  "url": "https://lichess.org/e7mx1xk7"
+ },
+ {
+  "id": "lichess-2013-01-6347",
+  "fen": "r1b1kb1r/2qp1pp1/p1n1pn2/1p5p/4P3/2PQBN1P/PP2BPP1/RN3RK1 w kq - 1 11",
+  "ply": 20,
+  "human_move": "b1d2",
+  "human_rating": 1877,
+  "time_control": "300+15",
+  "url": "https://lichess.org/v5l6s63m"
+ },
+ {
+  "id": "lichess-2013-01-6460",
+  "fen": "2k3r1/3p1p1p/p3p3/1pp4N/3bP3/3K4/P1P5/8 b - - 1 34",
+  "ply": 67,
+  "human_move": "g8g5",
+  "human_rating": 1620,
+  "time_control": "300+0",
+  "url": "https://lichess.org/soqhnnqa"
+ },
+ {
+  "id": "lichess-2013-01-6539",
+  "fen": "8/p2b4/1p6/1Pkp4/r5p1/1R4K1/4B3/8 w - - 4 47",
+  "ply": 92,
+  "human_move": "b3c3",
+  "human_rating": 1800,
+  "time_control": "180+0",
+  "url": "https://lichess.org/oam89e2p"
+ },
+ {
+  "id": "lichess-2013-01-6628",
+  "fen": "r1bqk2r/p2n1ppp/2p1p3/4Pn2/2BP4/2N2N1P/PP3RP1/R2Q2K1 b kq - 0 15",
+  "ply": 29,
+  "human_move": "f5g3",
+  "human_rating": 1467,
+  "time_control": "60+0",
+  "url": "https://lichess.org/kmadxa6v"
+ },
+ {
+  "id": "lichess-2013-01-6637",
+  "fen": "4r1k1/3n3p/Pp1p2p1/P1p5/2P5/3P4/6PP/1R4K1 b - - 0 28",
+  "ply": 55,
+  "human_move": "b6a5",
+  "human_rating": 1982,
+  "time_control": "300+8",
+  "url": "https://lichess.org/ptk0ld1t"
+ },
+ {
+  "id": "lichess-2013-01-6692",
+  "fen": "2kr1b1r/ppp1pppp/2n2n2/q4b2/1P6/P1N2N2/2PPBPPP/R1BQ1RK1 b - - 0 8",
+  "ply": 15,
+  "human_move": "c6b4",
+  "human_rating": 1504,
+  "time_control": "300+8",
+  "url": "https://lichess.org/8urfe4xz"
+ },
+ {
+  "id": "lichess-2013-01-6771",
+  "fen": "rn1k2nr/ppp2ppp/3bb3/4p3/2B1P3/5N2/PPP2PPP/RNB1K2R w KQ - 4 7",
+  "ply": 12,
+  "human_move": "c4e6",
+  "human_rating": 1823,
+  "time_control": "0+2",
+  "url": "https://lichess.org/18lig7i2"
+ },
+ {
+  "id": "lichess-2013-01-6940",
+  "fen": "3rk3/p1p1ppb1/1pb4p/3P3p/2P4q/1P5P/P2Q1PP1/4RRK1 b - - 0 21",
+  "ply": 41,
+  "human_move": "c6b7",
+  "human_rating": 1215,
+  "time_control": "480+0",
+  "url": "https://lichess.org/70ducza7"
+ },
+ {
+  "id": "lichess-2013-01-7406",
+  "fen": "r2qkb1r/ppp1pppp/2n2n2/3p1b2/8/1PPP4/PBQ1PPPP/RN2KBNR b KQkq - 4 5",
+  "ply": 9,
+  "human_move": "e7e6",
+  "human_rating": 1396,
+  "time_control": "0+1",
+  "url": "https://lichess.org/ll5m80lg"
+ },
+ {
+  "id": "lichess-2013-01-7424",
+  "fen": "r4rk1/pp1qbppp/2n1bn2/4p3/2P5/1Q2B1P1/PP1N1PBP/2KR2NR b - - 6 12",
+  "ply": 23,
+  "human_move": "c6a5",
+  "human_rating": 1800,
+  "time_control": "0+1",
+  "url": "https://lichess.org/tb1uerqa"
+ },
+ {
+  "id": "lichess-2013-01-7569",
+  "fen": "1r2r1k1/p2q1ppp/b7/2bp4/8/1P6/P1PRN1PP/4QR1K b - - 5 19",
+  "ply": 37,
+  "human_move": "c5e3",
+  "human_rating": 1434,
+  "time_control": "480+0",
+  "url": "https://lichess.org/vkswv7hy"
+ },
+ {
+  "id": "lichess-2013-01-7908",
+  "fen": "4r3/1p1b4/pk1p4/3P1pNB/2PR1P1P/8/PP3K2/8 b - - 0 31",
+  "ply": 61,
+  "human_move": "e8g8",
+  "human_rating": 1438,
+  "time_control": "180+0",
+  "url": "https://lichess.org/nd1w9u3b"
+ },
+ {
+  "id": "lichess-2013-01-7909",
+  "fen": "5r2/1pprnpk1/p3q1pp/3nP3/3PR3/1B3N1P/PP1Q1PP1/2R3K1 b - - 11 21",
+  "ply": 41,
+  "human_move": "c7c6",
+  "human_rating": 1874,
+  "time_control": "180+3",
+  "url": "https://lichess.org/ym1iu27h"
+ },
+ {
+  "id": "lichess-2013-01-8025",
+  "fen": "rnbq1rk1/pp2b1pp/4pn2/2pp1pN1/3P1P2/2P1P1P1/PP5P/RNBQKB1R w KQ - 0 8",
+  "ply": 14,
+  "human_move": "d4c5",
+  "human_rating": 1120,
+  "time_control": "120+0",
+  "url": "https://lichess.org/kgktasqy"
+ },
+ {
+  "id": "lichess-2013-01-8342",
+  "fen": "rq1r2k1/1b2b2p/p5p1/1p1pp3/1P6/P1Q1P3/BB3PPP/2RR2K1 w - - 0 23",
+  "ply": 44,
+  "human_move": "c3e5",
+  "human_rating": 1983,
+  "time_control": "240+0",
+  "url": "https://lichess.org/zqkpujxk"
+ },
+ {
+  "id": "lichess-2013-01-8388",
+  "fen": "r1b2r2/1pp4k/p2p2pP/2bPppq1/8/1P6/PBPPQP2/1K1R1B1R w - - 0 19",
+  "ply": 36,
+  "human_move": "b2c1",
+  "human_rating": 1515,
+  "time_control": "60+0",
+  "url": "https://lichess.org/04y990xn"
+ },
+ {
+  "id": "lichess-2013-01-8392",
+  "fen": "r2qk2r/2p1ppbp/p1np1np1/1p6/3PP3/1B2BQ1P/PPP2PP1/RN2K2R w KQkq - 4 10",
+  "ply": 18,
+  "human_move": "e4e5",
+  "human_rating": 1650,
+  "time_control": "300+8",
+  "url": "https://lichess.org/0cyjtek8"
+ },
+ {
+  "id": "lichess-2013-01-8711",
+  "fen": "rnbqkb1r/ppp2ppp/4p3/8/3PP3/8/PPP3PP/R1BQKBNR b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "f8b4",
+  "human_rating": 1647,
+  "time_control": "120+0",
+  "url": "https://lichess.org/okmmynxv"
+ },
+ {
+  "id": "lichess-2013-01-8728",
+  "fen": "r1b2rk1/1p1n2pp/pbp2q2/3p1p1N/PP1Pp3/2P1P1P1/5PBP/RN1Q1RK1 b - - 3 15",
+  "ply": 29,
+  "human_move": "f6g5",
+  "human_rating": 1726,
+  "time_control": "180+0",
+  "url": "https://lichess.org/aykkca95"
+ },
+ {
+  "id": "lichess-2013-01-9302",
+  "fen": "r3k2r/1ppbq1pp/p1n1pp2/8/1PNP1B2/P1Q1P3/5PPP/R3K2R b KQkq - 0 15",
+  "ply": 29,
+  "human_move": "a8c8",
+  "human_rating": 1527,
+  "time_control": "840+8",
+  "url": "https://lichess.org/jg5nfkyy"
+ },
+ {
+  "id": "lichess-2013-01-9858",
+  "fen": "1k1r1b1r/pbp1nppp/1p6/3pP1N1/8/7Q/PPP1BPPP/RN2K2R b KQ - 0 12",
+  "ply": 23,
+  "human_move": "b7c8",
+  "human_rating": 1516,
+  "time_control": "60+0",
+  "url": "https://lichess.org/8w4ol6zx"
+ },
+ {
+  "id": "lichess-2013-01-10194",
+  "fen": "2kr3r/4bp2/b1n1p1pp/3pP3/N3nP2/P3B1qP/1PP3B1/R2QR2K b - - 1 22",
+  "ply": 43,
+  "human_move": "e4f2",
+  "human_rating": 1983,
+  "time_control": "60+0",
+  "url": "https://lichess.org/abpxhipu"
+ },
+ {
+  "id": "lichess-2013-01-10312",
+  "fen": "rn1k1bnr/pp4pp/3p2p1/5bB1/3p4/N4N2/PPP2PPP/R2QR1K1 b - - 1 11",
+  "ply": 21,
+  "human_move": "d8d7",
+  "human_rating": 1446,
+  "time_control": "900+4",
+  "url": "https://lichess.org/ndbsfe0j"
+ },
+ {
+  "id": "lichess-2013-01-10428",
+  "fen": "r1bqk2r/ppp1bppp/2n1pn2/3p4/3P1P2/3BPN2/PPP3PP/RNBQK2R w KQkq - 3 6",
+  "ply": 10,
+  "human_move": "e1g1",
+  "human_rating": 1832,
+  "time_control": "480+10",
+  "url": "https://lichess.org/jvf06wnh"
+ },
+ {
+  "id": "lichess-2013-01-10464",
+  "fen": "r3kb1r/p1pb1ppp/1p2qn2/4n3/2P1p3/1P2Q2P/P2P1PPN/RNB1KB1R w KQkq - 0 11",
+  "ply": 20,
+  "human_move": "f1e2",
+  "human_rating": 1476,
+  "time_control": "660+8",
+  "url": "https://lichess.org/tb0sgwpi"
+ },
+ {
+  "id": "lichess-2013-01-10526",
+  "fen": "rn1qkb1r/1p1bpppp/p7/3pP3/3Pn3/1QN2N2/PP3PPP/R1B1KB1R b KQkq - 4 9",
+  "ply": 17,
+  "human_move": "e7e6",
+  "human_rating": 1108,
+  "time_control": "1800+30",
+  "url": "https://lichess.org/nnn5poyy"
+ },
+ {
+  "id": "lichess-2013-01-10655",
+  "fen": "r2qr1k1/pppbbppp/2n2n2/3P4/1PB1p3/2P2Q1P/P3NPP1/RNB1K2R w KQ - 0 12",
+  "ply": 22,
+  "human_move": "f3e3",
+  "human_rating": 1469,
+  "time_control": "300+5",
+  "url": "https://lichess.org/9rv1tmw4"
+ },
+ {
+  "id": "lichess-2013-01-11834",
+  "fen": "6k1/p5bp/1p4p1/2n1pr2/2R5/2B2P2/PPP1K2P/8 b - - 1 25",
+  "ply": 49,
+  "human_move": "f5f4",
+  "human_rating": 1584,
+  "time_control": "300+8",
+  "url": "https://lichess.org/edijzod8"
+ },
+ {
+  "id": "lichess-2013-01-12511",
+  "fen": "r2q1rk1/4bpp1/1p5p/2p1P3/3p1P2/1b4P1/PB1NB2P/R4RK1 w - - 0 22",
+  "ply": 42,
+  "human_move": "d2b3",
+  "human_rating": 1211,
+  "time_control": "60+0",
+  "url": "https://lichess.org/jd25j2gq"
+ },
+ {
+  "id": "lichess-2013-01-12643",
+  "fen": "2kr1bnr/p1p4p/1p1pqpp1/3Np3/B3P3/3PB1QP/PP3PP1/n4K1R b - - 5 15",
+  "ply": 29,
+  "human_move": "g8e7",
+  "human_rating": 1704,
+  "time_control": "0+1",
+  "url": "https://lichess.org/58cpjqm4"
+ },
+ {
+  "id": "lichess-2013-01-12968",
+  "fen": "r4rk1/p2nq1pp/1P1pbn2/P1p1pp2/4P3/2NP4/2PQ1PPP/1R3RK1 b - - 0 17",
+  "ply": 33,
+  "human_move": "a7b6",
+  "human_rating": 1648,
+  "time_control": "300+15",
+  "url": "https://lichess.org/en81wofr"
+ },
+ {
+  "id": "lichess-2013-01-13026",
+  "fen": "1knr4/5Q2/1q2p2p/1PbpP2N/8/8/5PP1/R1R3K1 w - - 1 32",
+  "ply": 62,
+  "human_move": "h5f6",
+  "human_rating": 1962,
+  "time_control": "120+0",
+  "url": "https://lichess.org/0fy9nozf"
+ },
+ {
+  "id": "lichess-2013-01-13076",
+  "fen": "4r1k1/1p3p1p/p5p1/8/P4P2/2B2bPq/1PQ2P1P/R5K1 w - - 0 26",
+  "ply": 50,
+  "human_move": "c2g6",
+  "human_rating": 1722,
+  "time_control": "240+0",
+  "url": "https://lichess.org/r2dqxbl0"
+ },
+ {
+  "id": "lichess-2013-01-13163",
+  "fen": "6k1/4bpp1/3pb2p/8/4PP2/P2Q2PP/1Pr5/K6R b - - 0 30",
+  "ply": 59,
+  "human_move": "c2c8",
+  "human_rating": 1642,
+  "time_control": "360+0",
+  "url": "https://lichess.org/l6dzdk50"
+ },
+ {
+  "id": "lichess-2013-01-13319",
+  "fen": "r4qk1/pp4bp/2p3P1/2npp1P1/5r2/P2P2Q1/1PPN1P2/R3K1NR b K - 0 21",
+  "ply": 41,
+  "human_move": "h7g6",
+  "human_rating": 2073,
+  "time_control": "60+0",
+  "url": "https://lichess.org/jjv0azbs"
+ },
+ {
+  "id": "lichess-2013-01-13483",
+  "fen": "2rq1rk1/p4pp1/2pbp1bp/8/P1NPP3/1Qn2B2/5PPP/R1B2RK1 b - - 2 19",
+  "ply": 37,
+  "human_move": "c3e4",
+  "human_rating": 1589,
+  "time_control": "240+0",
+  "url": "https://lichess.org/g9v3cw3u"
+ },
+ {
+  "id": "lichess-2013-01-13672",
+  "fen": "8/3r1kp1/3P3p/p7/1N6/6BP/5PP1/3R2K1 b - - 0 51",
+  "ply": 101,
+  "human_move": "f7e6",
+  "human_rating": 2105,
+  "time_control": "120+0",
+  "url": "https://lichess.org/eqsch017"
+ },
+ {
+  "id": "lichess-2013-01-13965",
+  "fen": "r4rk1/ppp2ppp/4b3/8/2n5/P2BP3/1K4PP/7R w - - 0 20",
+  "ply": 38,
+  "human_move": "d3c4",
+  "human_rating": 1478,
+  "time_control": "480+0",
+  "url": "https://lichess.org/7cdrnp5k"
+ },
+ {
+  "id": "lichess-2013-01-14288",
+  "fen": "3rkb1r/ppp1pppp/8/8/8/4PP2/PPb3PP/R1B1KBNR w KQk - 0 12",
+  "ply": 22,
+  "human_move": "f1b5",
+  "human_rating": 1102,
+  "time_control": "900+5",
+  "url": "https://lichess.org/9y68070u"
+ },
+ {
+  "id": "lichess-2013-01-14291",
+  "fen": "r4rk1/1b2ppbp/p1qp2p1/1p6/8/P2BP3/1PPB1PPP/1R1Q1RK1 w - - 0 17",
+  "ply": 32,
+  "human_move": "f2f3",
+  "human_rating": 1921,
+  "time_control": "0+1",
+  "url": "https://lichess.org/kimlae79"
+ },
+ {
+  "id": "lichess-2013-01-14511",
+  "fen": "r2r4/1p1N1p1k/2p3p1/p7/8/1P1R1P2/6PP/R5K1 w - - 0 22",
+  "ply": 42,
+  "human_move": "d7e5",
+  "human_rating": 1388,
+  "time_control": "480+0",
+  "url": "https://lichess.org/g0na3mn3"
+ },
+ {
+  "id": "lichess-2013-01-14750",
+  "fen": "2r2rk1/3bqppp/8/2p1p3/p1Q1P3/p2B1P2/1P1NN1PP/2KR3R w - - 0 28",
+  "ply": 54,
+  "human_move": "b2a3",
+  "human_rating": 1633,
+  "time_control": "60+0",
+  "url": "https://lichess.org/xqox3h3e"
+ },
+ {
+  "id": "lichess-2013-01-15094",
+  "fen": "rnb2rk1/ppp3pp/3q4/5p2/3P4/2P1P3/P1Q2PPP/R3KBNR w KQ - 1 12",
+  "ply": 22,
+  "human_move": "f1d3",
+  "human_rating": 1771,
+  "time_control": "0+1",
+  "url": "https://lichess.org/b5ycflwi"
+ },
+ {
+  "id": "lichess-2013-01-15310",
+  "fen": "r2q1rk1/3nbpp1/b1p1pn1p/p1Pp4/P2P4/3BPN2/1BQN1PPP/R3R1K1 b - - 2 14",
+  "ply": 27,
+  "human_move": "a6d3",
+  "human_rating": 1556,
+  "time_control": "1200+0",
+  "url": "https://lichess.org/08fdr5b9"
+ },
+ {
+  "id": "lichess-2013-01-15386",
+  "fen": "1k1r2r1/1bp2p2/pp2q3/3P2P1/P6Q/1P1P2P1/2P2P2/R1B2RK1 b - - 0 27",
+  "ply": 53,
+  "human_move": "e6d5",
+  "human_rating": 1269,
+  "time_control": "300+0",
+  "url": "https://lichess.org/sbwqhsvs"
+ },
+ {
+  "id": "lichess-2013-01-15410",
+  "fen": "r1b2b1r/2p1kppp/ppp1pn2/4N3/3P4/8/PPP2PPP/RN1Q1RK1 w - - 2 11",
+  "ply": 20,
+  "human_move": "d1f3",
+  "human_rating": 1636,
+  "time_control": "600+0",
+  "url": "https://lichess.org/66jedayr"
+ },
+ {
+  "id": "lichess-2013-01-15563",
+  "fen": "7Q/p2q1kp1/1pp1p3/1n1p1r2/3P4/P4P2/1Pb1P3/R3KBR1 b Q - 6 28",
+  "ply": 55,
+  "human_move": "f7f6",
+  "human_rating": 1591,
+  "time_control": "480+3",
+  "url": "https://lichess.org/mmjmhc9a"
+ },
+ {
+  "id": "lichess-2013-01-15572",
+  "fen": "r1bqk1nr/pppp1ppp/8/n1bPN3/4P3/2P5/PP3PPP/RNBQKB1R w KQkq - 1 7",
+  "ply": 12,
+  "human_move": "d1h5",
+  "human_rating": 1480,
+  "time_control": "600+8",
+  "url": "https://lichess.org/s65vqb8p"
+ },
+ {
+  "id": "lichess-2013-01-16250",
+  "fen": "r3k1r1/1b3ppR/p3pqP1/1ppn4/4Q3/1B1P1N2/PPP2PP1/2KR4 w q - 1 20",
+  "ply": 38,
+  "human_move": "g6f7",
+  "human_rating": 1633,
+  "time_control": "300+5",
+  "url": "https://lichess.org/94pxf33t"
+ },
+ {
+  "id": "lichess-2013-01-16458",
+  "fen": "3qk2r/p2n4/4p1pn/1P2P2p/3P1Q2/2r1B3/P3B1PP/R4RK1 b k - 2 19",
+  "ply": 37,
+  "human_move": "h6g4",
+  "human_rating": 1348,
+  "time_control": "300+0",
+  "url": "https://lichess.org/nd6nj9i5"
+ },
+ {
+  "id": "lichess-2013-01-16504",
+  "fen": "r3k2r/1ppq4/1p5p/n2n1pp1/3Pp3/1P4P1/PB1QRPNP/R5K1 w kq - 0 22",
+  "ply": 42,
+  "human_move": "f2f3",
+  "human_rating": 1604,
+  "time_control": "600+0",
+  "url": "https://lichess.org/7slyp0j6"
+ },
+ {
+  "id": "lichess-2013-01-16510",
+  "fen": "r3k2r/pbqnbppp/1pnpp3/2p2P2/4P1P1/3P2NP/PPP3B1/RNBQ1RK1 b kq - 0 11",
+  "ply": 21,
+  "human_move": "d6d5",
+  "human_rating": 2112,
+  "time_control": "120+0",
+  "url": "https://lichess.org/9a86osnl"
+ },
+ {
+  "id": "lichess-2013-01-16648",
+  "fen": "rnb1k1nr/3p1ppp/8/4p3/1q6/8/P2NPPPP/R2QKBNR b KQkq - 1 9",
+  "ply": 17,
+  "human_move": "b4b2",
+  "human_rating": 1594,
+  "time_control": "180+15",
+  "url": "https://lichess.org/e00m1zeh"
+ },
+ {
+  "id": "lichess-2013-01-16820",
+  "fen": "8/2Q4p/1p6/6k1/4B3/P5K1/3r4/4R3 w - - 0 43",
+  "ply": 84,
+  "human_move": "c7f4",
+  "human_rating": 1567,
+  "time_control": "300+0",
+  "url": "https://lichess.org/o27uwu5b"
+ },
+ {
+  "id": "lichess-2013-01-17037",
+  "fen": "r1bq1rk1/ppppbp1p/5npQ/4p1B1/2B1P3/3P4/PPn1KPPP/RN4NR b - - 1 9",
+  "ply": 17,
+  "human_move": "c2a1",
+  "human_rating": 1295,
+  "time_control": "420+9",
+  "url": "https://lichess.org/sj015pq1"
+ },
+ {
+  "id": "lichess-2013-01-17529",
+  "fen": "4k3/1b1R4/1p2p1p1/8/2P5/1P2KP2/P5PP/R7 b - - 0 30",
+  "ply": 59,
+  "human_move": "e8d7",
+  "human_rating": 1580,
+  "time_control": "60+0",
+  "url": "https://lichess.org/60oz11b3"
+ },
+ {
+  "id": "lichess-2013-01-17729",
+  "fen": "r2q1r1k/1ppn2b1/pn5p/3P2p1/3P4/2NB3Q/PPPBN1PP/R4R1K b - - 1 22",
+  "ply": 43,
+  "human_move": "d7f6",
+  "human_rating": 1703,
+  "time_control": "300+0",
+  "url": "https://lichess.org/wfr8xtqw"
+ },
+ {
+  "id": "lichess-2013-01-17950",
+  "fen": "r2qkb1r/ppp3pp/3p1pn1/3P4/3BP3/8/PP2BPPP/R2Q1RK1 b kq - 2 14",
+  "ply": 27,
+  "human_move": "g6e5",
+  "human_rating": 1494,
+  "time_control": "0+1",
+  "url": "https://lichess.org/2afuet40"
+ },
+ {
+  "id": "lichess-2013-01-18085",
+  "fen": "4rnk1/p2b1r1p/1p1Rp1pR/2p1PpQ1/4pP1P/1B6/PPP3P1/4B1K1 b - - 0 24",
+  "ply": 47,
+  "human_move": "e8e7",
+  "human_rating": 1940,
+  "time_control": "300+14",
+  "url": "https://lichess.org/uhfk91bh"
+ },
+ {
+  "id": "lichess-2013-01-18950",
+  "fen": "r3k2r/1ppbqpp1/p1n1p2n/3pP2p/3PP3/2PB1N1P/PP4P1/R1BQ1RK1 b kq - 0 13",
+  "ply": 25,
+  "human_move": "e8c8",
+  "human_rating": 1402,
+  "time_control": "300+4",
+  "url": "https://lichess.org/5z1ml5al"
+ },
+ {
+  "id": "lichess-2013-01-19138",
+  "fen": "2r3k1/p5pp/4N1b1/8/PQ2PN2/1P1P1PP1/7P/2K4R w - - 1 32",
+  "ply": 62,
+  "human_move": "c1b2",
+  "human_rating": 1444,
+  "time_control": "300+0",
+  "url": "https://lichess.org/oe0id2jm"
+ },
+ {
+  "id": "lichess-2013-01-19345",
+  "fen": "r1bqkb1r/3p1ppp/p1p1pn2/2p1P3/8/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 0 7",
+  "ply": 13,
+  "human_move": "f6d5",
+  "human_rating": 1859,
+  "time_control": "720+0",
+  "url": "https://lichess.org/qkzvy871"
+ },
+ {
+  "id": "lichess-2013-01-19426",
+  "fen": "r1b1kq2/pppp1p2/3b1B1r/4n2p/4Q3/5N2/PPP1PPPP/R3KB1R w KQq - 3 12",
+  "ply": 22,
+  "human_move": "f6e5",
+  "human_rating": 1313,
+  "time_control": "480+8",
+  "url": "https://lichess.org/048y3fzp"
+ },
+ {
+  "id": "lichess-2013-01-19873",
+  "fen": "r3r1k1/pp3ppp/2pb1n2/4nb2/5B2/1KP2N2/PP1NBPPP/R6R b - - 5 13",
+  "ply": 25,
+  "human_move": "a8d8",
+  "human_rating": 1735,
+  "time_control": "60+1",
+  "url": "https://lichess.org/ppn8ae3g"
+ },
+ {
+  "id": "lichess-2013-01-20235",
+  "fen": "rnbqk1nr/1p1p1p2/2pb2p1/pP2p1Pp/P2P3P/2P1P3/3N1P2/R1BQKBNR b KQkq - 0 11",
+  "ply": 21,
+  "human_move": "c6b5",
+  "human_rating": 1462,
+  "time_control": "480+0",
+  "url": "https://lichess.org/kqetvxav"
+ },
+ {
+  "id": "lichess-2013-01-20616",
+  "fen": "r3kbnr/pQpn1ppp/2B1p3/3p4/3P2PP/4P3/P4P2/1RB1K1NR b Kkq - 0 12",
+  "ply": 23,
+  "human_move": "a8b8",
+  "human_rating": 1735,
+  "time_control": "360+0",
+  "url": "https://lichess.org/n9f07tfg"
+ },
+ {
+  "id": "lichess-2013-01-20710",
+  "fen": "8/p4p1p/1p5P/2pk1pP1/5P2/1PP2K2/P7/8 w - - 1 32",
+  "ply": 62,
+  "human_move": "f3e3",
+  "human_rating": 1482,
+  "time_control": "360+0",
+  "url": "https://lichess.org/lan5gunu"
+ },
+ {
+  "id": "lichess-2013-01-20933",
+  "fen": "rn1qk2r/pbp2pb1/1p2p2p/3p2p1/3P3P/P2Q1PB1/1PP3P1/2KR1BNR b kq - 0 12",
+  "ply": 23,
+  "human_move": "d8f6",
+  "human_rating": 1463,
+  "time_control": "300+0",
+  "url": "https://lichess.org/uzvjtf9u"
+ },
+ {
+  "id": "lichess-2013-01-21094",
+  "fen": "rnbqkbnr/p3pppp/1pp5/8/5B2/3P1QP1/PPP2P1P/RN2KBNR b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "c8b7",
+  "human_rating": 1598,
+  "time_control": "60+0",
+  "url": "https://lichess.org/roulikk5"
+ },
+ {
+  "id": "lichess-2013-01-21546",
+  "fen": "r5k1/ppp2p2/6p1/4Q3/8/P2r4/1Pq2PPP/1R3RK1 b - - 1 25",
+  "ply": 49,
+  "human_move": "a8d8",
+  "human_rating": 1500,
+  "time_control": "1200+0",
+  "url": "https://lichess.org/p6t15qpu"
+ },
+ {
+  "id": "lichess-2013-01-21591",
+  "fen": "2krr3/ppp3pp/2n5/4p3/4B3/P1P4P/1BP1bPP1/R3R1K1 b - - 2 18",
+  "ply": 35,
+  "human_move": "e2c4",
+  "human_rating": 1509,
+  "time_control": "600+8",
+  "url": "https://lichess.org/vmyswwjp"
+ },
+ {
+  "id": "lichess-2013-01-22050",
+  "fen": "r3kb1r/1p2npp1/2p2n1p/3qN3/PQ6/2PP4/3N1PPP/R1B2RK1 b kq - 2 17",
+  "ply": 33,
+  "human_move": "b7b5",
+  "human_rating": 1569,
+  "time_control": "1200+0",
+  "url": "https://lichess.org/9shpnedm"
+ },
+ {
+  "id": "lichess-2013-01-22503",
+  "fen": "r1b1r3/pp4k1/2p2n1p/4B3/3Pp3/4P3/PP3PPP/1BR1R1K1 b - - 1 22",
+  "ply": 43,
+  "human_move": "e8g8",
+  "human_rating": 1717,
+  "time_control": "180+0",
+  "url": "https://lichess.org/jzf829gq"
+ },
+ {
+  "id": "lichess-2013-01-22552",
+  "fen": "5rk1/2p1brp1/pp1p2q1/2PPp2p/4Pp2/P1R5/1P2Q1PP/5RNK b - - 0 30",
+  "ply": 59,
+  "human_move": "g6g4",
+  "human_rating": 1773,
+  "time_control": "300+8",
+  "url": "https://lichess.org/yrrfsuss"
+ },
+ {
+  "id": "lichess-2013-01-22893",
+  "fen": "8/8/p7/2k4p/P4b1B/1P3p1P/2K5/8 w - - 4 46",
+  "ply": 90,
+  "human_move": "h4e7",
+  "human_rating": 1500,
+  "time_control": "300+8",
+  "url": "https://lichess.org/t3mjnx73"
+ },
+ {
+  "id": "lichess-2013-01-23082",
+  "fen": "6rQ/p1q2kp1/1ppb1r2/8/3P4/6P1/PPP2P1P/R3R1K1 w - - 0 31",
+  "ply": 60,
+  "human_move": "h8h5",
+  "human_rating": 1701,
+  "time_control": "300+20",
+  "url": "https://lichess.org/dggbzx1f"
+ },
+ {
+  "id": "lichess-2013-01-23083",
+  "fen": "rn1qk2r/pp3ppp/2pb1n2/3p4/2PP2b1/1B3Q2/PP3PPP/RNB1K1NR w KQkq - 1 8",
+  "ply": 14,
+  "human_move": "f3e3",
+  "human_rating": 1351,
+  "time_control": "300+1",
+  "url": "https://lichess.org/g8403dtl"
+ },
+ {
+  "id": "lichess-2013-01-23088",
+  "fen": "1k1q4/ppp2p1p/2n5/2b5/4Q2p/2P4P/PP3PP1/RN2K2R b KQ - 0 19",
+  "ply": 37,
+  "human_move": "a7a6",
+  "human_rating": 1479,
+  "time_control": "900+0",
+  "url": "https://lichess.org/vgj9mc9d"
+ },
+ {
+  "id": "lichess-2013-01-23258",
+  "fen": "r1b1kbnr/ppp1pppp/2n5/4Q3/8/2N5/PPPP1PPP/R1B1KBNR b KQkq - 0 5",
+  "ply": 9,
+  "human_move": "c6e5",
+  "human_rating": 1381,
+  "time_control": "300+8",
+  "url": "https://lichess.org/s1y73l3w"
+ },
+ {
+  "id": "lichess-2013-01-23264",
+  "fen": "r3k2r/p1q1bppp/5n2/nppP4/2p5/P1N2N2/1P2QPPP/R1B1R1K1 w kq - 1 15",
+  "ply": 28,
+  "human_move": "c1g5",
+  "human_rating": 1883,
+  "time_control": "60+0",
+  "url": "https://lichess.org/dmx45rtg"
+ },
+ {
+  "id": "lichess-2013-01-23437",
+  "fen": "rn1qkbnr/pp3pp1/3p4/3Pp2p/4P1b1/2N5/PP2BPPP/R1BQK1NR w KQkq - 2 8",
+  "ply": 14,
+  "human_move": "e2g4",
+  "human_rating": 1642,
+  "time_control": "600+8",
+  "url": "https://lichess.org/s7r0vca9"
+ },
+ {
+  "id": "lichess-2013-01-23772",
+  "fen": "r3k3/pp3p1p/2n2pp1/2pq1b2/8/1P6/P1QPPPPP/RN2KBNR w KQq - 2 10",
+  "ply": 18,
+  "human_move": "d2d3",
+  "human_rating": 1601,
+  "time_control": "0+1",
+  "url": "https://lichess.org/pr8xxp1p"
+ },
+ {
+  "id": "lichess-2013-01-24058",
+  "fen": "r2qk2r/1bp1n1bp/p1n1pPp1/1p6/P4P2/1B3N2/1PP3PP/RNBQ1RK1 b kq - 0 13",
+  "ply": 25,
+  "human_move": "g7f6",
+  "human_rating": 1482,
+  "time_control": "300+0",
+  "url": "https://lichess.org/rk2imb5y"
+ },
+ {
+  "id": "lichess-2013-01-24226",
+  "fen": "r5k1/p4ppp/8/8/5Q2/1Pb3P1/P1q1PPKP/7R b - - 1 22",
+  "ply": 43,
+  "human_move": "c3f6",
+  "human_rating": 1750,
+  "time_control": "180+1",
+  "url": "https://lichess.org/jrl2w6lc"
+ },
+ {
+  "id": "lichess-2013-01-24327",
+  "fen": "4k2r/Q1pb1ppp/2B5/3p4/3Pn3/4P3/P3KPPP/1q4NR b k - 3 18",
+  "ply": 35,
+  "human_move": "d7c6",
+  "human_rating": 939,
+  "time_control": "300+1",
+  "url": "https://lichess.org/a5vsd0tx"
+ },
+ {
+  "id": "lichess-2013-01-24476",
+  "fen": "rnbqk2r/ppppnpbp/4p1p1/8/8/2NPP3/PPPBBPPP/R2QK1NR b KQkq - 3 5",
+  "ply": 9,
+  "human_move": "e8g8",
+  "human_rating": 1576,
+  "time_control": "60+0",
+  "url": "https://lichess.org/as6jszsi"
+ },
+ {
+  "id": "lichess-2013-01-24599",
+  "fen": "4rb1k/1Rp3r1/p7/2PQpq1p/3p1p2/N2P1P2/P3R1PP/6K1 b - - 1 27",
+  "ply": 53,
+  "human_move": "h5h4",
+  "human_rating": 1552,
+  "time_control": "60+3",
+  "url": "https://lichess.org/f3ltspm6"
+ },
+ {
+  "id": "lichess-2013-01-24841",
+  "fen": "3r1kr1/pp3p2/3p3p/3Np3/1Pq5/7P/P5PR/3Q2K1 b - - 1 25",
+  "ply": 49,
+  "human_move": "c4d4",
+  "human_rating": 1722,
+  "time_control": "600+10",
+  "url": "https://lichess.org/fiumvhn1"
+ },
+ {
+  "id": "lichess-2013-01-25715",
+  "fen": "r1bq1rk1/ppp2pbp/2p2np1/4p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 w - - 1 8",
+  "ply": 14,
+  "human_move": "c1d2",
+  "human_rating": 1454,
+  "time_control": "420+8",
+  "url": "https://lichess.org/2o6jt9hh"
+ },
+ {
+  "id": "lichess-2013-01-25813",
+  "fen": "3r1b1r/ppNk1ppp/3pPn2/q4Q2/4P3/8/P4PPP/1RR3K1 b - - 0 18",
+  "ply": 35,
+  "human_move": "f7e6",
+  "human_rating": 1875,
+  "time_control": "360+5",
+  "url": "https://lichess.org/pdk95e24"
+ },
+ {
+  "id": "lichess-2013-01-26282",
+  "fen": "3r1rk1/pp3ppp/2n1b2q/8/5p1P/1NPB1P2/P1P1Q1P1/1K1R3R w - - 3 17",
+  "ply": 32,
+  "human_move": "b3c5",
+  "human_rating": 1690,
+  "time_control": "300+8",
+  "url": "https://lichess.org/6u037sg6"
+ },
+ {
+  "id": "lichess-2013-01-26697",
+  "fen": "8/8/8/7R/2kpp3/5p2/3K1P2/8 w - - 0 48",
+  "ply": 94,
+  "human_move": "h5e5",
+  "human_rating": 1703,
+  "time_control": "420+3",
+  "url": "https://lichess.org/uznzw5q6"
+ },
+ {
+  "id": "lichess-2013-01-26980",
+  "fen": "2r2rk1/pq1b1p1p/1p1Ppnp1/4N3/P1NQ4/1P5P/5PP1/R3R1K1 w - - 2 23",
+  "ply": 44,
+  "human_move": "a4a5",
+  "human_rating": 1641,
+  "time_control": "600+10",
+  "url": "https://lichess.org/u10idg1m"
+ },
+ {
+  "id": "lichess-2013-01-27179",
+  "fen": "3rk3/p4pp1/4p2p/R7/8/6BP/5PP1/6K1 b - - 2 35",
+  "ply": 69,
+  "human_move": "d8a8",
+  "human_rating": 1778,
+  "time_control": "0+1",
+  "url": "https://lichess.org/2zxsx4lf"
+ },
+ {
+  "id": "lichess-2013-01-27331",
+  "fen": "rnbq1rk1/pp2n1bp/2ppp1pB/4P3/2PP4/2N5/PP3PP1/R2QKBNR b KQ - 1 9",
+  "ply": 17,
+  "human_move": "d6e5",
+  "human_rating": 1580,
+  "time_control": "60+0",
+  "url": "https://lichess.org/zqrsye6z"
+ },
+ {
+  "id": "lichess-2013-01-27373",
+  "fen": "r3k2r/ppp1nppp/1bn1bq2/8/3P4/P1N2N2/1PB2PPP/R1BQ1RK1 b kq - 0 12",
+  "ply": 23,
+  "human_move": "e8c8",
+  "human_rating": 1590,
+  "time_control": "120+0",
+  "url": "https://lichess.org/yu561tau"
+ },
+ {
+  "id": "lichess-2013-01-27403",
+  "fen": "rn2k1nr/pbppb2q/1p2p3/5p2/2PPP1pN/2N3P1/PP1BBR1P/R2Q2K1 w kq - 0 15",
+  "ply": 28,
+  "human_move": "e4f5",
+  "human_rating": 1551,
+  "time_control": "0+1",
+  "url": "https://lichess.org/37epfk0i"
+ },
+ {
+  "id": "lichess-2013-01-27659",
+  "fen": "r1b1kbnr/ppp1pppp/2n5/8/2PQ4/8/PP3PPP/RNB1KBNR b KQkq - 0 5",
+  "ply": 9,
+  "human_move": "c6d4",
+  "human_rating": 1838,
+  "time_control": "300+2",
+  "url": "https://lichess.org/i4rprrv1"
+ },
+ {
+  "id": "lichess-2013-01-27875",
+  "fen": "rn1qkbnr/1p2pppp/p2p4/2p5/4PP2/2N2Q1P/PPPP2P1/R1B1KB1R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "b8c6",
+  "human_rating": 1561,
+  "time_control": "840+0",
+  "url": "https://lichess.org/mmwxc118"
+ },
+ {
+  "id": "lichess-2013-01-28474",
+  "fen": "rr4k1/1p1nqppp/2p2n2/p2p1b2/P7/bPNP1P2/1BPQB1PP/2KR2NR w - - 1 15",
+  "ply": 28,
+  "human_move": "g2g4",
+  "human_rating": 1264,
+  "time_control": "120+0",
+  "url": "https://lichess.org/v6wthhu6"
+ },
+ {
+  "id": "lichess-2013-01-28585",
+  "fen": "r5k1/ppp2qpp/2npb3/2b1p3/4P2P/2NP4/PPP2PP1/R2Q1RK1 b - - 5 14",
+  "ply": 27,
+  "human_move": "a8f8",
+  "human_rating": 1460,
+  "time_control": "120+0",
+  "url": "https://lichess.org/fhs7btgf"
+ },
+ {
+  "id": "lichess-2013-01-28798",
+  "fen": "rn1qkb1r/pp2pppp/2p2n2/3p4/3P4/3QP2P/PPP2PP1/RNB1K1NR w KQkq - 0 6",
+  "ply": 10,
+  "human_move": "g1f3",
+  "human_rating": 1697,
+  "time_control": "180+0",
+  "url": "https://lichess.org/703vyk6o"
+ },
+ {
+  "id": "lichess-2013-01-29091",
+  "fen": "r3kn1r/1p2bppp/pqn1p3/3pP2P/2pP1P2/2P2N2/PP2Q1PN/R1B1K2R w KQkq - 1 16",
+  "ply": 30,
+  "human_move": "f3g5",
+  "human_rating": 1545,
+  "time_control": "120+0",
+  "url": "https://lichess.org/49wb3vsw"
+ },
+ {
+  "id": "lichess-2013-01-29172",
+  "fen": "rnbqkb1r/ppp4p/4pp2/8/2B1p1Q1/8/PPPP1PPP/R1B1K1NR w KQkq - 0 8",
+  "ply": 14,
+  "human_move": "g4h5",
+  "human_rating": 1584,
+  "time_control": "600+10",
+  "url": "https://lichess.org/72ewi6fk"
+ },
+ {
+  "id": "lichess-2013-01-29343",
+  "fen": "r1bqk2r/1p3ppp/pbn1p3/3pP3/1P6/P1N2N1P/2P2PP1/R2QKB1R w KQkq - 1 12",
+  "ply": 22,
+  "human_move": "c3a4",
+  "human_rating": 1718,
+  "time_control": "180+0",
+  "url": "https://lichess.org/ijhnz82t"
+ },
+ {
+  "id": "lichess-2013-01-30131",
+  "fen": "rnb1kb1r/ppp2p1p/1n1pp1p1/4P1q1/8/1BN5/PPPPQPPP/R1B1K1NR w KQkq - 2 8",
+  "ply": 14,
+  "human_move": "f2f3",
+  "human_rating": 1725,
+  "time_control": "300+5",
+  "url": "https://lichess.org/6awzusgs"
+ },
+ {
+  "id": "lichess-2013-01-30375",
+  "fen": "3r1n2/2k1q3/p2p2r1/1ppBp1p1/4P3/PP1P3Q/2P2P2/2K3R1 b - - 0 27",
+  "ply": 53,
+  "human_move": "g5g4",
+  "human_rating": 1913,
+  "time_control": "180+0",
+  "url": "https://lichess.org/z7vkqi7t"
+ },
+ {
+  "id": "lichess-2013-01-30524",
+  "fen": "2kr3r/pq2b2n/1pnp1p1p/2p1p1p1/2P1P1P1/1P1P1P1Q/PB1NN2P/R3K2R w KQ - 0 18",
+  "ply": 34,
+  "human_move": "e2g3",
+  "human_rating": 1690,
+  "time_control": "0+1",
+  "url": "https://lichess.org/sc2pjf33"
+ },
+ {
+  "id": "lichess-2013-01-30749",
+  "fen": "3rr1k1/p6p/1pbp2pB/5p1n/4p3/P1PP2P1/2P2P1P/R3R1K1 w - - 0 21",
+  "ply": 40,
+  "human_move": "d3e4",
+  "human_rating": 1526,
+  "time_control": "120+0",
+  "url": "https://lichess.org/md1udesm"
+ },
+ {
+  "id": "lichess-2013-01-30797",
+  "fen": "8/7p/6p1/5pk1/8/4P2P/6P1/5RK1 b - - 2 52",
+  "ply": 103,
+  "human_move": "h7h5",
+  "human_rating": 1447,
+  "time_control": "240+4",
+  "url": "https://lichess.org/tu4hu5gt"
+ },
+ {
+  "id": "lichess-2013-01-30901",
+  "fen": "r4rk1/1ppq1ppp/p4n2/3p4/3n4/P3P1P1/1P1N1PBP/2RQ1RK1 b - - 0 14",
+  "ply": 27,
+  "human_move": "d4e6",
+  "human_rating": 2046,
+  "time_control": "240+5",
+  "url": "https://lichess.org/00z9j7v1"
+ },
+ {
+  "id": "lichess-2013-01-31061",
+  "fen": "8/1p1n1k2/p1pB3p/4n3/2P1P3/2P1K3/P5PP/8 b - - 4 28",
+  "ply": 55,
+  "human_move": "f7e6",
+  "human_rating": 1642,
+  "time_control": "900+0",
+  "url": "https://lichess.org/b6us899l"
+ },
+ {
+  "id": "lichess-2013-01-31171",
+  "fen": "r2qkb1r/pp3pp1/2n1pnp1/3p4/3P4/2PB1P2/PP4PP/RNBQ1RK1 w kq - 0 11",
+  "ply": 20,
+  "human_move": "c1f4",
+  "human_rating": 2067,
+  "time_control": "120+2",
+  "url": "https://lichess.org/gwkdd2vy"
+ },
+ {
+  "id": "lichess-2013-01-31196",
+  "fen": "r2qkbnr/ppp2ppp/2n1p3/3Q4/2p5/2N1P3/PP3PPP/R1B1KBNR w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "d5d8",
+  "human_rating": 1500,
+  "time_control": "180+0",
+  "url": "https://lichess.org/cfho7adl"
+ },
+ {
+  "id": "lichess-2013-01-31693",
+  "fen": "4r1k1/1pp1rpp1/p2p3p/3PqPb1/4P3/P1N2Q2/1P2R1PP/3R2K1 w - - 5 26",
+  "ply": 50,
+  "human_move": "d1e1",
+  "human_rating": 1892,
+  "time_control": "60+0",
+  "url": "https://lichess.org/tpery5ei"
+ },
+ {
+  "id": "lichess-2013-01-31855",
+  "fen": "1k4r1/p2r2b1/Q1p2p2/1pP1p3/1P2P2P/P7/5P1P/R5RK w - - 0 27",
+  "ply": 52,
+  "human_move": "a3a4",
+  "human_rating": 1798,
+  "time_control": "60+0",
+  "url": "https://lichess.org/mabal8jq"
+ },
+ {
+  "id": "lichess-2013-01-32009",
+  "fen": "r2qkb1r/ppp2pp1/3p1n1p/4p3/P1B1P3/2NP1P1b/1PP2P1K/R1BQ1R2 b kq - 1 10",
+  "ply": 19,
+  "human_move": "d8d7",
+  "human_rating": 1555,
+  "time_control": "360+4",
+  "url": "https://lichess.org/yiu4eq5a"
+ },
+ {
+  "id": "lichess-2013-01-32157",
+  "fen": "rnbq1rk1/p2pnpbp/2p1p1p1/1p2P3/3P1P2/5N2/PPP1B1PP/RNBQ1RK1 b - - 1 8",
+  "ply": 15,
+  "human_move": "a7a6",
+  "human_rating": 1548,
+  "time_control": "60+0",
+  "url": "https://lichess.org/p4tlb1ed"
+ },
+ {
+  "id": "lichess-2013-01-32530",
+  "fen": "r1bq1rk1/2p2pb1/p1n1p2p/1p4pn/3P4/P1NBPN1P/1P3PPB/R2QK2R b KQ - 1 16",
+  "ply": 31,
+  "human_move": "c8b7",
+  "human_rating": 1427,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/6hkc9kmi"
+ },
+ {
+  "id": "lichess-2013-01-32724",
+  "fen": "1r1nk1r1/pbpp1p2/4pPpb/7p/5P2/B1PPQ3/P2N2PP/R4RK1 w - - 5 20",
+  "ply": 38,
+  "human_move": "a3e7",
+  "human_rating": 1511,
+  "time_control": "300+0",
+  "url": "https://lichess.org/sivlt3dh"
+ },
+ {
+  "id": "lichess-2013-01-33223",
+  "fen": "r4rk1/1b1n1ppp/3qpn2/p7/8/1B1PBN2/PPP2PPP/R2QK2R w KQ - 0 14",
+  "ply": 26,
+  "human_move": "c2c3",
+  "human_rating": 1874,
+  "time_control": "1320+8",
+  "url": "https://lichess.org/mxcfxvp4"
+ },
+ {
+  "id": "lichess-2013-01-33525",
+  "fen": "r1bqkbnr/pp3pp1/2np3p/2p1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 0 6",
+  "ply": 11,
+  "human_move": "c8g4",
+  "human_rating": 2126,
+  "time_control": "60+0",
+  "url": "https://lichess.org/vzvsqjzp"
+ },
+ {
+  "id": "lichess-2013-01-34058",
+  "fen": "r1bq1rk1/ppp1bppp/2n5/4p3/3PB2N/4B1P1/PPPQPP1P/R3K2R b KQ - 0 10",
+  "ply": 19,
+  "human_move": "e5d4",
+  "human_rating": 1528,
+  "time_control": "300+0",
+  "url": "https://lichess.org/b63ann20"
+ },
+ {
+  "id": "lichess-2013-01-34082",
+  "fen": "5rk1/5pbp/Np2pnp1/8/3BP3/3P1K2/P2r4/R7 w - - 2 27",
+  "ply": 52,
+  "human_move": "d4b6",
+  "human_rating": 1480,
+  "time_control": "300+0",
+  "url": "https://lichess.org/axwvxe7w"
+ },
+ {
+  "id": "lichess-2013-01-34438",
+  "fen": "rnbqk1nr/ppp1p1bp/3p2p1/5p2/3PP3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "e4f5",
+  "human_rating": 1795,
+  "time_control": "240+0",
+  "url": "https://lichess.org/wme4jo7y"
+ },
+ {
+  "id": "lichess-2013-01-34460",
+  "fen": "2r2rk1/1B3pp1/3b3p/pp6/4P3/P4P2/1P1R1P1P/R5K1 b - - 2 24",
+  "ply": 47,
+  "human_move": "c8c7",
+  "human_rating": 1656,
+  "time_control": "600+0",
+  "url": "https://lichess.org/qtbuwzr2"
+ },
+ {
+  "id": "lichess-2013-01-34644",
+  "fen": "r4rk1/p2n1qpp/b1n1p3/1p1pPpb1/2pP1P2/P1P3P1/1P1B1QRP/R2B1NK1 w - - 0 23",
+  "ply": 44,
+  "human_move": "f4g5",
+  "human_rating": 1922,
+  "time_control": "300+0",
+  "url": "https://lichess.org/79y7vouc"
+ },
+ {
+  "id": "lichess-2013-01-34896",
+  "fen": "2r3k1/p4pp1/4p2p/7n/1q2P3/3N1P2/5QPP/R5K1 b - - 1 36",
+  "ply": 71,
+  "human_move": "b4b6",
+  "human_rating": 1884,
+  "time_control": "300+0",
+  "url": "https://lichess.org/e1f6xzq4"
+ },
+ {
+  "id": "lichess-2013-01-34963",
+  "fen": "rn3r1k/p6p/2p4b/4qn2/6R1/1P1p3P/5PK1/1N2Q1NR w - - 0 26",
+  "ply": 50,
+  "human_move": "e1e5",
+  "human_rating": 1387,
+  "time_control": "300+8",
+  "url": "https://lichess.org/j6sp9y9a"
+ },
+ {
+  "id": "lichess-2013-01-35430",
+  "fen": "r3k2r/p1p3b1/2p1p2p/3p4/Q2P1Bnq/P1P3N1/1P4PP/1R2K2R b Kkq - 5 16",
+  "ply": 31,
+  "human_move": "g4h2",
+  "human_rating": 1392,
+  "time_control": "300+8",
+  "url": "https://lichess.org/kv9wv1no"
+ },
+ {
+  "id": "lichess-2013-01-35537",
+  "fen": "8/P3k3/1R6/1Pp5/6P1/2r2pKP/5P2/8 b - - 0 41",
+  "ply": 81,
+  "human_move": "c3a3",
+  "human_rating": 1451,
+  "time_control": "300+8",
+  "url": "https://lichess.org/0eos42qo"
+ },
+ {
+  "id": "lichess-2013-01-36111",
+  "fen": "5rr1/nB1bk2p/1b1pq3/5p2/6pN/3PP1P1/2Q2P1P/R1B2RK1 w - - 1 30",
+  "ply": 58,
+  "human_move": "b7g2",
+  "human_rating": 1563,
+  "time_control": "420+0",
+  "url": "https://lichess.org/vrexbl8m"
+ },
+ {
+  "id": "lichess-2013-01-36357",
+  "fen": "r5k1/p2pqppp/npp1p3/4P3/3P4/5Q2/PPP2PPP/R3KB1R w KQ - 0 14",
+  "ply": 26,
+  "human_move": "f1a6",
+  "human_rating": 1477,
+  "time_control": "120+0",
+  "url": "https://lichess.org/uzkn280l"
+ },
+ {
+  "id": "lichess-2013-01-36449",
+  "fen": "7Q/ppk5/2p3p1/2b4P/2P5/P2P1p2/1P3P1K/3q3R b - - 1 39",
+  "ply": 77,
+  "human_move": "d1d3",
+  "human_rating": 1618,
+  "time_control": "300+3",
+  "url": "https://lichess.org/mvp6jg9h"
+ },
+ {
+  "id": "lichess-2013-01-36892",
+  "fen": "r1bqkb1r/ppppnp1p/2n3p1/1B2p3/4P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "e1g1",
+  "human_rating": 1471,
+  "time_control": "180+3",
+  "url": "https://lichess.org/870gzpkr"
+ },
+ {
+  "id": "lichess-2013-01-37092",
+  "fen": "2r5/2p2pkn/4p3/pN2N2p/4P1p1/6P1/PPP2P1P/2KR4 b - - 0 27",
+  "ply": 53,
+  "human_move": "h7g5",
+  "human_rating": 1232,
+  "time_control": "120+2",
+  "url": "https://lichess.org/vgphmjuf"
+ },
+ {
+  "id": "lichess-2013-01-37265",
+  "fen": "r1bqk2r/ppppnpbp/2n3p1/8/Q3PB2/2N2N2/PPP2PPP/R3KB1R b KQkq - 3 7",
+  "ply": 13,
+  "human_move": "e8g8",
+  "human_rating": 1602,
+  "time_control": "240+0",
+  "url": "https://lichess.org/e8wgasm1"
+ },
+ {
+  "id": "lichess-2013-01-37524",
+  "fen": "rnbqkb1r/ppp2ppp/5n2/3p4/2B1P3/1Q6/PB3PPP/RN2K1NR w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "e4d5",
+  "human_rating": 1746,
+  "time_control": "120+2",
+  "url": "https://lichess.org/1h4qy3j0"
+ },
+ {
+  "id": "lichess-2013-01-37553",
+  "fen": "rnbqk1nr/pp3ppp/2pp4/2b5/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "d8b6",
+  "human_rating": 1753,
+  "time_control": "300+5",
+  "url": "https://lichess.org/slatirom"
+ },
+ {
+  "id": "lichess-2013-01-37796",
+  "fen": "1r3rk1/2p1nppp/1bPqp3/4N3/3P4/4P3/3B1PPP/1R1Q1RK1 w - - 1 22",
+  "ply": 42,
+  "human_move": "e5d7",
+  "human_rating": 1540,
+  "time_control": "300+0",
+  "url": "https://lichess.org/2f7y1lz8"
+ },
+ {
+  "id": "lichess-2013-01-37894",
+  "fen": "r3r1k1/ppp2ppp/2nq2b1/4p1N1/1PB3P1/2PP3P/P3QP2/R4RK1 b - - 2 17",
+  "ply": 33,
+  "human_move": "h7h6",
+  "human_rating": 1534,
+  "time_control": "120+0",
+  "url": "https://lichess.org/hutcy6so"
+ },
+ {
+  "id": "lichess-2013-01-38109",
+  "fen": "r1bqk1nr/ppp2ppp/2np4/1Bb5/3pP3/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 6",
+  "ply": 10,
+  "human_move": "c3d4",
+  "human_rating": 1683,
+  "time_control": "600+0",
+  "url": "https://lichess.org/pomgcc8r"
+ },
+ {
+  "id": "lichess-2013-01-38228",
+  "fen": "rb3rk1/3p1ppp/bp2p3/4q3/2B5/1P6/P1PP1PPP/R2Q1RK1 w - - 0 14",
+  "ply": 26,
+  "human_move": "c4a6",
+  "human_rating": 1141,
+  "time_control": "540+0",
+  "url": "https://lichess.org/3maa45q3"
+ },
+ {
+  "id": "lichess-2013-01-38239",
+  "fen": "1b1rr1k1/1p2qpp1/p1p2n1p/P1Pp1b2/1P6/B4NP1/4PPBP/2RQR1K1 w - - 0 19",
+  "ply": 36,
+  "human_move": "f3d4",
+  "human_rating": 1812,
+  "time_control": "240+0",
+  "url": "https://lichess.org/ty4tbpit"
+ },
+ {
+  "id": "lichess-2013-01-38343",
+  "fen": "5rk1/Rppq2p1/3pn2p/3Nprb1/6Q1/1PPP3P/1P3PPB/5RK1 b - - 0 19",
+  "ply": 37,
+  "human_move": "c7c6",
+  "human_rating": 1885,
+  "time_control": "120+1",
+  "url": "https://lichess.org/n32a00vu"
+ },
+ {
+  "id": "lichess-2013-01-38469",
+  "fen": "r1bqk2r/ppp1ppbp/2n2np1/3p4/3P1P2/1B1Q1N2/PPP3PP/RNB2RK1 b kq - 3 8",
+  "ply": 15,
+  "human_move": "c6b4",
+  "human_rating": 1436,
+  "time_control": "60+0",
+  "url": "https://lichess.org/h4hx9w17"
+ },
+ {
+  "id": "lichess-2013-01-38581",
+  "fen": "2nq2k1/3Q2b1/2Pp2np/3Pp1p1/4P3/4BN1P/4BPP1/6K1 b - - 5 31",
+  "ply": 61,
+  "human_move": "d8d7",
+  "human_rating": 1793,
+  "time_control": "300+0",
+  "url": "https://lichess.org/6qy4yewq"
+ },
+ {
+  "id": "lichess-2013-01-39143",
+  "fen": "2k1r3/7p/p1p5/3prp2/8/1PP2P2/1P4PP/1K1R3R b - - 2 27",
+  "ply": 53,
+  "human_move": "e5e2",
+  "human_rating": 1796,
+  "time_control": "60+0",
+  "url": "https://lichess.org/5h7bklx1"
+ },
+ {
+  "id": "lichess-2013-01-39295",
+  "fen": "1r3rk1/R2nppbp/1q2b1p1/1N1P4/4P1n1/3BBN2/1P3PPP/3QK2R b K - 0 15",
+  "ply": 29,
+  "human_move": "g4e3",
+  "human_rating": 1449,
+  "time_control": "300+0",
+  "url": "https://lichess.org/r9nj8ouj"
+ },
+ {
+  "id": "lichess-2013-01-39483",
+  "fen": "rnb1kb1r/pp4pp/2p2n2/3p1P2/5p2/1B3N2/PPPP2PP/RNB2RK1 w - - 2 11",
+  "ply": 20,
+  "human_move": "d2d4",
+  "human_rating": 1778,
+  "time_control": "60+1",
+  "url": "https://lichess.org/40my8pfm"
+ },
+ {
+  "id": "lichess-2013-01-39682",
+  "fen": "2r1k1r1/5ppp/4pn2/p2Q4/8/B4N1P/5PP1/1R2R1K1 b - - 0 26",
+  "ply": 51,
+  "human_move": "f6d5",
+  "human_rating": 1615,
+  "time_control": "480+6",
+  "url": "https://lichess.org/tqzlzlh9"
+ },
+ {
+  "id": "lichess-2013-01-39829",
+  "fen": "r5k1/p1p3p1/3np1pp/R7/1B1P2P1/2P1P2P/5P2/6K1 w - - 6 30",
+  "ply": 58,
+  "human_move": "b4d6",
+  "human_rating": 1524,
+  "time_control": "420+0",
+  "url": "https://lichess.org/jc6c5qfp"
+ },
+ {
+  "id": "lichess-2013-01-40163",
+  "fen": "3r4/p7/3p1k1p/4p3/1B1p4/3n4/r4PRP/1R5K b - - 5 34",
+  "ply": 67,
+  "human_move": "d3f2",
+  "human_rating": 1680,
+  "time_control": "420+5",
+  "url": "https://lichess.org/lklf4lga"
+ },
+ {
+  "id": "lichess-2013-01-40417",
+  "fen": "r4rk1/pb1n1pp1/1p2p3/6qp/3NPn2/2N3Q1/PPB2PPP/R3R1K1 b - - 1 16",
+  "ply": 31,
+  "human_move": "g5h6",
+  "human_rating": 1988,
+  "time_control": "180+3",
+  "url": "https://lichess.org/e8a6kj5q"
+ },
+ {
+  "id": "lichess-2013-01-40656",
+  "fen": "r1b2rk1/5ppp/p3pn2/2qp4/5P2/1BP2Q2/P5PP/RN2R1K1 w - - 1 18",
+  "ply": 34,
+  "human_move": "g1h1",
+  "human_rating": 1742,
+  "time_control": "300+5",
+  "url": "https://lichess.org/ienil9za"
+ },
+ {
+  "id": "lichess-2013-01-40842",
+  "fen": "rnbqk3/ppppnp1p/4p3/8/8/1P6/P1PPPPPP/BN1QKBNR w Kq - 1 6",
+  "ply": 10,
+  "human_move": "a1f6",
+  "human_rating": 1495,
+  "time_control": "180+0",
+  "url": "https://lichess.org/3lr6qk60"
+ },
+ {
+  "id": "lichess-2013-01-40893",
+  "fen": "4r3/p3rkp1/2p1ppqp/P2p4/1P1P1PP1/2P2Q1P/4RK2/4R3 b - - 4 27",
+  "ply": 53,
+  "human_move": "h6h5",
+  "human_rating": 1887,
+  "time_control": "180+0",
+  "url": "https://lichess.org/1w1dmbrf"
+ },
+ {
+  "id": "lichess-2013-01-41750",
+  "fen": "4kb1r/1r6/3p4/1Np2pB1/p1P1n3/8/PP4PP/R3R1K1 b k - 2 24",
+  "ply": 47,
+  "human_move": "h8h5",
+  "human_rating": 1259,
+  "time_control": "480+0",
+  "url": "https://lichess.org/0juigjk0"
+ },
+ {
+  "id": "lichess-2013-01-41765",
+  "fen": "r4rk1/ppp1qpbp/2np1np1/6B1/2BPP1b1/2N2N2/PPP3PP/R2Q1RK1 w - - 1 11",
+  "ply": 20,
+  "human_move": "e4e5",
+  "human_rating": 1487,
+  "time_control": "60+0",
+  "url": "https://lichess.org/6202ki0q"
+ },
+ {
+  "id": "lichess-2013-01-41861",
+  "fen": "r2qr2k/pp4pp/n2P1pn1/2p5/2B5/P4QBP/1P3PP1/3RR1K1 b - - 0 22",
+  "ply": 43,
+  "human_move": "g6e5",
+  "human_rating": 1788,
+  "time_control": "180+3",
+  "url": "https://lichess.org/dmvvi1ka"
+ },
+ {
+  "id": "lichess-2013-01-41974",
+  "fen": "rnbqk2r/ppp2ppp/5n2/2b5/3Pp3/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "d1a4",
+  "human_rating": 1662,
+  "time_control": "600+0",
+  "url": "https://lichess.org/8zu4brb2"
+ },
+ {
+  "id": "lichess-2013-01-42177",
+  "fen": "rnb1k2r/ppp1qp1p/8/3P4/2BP1QNP/8/PPP3P1/RN1K3n b kq - 0 13",
+  "ply": 25,
+  "human_move": "c8g4",
+  "human_rating": 1802,
+  "time_control": "180+0",
+  "url": "https://lichess.org/2hkffi90"
+ },
+ {
+  "id": "lichess-2013-01-42291",
+  "fen": "r1bqk2r/pppp2pp/5p2/8/4PB2/8/PPP2PPP/R2QKB1R b KQkq - 1 11",
+  "ply": 21,
+  "human_move": "g7g5",
+  "human_rating": 1142,
+  "time_control": "600+0",
+  "url": "https://lichess.org/2b6staei"
+ },
+ {
+  "id": "lichess-2013-01-42634",
+  "fen": "rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5",
+  "ply": 8,
+  "human_move": "g1f3",
+  "human_rating": 1761,
+  "time_control": "420+15",
+  "url": "https://lichess.org/t0ug07tu"
+ },
+ {
+  "id": "lichess-2013-01-42675",
+  "fen": "rn2kbnr/pbppqppp/1p2p3/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "e7d8",
+  "human_rating": 1524,
+  "time_control": "120+0",
+  "url": "https://lichess.org/0eipm242"
+ },
+ {
+  "id": "lichess-2013-01-43047",
+  "fen": "r1b1k1nr/pp1p1ppp/1q2p3/2b1N3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 7",
+  "ply": 13,
+  "human_move": "c5f2",
+  "human_rating": 1591,
+  "time_control": "120+4",
+  "url": "https://lichess.org/h6nc18g6"
+ },
+ {
+  "id": "lichess-2013-01-43331",
+  "fen": "r3k1r1/pbpp1p2/1p1bpn2/nB5p/7N/3PP3/PPP2PPP/RNB1K2R w KQq - 0 12",
+  "ply": 22,
+  "human_move": "b1c3",
+  "human_rating": 1450,
+  "time_control": "300+0",
+  "url": "https://lichess.org/ivhiupuj"
+ },
+ {
+  "id": "lichess-2013-01-43604",
+  "fen": "r6r/b2nk3/4p3/7p/1PP3pP/1B4B1/5PP1/R4RK1 b - - 0 28",
+  "ply": 55,
+  "human_move": "e7f6",
+  "human_rating": 1464,
+  "time_control": "120+3",
+  "url": "https://lichess.org/6leuvceb"
+ },
+ {
+  "id": "lichess-2013-01-44119",
+  "fen": "r1bq1rk1/pp1nppbp/2pp1np1/8/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - - 0 8",
+  "ply": 15,
+  "human_move": "e7e5",
+  "human_rating": 2042,
+  "time_control": "60+0",
+  "url": "https://lichess.org/zk0xhn5t"
+ },
+ {
+  "id": "lichess-2013-01-44444",
+  "fen": "r1b2rk1/p1qpbpp1/2p1p2p/4P3/2P5/2N5/PP2BPPP/R2Q1RK1 w - - 0 14",
+  "ply": 26,
+  "human_move": "f2f4",
+  "human_rating": 1647,
+  "time_control": "180+3",
+  "url": "https://lichess.org/yypupy4v"
+ },
+ {
+  "id": "lichess-2013-01-45071",
+  "fen": "2rqk2r/1p1nbpp1/p2p1n1p/4p1B1/4P3/2N2N2/PPP2PPP/R2Q1RK1 w k - 0 12",
+  "ply": 22,
+  "human_move": "g5f6",
+  "human_rating": 1577,
+  "time_control": "600+5",
+  "url": "https://lichess.org/5bn5ymp8"
+ },
+ {
+  "id": "lichess-2013-01-45191",
+  "fen": "r4qk1/ppp2pp1/2bp1b1p/8/8/N1P1rP2/PPQ1N1PP/R3K2R w KQ - 8 17",
+  "ply": 32,
+  "human_move": "e1c1",
+  "human_rating": 1188,
+  "time_control": "300+5",
+  "url": "https://lichess.org/j0pt1p33"
+ },
+ {
+  "id": "lichess-2013-01-45280",
+  "fen": "r2r2k1/pp2bppp/2n1bq2/3pp3/2P5/1P2PN2/PB2BPPP/R2Q1RK1 w - - 0 13",
+  "ply": 24,
+  "human_move": "c4d5",
+  "human_rating": 2018,
+  "time_control": "180+0",
+  "url": "https://lichess.org/5j0g3w2v"
+ },
+ {
+  "id": "lichess-2013-01-45584",
+  "fen": "rn1qkb1r/ppp2ppp/3p1n2/3Pp3/4P1b1/4Q3/PPP2PPP/RNB1KBNR b KQkq - 4 5",
+  "ply": 9,
+  "human_move": "b8d7",
+  "human_rating": 1112,
+  "time_control": "900+11",
+  "url": "https://lichess.org/ydklemyu"
+ },
+ {
+  "id": "lichess-2013-01-45592",
+  "fen": "r4rk1/ppp2ppp/2nbpq2/8/3Pp3/PP2P1P1/1BPNQP1P/R4RK1 w - - 1 14",
+  "ply": 26,
+  "human_move": "c2c4",
+  "human_rating": 1735,
+  "time_control": "240+0",
+  "url": "https://lichess.org/lsnlvlmj"
+ },
+ {
+  "id": "lichess-2013-01-45781",
+  "fen": "r1b1k2r/pp1p1ppp/2n1p3/q7/1bPNnB2/2N1P3/PP3PPP/2RQKB1R w Kkq - 3 9",
+  "ply": 16,
+  "human_move": "d1d3",
+  "human_rating": 1696,
+  "time_control": "120+4",
+  "url": "https://lichess.org/syn7x99a"
+ },
+ {
+  "id": "lichess-2013-01-45897",
+  "fen": "r2qk2b/pppb1p1p/3p4/3NnP2/4PB2/8/PPP1B1PP/R4RK1 w q - 7 15",
+  "ply": 28,
+  "human_move": "f5f6",
+  "human_rating": 1722,
+  "time_control": "300+0",
+  "url": "https://lichess.org/630op0x8"
+ },
+ {
+  "id": "lichess-2013-01-45915",
+  "fen": "b2bk2r/5ppp/2n5/8/1Pp1p3/2P1P1P1/1B5P/1N2K1NR w Kk - 0 18",
+  "ply": 34,
+  "human_move": "b1d2",
+  "human_rating": 1517,
+  "time_control": "1800+0",
+  "url": "https://lichess.org/sdp6jv2n"
+ },
+ {
+  "id": "lichess-2013-01-46018",
+  "fen": "rnbqkb1r/ppp2pp1/3p1n1p/8/2BNP3/2P5/PP3PPP/RNBQK2R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "c7c6",
+  "human_rating": 1812,
+  "time_control": "480+8",
+  "url": "https://lichess.org/3rstlvq2"
+ },
+ {
+  "id": "lichess-2013-01-46321",
+  "fen": "r1b1k2r/ppppqppp/5n2/4n3/8/2NQ1N2/PPP3PP/R3KB1R w kq - 0 12",
+  "ply": 22,
+  "human_move": "f3e5",
+  "human_rating": 1273,
+  "time_control": "300+4",
+  "url": "https://lichess.org/nytacokk"
+ },
+ {
+  "id": "lichess-2013-01-46390",
+  "fen": "r1b1k1nr/ppp3pp/2nbp3/3p1p2/3P1P2/2PBPN2/PP4PP/RNB2RK1 w - - 0 10",
+  "ply": 18,
+  "human_move": "b1d2",
+  "human_rating": 1860,
+  "time_control": "420+0",
+  "url": "https://lichess.org/o30z0n1x"
+ },
+ {
+  "id": "lichess-2013-01-46517",
+  "fen": "r1bqkb1r/2p1pppp/p1n2n2/8/NpBPP3/6P1/PP3P1P/R1BQK1NR w KQkq - 1 8",
+  "ply": 14,
+  "human_move": "e4e5",
+  "human_rating": 1465,
+  "time_control": "540+0",
+  "url": "https://lichess.org/xejful79"
+ },
+ {
+  "id": "lichess-2013-01-46928",
+  "fen": "r1b5/p4ppk/8/1p1pPP2/2pr4/8/PPQ2P1P/R5K1 w - - 0 22",
+  "ply": 42,
+  "human_move": "f5f6",
+  "human_rating": 1714,
+  "time_control": "60+2",
+  "url": "https://lichess.org/7j6qea8t"
+ },
+ {
+  "id": "lichess-2013-01-46963",
+  "fen": "3r1rk1/3n1pbp/1p3np1/q1p1p3/2P5/1P1PBNPB/P3PP1P/R2Q1RK1 w - - 2 16",
+  "ply": 30,
+  "human_move": "e3g5",
+  "human_rating": 1798,
+  "time_control": "120+2",
+  "url": "https://lichess.org/p6vaw0n8"
+ },
+ {
+  "id": "lichess-2013-01-47309",
+  "fen": "2b2r2/6kn/p2qp1p1/1p4P1/6Q1/2NBB3/PPP5/R5K1 w - - 0 24",
+  "ply": 46,
+  "human_move": "c3e4",
+  "human_rating": 1810,
+  "time_control": "300+8",
+  "url": "https://lichess.org/w79lbmsq"
+ },
+ {
+  "id": "lichess-2013-01-47631",
+  "fen": "rn1qk2r/pbp2pbp/1p2pnp1/4N3/3P4/2N5/PPP1BPPP/R1BQ1RK1 w kq - 1 9",
+  "ply": 16,
+  "human_move": "e2f3",
+  "human_rating": 1485,
+  "time_control": "300+8",
+  "url": "https://lichess.org/l2m0havd"
+ },
+ {
+  "id": "lichess-2013-01-47660",
+  "fen": "3q1rk1/5pp1/4pb1p/8/3P4/2Q1PP1P/6P1/R5K1 b - - 0 29",
+  "ply": 57,
+  "human_move": "d8c8",
+  "human_rating": 1529,
+  "time_control": "300+2",
+  "url": "https://lichess.org/0snge9nt"
+ },
+ {
+  "id": "lichess-2013-01-47788",
+  "fen": "r6r/pkp5/3pn2p/1P6/4P3/2PPKP2/R7/R7 b - - 2 40",
+  "ply": 79,
+  "human_move": "h6h5",
+  "human_rating": 1542,
+  "time_control": "300+3",
+  "url": "https://lichess.org/wt9o1fvf"
+ },
+ {
+  "id": "lichess-2013-01-48153",
+  "fen": "5rk1/1R1R1p1p/1p4p1/p7/1r2B3/K4P1n/8/8 w - - 2 35",
+  "ply": 68,
+  "human_move": "e4d5",
+  "human_rating": 1699,
+  "time_control": "900+8",
+  "url": "https://lichess.org/hi7r6gzz"
+ },
+ {
+  "id": "lichess-2013-01-48732",
+  "fen": "kr5r/1pqn1p2/p1p1pn1p/2Pp2p1/N2P2b1/QN1BP1P1/PP3PP1/1K2R2R b - - 1 22",
+  "ply": 43,
+  "human_move": "f6e4",
+  "human_rating": 1876,
+  "time_control": "60+0",
+  "url": "https://lichess.org/yxep1ggk"
+ },
+ {
+  "id": "lichess-2013-01-49094",
+  "fen": "2r2rk1/pb2bpp1/1pq1p2p/8/4n3/4PNB1/PP1QBPPP/R2R2K1 w - - 6 17",
+  "ply": 32,
+  "human_move": "d2d7",
+  "human_rating": 1912,
+  "time_control": "60+0",
+  "url": "https://lichess.org/uxzcnrlg"
+ },
+ {
+  "id": "lichess-2013-01-49157",
+  "fen": "8/8/8/1pBk1p2/1P6/3K1PPp/7P/8 w - - 4 46",
+  "ply": 90,
+  "human_move": "f3f4",
+  "human_rating": 2184,
+  "time_control": "180+0",
+  "url": "https://lichess.org/fuopq76z"
+ },
+ {
+  "id": "lichess-2013-01-49210",
+  "fen": "r1b1kbnr/pppp1p2/2n2Qpp/4p3/4P3/3P1N2/PPP2PPP/RNB1KB1R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "g8f6",
+  "human_rating": 1538,
+  "time_control": "420+4",
+  "url": "https://lichess.org/143cy6pc"
+ },
+ {
+  "id": "lichess-2013-01-49801",
+  "fen": "rnbqk1nr/pp3pp1/2p4p/3PP3/1bB5/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+  "ply": 13,
+  "human_move": "b4c5",
+  "human_rating": 1321,
+  "time_control": "900+3",
+  "url": "https://lichess.org/d4p59rf3"
+ },
+ {
+  "id": "lichess-2013-01-49843",
+  "fen": "6k1/1R3pp1/1p3n1p/8/6P1/5N1P/rr3P1K/8 w - - 0 29",
+  "ply": 56,
+  "human_move": "f3h4",
+  "human_rating": 1593,
+  "time_control": "120+0",
+  "url": "https://lichess.org/ti34fdhk"
+ },
+ {
+  "id": "lichess-2013-01-49910",
+  "fen": "3r1rk1/1b3ppp/p7/1p6/5n1q/6N1/PPB1QPPP/R3R1K1 w - - 8 22",
+  "ply": 42,
+  "human_move": "e2e5",
+  "human_rating": 1502,
+  "time_control": "180+3",
+  "url": "https://lichess.org/1qbt6776"
+ },
+ {
+  "id": "lichess-2013-01-49939",
+  "fen": "r1bqkbnr/1ppp1pp1/p1n4p/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "c2c3",
+  "human_rating": 1529,
+  "time_control": "180+1",
+  "url": "https://lichess.org/4l94c5is"
+ },
+ {
+  "id": "lichess-2013-01-49993",
+  "fen": "5rk1/2p3pp/b7/8/2p1B3/2b1B3/Pp4PP/1R4K1 w - - 0 27",
+  "ply": 52,
+  "human_move": "e4d5",
+  "human_rating": 1596,
+  "time_control": "120+0",
+  "url": "https://lichess.org/e09cfft1"
+ },
+ {
+  "id": "lichess-2013-01-50282",
+  "fen": "rn1qk2r/pp3ppp/2p1bp2/8/1bpPP3/P1N2P2/1P2N1PP/R2QKB1R b KQkq - 0 9",
+  "ply": 17,
+  "human_move": "b4c3",
+  "human_rating": 1127,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/kr4dlbhr"
+ },
+ {
+  "id": "lichess-2013-01-50407",
+  "fen": "8/3k4/1p6/3Bp3/1P2Ppbp/8/6KP/8 b - - 5 48",
+  "ply": 95,
+  "human_move": "d7e7",
+  "human_rating": 1807,
+  "time_control": "300+0",
+  "url": "https://lichess.org/7y4tw3d0"
+ },
+ {
+  "id": "lichess-2013-01-50521",
+  "fen": "rn6/3kQ3/2p5/pp1b1pbP/5p2/3P3p/PPP4P/RN2K1B1 b Q - 0 23",
+  "ply": 45,
+  "human_move": "g5e7",
+  "human_rating": 1539,
+  "time_control": "300+8",
+  "url": "https://lichess.org/1pldz9qi"
+ },
+ {
+  "id": "lichess-2013-01-50769",
+  "fen": "rn3rk1/pp4p1/4p2p/2bn4/2B5/8/PPP2PPP/R1B1R1K1 b - - 1 13",
+  "ply": 25,
+  "human_move": "c5f2",
+  "human_rating": 1904,
+  "time_control": "60+0",
+  "url": "https://lichess.org/uwx6w5ov"
+ },
+ {
+  "id": "lichess-2013-01-50831",
+  "fen": "r1b2rk1/pp4pp/1qn1pn2/2bp4/8/2NB1N2/PPP2PPP/R1BQ1RK1 w - - 6 10",
+  "ply": 18,
+  "human_move": "c1e3",
+  "human_rating": 1608,
+  "time_control": "60+0",
+  "url": "https://lichess.org/f6yvcl0w"
+ },
+ {
+  "id": "lichess-2013-01-51025",
+  "fen": "3qr3/2r1k3/1p3p1Q/p2PpBp1/2P5/1P6/P5PP/5RK1 w - - 1 35",
+  "ply": 68,
+  "human_move": "f5e6",
+  "human_rating": 1880,
+  "time_control": "60+2",
+  "url": "https://lichess.org/k6mohiek"
+ },
+ {
+  "id": "lichess-2013-01-51402",
+  "fen": "3k4/pb1q1rr1/1pn1p2R/1n1pP1B1/2pP3N/2P5/P1PK1P2/5Q1R b - - 15 30",
+  "ply": 59,
+  "human_move": "d8c7",
+  "human_rating": 1595,
+  "time_control": "60+0",
+  "url": "https://lichess.org/lz9sqpqw"
+ },
+ {
+  "id": "lichess-2013-01-51768",
+  "fen": "8/3k1rR1/1p1pN3/1PpPp3/2P3R1/P4P2/3n1KP1/8 w - - 3 40",
+  "ply": 78,
+  "human_move": "g7f7",
+  "human_rating": 1611,
+  "time_control": "120+0",
+  "url": "https://lichess.org/n0s9dh1u"
+ },
+ {
+  "id": "lichess-2013-01-52043",
+  "fen": "2k4r/p1p2ppp/8/2p5/K1Nn4/1B1R2PP/4rP2/5R2 w - - 5 27",
+  "ply": 52,
+  "human_move": "c4a5",
+  "human_rating": 1654,
+  "time_control": "480+0",
+  "url": "https://lichess.org/0wyh6smo"
+ },
+ {
+  "id": "lichess-2013-01-52232",
+  "fen": "rnbqk2r/pp2b1pp/2p2n2/3p1pB1/3P4/2N2N2/PP1QPPPP/R3KB1R w KQkq - 4 8",
+  "ply": 14,
+  "human_move": "e2e3",
+  "human_rating": 1717,
+  "time_control": "120+0",
+  "url": "https://lichess.org/d79y0djy"
+ },
+ {
+  "id": "lichess-2013-01-52240",
+  "fen": "2k5/2p2p2/pp2p2p/8/5RPr/1PP3K1/P1br4/8 b - - 2 34",
+  "ply": 67,
+  "human_move": "h4h2",
+  "human_rating": 1350,
+  "time_control": "300+8",
+  "url": "https://lichess.org/cxndaz75"
+ },
+ {
+  "id": "lichess-2013-01-52675",
+  "fen": "2kr3r/pbp2p2/1p1pqnpp/4p3/4P3/B1PB1NQ1/3P1PPP/RR4K1 w - - 5 18",
+  "ply": 34,
+  "human_move": "g3h3",
+  "human_rating": 1668,
+  "time_control": "900+8",
+  "url": "https://lichess.org/rd7q07uc"
+ },
+ {
+  "id": "lichess-2013-01-52709",
+  "fen": "r3kb1r/pppq1ppp/3p1n2/3P4/2PQP3/8/PP3PPP/RNB1K2R b KQkq - 0 9",
+  "ply": 17,
+  "human_move": "d7g4",
+  "human_rating": 1428,
+  "time_control": "720+0",
+  "url": "https://lichess.org/zjctc14a"
+ },
+ {
+  "id": "lichess-2013-01-52908",
+  "fen": "r1bqkb1r/pp2npp1/5n1p/3pp3/2BP4/2N2N1P/PPP2PP1/R1BQ1RK1 w kq - 0 10",
+  "ply": 18,
+  "human_move": "c4b5",
+  "human_rating": 1539,
+  "time_control": "180+0",
+  "url": "https://lichess.org/64lwgjai"
+ },
+ {
+  "id": "lichess-2013-01-52958",
+  "fen": "2B2r2/pp2b1kp/5pp1/2N5/4N1P1/5n1P/PBP2P2/R2R3K b - - 0 20",
+  "ply": 39,
+  "human_move": "f8c8",
+  "human_rating": 1177,
+  "time_control": "600+8",
+  "url": "https://lichess.org/dpiv8op0"
+ },
+ {
+  "id": "lichess-2013-01-53133",
+  "fen": "r1br2k1/p4pp1/2p4p/1p1Pq3/2B5/3RP3/PP3PPP/3QK2R w K - 0 17",
+  "ply": 32,
+  "human_move": "c4b3",
+  "human_rating": 1730,
+  "time_control": "600+8",
+  "url": "https://lichess.org/liwoag49"
+ },
+ {
+  "id": "lichess-2013-01-53258",
+  "fen": "N6r/pp2qkp1/1n5p/3p1p1P/P2P4/1P3Q2/5PP1/R1B2RK1 w - - 3 20",
+  "ply": 38,
+  "human_move": "c1a3",
+  "human_rating": 2028,
+  "time_control": "60+0",
+  "url": "https://lichess.org/3mhem644"
+ },
+ {
+  "id": "lichess-2013-01-53313",
+  "fen": "r1b2rk1/2q2p1p/4p1p1/p1Np2BP/1p4P1/4Q3/Pb2BP2/1R2K2R b K - 1 20",
+  "ply": 39,
+  "human_move": "b2e5",
+  "human_rating": 1722,
+  "time_control": "60+0",
+  "url": "https://lichess.org/vme4cwnn"
+ },
+ {
+  "id": "lichess-2013-01-53362",
+  "fen": "8/8/B4p1p/6p1/4k1P1/5p1P/3K4/8 b - - 0 47",
+  "ply": 93,
+  "human_move": "e4f4",
+  "human_rating": 1690,
+  "time_control": "240+0",
+  "url": "https://lichess.org/ou16sm3f"
+ },
+ {
+  "id": "lichess-2013-01-53410",
+  "fen": "2k2r2/p1p1qp1p/4p2p/2N1P3/3r4/3B1R2/P5PP/2R3K1 b - - 1 20",
+  "ply": 39,
+  "human_move": "f7f5",
+  "human_rating": 1561,
+  "time_control": "180+0",
+  "url": "https://lichess.org/lcqcd012"
+ },
+ {
+  "id": "lichess-2013-01-53850",
+  "fen": "rn1q1rk1/ppp1bp1p/3p1np1/4p3/2B1P3/2NP2QP/PPP2PP1/R1B1K2R w KQ - 0 9",
+  "ply": 16,
+  "human_move": "c3d5",
+  "human_rating": 1166,
+  "time_control": "420+0",
+  "url": "https://lichess.org/ikx3msi9"
+ },
+ {
+  "id": "lichess-2013-01-53942",
+  "fen": "r1b1k2r/p3qppp/1pn1p1n1/3p4/3P4/P2N1N2/1PP2PP1/R2QKB1R w KQkq - 2 14",
+  "ply": 26,
+  "human_move": "f1e2",
+  "human_rating": 1648,
+  "time_control": "180+0",
+  "url": "https://lichess.org/c4j9pygh"
+ },
+ {
+  "id": "lichess-2013-01-54059",
+  "fen": "r4rk1/1p3pp1/p2p3p/3P4/3P4/4P3/PP2b1PP/2R1R1K1 w - - 0 21",
+  "ply": 40,
+  "human_move": "e1e2",
+  "human_rating": 1788,
+  "time_control": "60+0",
+  "url": "https://lichess.org/dsf8q9n0"
+ },
+ {
+  "id": "lichess-2013-01-54288",
+  "fen": "1R6/8/8/p5p1/k6p/8/5K2/1q4r1 w - - 0 60",
+  "ply": 118,
+  "human_move": "b8b1",
+  "human_rating": 1598,
+  "time_control": "0+1",
+  "url": "https://lichess.org/rxiqncge"
+ },
+ {
+  "id": "lichess-2013-01-54464",
+  "fen": "r1bqr1k1/pppp1ppp/2n5/8/7b/3B4/PPP2PPP/RNB1K1NR w KQ - 0 10",
+  "ply": 18,
+  "human_move": "g1e2",
+  "human_rating": 1500,
+  "time_control": "300+4",
+  "url": "https://lichess.org/402e5z0t"
+ },
+ {
+  "id": "lichess-2013-01-54726",
+  "fen": "rn1qkb1r/pp4pp/5n2/1Ppb4/4p3/2N1P3/PB3PPP/R2QKBNR w KQkq - 2 10",
+  "ply": 18,
+  "human_move": "c3d5",
+  "human_rating": 1681,
+  "time_control": "480+5",
+  "url": "https://lichess.org/kmk2k5ii"
+ },
+ {
+  "id": "lichess-2013-01-54791",
+  "fen": "r2q3r/pppk1pp1/2np4/2b2P1p/2B3n1/2N5/PPP2PPP/R1BQR1K1 w - - 3 11",
+  "ply": 20,
+  "human_move": "c4f7",
+  "human_rating": 1499,
+  "time_control": "900+10",
+  "url": "https://lichess.org/rwo31gh1"
+ },
+ {
+  "id": "lichess-2013-01-54816",
+  "fen": "3qr1k1/r4pp1/3p1b1p/2p5/8/4BQ2/PP3PPP/R3R1K1 w - - 2 23",
+  "ply": 44,
+  "human_move": "f3g3",
+  "human_rating": 1729,
+  "time_control": "420+0",
+  "url": "https://lichess.org/08knu8a7"
+ },
+ {
+  "id": "lichess-2013-01-55073",
+  "fen": "2kr1b1r/1ppbq3/p1nppn2/P4p2/2PP2pp/1P1BP3/1B1QNPPP/R3NRK1 w - - 0 15",
+  "ply": 28,
+  "human_move": "b3b4",
+  "human_rating": 1618,
+  "time_control": "60+1",
+  "url": "https://lichess.org/8y9mrork"
+ },
+ {
+  "id": "lichess-2013-01-55155",
+  "fen": "r1bqk2r/pppnnpb1/4p1p1/3pP1Bp/3P3P/2N3P1/PPP2PB1/R2QK1NR b KQkq - 2 8",
+  "ply": 15,
+  "human_move": "b7b6",
+  "human_rating": 1906,
+  "time_control": "300+0",
+  "url": "https://lichess.org/oudjua1b"
+ },
+ {
+  "id": "lichess-2013-01-55198",
+  "fen": "2rr2k1/1b2qppp/pp2p1n1/2bN4/8/1P3NP1/PB2PPBP/1R1QR1K1 b - - 0 18",
+  "ply": 35,
+  "human_move": "b7d5",
+  "human_rating": 1990,
+  "time_control": "60+0",
+  "url": "https://lichess.org/idghuabr"
+ },
+ {
+  "id": "lichess-2013-01-55809",
+  "fen": "rn1q1rk1/ppp1bppp/4pn2/3p1b2/3P1B2/4PN2/PPP1BPPP/RN1Q1RK1 w - - 4 7",
+  "ply": 12,
+  "human_move": "b2b3",
+  "human_rating": 1743,
+  "time_control": "300+8",
+  "url": "https://lichess.org/624fscgp"
+ },
+ {
+  "id": "lichess-2013-01-55834",
+  "fen": "r4rk1/p5p1/1p1pQ3/2pn1b1p/2B5/1P3N1P/P4P1K/R5R1 b - - 0 29",
+  "ply": 57,
+  "human_move": "f5e6",
+  "human_rating": 1753,
+  "time_control": "300+0",
+  "url": "https://lichess.org/qoa8678i"
+ },
+ {
+  "id": "lichess-2013-01-55971",
+  "fen": "rn1qk2r/pbp1ppbp/1p3np1/4P3/8/2NB1N2/PPP2PPP/R1BQ1RK1 b kq - 0 8",
+  "ply": 15,
+  "human_move": "f6d7",
+  "human_rating": 1677,
+  "time_control": "120+1",
+  "url": "https://lichess.org/g2m82k2c"
+ },
+ {
+  "id": "lichess-2013-01-56058",
+  "fen": "r6r/1pq1p2p/p1bpNbpk/8/4P1B1/1QP1P3/PP4PP/R4RK1 b - - 6 19",
+  "ply": 37,
+  "human_move": "c7a5",
+  "human_rating": 1700,
+  "time_control": "240+4",
+  "url": "https://lichess.org/p6490m16"
+ },
+ {
+  "id": "lichess-2013-01-56256",
+  "fen": "r3qrk1/ppp3pp/4pn2/2b1p3/3nP3/2NQ2NP/PP1P1PP1/1RB2R1K w - - 10 14",
+  "ply": 26,
+  "human_move": "f2f4",
+  "human_rating": 1815,
+  "time_control": "60+0",
+  "url": "https://lichess.org/mpcbqxnd"
+ },
+ {
+  "id": "lichess-2013-01-56492",
+  "fen": "r1bq1rk1/ppp2pbp/2n3p1/4p3/8/2PP1NP1/PB2PPBP/1R1QK2R b K - 0 10",
+  "ply": 19,
+  "human_move": "a8b8",
+  "human_rating": 1875,
+  "time_control": "60+1",
+  "url": "https://lichess.org/phxvy2da"
+ },
+ {
+  "id": "lichess-2013-01-56528",
+  "fen": "r1bqkb1r/ppp2p1p/2np1np1/8/3NP3/1PN5/PBP2PPP/R2QKB1R b KQkq - 0 7",
+  "ply": 13,
+  "human_move": "c6d4",
+  "human_rating": 1665,
+  "time_control": "300+8",
+  "url": "https://lichess.org/our4gri1"
+ },
+ {
+  "id": "lichess-2013-01-56609",
+  "fen": "rn1qkbnr/1pp2pp1/p2pb2p/4p3/4P3/P4N1P/1PPPBPP1/RNBQK2R w KQkq - 2 6",
+  "ply": 10,
+  "human_move": "c2c4",
+  "human_rating": 1434,
+  "time_control": "600+0",
+  "url": "https://lichess.org/ietp14z2"
+ },
+ {
+  "id": "lichess-2013-01-56872",
+  "fen": "8/8/6Kp/6pN/p7/8/PP2k1PP/8 w - - 0 45",
+  "ply": 88,
+  "human_move": "g6h6",
+  "human_rating": 1798,
+  "time_control": "180+2",
+  "url": "https://lichess.org/fflnma20"
+ },
+ {
+  "id": "lichess-2013-01-57356",
+  "fen": "rn1q1rk1/pp3ppp/3p1n2/3Pp3/3bP1b1/2NQ2P1/PP2NP1P/R1B1KB1R b KQ - 0 10",
+  "ply": 19,
+  "human_move": "b8a6",
+  "human_rating": 1908,
+  "time_control": "420+0",
+  "url": "https://lichess.org/3llmlvom"
+ },
+ {
+  "id": "lichess-2013-01-57377",
+  "fen": "rnb1k2r/pp2bpp1/2p1pn1p/3pN3/3P1P2/3BP3/PPP3PP/RN1QK2R w KQ - 0 9",
+  "ply": 16,
+  "human_move": "c2c3",
+  "human_rating": 1855,
+  "time_control": "120+0",
+  "url": "https://lichess.org/aimakj7t"
+ },
+ {
+  "id": "lichess-2013-01-57932",
+  "fen": "r2qkb1r/1pp2ppp/p1npbn2/4p3/4P3/1PN2P2/P1PPQ1PP/R1B1KBNR w KQkq - 1 7",
+  "ply": 12,
+  "human_move": "c1b2",
+  "human_rating": 1110,
+  "time_control": "360+0",
+  "url": "https://lichess.org/1xzxwt06"
+ },
+ {
+  "id": "lichess-2013-01-57972",
+  "fen": "rn1qkb1r/5ppp/p3pn2/2NP2B1/1p1QP3/1Pp2P2/P4P1P/R3KB1R b KQkq - 2 12",
+  "ply": 23,
+  "human_move": "f8e7",
+  "human_rating": 1464,
+  "time_control": "300+3",
+  "url": "https://lichess.org/uwr1suft"
+ },
+ {
+  "id": "lichess-2013-01-58047",
+  "fen": "2Q5/3P1pk1/5pp1/p7/1pP1q3/7P/P2R2P1/3K4 b - - 6 46",
+  "ply": 91,
+  "human_move": "e4b1",
+  "human_rating": 1380,
+  "time_control": "420+0",
+  "url": "https://lichess.org/jmz214fq"
+ },
+ {
+  "id": "lichess-2013-01-58208",
+  "fen": "r1b1kb1r/ppp2ppp/2n5/3qp3/8/5N2/PPPPBPPP/R1BQ1RK1 b kq - 1 7",
+  "ply": 13,
+  "human_move": "f8d6",
+  "human_rating": 1500,
+  "time_control": "480+10",
+  "url": "https://lichess.org/k1fj5xbe"
+ },
+ {
+  "id": "lichess-2013-01-58284",
+  "fen": "r1b2rk1/ppp1nppp/2n5/3qp1N1/3P4/P1PB2Q1/2P3PP/R1B2RK1 b - - 1 12",
+  "ply": 23,
+  "human_move": "e7g6",
+  "human_rating": 2066,
+  "time_control": "180+0",
+  "url": "https://lichess.org/7m2e6phj"
+ },
+ {
+  "id": "lichess-2013-01-58396",
+  "fen": "r2q1rk1/1bp1bpp1/p1n1p2p/1p2P3/3P4/P1P1BN2/2B2PPP/R2Q1RK1 w - - 2 14",
+  "ply": 26,
+  "human_move": "d1d2",
+  "human_rating": 1872,
+  "time_control": "60+0",
+  "url": "https://lichess.org/9cny3gt5"
+ },
+ {
+  "id": "lichess-2013-01-58729",
+  "fen": "1k1r3r/1pp2ppp/p3pn2/4bn2/8/P2PB2P/BPP1NP2/1R3R1K w - - 20 24",
+  "ply": 46,
+  "human_move": "b2b4",
+  "human_rating": 1850,
+  "time_control": "300+8",
+  "url": "https://lichess.org/ln9z2zh8"
+ },
+ {
+  "id": "lichess-2013-01-58918",
+  "fen": "6k1/1p5p/6p1/8/pP6/P6P/6PK/2q2r2 w - - 0 43",
+  "ply": 84,
+  "human_move": "h2g3",
+  "human_rating": 1909,
+  "time_control": "300+0",
+  "url": "https://lichess.org/8vb9o6pp"
+ },
+ {
+  "id": "lichess-2013-01-59023",
+  "fen": "r2qkb1r/ppp1pppp/2n2n2/3p4/3P1Pb1/3BPN2/PPP3PP/RNBQK2R b KQkq - 2 5",
+  "ply": 9,
+  "human_move": "f6e4",
+  "human_rating": 1798,
+  "time_control": "120+0",
+  "url": "https://lichess.org/168zo5hl"
+ },
+ {
+  "id": "lichess-2013-01-59414",
+  "fen": "rnbq1rk1/pp2bpp1/2pp1n1p/3Np3/2P1P3/3P2P1/PP3PBP/R1BQK1NR w KQ - 0 8",
+  "ply": 14,
+  "human_move": "d5f6",
+  "human_rating": 1570,
+  "time_control": "480+4",
+  "url": "https://lichess.org/aa3wdy09"
+ },
+ {
+  "id": "lichess-2013-01-59440",
+  "fen": "r2q1rk1/1p3pp1/p1pp1n1p/8/4P3/P1bPBQ1P/1PP2PP1/R3R1K1 w - - 0 16",
+  "ply": 30,
+  "human_move": "b2c3",
+  "human_rating": 1610,
+  "time_control": "300+8",
+  "url": "https://lichess.org/r2trliiv"
+ },
+ {
+  "id": "lichess-2013-01-59669",
+  "fen": "rn1q1rk1/p1p4p/bp1bp3/3p2p1/3Pp2P/4P1P1/PPP2PN1/RNBQ1RK1 w - - 1 12",
+  "ply": 22,
+  "human_move": "f1e1",
+  "human_rating": 1220,
+  "time_control": "1800+0",
+  "url": "https://lichess.org/uyngjk8m"
+ },
+ {
+  "id": "lichess-2013-01-59807",
+  "fen": "r1bq1rk1/ppp1bppp/2np1n2/1B2p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 w - - 3 7",
+  "ply": 12,
+  "human_move": "f1e1",
+  "human_rating": 1491,
+  "time_control": "240+0",
+  "url": "https://lichess.org/edf4vut0"
+ },
+ {
+  "id": "lichess-2013-01-59942",
+  "fen": "3r4/1Q5p/P2p2pk/2pBp3/2P1P1q1/8/5K2/5R2 b - - 3 39",
+  "ply": 77,
+  "human_move": "g4f4",
+  "human_rating": 1690,
+  "time_control": "60+1",
+  "url": "https://lichess.org/c8lhn9m0"
+ },
+ {
+  "id": "lichess-2013-01-60232",
+  "fen": "rnb2rk1/ppp1qpbp/3p1np1/4p3/2B1P3/1QNP4/PPP2PPP/R1B1K1NR w KQ - 1 8",
+  "ply": 14,
+  "human_move": "c3d5",
+  "human_rating": 1425,
+  "time_control": "180+2",
+  "url": "https://lichess.org/w9df2d7u"
+ },
+ {
+  "id": "lichess-2013-01-60267",
+  "fen": "rnb1kb1r/pppp2pp/3q4/5pN1/2B1p3/3P4/PPP3PP/RNBQRK2 w kq - 2 10",
+  "ply": 18,
+  "human_move": "g5f7",
+  "human_rating": 1616,
+  "time_control": "360+6",
+  "url": "https://lichess.org/4k55pfm3"
+ },
+ {
+  "id": "lichess-2013-01-60439",
+  "fen": "rnbqk1nr/ppp3pp/4p3/2b5/2B5/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 5",
+  "ply": 9,
+  "human_move": "d8f6",
+  "human_rating": 1188,
+  "time_control": "480+2",
+  "url": "https://lichess.org/z1pfccb0"
+ },
+ {
+  "id": "lichess-2013-01-60462",
+  "fen": "R4b2/4qpkp/4p1p1/1p2Q3/1Pp1P3/2P4P/5PP1/4R1K1 b - - 2 27",
+  "ply": 53,
+  "human_move": "f7f6",
+  "human_rating": 1743,
+  "time_control": "60+0",
+  "url": "https://lichess.org/iitoqibz"
+ },
+ {
+  "id": "lichess-2013-01-60469",
+  "fen": "3r1rk1/4pp1p/p5p1/4b3/4P3/P5P1/PB4KP/1R3R2 b - - 1 28",
+  "ply": 55,
+  "human_move": "d8d2",
+  "human_rating": 2173,
+  "time_control": "60+0",
+  "url": "https://lichess.org/b7p02cvo"
+ },
+ {
+  "id": "lichess-2013-01-60470",
+  "fen": "r2q1bnr/ppp1pQp1/2k1B2p/3P4/4P2B/2N5/PP3PPP/n4K1R b - - 0 13",
+  "ply": 25,
+  "human_move": "c6c5",
+  "human_rating": 1438,
+  "time_control": "240+4",
+  "url": "https://lichess.org/omkga31b"
+ },
+ {
+  "id": "lichess-2013-01-60739",
+  "fen": "8/8/R4k2/1p3pp1/8/5PK1/1r3P2/8 b - - 2 37",
+  "ply": 73,
+  "human_move": "f6e5",
+  "human_rating": 1667,
+  "time_control": "300+2",
+  "url": "https://lichess.org/wsslef8e"
+ },
+ {
+  "id": "lichess-2013-01-60837",
+  "fen": "2k3rr/p1pp1p2/1p3q2/3Pp3/1P1bB1p1/P2P1PP1/2P3K1/1R1Q1R2 b - - 0 21",
+  "ply": 41,
+  "human_move": "g4f3",
+  "human_rating": 1769,
+  "time_control": "720+0",
+  "url": "https://lichess.org/qfmjial2"
+ },
+ {
+  "id": "lichess-2013-01-61202",
+  "fen": "8/5kp1/2p4p/p1Pp4/Pr3nPq/1r3P2/3QR1BK/R7 w - - 1 31",
+  "ply": 60,
+  "human_move": "h2g1",
+  "human_rating": 1564,
+  "time_control": "180+3",
+  "url": "https://lichess.org/ls5tb9fg"
+ },
+ {
+  "id": "lichess-2013-01-61207",
+  "fen": "r2q1rk1/p4ppp/3b4/2nNp3/8/5Q2/PPP2PPP/R1B1R1K1 b - - 4 14",
+  "ply": 27,
+  "human_move": "f7f5",
+  "human_rating": 1478,
+  "time_control": "300+0",
+  "url": "https://lichess.org/o4gy5w5k"
+ },
+ {
+  "id": "lichess-2013-01-61247",
+  "fen": "3r1rk1/1p1n2p1/p1p2p1p/4p2Q/2P1P3/qPBR2PP/P4P2/4R1K1 w - - 2 22",
+  "ply": 42,
+  "human_move": "d3d2",
+  "human_rating": 1481,
+  "time_control": "1800+8",
+  "url": "https://lichess.org/nsgq1nuk"
+ },
+ {
+  "id": "lichess-2013-01-61274",
+  "fen": "8/p2k4/3B4/2P5/2b1B2P/1r3P2/5KP1/8 b - - 0 39",
+  "ply": 77,
+  "human_move": "b3b2",
+  "human_rating": 1801,
+  "time_control": "300+0",
+  "url": "https://lichess.org/u0qcm7ni"
+ },
+ {
+  "id": "lichess-2013-01-61828",
+  "fen": "rnbqkb1r/1p3ppp/p2ppn2/8/2BNP3/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 7",
+  "ply": 13,
+  "human_move": "b8c6",
+  "human_rating": 1622,
+  "time_control": "180+0",
+  "url": "https://lichess.org/xgg6eqno"
+ },
+ {
+  "id": "lichess-2013-01-62178",
+  "fen": "r2qk2r/pp2bppp/2npbn2/2p1p3/4P3/1P1P2P1/PBP1NPBP/RN1QK2R w KQkq - 3 8",
+  "ply": 14,
+  "human_move": "f2f4",
+  "human_rating": 1754,
+  "time_control": "0+1",
+  "url": "https://lichess.org/rgo73y8v"
+ },
+ {
+  "id": "lichess-2013-01-62593",
+  "fen": "N6r/p2Q1ppp/4pk1n/8/1b1P3q/3b4/PPPK2PP/R5NR w - - 0 15",
+  "ply": 28,
+  "human_move": "c2c3",
+  "human_rating": 1654,
+  "time_control": "300+0",
+  "url": "https://lichess.org/91v32cl1"
+ },
+ {
+  "id": "lichess-2013-01-62807",
+  "fen": "r4rk1/pQp2ppp/3qp1n1/3p1b2/6n1/NP2P3/P1PP2BP/R3K1NR b KQ - 1 13",
+  "ply": 25,
+  "human_move": "c7c5",
+  "human_rating": 1614,
+  "time_control": "60+1",
+  "url": "https://lichess.org/jpaa9ofq"
+ },
+ {
+  "id": "lichess-2013-01-62845",
+  "fen": "8/1pp2Q2/pk2pNp1/4P3/3r3P/2N2n2/1P3P2/2K5 b - - 0 36",
+  "ply": 71,
+  "human_move": "f3e5",
+  "human_rating": 1653,
+  "time_control": "300+10",
+  "url": "https://lichess.org/y1swxuhk"
+ },
+ {
+  "id": "lichess-2013-01-63178",
+  "fen": "r2qk2r/1pp1nppp/p1nb4/3p4/3P2b1/P2B1N2/1PPBNPPP/R2Q1RK1 w kq - 3 11",
+  "ply": 20,
+  "human_move": "e2f4",
+  "human_rating": 1613,
+  "time_control": "300+0",
+  "url": "https://lichess.org/ya2xpyca"
+ },
+ {
+  "id": "lichess-2013-01-63402",
+  "fen": "5k2/6p1/6rp/PK6/8/2N1P3/2P5/8 b - - 1 43",
+  "ply": 85,
+  "human_move": "h6h5",
+  "human_rating": 1695,
+  "time_control": "0+1",
+  "url": "https://lichess.org/he0yu425"
+ },
+ {
+  "id": "lichess-2013-01-63863",
+  "fen": "2k3r1/ppp2p2/5p2/2n5/4r3/4B1P1/PP4KP/R4R2 w - - 0 25",
+  "ply": 48,
+  "human_move": "e3c5",
+  "human_rating": 1474,
+  "time_control": "300+5",
+  "url": "https://lichess.org/nyiduox0"
+ },
+ {
+  "id": "lichess-2013-01-64070",
+  "fen": "r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2P5/PP3PPP/RNBQKB1R w KQkq - 0 6",
+  "ply": 10,
+  "human_move": "f1c4",
+  "human_rating": 1585,
+  "time_control": "240+2",
+  "url": "https://lichess.org/6d183rir"
+ },
+ {
+  "id": "lichess-2013-01-64088",
+  "fen": "r1bqr1k1/ppp1bpp1/3p1P1p/8/3Q3B/2N5/PPP2PPP/3RKB1R b K - 0 11",
+  "ply": 21,
+  "human_move": "e7f6",
+  "human_rating": 1544,
+  "time_control": "720+0",
+  "url": "https://lichess.org/x08nv2ho"
+ },
+ {
+  "id": "lichess-2013-01-64125",
+  "fen": "6k1/5pbp/1p4p1/1PpN1b2/8/P1P3PK/4rP1P/B2R4 w - - 6 35",
+  "ply": 68,
+  "human_move": "g3g4",
+  "human_rating": 1685,
+  "time_control": "180+0",
+  "url": "https://lichess.org/8i1i9wrp"
+ },
+ {
+  "id": "lichess-2013-01-64429",
+  "fen": "8/ppp5/6k1/6r1/6K1/6PP/PP3P2/4R3 w - - 1 41",
+  "ply": 80,
+  "human_move": "g4f3",
+  "human_rating": 1378,
+  "time_control": "600+0",
+  "url": "https://lichess.org/jk41ietb"
+ },
+ {
+  "id": "lichess-2013-01-64718",
+  "fen": "r2q1rk1/p2nbppp/8/1p1pPQ2/3p4/2P5/PP4PP/RNB2RK1 w - - 0 17",
+  "ply": 32,
+  "human_move": "c3d4",
+  "human_rating": 1540,
+  "time_control": "300+1",
+  "url": "https://lichess.org/w0p5895x"
+ },
+ {
+  "id": "lichess-2013-01-65310",
+  "fen": "3r1rk1/ppqn1ppp/4p1b1/4P3/2P5/1PN2BB1/P4bPP/R3Q2K w - - 0 21",
+  "ply": 40,
+  "human_move": "g3f2",
+  "human_rating": 1753,
+  "time_control": "60+1",
+  "url": "https://lichess.org/q5yuvfej"
+ },
+ {
+  "id": "lichess-2013-01-65376",
+  "fen": "r1b2rk1/pp2npbp/2n3p1/qBP1P3/3p1P2/2N2N2/PP4PP/R1BQK2R w KQ - 0 12",
+  "ply": 22,
+  "human_move": "f3d4",
+  "human_rating": 1771,
+  "time_control": "60+0",
+  "url": "https://lichess.org/n29zblqu"
+ },
+ {
+  "id": "lichess-2013-01-65803",
+  "fen": "4r1k1/p2r1ppp/1pp1bb2/3p4/3n4/BP6/P1N1RPPP/4R1K1 w - - 0 24",
+  "ply": 46,
+  "human_move": "c2d4",
+  "human_rating": 1348,
+  "time_control": "300+4",
+  "url": "https://lichess.org/h2q316cq"
+ },
+ {
+  "id": "lichess-2013-01-65874",
+  "fen": "rnb1k1nb/pp1pqp1p/2p1p1p1/8/8/3PPQ2/P1PN1PPP/4KBNR w Kq - 0 9",
+  "ply": 16,
+  "human_move": "f1e2",
+  "human_rating": 1628,
+  "time_control": "0+1",
+  "url": "https://lichess.org/2iickemu"
+ },
+ {
+  "id": "lichess-2013-01-66110",
+  "fen": "3rr1k1/ppq2pp1/5n2/8/2PpRb2/1P1Q1N2/P4PPP/4R1K1 b - - 0 22",
+  "ply": 43,
+  "human_move": "f6e4",
+  "human_rating": 1825,
+  "time_control": "180+2",
+  "url": "https://lichess.org/nyi7zlfv"
+ },
+ {
+  "id": "lichess-2013-01-66200",
+  "fen": "rn1qkb1r/2pp4/1p2p1p1/1p5p/3Pb3/3Q4/PPP3PP/R1B1K1NR w KQkq - 0 12",
+  "ply": 22,
+  "human_move": "d3e4",
+  "human_rating": 1073,
+  "time_control": "900+10",
+  "url": "https://lichess.org/nn5x42bk"
+ },
+ {
+  "id": "lichess-2013-01-66382",
+  "fen": "r1bqkbnr/pp3ppp/1np1p3/8/2BPP3/1PN5/P3NPPP/R1BQK2R b KQkq - 0 7",
+  "ply": 13,
+  "human_move": "b6c4",
+  "human_rating": 1595,
+  "time_control": "60+0",
+  "url": "https://lichess.org/jt1wxyjv"
+ },
+ {
+  "id": "lichess-2013-01-66419",
+  "fen": "r3k2r/ppqbbppp/2n1p3/3pP3/8/P2BBN2/1PP2PPP/R2Q1RK1 w kq - 1 12",
+  "ply": 22,
+  "human_move": "d3b5",
+  "human_rating": 1719,
+  "time_control": "0+1",
+  "url": "https://lichess.org/03j7d0ir"
+ },
+ {
+  "id": "lichess-2013-01-66476",
+  "fen": "rn6/pp4pk/2p4p/3p3P/6R1/PB6/1PP2r2/2K3R1 b - - 1 22",
+  "ply": 43,
+  "human_move": "f2f7",
+  "human_rating": 1697,
+  "time_control": "420+3",
+  "url": "https://lichess.org/858fa1m0"
+ },
+ {
+  "id": "lichess-2013-01-67245",
+  "fen": "r3kb1r/ppqn1ppp/2p2n2/3pP2b/8/2PBPN1P/PP1N1PP1/R1BQ1RK1 b kq - 0 9",
+  "ply": 17,
+  "human_move": "d7e5",
+  "human_rating": 1565,
+  "time_control": "0+1",
+  "url": "https://lichess.org/nq40dqr8"
+ },
+ {
+  "id": "lichess-2013-01-67261",
+  "fen": "6k1/5pp1/b2Np2p/p7/2P5/2P4P/P4bP1/4R2K b - - 0 33",
+  "ply": 65,
+  "human_move": "f2e1",
+  "human_rating": 1616,
+  "time_control": "540+8",
+  "url": "https://lichess.org/readuxcw"
+ },
+ {
+  "id": "lichess-2013-01-67398",
+  "fen": "rnbqk2r/ppp2p1p/5bp1/4p3/8/2P2NP1/PP2PPBP/RN1QK2R w KQkq - 0 9",
+  "ply": 16,
+  "human_move": "d1d8",
+  "human_rating": 1545,
+  "time_control": "0+1",
+  "url": "https://lichess.org/epmi0vlv"
+ },
+ {
+  "id": "lichess-2013-01-67466",
+  "fen": "r3k1r1/pp3p1n/1qp1p3/3pP1pp/3P4/P1B2P2/1PP1Q1PP/R4RK1 w q - 1 17",
+  "ply": 32,
+  "human_move": "e2d3",
+  "human_rating": 1671,
+  "time_control": "240+0",
+  "url": "https://lichess.org/64thqpo7"
+ },
+ {
+  "id": "lichess-2013-01-67552",
+  "fen": "r1b1r1k1/ppp2p1p/2n3p1/8/2P5/2q1B1QN/1n1RBPPP/4K2R b K - 8 22",
+  "ply": 43,
+  "human_move": "c8h3",
+  "human_rating": 1705,
+  "time_control": "540+0",
+  "url": "https://lichess.org/85lb799o"
+ },
+ {
+  "id": "lichess-2013-01-67769",
+  "fen": "rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7",
+  "ply": 13,
+  "human_move": "b8d7",
+  "human_rating": 1409,
+  "time_control": "120+0",
+  "url": "https://lichess.org/5b2fvgji"
+ },
+ {
+  "id": "lichess-2013-01-68126",
+  "fen": "r1b3k1/7p/p1p3p1/1pPp4/1P1q1N2/P2BR3/5RPP/3Q2K1 b - - 0 28",
+  "ply": 55,
+  "human_move": "d4e3",
+  "human_rating": 1695,
+  "time_control": "240+0",
+  "url": "https://lichess.org/dd1qpo0q"
+ },
+ {
+  "id": "lichess-2013-01-68265",
+  "fen": "r3k2r/1pp2pp1/p1np1q1p/2b1p3/4P1b1/P4P2/1PPPB2P/R1BQK1NR w KQkq - 0 10",
+  "ply": 18,
+  "human_move": "h2h3",
+  "human_rating": 1365,
+  "time_control": "300+5",
+  "url": "https://lichess.org/42vbfydc"
+ },
+ {
+  "id": "lichess-2013-01-68273",
+  "fen": "r1bqk1nr/pppp1pp1/2n4p/4p3/1bB1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5",
+  "ply": 8,
+  "human_move": "c3d5",
+  "human_rating": 1896,
+  "time_control": "300+1",
+  "url": "https://lichess.org/06alkqht"
+ },
+ {
+  "id": "lichess-2013-01-68377",
+  "fen": "rn2k2r/ppp2pp1/8/5pBP/3qp3/5P1N/P1P1Q3/b2K3R w kq - 0 18",
+  "ply": 34,
+  "human_move": "g5d2",
+  "human_rating": 1576,
+  "time_control": "120+0",
+  "url": "https://lichess.org/1p9hrlmn"
+ },
+ {
+  "id": "lichess-2013-01-68696",
+  "fen": "rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "g1f3",
+  "human_rating": 1720,
+  "time_control": "120+0",
+  "url": "https://lichess.org/2hlp4va0"
+ },
+ {
+  "id": "lichess-2013-01-68731",
+  "fen": "2r2rk1/p1qnbpp1/b1n1p2p/3pP1NQ/2pP1B1P/2P3P1/P4PBN/R3R1K1 b - - 1 19",
+  "ply": 37,
+  "human_move": "h6g5",
+  "human_rating": 1940,
+  "time_control": "120+0",
+  "url": "https://lichess.org/n52n8alz"
+ },
+ {
+  "id": "lichess-2013-01-68765",
+  "fen": "r1b1k2r/ppp1q1pp/2np1p2/8/1bP2Bn1/3B1N2/PPQN1PPP/R4K1R b kq - 1 11",
+  "ply": 21,
+  "human_move": "g4e5",
+  "human_rating": 1888,
+  "time_control": "900+5",
+  "url": "https://lichess.org/r7e90akf"
+ },
+ {
+  "id": "lichess-2013-01-68984",
+  "fen": "2r2r1k/6b1/3p1q2/p1nP1p1p/1p6/1P2PP1P/P2Q2RN/2R2K2 b - - 5 34",
+  "ply": 67,
+  "human_move": "g7h6",
+  "human_rating": 1900,
+  "time_control": "60+0",
+  "url": "https://lichess.org/trjhqg78"
+ },
+ {
+  "id": "lichess-2013-01-69116",
+  "fen": "r1b1k2r/ppq1bppp/2n1pn2/8/2N1BB2/2P2NP1/PP2QP1P/R4RK1 b kq - 8 12",
+  "ply": 23,
+  "human_move": "e6e5",
+  "human_rating": 1804,
+  "time_control": "60+0",
+  "url": "https://lichess.org/yqk0yf9q"
+ },
+ {
+  "id": "lichess-2013-01-69271",
+  "fen": "rnbqkb1r/ppp2ppp/3p1n2/8/2BQ4/5N2/PPP2PPP/RNB2RK1 w kq - 1 7",
+  "ply": 12,
+  "human_move": "f1e1",
+  "human_rating": 1724,
+  "time_control": "120+2",
+  "url": "https://lichess.org/faxsmjep"
+ },
+ {
+  "id": "lichess-2013-01-69328",
+  "fen": "1k2rb1r/1pp1qpp1/p1np1nb1/4P1B1/3P4/2PB1N1P/PP1NQ3/2K1R2R b - - 0 16",
+  "ply": 31,
+  "human_move": "d6e5",
+  "human_rating": 1905,
+  "time_control": "60+1",
+  "url": "https://lichess.org/r3xzo0d0"
+ },
+ {
+  "id": "lichess-2013-01-69538",
+  "fen": "6r1/ppp4k/7p/3p1q2/P4B2/5Q2/2P4K/6R1 b - - 0 30",
+  "ply": 59,
+  "human_move": "f5c2",
+  "human_rating": 1320,
+  "time_control": "600+10",
+  "url": "https://lichess.org/h340zlhz"
+ },
+ {
+  "id": "lichess-2013-01-69676",
+  "fen": "rn1qkb1r/p3pppp/bpp2n2/2Pp4/1P1P4/5N2/P3PPPP/RNBQKB1R w KQkq - 1 6",
+  "ply": 10,
+  "human_move": "a2a4",
+  "human_rating": 1609,
+  "time_control": "480+5",
+  "url": "https://lichess.org/lb520m1q"
+ },
+ {
+  "id": "lichess-2013-01-69896",
+  "fen": "2r5/1p3k2/5N1p/q3p1r1/5p2/pPpPbP2/P1K3R1/1Q1R4 w - - 2 41",
+  "ply": 80,
+  "human_move": "g2g5",
+  "human_rating": 1607,
+  "time_control": "240+0",
+  "url": "https://lichess.org/urzwahak"
+ },
+ {
+  "id": "lichess-2013-01-69960",
+  "fen": "r2qk1nr/1ppbbppp/p1n5/1B2p3/Q7/5N2/PB3PPP/RN2R1K1 w kq - 0 12",
+  "ply": 22,
+  "human_move": "b5c6",
+  "human_rating": 1431,
+  "time_control": "300+8",
+  "url": "https://lichess.org/usl0e66v"
+ },
+ {
+  "id": "lichess-2013-01-70742",
+  "fen": "r1bq1rk1/ppp2ppp/2np1n2/2bNp1N1/2B1P3/3P4/PPP2PPP/R1BQK2R b KQ - 1 7",
+  "ply": 13,
+  "human_move": "c6a5",
+  "human_rating": 1501,
+  "time_control": "120+0",
+  "url": "https://lichess.org/tn7m5ky3"
+ },
+ {
+  "id": "lichess-2013-01-71188",
+  "fen": "2N5/5p1p/1p6/1P1P1kp1/1P2P3/6P1/7P/6K1 b - - 0 37",
+  "ply": 73,
+  "human_move": "f5e5",
+  "human_rating": 1788,
+  "time_control": "300+2",
+  "url": "https://lichess.org/3q29i6pt"
+ },
+ {
+  "id": "lichess-2013-01-71230",
+  "fen": "r1bqkb1r/pp1npppp/2p2B2/3p4/3P4/P1N5/1PP1PPPP/R2QKBNR b KQkq - 0 5",
+  "ply": 9,
+  "human_move": "d7f6",
+  "human_rating": 1769,
+  "time_control": "120+0",
+  "url": "https://lichess.org/ffn3ikws"
+ },
+ {
+  "id": "lichess-2013-01-71306",
+  "fen": "r4rk1/pp1nbppp/2pp1n2/5b2/8/2P1P1P1/PP1NNPBP/R1B1K2R w KQ - 3 11",
+  "ply": 20,
+  "human_move": "e1g1",
+  "human_rating": 1621,
+  "time_control": "120+0",
+  "url": "https://lichess.org/li5n99ac"
+ },
+ {
+  "id": "lichess-2013-01-71895",
+  "fen": "rnbqk2r/ppb3pp/2p1p3/2Pp1p2/3PnP2/3BPN2/PP1N2PP/R1BQK2R w KQkq - 1 9",
+  "ply": 16,
+  "human_move": "d3e4",
+  "human_rating": 1704,
+  "time_control": "180+0",
+  "url": "https://lichess.org/uixig72u"
+ },
+ {
+  "id": "lichess-2013-01-71938",
+  "fen": "r5k1/6pp/1p2p2r/1P3p2/pPpP1P2/2P1q3/2R3R1/5K2 b - - 3 38",
+  "ply": 75,
+  "human_move": "e3f4",
+  "human_rating": 1703,
+  "time_control": "0+1",
+  "url": "https://lichess.org/o49afnt3"
+ },
+ {
+  "id": "lichess-2013-01-71965",
+  "fen": "rn1qk2r/pbpp1ppp/1p2pn2/8/1bPPP3/2NB4/PPQ2PPP/R1B1K1NR b KQkq - 4 6",
+  "ply": 11,
+  "human_move": "d7d5",
+  "human_rating": 1973,
+  "time_control": "60+0",
+  "url": "https://lichess.org/kjvxm9pu"
+ },
+ {
+  "id": "lichess-2013-01-72654",
+  "fen": "2k3nr/pbp3q1/1nr2p2/4p1pp/1P2P3/P2B1NBP/3Q1PP1/R3K2R b KQ - 3 18",
+  "ply": 35,
+  "human_move": "g8e7",
+  "human_rating": 1301,
+  "time_control": "60+0",
+  "url": "https://lichess.org/x4cmkz0b"
+ },
+ {
+  "id": "lichess-2013-01-72912",
+  "fen": "1k1r1bnr/1p1nqpp1/p2Nb2p/3pP3/Q1p2B2/5N2/PP2BPPP/R4RK1 w - - 0 16",
+  "ply": 30,
+  "human_move": "a4b4",
+  "human_rating": 1744,
+  "time_control": "60+1",
+  "url": "https://lichess.org/s0ooda8i"
+ },
+ {
+  "id": "lichess-2013-01-73000",
+  "fen": "rn1q1rk1/3nbpp1/2p4p/p1Pp4/Np1p4/1P1BP1B1/P4PPP/2KQN2R w - - 0 17",
+  "ply": 32,
+  "human_move": "e3d4",
+  "human_rating": 1953,
+  "time_control": "60+0",
+  "url": "https://lichess.org/k2vw6sck"
+ },
+ {
+  "id": "lichess-2013-01-73024",
+  "fen": "6k1/pp4pp/4p3/3pP3/PbbBp3/4P3/2P3PP/5NK1 w - - 1 23",
+  "ply": 44,
+  "human_move": "d4a7",
+  "human_rating": 1349,
+  "time_control": "60+0",
+  "url": "https://lichess.org/erpcjqvo"
+ },
+ {
+  "id": "lichess-2013-01-73252",
+  "fen": "r2qkb1r/ppp2ppp/2n2n2/4P3/2Bp4/5N2/PP3PPP/R1BQ1RK1 b kq - 0 9",
+  "ply": 17,
+  "human_move": "f6g4",
+  "human_rating": 1302,
+  "time_control": "60+10",
+  "url": "https://lichess.org/0jpm79fc"
+ },
+ {
+  "id": "lichess-2013-01-73332",
+  "fen": "3r1rk1/ppp3p1/2n4p/8/2P1p2b/1P5P/PBQN1Pq1/2KR1R2 b - - 3 21",
+  "ply": 41,
+  "human_move": "h4f2",
+  "human_rating": 1716,
+  "time_control": "0+1",
+  "url": "https://lichess.org/qvt23yfr"
+ },
+ {
+  "id": "lichess-2013-01-73594",
+  "fen": "r4N2/pp4pQ/2kpp3/2p5/4P1B1/1PP5/P1P2PPP/R1B2RK1 b - - 0 19",
+  "ply": 37,
+  "human_move": "a8f8",
+  "human_rating": 1382,
+  "time_control": "300+12",
+  "url": "https://lichess.org/jtoeatbo"
+ },
+ {
+  "id": "lichess-2013-01-73699",
+  "fen": "rnb2rk1/pp2bppp/1np1p3/4P3/2P2P1q/P3B3/1PQ1K1BP/RN4NR w - - 1 14",
+  "ply": 26,
+  "human_move": "g1f3",
+  "human_rating": 1816,
+  "time_control": "420+2",
+  "url": "https://lichess.org/vgl2518h"
+ },
+ {
+  "id": "lichess-2013-01-73792",
+  "fen": "r2qk2r/ppp2ppp/2n1p3/3P4/1bB1n1b1/2N1BN2/PP3PPP/R2QK2R w KQkq - 0 9",
+  "ply": 16,
+  "human_move": "d5c6",
+  "human_rating": 1929,
+  "time_control": "600+5",
+  "url": "https://lichess.org/74oej35r"
+ },
+ {
+  "id": "lichess-2013-01-74159",
+  "fen": "r5k1/ppp3p1/3b1q1p/8/2P5/6P1/P1Q2P1P/4R1K1 b - - 0 25",
+  "ply": 49,
+  "human_move": "a8f8",
+  "human_rating": 1500,
+  "time_control": "60+2",
+  "url": "https://lichess.org/qo693m88"
+ },
+ {
+  "id": "lichess-2013-01-74588",
+  "fen": "1r2k2r/p1pq4/1p1bpnp1/5p1p/P1P2P2/2N1PQ1P/1P4P1/R1B2RK1 w k - 1 18",
+  "ply": 34,
+  "human_move": "c3b5",
+  "human_rating": 1551,
+  "time_control": "840+0",
+  "url": "https://lichess.org/636csljs"
+ },
+ {
+  "id": "lichess-2013-01-74851",
+  "fen": "r1bq1rk1/pp3pp1/2np1b1p/2pNp3/2P5/3P1NP1/PP2PPBP/R2Q1RK1 b - - 1 10",
+  "ply": 19,
+  "human_move": "c8e6",
+  "human_rating": 1833,
+  "time_control": "240+0",
+  "url": "https://lichess.org/qlh7m4b4"
+ },
+ {
+  "id": "lichess-2013-01-75020",
+  "fen": "r1b2rk1/ppppq1pp/2B2n2/2b2pB1/2P5/1QNp2P1/PP2PP1P/R3K1NR b KQ - 0 10",
+  "ply": 19,
+  "human_move": "d7c6",
+  "human_rating": 2184,
+  "time_control": "60+0",
+  "url": "https://lichess.org/rql3o34c"
+ },
+ {
+  "id": "lichess-2013-01-75050",
+  "fen": "r3kb1r/1pp2p1p/p1q1bnp1/4N3/PP2p3/2PPQ2P/5PP1/RNB1K2R b KQkq - 0 14",
+  "ply": 27,
+  "human_move": "c6d6",
+  "human_rating": 1364,
+  "time_control": "300+3",
+  "url": "https://lichess.org/dc0mbg7a"
+ },
+ {
+  "id": "lichess-2013-01-75166",
+  "fen": "3r4/p3q2k/1p2P1pp/3Q4/2p5/P1P4P/6P1/4R2K b - - 0 30",
+  "ply": 59,
+  "human_move": "d8d5",
+  "human_rating": 1668,
+  "time_control": "60+0",
+  "url": "https://lichess.org/pef6q1ni"
+ },
+ {
+  "id": "lichess-2013-01-75224",
+  "fen": "r4k1r/pb1pnp1p/1p1q4/2pPp2N/4P3/P1N5/1PP1BPPP/R2QK2R w KQ - 2 16",
+  "ply": 30,
+  "human_move": "c3b5",
+  "human_rating": 1593,
+  "time_control": "1200+0",
+  "url": "https://lichess.org/ka26twkv"
+ },
+ {
+  "id": "lichess-2013-01-75248",
+  "fen": "r1b2rk1/3qbppp/p1p1p3/2pp4/5PP1/1P2P3/PBPP3P/RN1Q1RK1 w - - 0 13",
+  "ply": 24,
+  "human_move": "g4g5",
+  "human_rating": 1849,
+  "time_control": "60+1",
+  "url": "https://lichess.org/8su5ab8r"
+ },
+ {
+  "id": "lichess-2013-01-75651",
+  "fen": "2R2r1k/p5pn/4B1bp/5p2/3P4/P3P3/1r3PPP/2R3K1 w - - 3 27",
+  "ply": 52,
+  "human_move": "d4d5",
+  "human_rating": 1299,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/qzddiqyr"
+ },
+ {
+  "id": "lichess-2013-01-75713",
+  "fen": "3R4/p1p3pk/2p2q1p/8/4p1PP/1P6/P1PQ4/1K6 b - - 2 30",
+  "ply": 59,
+  "human_move": "f6e7",
+  "human_rating": 1643,
+  "time_control": "300+0",
+  "url": "https://lichess.org/51cb0qs7"
+ },
+ {
+  "id": "lichess-2013-01-75781",
+  "fen": "r2q1rk1/pbpnbppn/1p1p3p/4pP2/4P1P1/3P2NP/PPPN2B1/R1BQ1RK1 b - - 3 12",
+  "ply": 23,
+  "human_move": "e7g5",
+  "human_rating": 1723,
+  "time_control": "60+0",
+  "url": "https://lichess.org/h9ntepqz"
+ },
+ {
+  "id": "lichess-2013-01-76081",
+  "fen": "4k3/2P5/1R2P3/1P4p1/6P1/p4K2/P7/8 w - - 1 46",
+  "ply": 90,
+  "human_move": "c7c8q",
+  "human_rating": 1808,
+  "time_control": "240+0",
+  "url": "https://lichess.org/mkuh75zf"
+ },
+ {
+  "id": "lichess-2013-01-76244",
+  "fen": "8/4R3/7p/r5p1/3k4/2n3P1/3N1PKP/8 w - - 0 44",
+  "ply": 86,
+  "human_move": "d2b3",
+  "human_rating": 1478,
+  "time_control": "480+8",
+  "url": "https://lichess.org/gugfnlf0"
+ },
+ {
+  "id": "lichess-2013-01-76279",
+  "fen": "r1bqkbnr/pppp1pp1/2n4p/8/2BpP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 5",
+  "ply": 9,
+  "human_move": "g8f6",
+  "human_rating": 1694,
+  "time_control": "480+8",
+  "url": "https://lichess.org/yfhbfqkk"
+ },
+ {
+  "id": "lichess-2013-01-76311",
+  "fen": "4r1k1/p4p2/2p3p1/1p1p4/2bP4/B1Pq1PQ1/P5P1/2R3K1 w - - 0 26",
+  "ply": 50,
+  "human_move": "c1b1",
+  "human_rating": 1800,
+  "time_control": "60+0",
+  "url": "https://lichess.org/ukh0hqwb"
+ },
+ {
+  "id": "lichess-2013-01-76445",
+  "fen": "5r2/2R2pk1/1p4p1/1B1PP3/P6Q/7P/5PP1/6K1 b - - 0 43",
+  "ply": 85,
+  "human_move": "f8h8",
+  "human_rating": 1473,
+  "time_control": "180+1",
+  "url": "https://lichess.org/yc6zp24v"
+ },
+ {
+  "id": "lichess-2013-01-76622",
+  "fen": "r4rk1/1ppq1ppp/p7/3pb3/8/N3PPnP/PPP2QP1/R1B2RK1 b - - 2 15",
+  "ply": 29,
+  "human_move": "g3f1",
+  "human_rating": 1430,
+  "time_control": "480+8",
+  "url": "https://lichess.org/uc4f0vg7"
+ },
+ {
+  "id": "lichess-2013-01-76669",
+  "fen": "rnbq1r1k/pp2b1p1/2p5/8/2PPB3/1P3p2/PBQ2PPP/RN2R1K1 b - - 2 16",
+  "ply": 31,
+  "human_move": "f3g2",
+  "human_rating": 1276,
+  "time_control": "120+3",
+  "url": "https://lichess.org/c39hss2n"
+ },
+ {
+  "id": "lichess-2013-01-77150",
+  "fen": "rn1qk1nr/p1ppp1bp/1p4p1/4P3/3P4/2PB4/PP4bP/RNBQK2R w KQkq - 0 10",
+  "ply": 18,
+  "human_move": "h1g1",
+  "human_rating": 1803,
+  "time_control": "0+1",
+  "url": "https://lichess.org/r2bavi8o"
+ },
+ {
+  "id": "lichess-2013-01-77355",
+  "fen": "rnbq1rk1/ppp2pbp/3p1np1/4p1B1/2B1P3/3P1Q2/PPP2PPP/RN2K1NR w KQ - 3 7",
+  "ply": 12,
+  "human_move": "b1c3",
+  "human_rating": 1234,
+  "time_control": "420+0",
+  "url": "https://lichess.org/it0krryf"
+ },
+ {
+  "id": "lichess-2013-01-77363",
+  "fen": "r2q1rk1/p1pn1ppp/2Q2n2/8/2BpP3/P1P5/5PPP/R1BR2K1 w - - 0 15",
+  "ply": 28,
+  "human_move": "d1d4",
+  "human_rating": 1487,
+  "time_control": "300+0",
+  "url": "https://lichess.org/mwh8olgc"
+ },
+ {
+  "id": "lichess-2013-01-77468",
+  "fen": "r1bqk2r/pp1n1ppp/2p1pn2/3p4/1bPP4/2NBPN2/PPQ2PPP/R1B1K2R b KQkq - 4 7",
+  "ply": 13,
+  "human_move": "e8g8",
+  "human_rating": 1454,
+  "time_control": "300+0",
+  "url": "https://lichess.org/3kcz4u83"
+ },
+ {
+  "id": "lichess-2013-01-77609",
+  "fen": "r5nr/pp2k1pp/5P2/1B4B1/1b6/2p4P/PP3PP1/2KR3R b - - 0 16",
+  "ply": 31,
+  "human_move": "g7f6",
+  "human_rating": 1227,
+  "time_control": "600+10",
+  "url": "https://lichess.org/d1wgf5p3"
+ },
+ {
+  "id": "lichess-2013-01-77628",
+  "fen": "R5k1/6bp/6p1/4p3/7B/7P/4rPPK/8 b - - 23 40",
+  "ply": 79,
+  "human_move": "g8f7",
+  "human_rating": 1363,
+  "time_control": "60+3",
+  "url": "https://lichess.org/i0c6e80p"
+ },
+ {
+  "id": "lichess-2013-01-77809",
+  "fen": "r1q1k2r/ppp1nppp/3p4/3P2bP/Q1PN1p2/3B1P2/PP3PP1/R3K2R b KQkq - 5 14",
+  "ply": 27,
+  "human_move": "c7c6",
+  "human_rating": 1626,
+  "time_control": "300+2",
+  "url": "https://lichess.org/xgq10953"
+ },
+ {
+  "id": "lichess-2013-01-78170",
+  "fen": "2kr4/1p3p2/pR2bp1p/2p5/2P1Pp2/P2B1P2/2P2K1P/6r1 b - - 1 20",
+  "ply": 39,
+  "human_move": "d8g8",
+  "human_rating": 1864,
+  "time_control": "60+0",
+  "url": "https://lichess.org/1v3hq6dc"
+ },
+ {
+  "id": "lichess-2013-01-78405",
+  "fen": "r1bq1rk1/pppnppbp/6p1/4P3/2PP1B2/2N5/PP2B1PP/R2QK1NR w KQ - 1 10",
+  "ply": 18,
+  "human_move": "g1f3",
+  "human_rating": 1857,
+  "time_control": "180+0",
+  "url": "https://lichess.org/2rlshli6"
+ },
+ {
+  "id": "lichess-2013-01-79297",
+  "fen": "rnbqkb1r/pp2ppp1/2p2n1p/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 2 5",
+  "ply": 9,
+  "human_move": "c8f5",
+  "human_rating": 1708,
+  "time_control": "600+8",
+  "url": "https://lichess.org/88hzf0ty"
+ },
+ {
+  "id": "lichess-2013-01-79299",
+  "fen": "5r2/4Rp1k/5Ppp/7q/p1p5/4Q2P/PPP3P1/2K1R3 w - - 1 28",
+  "ply": 54,
+  "human_move": "g2g4",
+  "human_rating": 1525,
+  "time_control": "300+0",
+  "url": "https://lichess.org/kuz7fned"
+ },
+ {
+  "id": "lichess-2013-01-79453",
+  "fen": "r2q1rk1/pp3ppp/2pb2n1/7b/3P2n1/2NBBN1P/PP3P2/R2QR1K1 w - - 0 15",
+  "ply": 28,
+  "human_move": "h3g4",
+  "human_rating": 1843,
+  "time_control": "180+2",
+  "url": "https://lichess.org/qnrbydof"
+ },
+ {
+  "id": "lichess-2013-01-79637",
+  "fen": "rn1qk2r/pbpp1ppp/1p2pn2/8/1b1PP3/2NB1N2/PPP1QPPP/R1B1K2R b KQkq - 5 6",
+  "ply": 11,
+  "human_move": "d7d5",
+  "human_rating": 1948,
+  "time_control": "0+1",
+  "url": "https://lichess.org/70ylekd8"
+ },
+ {
+  "id": "lichess-2013-01-79860",
+  "fen": "6k1/1p4pp/p3p1q1/3pP3/bP1N4/P1P4P/6PK/4Q3 w - - 3 26",
+  "ply": 50,
+  "human_move": "e1g3",
+  "human_rating": 1846,
+  "time_control": "0+1",
+  "url": "https://lichess.org/q4n44fhl"
+ },
+ {
+  "id": "lichess-2013-01-79965",
+  "fen": "r1b1k2r/ppp2ppp/2np4/3n4/8/4N3/PPP1B1PP/R3K1NR b KQkq - 0 12",
+  "ply": 23,
+  "human_move": "d5e3",
+  "human_rating": 1868,
+  "time_control": "540+0",
+  "url": "https://lichess.org/mslirtz9"
+ },
+ {
+  "id": "lichess-2013-01-79969",
+  "fen": "r1b3nN/1p1kq1bp/p5p1/3pn3/3p1P1P/1P6/PBP3P1/RN3RK1 b - - 0 16",
+  "ply": 31,
+  "human_move": "e5g4",
+  "human_rating": 1455,
+  "time_control": "480+7",
+  "url": "https://lichess.org/a1c73i12"
+ },
+ {
+  "id": "lichess-2013-01-80087",
+  "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 5",
+  "ply": 9,
+  "human_move": "e8g8",
+  "human_rating": 1702,
+  "time_control": "1200+8",
+  "url": "https://lichess.org/d6lgnzwb"
+ },
+ {
+  "id": "lichess-2013-01-80342",
+  "fen": "6k1/2p3pp/1p1p4/1P3r2/2P1n3/5N1P/5PP1/5RK1 w - - 0 27",
+  "ply": 52,
+  "human_move": "f1e1",
+  "human_rating": 1872,
+  "time_control": "300+0",
+  "url": "https://lichess.org/g7ig00dn"
+ },
+ {
+  "id": "lichess-2013-01-80473",
+  "fen": "r1bqk2r/ppp1bppp/2n5/6B1/3pN3/5N2/PPP2PPP/R2QR1K1 b kq - 2 10",
+  "ply": 19,
+  "human_move": "c8e6",
+  "human_rating": 1904,
+  "time_control": "180+3",
+  "url": "https://lichess.org/4tmrof2v"
+ },
+ {
+  "id": "lichess-2013-01-80844",
+  "fen": "5R2/2p4b/1k1p4/pP6/2P1P3/1K1P4/8/8 w - - 3 48",
+  "ply": 94,
+  "human_move": "f8b8",
+  "human_rating": 1735,
+  "time_control": "60+1",
+  "url": "https://lichess.org/q59hkgq6"
+ },
+ {
+  "id": "lichess-2013-01-81067",
+  "fen": "r1bq1rk1/1n2b1p1/3p1p1p/p2Pp3/1P2PP2/P3BBPP/2Q4N/R1R3K1 b - - 0 26",
+  "ply": 51,
+  "human_move": "a5b4",
+  "human_rating": 1677,
+  "time_control": "180+3",
+  "url": "https://lichess.org/qxhj1hy2"
+ },
+ {
+  "id": "lichess-2013-01-81361",
+  "fen": "8/3r1rpk/p1p1q2p/1pP1Pp1Q/1Pn2P2/P5R1/7P/2B1R1K1 b - - 3 39",
+  "ply": 77,
+  "human_move": "d7e7",
+  "human_rating": 1524,
+  "time_control": "480+5",
+  "url": "https://lichess.org/p78j1cza"
+ },
+ {
+  "id": "lichess-2013-01-82079",
+  "fen": "5b1r/4n1pp/1kbp1p2/2n5/8/R3P3/1P1BNPPP/4KB1R w K - 6 23",
+  "ply": 44,
+  "human_move": "e2d4",
+  "human_rating": 1465,
+  "time_control": "60+0",
+  "url": "https://lichess.org/mahz1gul"
+ },
+ {
+  "id": "lichess-2013-01-82272",
+  "fen": "r2q1rk1/pp1bppbp/2np1np1/2p5/2B1P3/1PNP1N1P/PBP2PP1/R2QK2R w KQ - 1 9",
+  "ply": 16,
+  "human_move": "c4d5",
+  "human_rating": 1699,
+  "time_control": "900+8",
+  "url": "https://lichess.org/5ue31776"
+ },
+ {
+  "id": "lichess-2013-01-82894",
+  "fen": "8/8/8/5k2/2b2P1P/2P1n1PK/8/8 w - - 3 49",
+  "ply": 96,
+  "human_move": "h4h5",
+  "human_rating": 1874,
+  "time_control": "0+1",
+  "url": "https://lichess.org/c5b9ehvs"
+ },
+ {
+  "id": "lichess-2013-01-83385",
+  "fen": "rnb1kb1r/pp2pp1p/6p1/2pq4/5P2/3P1N2/PPP3PP/R1BQKB1R b KQkq - 1 7",
+  "ply": 13,
+  "human_move": "f8g7",
+  "human_rating": 1969,
+  "time_control": "300+8",
+  "url": "https://lichess.org/2ry0tn66"
+ },
+ {
+  "id": "lichess-2013-01-83788",
+  "fen": "r2qkb1r/pp2nbpp/2n5/2p1QN2/3pP3/3P4/PPP3PP/R1B1KBNR w KQkq - 3 11",
+  "ply": 20,
+  "human_move": "f5d6",
+  "human_rating": 1831,
+  "time_control": "300+2",
+  "url": "https://lichess.org/e3try1tq"
+ },
+ {
+  "id": "lichess-2013-01-84161",
+  "fen": "8/8/3p4/p1pP2kp/1pP5/1P5K/P7/8 w - - 0 38",
+  "ply": 74,
+  "human_move": "h3g3",
+  "human_rating": 1454,
+  "time_control": "720+0",
+  "url": "https://lichess.org/8g7rwztw"
+ },
+ {
+  "id": "lichess-2013-01-84184",
+  "fen": "7k/p5p1/1p2r2p/8/1PP5/1K2B3/P7/8 w - - 2 51",
+  "ply": 100,
+  "human_move": "e3f2",
+  "human_rating": 1741,
+  "time_control": "0+1",
+  "url": "https://lichess.org/0ibhmeky"
+ },
+ {
+  "id": "lichess-2013-01-84202",
+  "fen": "3rn1k1/p3qp1p/1p2n1p1/2p1P3/2P5/2Q5/PB4PP/R2b2K1 b - - 1 25",
+  "ply": 49,
+  "human_move": "e7g5",
+  "human_rating": 1285,
+  "time_control": "60+0",
+  "url": "https://lichess.org/94gsy0ie"
+ },
+ {
+  "id": "lichess-2013-01-84322",
+  "fen": "r2qkb1r/ppp2ppp/2np1n2/4p3/4P1b1/2PP1NP1/PP3PBP/RNBQK2R b KQkq - 2 6",
+  "ply": 11,
+  "human_move": "f8e7",
+  "human_rating": 1482,
+  "time_control": "300+5",
+  "url": "https://lichess.org/puff2t4p"
+ },
+ {
+  "id": "lichess-2013-01-84465",
+  "fen": "2r3k1/6p1/2p5/2Pp1p1b/1P6/P6P/5q2/2KR4 b - - 1 47",
+  "ply": 93,
+  "human_move": "f2e3",
+  "human_rating": 1805,
+  "time_control": "240+10",
+  "url": "https://lichess.org/29xnj29u"
+ },
+ {
+  "id": "lichess-2013-01-84697",
+  "fen": "r1b1k1nr/ppp1bppp/2npp3/4P3/3P2q1/3B1N2/PPP2PK1/RNBQ3R w kq - 2 13",
+  "ply": 24,
+  "human_move": "g2f1",
+  "human_rating": 1365,
+  "time_control": "300+0",
+  "url": "https://lichess.org/xwt5t8pt"
+ },
+ {
+  "id": "lichess-2013-01-84722",
+  "fen": "rn1qkb1r/pp3pp1/2p1pnp1/6B1/3P4/2N5/PPP2QPP/2KR1B1R b kq - 1 11",
+  "ply": 21,
+  "human_move": "b8d7",
+  "human_rating": 1597,
+  "time_control": "240+10",
+  "url": "https://lichess.org/fbbzvd98"
+ },
+ {
+  "id": "lichess-2013-01-84737",
+  "fen": "r5k1/2p1q1b1/ppNnprpp/3n4/3P1p2/1PP2NB1/P1Q2PPP/R3R1K1 b - - 1 22",
+  "ply": 43,
+  "human_move": "e7e8",
+  "human_rating": 1785,
+  "time_control": "120+0",
+  "url": "https://lichess.org/4o1dcwye"
+ },
+ {
+  "id": "lichess-2013-01-85862",
+  "fen": "r1bqkbnr/1pp3pp/p1n5/3p4/3Pp1P1/1P2P3/PBP4P/RN1QKBNR b KQkq - 0 8",
+  "ply": 15,
+  "human_move": "d8h4",
+  "human_rating": 1434,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/jzwglown"
+ },
+ {
+  "id": "lichess-2013-01-86450",
+  "fen": "r1bqk2r/ppp1bppp/2np1n2/8/3N4/4P1P1/PPP2PBP/RNBQ1RK1 b kq - 0 7",
+  "ply": 13,
+  "human_move": "c6d4",
+  "human_rating": 1482,
+  "time_control": "120+5",
+  "url": "https://lichess.org/ll7bxff1"
+ },
+ {
+  "id": "lichess-2013-01-86762",
+  "fen": "6r1/2b2krp/1P3p2/P2pp3/4p3/5NP1/5P1P/2R2RK1 b - - 0 31",
+  "ply": 61,
+  "human_move": "c7b8",
+  "human_rating": 1717,
+  "time_control": "300+0",
+  "url": "https://lichess.org/gmse2n4s"
+ },
+ {
+  "id": "lichess-2013-01-86995",
+  "fen": "r4rk1/p1qnbppp/b1p1p3/1p1nP3/1P1P4/PQNBBN2/5PPP/R3R1K1 b - - 2 14",
+  "ply": 27,
+  "human_move": "d5e3",
+  "human_rating": 1492,
+  "time_control": "240+0",
+  "url": "https://lichess.org/qhxfss23"
+ },
+ {
+  "id": "lichess-2013-01-87282",
+  "fen": "r1bk1b1r/ppNp1ppp/4qn2/4n1B1/8/5N2/PPP2PPP/R2QKB1R w KQ - 3 11",
+  "ply": 20,
+  "human_move": "c7e6",
+  "human_rating": 1509,
+  "time_control": "300+0",
+  "url": "https://lichess.org/9k19ei4n"
+ },
+ {
+  "id": "lichess-2013-01-87396",
+  "fen": "r1bqkbnr/ppp1pppp/8/8/2BnP3/5N2/PP3PPP/RNBQK2R b KQkq - 1 5",
+  "ply": 9,
+  "human_move": "d4f3",
+  "human_rating": 1536,
+  "time_control": "600+0",
+  "url": "https://lichess.org/vlgus3bs"
+ },
+ {
+  "id": "lichess-2013-01-87452",
+  "fen": "r1b2rk1/ppp2ppp/8/4n3/3p4/1BP5/PB3PPP/RN3RK1 w - - 0 17",
+  "ply": 32,
+  "human_move": "c3d4",
+  "human_rating": 1848,
+  "time_control": "1320+8",
+  "url": "https://lichess.org/nmh7g2ba"
+ },
+ {
+  "id": "lichess-2013-01-88290",
+  "fen": "rnbqkbnr/3p1ppp/p1p1p3/1p6/1P2P3/1B1P4/P1P2PPP/RNBQK1NR b KQkq - 1 5",
+  "ply": 9,
+  "human_move": "c8b7",
+  "human_rating": 1571,
+  "time_control": "420+9",
+  "url": "https://lichess.org/rnmm979m"
+ },
+ {
+  "id": "lichess-2013-01-88389",
+  "fen": "r2qkb1r/ppp2ppp/2bp1n2/4p3/4P3/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "d2d3",
+  "human_rating": 1607,
+  "time_control": "300+4",
+  "url": "https://lichess.org/2lmlfbad"
+ },
+ {
+  "id": "lichess-2013-01-88550",
+  "fen": "r3kb1r/5ppp/1n1p1q2/p2P3Q/2P1P3/5N2/PP3PPP/R3K2R b KQkq - 0 14",
+  "ply": 27,
+  "human_move": "f6b2",
+  "human_rating": 1442,
+  "time_control": "900+0",
+  "url": "https://lichess.org/omy6z3zw"
+ },
+ {
+  "id": "lichess-2013-01-88767",
+  "fen": "1k1r1b1r/pp1q1pp1/2pp2b1/4n3/4PRP1/1BNP4/PPPB2Q1/5RK1 b - - 0 18",
+  "ply": 35,
+  "human_move": "f7f6",
+  "human_rating": 1593,
+  "time_control": "60+1",
+  "url": "https://lichess.org/x81ajrd3"
+ },
+ {
+  "id": "lichess-2013-01-89008",
+  "fen": "8/p3k3/n7/4P3/4K3/8/B1P4P/8 w - - 0 48",
+  "ply": 94,
+  "human_move": "e5e6",
+  "human_rating": 1793,
+  "time_control": "0+1",
+  "url": "https://lichess.org/41unxvqd"
+ },
+ {
+  "id": "lichess-2013-01-89237",
+  "fen": "r1bqkbnr/ppp2ppp/2np4/4P3/5B2/3BP3/PPP2PPP/RN1QK1NR b KQkq - 0 5",
+  "ply": 9,
+  "human_move": "d6e5",
+  "human_rating": 1504,
+  "time_control": "300+0",
+  "url": "https://lichess.org/rscawwoo"
+ },
+ {
+  "id": "lichess-2013-01-89400",
+  "fen": "rnb1kbnr/ppp2ppp/4p3/4q3/8/2N2N2/PPPPBPPP/R1BQK2R b KQkq - 1 5",
+  "ply": 9,
+  "human_move": "e5d6",
+  "human_rating": 1306,
+  "time_control": "900+3",
+  "url": "https://lichess.org/yz50ltlu"
+ },
+ {
+  "id": "lichess-2013-01-89518",
+  "fen": "r4rk1/ppq2p1p/4pbp1/3pn3/N7/1BP1Q2P/PP3PP1/3RR1K1 w - - 0 21",
+  "ply": 40,
+  "human_move": "e3c5",
+  "human_rating": 1747,
+  "time_control": "480+0",
+  "url": "https://lichess.org/xtqiagxf"
+ },
+ {
+  "id": "lichess-2013-01-89828",
+  "fen": "rnbqk2r/ppp2ppp/3bpn2/4N3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 1 6",
+  "ply": 10,
+  "human_move": "c1f4",
+  "human_rating": 1898,
+  "time_control": "60+0",
+  "url": "https://lichess.org/dh4g6xxd"
+ },
+ {
+  "id": "lichess-2013-01-90367",
+  "fen": "r2qk2r/ppp2pbp/3p1np1/4p3/3nP1b1/3P1NP1/PPPNKPBP/R1BQ3R w kq - 6 9",
+  "ply": 16,
+  "human_move": "e2e3",
+  "human_rating": 1442,
+  "time_control": "0+1",
+  "url": "https://lichess.org/udkhwvow"
+ },
+ {
+  "id": "lichess-2013-01-90560",
+  "fen": "r3k2r/1p1qbpp1/p1nppn1p/8/3NPP2/2N1B3/PPP3PP/R2Q1R1K w kq - 4 12",
+  "ply": 22,
+  "human_move": "d1f3",
+  "human_rating": 1905,
+  "time_control": "180+0",
+  "url": "https://lichess.org/1b0n35ke"
+ },
+ {
+  "id": "lichess-2013-01-90639",
+  "fen": "r2qkb1r/ppp2ppp/2n2n2/3pp3/3P4/1P3PP1/PBP2P1P/RN1QKB1R w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "d4e5",
+  "human_rating": 1724,
+  "time_control": "300+0",
+  "url": "https://lichess.org/w86ic0bs"
+ },
+ {
+  "id": "lichess-2013-01-90915",
+  "fen": "r1bqkb1r/pp1p1ppp/2n1p3/2pnP3/3P1P2/2P2N2/PP4PP/RNBQKB1R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "c5d4",
+  "human_rating": 1796,
+  "time_control": "300+2",
+  "url": "https://lichess.org/z2rgoykz"
+ },
+ {
+  "id": "lichess-2013-01-91321",
+  "fen": "2kr3r/pbp4p/1pn1qp2/4pnp1/1P6/P1BP1N1P/2PQBPP1/R4RK1 b - - 2 15",
+  "ply": 29,
+  "human_move": "g5g4",
+  "human_rating": 1281,
+  "time_control": "600+0",
+  "url": "https://lichess.org/h2yc5uzi"
+ },
+ {
+  "id": "lichess-2013-01-91516",
+  "fen": "rnbqk2r/ppppppbp/1n4p1/4P3/3P4/1B6/PPP2PPP/RNBQK1NR w KQkq - 4 6",
+  "ply": 10,
+  "human_move": "d1f3",
+  "human_rating": 1270,
+  "time_control": "900+15",
+  "url": "https://lichess.org/97g1b3w9"
+ },
+ {
+  "id": "lichess-2013-01-91747",
+  "fen": "r2q1rk1/pp1n1ppp/2pb1n2/4p1B1/2B1P1b1/2NP1N2/PPP3PP/R2Q1RK1 w - - 5 10",
+  "ply": 18,
+  "human_move": "d3d4",
+  "human_rating": 1500,
+  "time_control": "900+0",
+  "url": "https://lichess.org/5p6zbeuu"
+ },
+ {
+  "id": "lichess-2013-01-91879",
+  "fen": "8/8/4k3/p1p1pp2/P1P3Pb/1P3P2/6K1/1b1B4 w - - 0 41",
+  "ply": 80,
+  "human_move": "g2h3",
+  "human_rating": 1941,
+  "time_control": "180+3",
+  "url": "https://lichess.org/p2b8dumi"
+ },
+ {
+  "id": "lichess-2013-01-92012",
+  "fen": "r2qk2r/pp2bppp/2np1n2/2p1p3/2B1P1b1/1P1P1N2/PBPN1PPP/R2QK2R w KQkq - 4 8",
+  "ply": 14,
+  "human_move": "h2h3",
+  "human_rating": 1486,
+  "time_control": "300+3",
+  "url": "https://lichess.org/077o2c3n"
+ },
+ {
+  "id": "lichess-2013-01-92064",
+  "fen": "r1bqk1nr/p2p1ppp/2p5/2p5/4P3/2P5/PP3PPP/R2QKB1R w KQkq - 0 11",
+  "ply": 20,
+  "human_move": "f1c4",
+  "human_rating": 1444,
+  "time_control": "360+5",
+  "url": "https://lichess.org/n7pb7h51"
+ },
+ {
+  "id": "lichess-2013-01-92107",
+  "fen": "r4rk1/pbq1b1pp/1p1pp3/2n2p2/1PPNn3/4P3/PBQNBPPP/R2R2K1 b - - 0 14",
+  "ply": 27,
+  "human_move": "e6e5",
+  "human_rating": 1847,
+  "time_control": "420+4",
+  "url": "https://lichess.org/u5ecrhze"
+ },
+ {
+  "id": "lichess-2013-01-92151",
+  "fen": "r2q1rk1/ppp1bppp/3p1n2/8/2BnPB2/2NP1R1P/PPPQ2P1/R5K1 w - - 1 12",
+  "ply": 22,
+  "human_move": "f3f2",
+  "human_rating": 1752,
+  "time_control": "300+0",
+  "url": "https://lichess.org/qw9sgn2w"
+ },
+ {
+  "id": "lichess-2013-01-92681",
+  "fen": "rnb3k1/pp3ppp/8/2pn4/7b/3P1P1P/PPP1NP2/RNB1K2R b KQ - 0 13",
+  "ply": 25,
+  "human_move": "b8c6",
+  "human_rating": 1824,
+  "time_control": "900+0",
+  "url": "https://lichess.org/ksmgsajg"
+ },
+ {
+  "id": "lichess-2013-01-92900",
+  "fen": "r4rk1/1b3ppp/p3p3/1p5Q/8/1Pq5/2P2PPP/3R1RK1 b - - 1 24",
+  "ply": 47,
+  "human_move": "c3c2",
+  "human_rating": 1631,
+  "time_control": "300+8",
+  "url": "https://lichess.org/irg5urx2"
+ },
+ {
+  "id": "lichess-2013-01-93087",
+  "fen": "rnb1k2r/pppp1pp1/5q1p/2b1p3/8/3PP1P1/PPP2PBP/RN1QK1NR b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "e5e4",
+  "human_rating": 1665,
+  "time_control": "0+1",
+  "url": "https://lichess.org/gsi1wkdf"
+ },
+ {
+  "id": "lichess-2013-01-93142",
+  "fen": "4r2k/p4RRp/8/2N5/1P6/4n2P/r5PK/8 w - - 5 39",
+  "ply": 76,
+  "human_move": "g7h7",
+  "human_rating": 1733,
+  "time_control": "480+0",
+  "url": "https://lichess.org/2h2trp7e"
+ },
+ {
+  "id": "lichess-2013-01-93262",
+  "fen": "rn1q1rk1/pp1n1pp1/3p3p/8/4P2B/1PN5/1PP2PPP/R2QR1K1 b - - 0 15",
+  "ply": 29,
+  "human_move": "d8h4",
+  "human_rating": 1758,
+  "time_control": "0+1",
+  "url": "https://lichess.org/29rdkkg4"
+ },
+ {
+  "id": "lichess-2013-01-93516",
+  "fen": "2b1k1nr/1p1q2p1/2n1pp1p/1B1p4/1b1P4/4PNBP/3N1PP1/Q3K2R w Kk - 0 17",
+  "ply": 32,
+  "human_move": "e1g1",
+  "human_rating": 1695,
+  "time_control": "420+5",
+  "url": "https://lichess.org/ld19itju"
+ },
+ {
+  "id": "lichess-2013-01-94064",
+  "fen": "2kr1bnr/p5pp/2p1q3/2nNNp2/2P2B2/P7/5PPP/R2Q1RK1 w - - 0 18",
+  "ply": 34,
+  "human_move": "d1d4",
+  "human_rating": 2056,
+  "time_control": "60+0",
+  "url": "https://lichess.org/i6szjhik"
+ },
+ {
+  "id": "lichess-2013-01-94714",
+  "fen": "rnb1kbnr/pp2qppp/2pp4/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5",
+  "ply": 8,
+  "human_move": "d2d4",
+  "human_rating": 1490,
+  "time_control": "300+2",
+  "url": "https://lichess.org/e4blm8a6"
+ },
+ {
+  "id": "lichess-2013-01-94726",
+  "fen": "r1bq1rk1/pp3ppp/4pn2/2p1n3/2P5/1P1B1Q2/P2P2PP/RN3RK1 w - - 0 12",
+  "ply": 22,
+  "human_move": "d3h7",
+  "human_rating": 1516,
+  "time_control": "480+0",
+  "url": "https://lichess.org/cc8t1dvo"
+ },
+ {
+  "id": "lichess-2013-01-96023",
+  "fen": "r2qk2r/ppp2p1p/2n3p1/1QP2b2/3Pn3/8/PP3PPP/RN2KBNR w KQkq - 2 11",
+  "ply": 20,
+  "human_move": "b5b7",
+  "human_rating": 1458,
+  "time_control": "60+10",
+  "url": "https://lichess.org/2upvp137"
+ },
+ {
+  "id": "lichess-2013-01-96231",
+  "fen": "r2kr3/p4p2/1pq2pp1/2p4p/2Pn1B1P/P1QPRPP1/5PK1/4R3 b - - 7 23",
+  "ply": 45,
+  "human_move": "d4f3",
+  "human_rating": 1715,
+  "time_control": "60+1",
+  "url": "https://lichess.org/9mii6xce"
+ },
+ {
+  "id": "lichess-2013-01-96598",
+  "fen": "2r3k1/pp3pp1/q6p/3pn2P/8/P3P1P1/1PBR4/2K4R w - - 1 28",
+  "ply": 54,
+  "human_move": "h1h2",
+  "human_rating": 1621,
+  "time_control": "0+1",
+  "url": "https://lichess.org/u1pauqdv"
+ },
+ {
+  "id": "lichess-2013-01-96696",
+  "fen": "r4rk1/1b4pp/p1P5/Qp1p3q/3Np3/1P3pP1/1P3P1P/R2R2K1 w - - 1 24",
+  "ply": 46,
+  "human_move": "c6b7",
+  "human_rating": 1598,
+  "time_control": "180+3",
+  "url": "https://lichess.org/3okhae7h"
+ },
+ {
+  "id": "lichess-2013-01-96733",
+  "fen": "r3k2r/p7/1ppBpp1n/8/2PP4/P1P3Pp/5P1P/R2Q1RK1 w kq - 1 18",
+  "ply": 34,
+  "human_move": "c4c5",
+  "human_rating": 1697,
+  "time_control": "0+1",
+  "url": "https://lichess.org/udx5nem3"
+ },
+ {
+  "id": "lichess-2013-01-97031",
+  "fen": "r1bqkb1r/pp2ppp1/2np1n1p/2p1PP2/2B5/5N2/PPPP2PP/RNBQK2R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "c6e5",
+  "human_rating": 1677,
+  "time_control": "60+1",
+  "url": "https://lichess.org/jvhvvnqe"
+ },
+ {
+  "id": "lichess-2013-01-97037",
+  "fen": "r3r1k1/ppp1pp1p/3q2p1/1N6/4R3/3P1P1P/PPK2P2/3R4 b - - 3 22",
+  "ply": 43,
+  "human_move": "d6c5",
+  "human_rating": 1504,
+  "time_control": "600+0",
+  "url": "https://lichess.org/ulao2to9"
+ },
+ {
+  "id": "lichess-2013-01-97665",
+  "fen": "r2k1b1r/1pp3pp/5n2/p3pb2/P7/1B6/1PP2PPP/RNB1K2R b KQ - 0 11",
+  "ply": 21,
+  "human_move": "h7h5",
+  "human_rating": 1426,
+  "time_control": "240+3",
+  "url": "https://lichess.org/04pxdkyo"
+ },
+ {
+  "id": "lichess-2013-01-98503",
+  "fen": "rnbqk2r/pp3ppp/2p2n2/3p4/1b1P4/1BN5/PPPB1PPP/R2QK1NR w KQkq - 0 8",
+  "ply": 14,
+  "human_move": "g1f3",
+  "human_rating": 1351,
+  "time_control": "360+5",
+  "url": "https://lichess.org/q5ivbql4"
+ },
+ {
+  "id": "lichess-2013-01-98685",
+  "fen": "2b1q3/3nrkr1/1bn1p1p1/pp1pPpP1/2pP1P1N/2P1BBQR/PP1N1K2/7R b - - 21 31",
+  "ply": 61,
+  "human_move": "e8d8",
+  "human_rating": 1769,
+  "time_control": "60+0",
+  "url": "https://lichess.org/s032srv7"
+ },
+ {
+  "id": "lichess-2013-01-99751",
+  "fen": "r2q1rk1/1bp2pp1/p1np3p/1p1NpN2/4P3/3PP3/PPP3PP/R3QRK1 b - - 0 13",
+  "ply": 25,
+  "human_move": "f8e8",
+  "human_rating": 1492,
+  "time_control": "300+0",
+  "url": "https://lichess.org/dbgygowg"
+ },
+ {
+  "id": "lichess-2013-01-100017",
+  "fen": "8/p4pkp/3Q4/2p5/P7/3P4/7P/6K1 w - - 1 32",
+  "ply": 62,
+  "human_move": "d6e5",
+  "human_rating": 1516,
+  "time_control": "300+0",
+  "url": "https://lichess.org/rr5348za"
+ },
+ {
+  "id": "lichess-2013-01-100189",
+  "fen": "8/p7/1p6/r4p2/2P5/1PK1k3/P2R4/8 w - - 2 41",
+  "ply": 80,
+  "human_move": "a2a4",
+  "human_rating": 2095,
+  "time_control": "60+0",
+  "url": "https://lichess.org/n4rvu3dm"
+ },
+ {
+  "id": "lichess-2013-01-100319",
+  "fen": "rn1q1rk1/ppp2pp1/4pn1p/3P1b2/3P4/P1P1PN1P/5PP1/R1BQKB1R b KQ - 0 9",
+  "ply": 17,
+  "human_move": "f6d5",
+  "human_rating": 1646,
+  "time_control": "360+0",
+  "url": "https://lichess.org/hpdu2262"
+ },
+ {
+  "id": "lichess-2013-01-100365",
+  "fen": "rnb1k2r/ppp1bppp/3p4/3N4/4PB2/8/PPP2PPP/R3KB1R b KQkq - 1 10",
+  "ply": 19,
+  "human_move": "e7d8",
+  "human_rating": 1465,
+  "time_control": "60+12",
+  "url": "https://lichess.org/ywx4ux7m"
+ },
+ {
+  "id": "lichess-2013-01-100427",
+  "fen": "r2q1rk1/1bp2pp1/ppn1pn1p/4P3/1bPP4/2NB4/PP2NBPP/R2Q1RK1 b - - 0 14",
+  "ply": 27,
+  "human_move": "b4c3",
+  "human_rating": 1696,
+  "time_control": "240+0",
+  "url": "https://lichess.org/n7co9hx8"
+ },
+ {
+  "id": "lichess-2013-01-100817",
+  "fen": "r3kb1r/pp1npp1p/1qpp1np1/8/3P1P2/2P1Pb1P/PP1NB1P1/R1BQK2R w KQkq - 0 9",
+  "ply": 16,
+  "human_move": "d2f3",
+  "human_rating": 1970,
+  "time_control": "420+0",
+  "url": "https://lichess.org/mr6h58uo"
+ },
+ {
+  "id": "lichess-2013-01-100902",
+  "fen": "6k1/1pp4b/p2p4/3P4/2P5/PP1P1KpP/r7/6R1 b - - 3 34",
+  "ply": 67,
+  "human_move": "h7d3",
+  "human_rating": 1571,
+  "time_control": "60+2",
+  "url": "https://lichess.org/493574qi"
+ },
+ {
+  "id": "lichess-2013-01-101353",
+  "fen": "4r1k1/pp3p1p/2p3p1/4r3/4P2P/P1NBP1n1/1PP3P1/2K1R3 b - - 3 21",
+  "ply": 41,
+  "human_move": "f7f5",
+  "human_rating": 1587,
+  "time_control": "180+1",
+  "url": "https://lichess.org/lt0wkqso"
+ },
+ {
+  "id": "lichess-2013-01-101457",
+  "fen": "r2qk1nr/ppp2ppp/2nbp3/3p1b2/3P1P2/2P1PN2/PP4PP/RNBQKB1R w KQkq - 1 6",
+  "ply": 10,
+  "human_move": "f1d3",
+  "human_rating": 1899,
+  "time_control": "540+7",
+  "url": "https://lichess.org/gqfrjc44"
+ },
+ {
+  "id": "lichess-2013-01-101777",
+  "fen": "1rbq1rk1/ppp2p1p/4p1pQ/n3P3/4BP2/BPP1P2P/P5P1/R4RK1 b - - 2 18",
+  "ply": 35,
+  "human_move": "f8e8",
+  "human_rating": 1361,
+  "time_control": "180+1",
+  "url": "https://lichess.org/fr3ztcy4"
+ },
+ {
+  "id": "lichess-2013-01-102392",
+  "fen": "2k3n1/1b2p3/p4r2/2P4p/B4Pn1/1P2P3/PBP3PP/RN3RK1 b - - 1 20",
+  "ply": 39,
+  "human_move": "f6c6",
+  "human_rating": 1500,
+  "time_control": "240+0",
+  "url": "https://lichess.org/kvafnlh1"
+ },
+ {
+  "id": "lichess-2013-01-103038",
+  "fen": "rn2k1nr/p2pq3/1p1bpp2/3B2pp/8/P1B2Q2/1PP1NPPP/R3R1K1 b kq - 0 14",
+  "ply": 27,
+  "human_move": "b8a6",
+  "human_rating": 1681,
+  "time_control": "60+0",
+  "url": "https://lichess.org/zmwu404u"
+ },
+ {
+  "id": "lichess-2013-01-103428",
+  "fen": "1R6/8/8/8/P7/2k5/K1n5/3r4 w - - 18 52",
+  "ply": 102,
+  "human_move": "b8b1",
+  "human_rating": 1661,
+  "time_control": "600+3",
+  "url": "https://lichess.org/cker2aqe"
+ },
+ {
+  "id": "lichess-2013-01-103481",
+  "fen": "3k4/p4Rpp/1p6/1N1n2N1/8/6bK/PP5P/8 b - - 1 29",
+  "ply": 57,
+  "human_move": "g3b8",
+  "human_rating": 1643,
+  "time_control": "60+0",
+  "url": "https://lichess.org/e43n19u2"
+ },
+ {
+  "id": "lichess-2013-01-103729",
+  "fen": "8/6p1/4kp1p/7P/R1b1p1P1/2r4P/1R5K/8 w - - 0 44",
+  "ply": 86,
+  "human_move": "b2b6",
+  "human_rating": 1809,
+  "time_control": "120+0",
+  "url": "https://lichess.org/msd02vj7"
+ },
+ {
+  "id": "lichess-2013-01-103877",
+  "fen": "7k/pp3rp1/7p/2QP4/1PP5/5p1P/P3r1P1/6K1 b - - 1 29",
+  "ply": 57,
+  "human_move": "f3f2",
+  "human_rating": 1751,
+  "time_control": "60+0",
+  "url": "https://lichess.org/dmk8vqol"
+ },
+ {
+  "id": "lichess-2013-01-103899",
+  "fen": "3r2r1/2pkq3/Q3pp1p/P2pP3/5P1n/8/3N2BP/R1R3K1 w - - 1 29",
+  "ply": 56,
+  "human_move": "a6b5",
+  "human_rating": 1642,
+  "time_control": "180+8",
+  "url": "https://lichess.org/nlowqpif"
+ },
+ {
+  "id": "lichess-2013-01-103929",
+  "fen": "r2q1rk1/ppp2ppB/3p3p/2nP4/2P2P1b/2N3QP/PP4P1/R1B2RK1 b - - 0 17",
+  "ply": 33,
+  "human_move": "g8h7",
+  "human_rating": 1402,
+  "time_control": "900+0",
+  "url": "https://lichess.org/nexj6ptu"
+ },
+ {
+  "id": "lichess-2013-01-104021",
+  "fen": "rnbqk2r/ppp1ppbp/5np1/3p4/3P4/2NBPN2/PPP2PPP/R1BQK2R b KQkq - 3 5",
+  "ply": 9,
+  "human_move": "e8g8",
+  "human_rating": 1553,
+  "time_control": "240+0",
+  "url": "https://lichess.org/v559c7vi"
+ },
+ {
+  "id": "lichess-2013-01-104234",
+  "fen": "r1bqrnk1/p1p3bp/1p1p1ppn/3Pp3/1PP1P3/PQNBBN2/5PPP/2R1R1K1 b - - 4 14",
+  "ply": 27,
+  "human_move": "f6f5",
+  "human_rating": 1653,
+  "time_control": "60+0",
+  "url": "https://lichess.org/vu4j7fh8"
+ },
+ {
+  "id": "lichess-2013-01-104352",
+  "fen": "k7/p4R1p/np2p3/8/2rP4/PP4P1/7P/6K1 w - - 0 27",
+  "ply": 52,
+  "human_move": "b3c4",
+  "human_rating": 1557,
+  "time_control": "480+8",
+  "url": "https://lichess.org/ejnimy0p"
+ },
+ {
+  "id": "lichess-2013-01-104811",
+  "fen": "r1bq2nr/pp1p1kbp/2n1p1p1/8/4P3/4Q3/PPPP1PPP/RNB1K1NR b KQ - 3 7",
+  "ply": 13,
+  "human_move": "g8e7",
+  "human_rating": 1783,
+  "time_control": "480+0",
+  "url": "https://lichess.org/5n0x6vna"
+ },
+ {
+  "id": "lichess-2013-01-104902",
+  "fen": "5rk1/pp1q1p1p/3p2p1/2pP4/8/P1PP3P/5PP1/R2Qr1K1 w - - 0 18",
+  "ply": 34,
+  "human_move": "d1e1",
+  "human_rating": 1495,
+  "time_control": "300+8",
+  "url": "https://lichess.org/73bhmrr6"
+ },
+ {
+  "id": "lichess-2013-01-105276",
+  "fen": "r1bq1rk1/1pp3pp/3p4/2bNp1Pn/1nP1Pp1P/3P1P2/1Q2N3/2B1KB1R b K - 3 15",
+  "ply": 29,
+  "human_move": "b4d3",
+  "human_rating": 1653,
+  "time_control": "180+0",
+  "url": "https://lichess.org/j4txim86"
+ },
+ {
+  "id": "lichess-2013-01-105505",
+  "fen": "r3k2r/pp2bppp/2p2n2/5bN1/3P4/2P5/PP1KQ1PP/2R3NR b kq - 0 17",
+  "ply": 33,
+  "human_move": "a8d8",
+  "human_rating": 1584,
+  "time_control": "60+2",
+  "url": "https://lichess.org/bplvmxcj"
+ },
+ {
+  "id": "lichess-2013-01-105535",
+  "fen": "r1bqr3/p1n3kp/1p2p1p1/5p2/1P6/P1N2N2/2Q2PPP/3RR1K1 w - - 0 25",
+  "ply": 48,
+  "human_move": "d1d8",
+  "human_rating": 1590,
+  "time_control": "60+0",
+  "url": "https://lichess.org/0jzqsr8a"
+ },
+ {
+  "id": "lichess-2013-01-105766",
+  "fen": "r6k/1q3p1p/1p3r2/p5p1/P3P1P1/2nB1P1P/2P3K1/R3R3 w - - 0 29",
+  "ply": 56,
+  "human_move": "a1a3",
+  "human_rating": 1200,
+  "time_control": "60+10",
+  "url": "https://lichess.org/91vdu6hu"
+ },
+ {
+  "id": "lichess-2013-01-106127",
+  "fen": "rnb1k1nr/ppp2ppp/3b4/q3p3/8/2NBBN2/PPP1QP2/2KR2R1 w kq - 2 14",
+  "ply": 26,
+  "human_move": "d3b5",
+  "human_rating": 1284,
+  "time_control": "60+10",
+  "url": "https://lichess.org/v0n83jz2"
+ },
+ {
+  "id": "lichess-2013-01-106133",
+  "fen": "r1b2rk1/ppq2pbp/2np2p1/4P3/2P5/P2B1N2/2QB1PPP/R3K2R b KQ - 0 14",
+  "ply": 27,
+  "human_move": "d6e5",
+  "human_rating": 1986,
+  "time_control": "60+0",
+  "url": "https://lichess.org/fbe0o8n3"
+ },
+ {
+  "id": "lichess-2013-01-106148",
+  "fen": "8/2R3pp/5p2/1p4k1/2b5/2r1N2P/5PP1/6K1 w - - 0 37",
+  "ply": 72,
+  "human_move": "c7g7",
+  "human_rating": 1891,
+  "time_control": "300+8",
+  "url": "https://lichess.org/twbjjc24"
+ },
+ {
+  "id": "lichess-2013-01-106788",
+  "fen": "5r2/pbp2pbk/1p3npp/2npq3/3PP1PN/1P5P/P1PQ1PB1/R3K1R1 b Q - 0 19",
+  "ply": 37,
+  "human_move": "e5d6",
+  "human_rating": 1489,
+  "time_control": "720+4",
+  "url": "https://lichess.org/f8x0b78k"
+ },
+ {
+  "id": "lichess-2013-01-106881",
+  "fen": "r2q1rk1/ppp1bppp/3p1nb1/8/1n1PP3/5N1P/PP1N1PP1/RBBQR1K1 b - - 4 12",
+  "ply": 23,
+  "human_move": "c7c5",
+  "human_rating": 1912,
+  "time_control": "180+0",
+  "url": "https://lichess.org/1gfg8fsp"
+ },
+ {
+  "id": "lichess-2013-01-107079",
+  "fen": "r4rk1/2qn1ppp/p1bppb2/1p6/3BPPQ1/PBN5/1PP3PP/2R2R1K w - - 3 17",
+  "ply": 32,
+  "human_move": "e4e5",
+  "human_rating": 1818,
+  "time_control": "300+2",
+  "url": "https://lichess.org/k27ljnwh"
+ },
+ {
+  "id": "lichess-2013-01-107143",
+  "fen": "rnbqk2r/ppp2pbp/3p1np1/3Pp1B1/2P1P3/2N2N2/PP1Q1PPP/R3KB1R b KQkq - 4 8",
+  "ply": 15,
+  "human_move": "c7c6",
+  "human_rating": 1268,
+  "time_control": "300+2",
+  "url": "https://lichess.org/zq18pcyi"
+ },
+ {
+  "id": "lichess-2013-01-107360",
+  "fen": "r1bqnrk1/pppp1ppp/1bn5/4P3/2BP4/P4N2/1P3PPP/RNBQ1RK1 b - - 0 9",
+  "ply": 17,
+  "human_move": "g8h8",
+  "human_rating": 1308,
+  "time_control": "300+5",
+  "url": "https://lichess.org/0h25uup7"
+ },
+ {
+  "id": "lichess-2013-01-107489",
+  "fen": "6k1/5pp1/4p2p/8/8/4QPPq/2r1P2P/2R3K1 b - - 1 31",
+  "ply": 61,
+  "human_move": "c2c1",
+  "human_rating": 2036,
+  "time_control": "60+1",
+  "url": "https://lichess.org/c5jc391e"
+ },
+ {
+  "id": "lichess-2013-01-107533",
+  "fen": "r1b1kbnr/pp1ppppp/4q3/8/3n4/P1N1B3/1PP1BPPP/R2QK1NR b KQkq - 1 8",
+  "ply": 15,
+  "human_move": "d4c6",
+  "human_rating": 1422,
+  "time_control": "420+7",
+  "url": "https://lichess.org/o6tng037"
+ },
+ {
+  "id": "lichess-2013-01-107549",
+  "fen": "4r3/4n3/3k1B2/p1pp4/6K1/2P1R3/PP6/8 w - - 0 42",
+  "ply": 82,
+  "human_move": "f6e7",
+  "human_rating": 1556,
+  "time_control": "600+0",
+  "url": "https://lichess.org/8ibly4hs"
+ },
+ {
+  "id": "lichess-2013-01-107734",
+  "fen": "r3kbnr/pppb1ppp/3p1q2/8/3QP3/4B3/PPP1BPPP/RN3RK1 b kq - 5 8",
+  "ply": 15,
+  "human_move": "a7a6",
+  "human_rating": 1797,
+  "time_control": "900+5",
+  "url": "https://lichess.org/0bpqfhcb"
+ },
+ {
+  "id": "lichess-2013-01-107755",
+  "fen": "5r1k/B2bb1pp/8/3Bpp2/P7/2P5/1P3PPP/R3K2R w KQ - 2 21",
+  "ply": 40,
+  "human_move": "a4a5",
+  "human_rating": 1424,
+  "time_control": "720+0",
+  "url": "https://lichess.org/jd5pa6qn"
+ },
+ {
+  "id": "lichess-2013-01-107774",
+  "fen": "r3k2r/1bq1ppbp/p2p1np1/npp5/4P3/1PPP1N1P/P1BN1PP1/R1BQR1K1 b kq - 2 12",
+  "ply": 23,
+  "human_move": "e8g8",
+  "human_rating": 1528,
+  "time_control": "0+8",
+  "url": "https://lichess.org/4bjpitm1"
+ },
+ {
+  "id": "lichess-2013-01-107808",
+  "fen": "r2r2k1/pp3ppp/2b2q2/1p1P4/4p3/1Q4P1/P3PPBP/1R3RK1 b - - 2 20",
+  "ply": 39,
+  "human_move": "c6d5",
+  "human_rating": 1698,
+  "time_control": "0+2",
+  "url": "https://lichess.org/mbuib7ny"
+ },
+ {
+  "id": "lichess-2013-01-108110",
+  "fen": "8/p5pp/2Qb4/kp6/8/P1n3P1/2qBPPBP/3RK2R b - - 3 32",
+  "ply": 63,
+  "human_move": "c2d1",
+  "human_rating": 1354,
+  "time_control": "180+0",
+  "url": "https://lichess.org/8kltlmwo"
+ },
+ {
+  "id": "lichess-2013-01-108180",
+  "fen": "r1b1k3/1p1p1p2/p3p3/2P5/2P1PQpr/3P3q/P3BP2/1R2KR2 w q - 2 23",
+  "ply": 44,
+  "human_move": "e1d2",
+  "human_rating": 1627,
+  "time_control": "900+0",
+  "url": "https://lichess.org/elxz1fsa"
+ },
+ {
+  "id": "lichess-2013-01-108301",
+  "fen": "r2n1rk1/1pp1q1p1/p2p3p/3P1p2/3N4/P1N4P/1P2QPP1/R4RK1 b - - 1 18",
+  "ply": 35,
+  "human_move": "e7e2",
+  "human_rating": 1367,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/tadc8mfc"
+ },
+ {
+  "id": "lichess-2013-01-108307",
+  "fen": "3qr1k1/p4ppp/8/2P5/2Q1r3/8/P1p2PPP/4R1K1 w - - 0 31",
+  "ply": 60,
+  "human_move": "e1e4",
+  "human_rating": 1531,
+  "time_control": "300+2",
+  "url": "https://lichess.org/9av9y83i"
+ },
+ {
+  "id": "lichess-2013-01-108506",
+  "fen": "3R4/5pk1/5p2/p6P/5Np1/P3Q1P1/8/1q4K1 w - - 1 46",
+  "ply": 90,
+  "human_move": "g1f2",
+  "human_rating": 1475,
+  "time_control": "420+7",
+  "url": "https://lichess.org/z231ktx0"
+ },
+ {
+  "id": "lichess-2013-01-108530",
+  "fen": "r4r1k/5p1P/p2p4/q3n3/NpBB1b2/1Pn4P/P6P/R4RK1 b - - 2 24",
+  "ply": 47,
+  "human_move": "a5c7",
+  "human_rating": 1685,
+  "time_control": "60+0",
+  "url": "https://lichess.org/758mhsx9"
+ },
+ {
+  "id": "lichess-2013-01-108927",
+  "fen": "2kr3r/1p3p2/p3pN1P/6P1/2p2P2/P5nR/2PB4/2K5 b - - 2 29",
+  "ply": 57,
+  "human_move": "g3e2",
+  "human_rating": 1656,
+  "time_control": "120+1",
+  "url": "https://lichess.org/akvia3g0"
+ },
+ {
+  "id": "lichess-2013-01-108932",
+  "fen": "rn1qk2r/pbpp1ppp/1p2pn2/3P4/1b2P3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 2 6",
+  "ply": 11,
+  "human_move": "e6d5",
+  "human_rating": 1603,
+  "time_control": "300+3",
+  "url": "https://lichess.org/l6kyegfj"
+ },
+ {
+  "id": "lichess-2013-01-109074",
+  "fen": "r2qkb1r/pp1n1ppp/2p1pn2/3p1bB1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 7",
+  "ply": 12,
+  "human_move": "f1d3",
+  "human_rating": 1564,
+  "time_control": "180+0",
+  "url": "https://lichess.org/eabpevgi"
+ },
+ {
+  "id": "lichess-2013-01-109333",
+  "fen": "r1bqk2r/pp1pppbp/2n3p1/2n5/5P2/3B1N2/PPP3PP/RNBQ1RK1 w kq - 4 9",
+  "ply": 16,
+  "human_move": "d3c4",
+  "human_rating": 1641,
+  "time_control": "300+5",
+  "url": "https://lichess.org/2zdtkw15"
+ },
+ {
+  "id": "lichess-2013-01-109358",
+  "fen": "r2qk1nr/ppp2pbp/2n3p1/3pP3/3P1B2/2PQ1N2/PP4PP/RN2K2R b KQkq - 0 9",
+  "ply": 17,
+  "human_move": "g8e7",
+  "human_rating": 1733,
+  "time_control": "0+1",
+  "url": "https://lichess.org/jwty7s54"
+ },
+ {
+  "id": "lichess-2013-01-109680",
+  "fen": "2r3k1/6pp/p2p4/1p1P4/3Q1PP1/4r2q/PP4R1/R5K1 w - - 2 29",
+  "ply": 56,
+  "human_move": "a1f1",
+  "human_rating": 1701,
+  "time_control": "60+0",
+  "url": "https://lichess.org/racfpcrv"
+ },
+ {
+  "id": "lichess-2013-01-109715",
+  "fen": "r4rk1/p1p1b1pp/2pqpn2/3pN1B1/3Pb3/2N2P1P/PPP3P1/R2Q1RK1 b - - 0 12",
+  "ply": 23,
+  "human_move": "e4f5",
+  "human_rating": 1633,
+  "time_control": "300+5",
+  "url": "https://lichess.org/lzvpiuyn"
+ },
+ {
+  "id": "lichess-2013-01-109784",
+  "fen": "rnb2b1r/6p1/p2k3p/2nPpP2/PB3q2/1B5Q/1PP4P/1K1R1R2 b - - 6 24",
+  "ply": 47,
+  "human_move": "f4b4",
+  "human_rating": 1287,
+  "time_control": "60+10",
+  "url": "https://lichess.org/4rbzoqab"
+ },
+ {
+  "id": "lichess-2013-01-110143",
+  "fen": "r4r1k/1b2q2p/p2p1p1Q/P1pPnB2/2P5/N1P3P1/4PP2/5RK1 w - - 0 27",
+  "ply": 52,
+  "human_move": "g1g2",
+  "human_rating": 1677,
+  "time_control": "300+0",
+  "url": "https://lichess.org/awdibow5"
+ },
+ {
+  "id": "lichess-2013-01-110191",
+  "fen": "r2qr1k1/p4ppp/1p1p1b2/3P4/3pPP2/P2B2P1/1P2Q2P/3RR1K1 b - - 0 21",
+  "ply": 41,
+  "human_move": "d8d7",
+  "human_rating": 1921,
+  "time_control": "0+1",
+  "url": "https://lichess.org/sup1732d"
+ },
+ {
+  "id": "lichess-2013-01-110208",
+  "fen": "r1bk1bnr/p4Bpp/8/2n1p3/8/4P3/P4PPP/RNB1K1NR w KQ - 0 10",
+  "ply": 18,
+  "human_move": "f7g8",
+  "human_rating": 1564,
+  "time_control": "660+11",
+  "url": "https://lichess.org/md1lxho9"
+ },
+ {
+  "id": "lichess-2013-01-110686",
+  "fen": "5rk1/1ppb2pp/1p6/2r1Pp2/4p3/4N2P/R4PPK/8 b - - 1 27",
+  "ply": 53,
+  "human_move": "c5e5",
+  "human_rating": 1131,
+  "time_control": "1800+0",
+  "url": "https://lichess.org/juvwe777"
+ },
+ {
+  "id": "lichess-2013-01-110834",
+  "fen": "r1bqkb1r/ppp2ppp/2n1pn2/8/2B2Q2/2N5/PPPP1PPP/R1B1K1NR b KQkq - 3 6",
+  "ply": 11,
+  "human_move": "f8d6",
+  "human_rating": 1549,
+  "time_control": "120+0",
+  "url": "https://lichess.org/8r59i0my"
+ },
+ {
+  "id": "lichess-2013-01-110838",
+  "fen": "r4rk1/pbq3B1/1p2pn2/3pp2Q/3Pn3/2PB1N1R/PP4PP/R5K1 w - - 1 18",
+  "ply": 34,
+  "human_move": "h5h8",
+  "human_rating": 1985,
+  "time_control": "360+5",
+  "url": "https://lichess.org/kao5eapq"
+ },
+ {
+  "id": "lichess-2013-01-111093",
+  "fen": "2k2r2/pbppn3/1p5p/2b5/2B1P3/2N2P2/PPn2P1P/2B2K2 w - - 0 18",
+  "ply": 34,
+  "human_move": "c1h6",
+  "human_rating": 1371,
+  "time_control": "600+0",
+  "url": "https://lichess.org/izkn0lyj"
+ },
+ {
+  "id": "lichess-2013-01-111346",
+  "fen": "3rr1k1/Bpp2ppp/2n2n2/bN6/2N1p3/8/PPP1R1PP/2KR4 b - - 2 17",
+  "ply": 33,
+  "human_move": "d8d1",
+  "human_rating": 1587,
+  "time_control": "480+2",
+  "url": "https://lichess.org/ti9gx484"
+ },
+ {
+  "id": "lichess-2013-01-111642",
+  "fen": "4k3/p1p2p1p/1p2pBpn/8/1nP2NP1/2NB1P1P/P7/4K2R w K - 4 18",
+  "ply": 34,
+  "human_move": "e1g1",
+  "human_rating": 1148,
+  "time_control": "0+1",
+  "url": "https://lichess.org/iilcoux9"
+ },
+ {
+  "id": "lichess-2013-01-112102",
+  "fen": "5rk1/4bpp1/3p1n1B/3Pp3/bP2P3/1Q3N1P/5PP1/4RBK1 b - - 0 24",
+  "ply": 47,
+  "human_move": "a4b3",
+  "human_rating": 1932,
+  "time_control": "180+0",
+  "url": "https://lichess.org/6pibz1lf"
+ },
+ {
+  "id": "lichess-2013-01-112522",
+  "fen": "r2qkb1r/pp1n2pp/2pp2p1/4p3/6PP/2PP4/P1PQBP2/R1B1K2R b KQkq - 2 12",
+  "ply": 23,
+  "human_move": "d8b6",
+  "human_rating": 1650,
+  "time_control": "180+0",
+  "url": "https://lichess.org/l9xn30vw"
+ },
+ {
+  "id": "lichess-2013-01-112579",
+  "fen": "r5rk/pp2q2p/4p3/2p1pp2/2P1P1Bp/1P1P3P/P3QP1K/R5R1 w - - 0 21",
+  "ply": 40,
+  "human_move": "e4f5",
+  "human_rating": 1690,
+  "time_control": "480+0",
+  "url": "https://lichess.org/lcxqow7p"
+ },
+ {
+  "id": "lichess-2013-01-112620",
+  "fen": "r2r2k1/5p1p/2pp2p1/6B1/2PPP3/1pK5/1P6/3B2R1 b - - 7 33",
+  "ply": 65,
+  "human_move": "d8d7",
+  "human_rating": 1657,
+  "time_control": "120+0",
+  "url": "https://lichess.org/szd8hctm"
+ },
+ {
+  "id": "lichess-2013-01-112624",
+  "fen": "8/1p6/p4k1p/6p1/1P4P1/P1r4P/4R1K1/8 b - - 2 41",
+  "ply": 81,
+  "human_move": "c3a3",
+  "human_rating": 1642,
+  "time_control": "720+5",
+  "url": "https://lichess.org/9xbxpck7"
+ },
+ {
+  "id": "lichess-2013-01-113118",
+  "fen": "r1bqk2r/ppp3p1/2n1pn2/2PpNp1p/3P1P2/3BP3/P1P3PP/R1BQK2R b KQkq - 0 10",
+  "ply": 19,
+  "human_move": "b7b6",
+  "human_rating": 1361,
+  "time_control": "540+0",
+  "url": "https://lichess.org/nv2u60b1"
+ },
+ {
+  "id": "lichess-2013-01-113164",
+  "fen": "r2r2k1/5p1p/5npB/1p2p3/2p1P3/P4PqP/1P2B1PN/5RKR b - - 2 21",
+  "ply": 41,
+  "human_move": "f6h5",
+  "human_rating": 1468,
+  "time_control": "240+4",
+  "url": "https://lichess.org/xo3yo79c"
+ },
+ {
+  "id": "lichess-2013-01-113705",
+  "fen": "r1b2q2/ppp3bk/2n3p1/3np3/2B5/8/PPPP1PPP/RNB1K2R b KQ - 1 12",
+  "ply": 23,
+  "human_move": "d5b6",
+  "human_rating": 1236,
+  "time_control": "120+0",
+  "url": "https://lichess.org/jdmgvjrz"
+ },
+ {
+  "id": "lichess-2013-01-113714",
+  "fen": "r2qkbnr/ppp1p1pp/2n1bp2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 1 5",
+  "ply": 8,
+  "human_move": "b1d2",
+  "human_rating": 1563,
+  "time_control": "600+0",
+  "url": "https://lichess.org/dvdb2hwi"
+ },
+ {
+  "id": "lichess-2013-01-114199",
+  "fen": "8/8/3k4/2p3K1/2P5/P5P1/1N1n3P/8 b - - 0 55",
+  "ply": 109,
+  "human_move": "d6e5",
+  "human_rating": 1942,
+  "time_control": "180+3",
+  "url": "https://lichess.org/ti9zts77"
+ },
+ {
+  "id": "lichess-2013-01-114427",
+  "fen": "r2qkbnr/1ppb1ppp/p1np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6",
+  "ply": 10,
+  "human_move": "b5a4",
+  "human_rating": 1412,
+  "time_control": "420+7",
+  "url": "https://lichess.org/bh1hcjon"
+ },
+ {
+  "id": "lichess-2013-01-114490",
+  "fen": "8/p5pp/1ppr1p2/4k3/2PRP3/2PK4/P4PPP/8 w - - 1 24",
+  "ply": 46,
+  "human_move": "g2g3",
+  "human_rating": 2008,
+  "time_control": "480+2",
+  "url": "https://lichess.org/2ka5tnzd"
+ },
+ {
+  "id": "lichess-2013-01-114600",
+  "fen": "r5k1/1p3r2/p1ppqpn1/3Np1p1/PPP1P1Pp/3P1P1P/6Q1/R3K2R w KQ - 0 25",
+  "ply": 48,
+  "human_move": "d5e3",
+  "human_rating": 1497,
+  "time_control": "240+4",
+  "url": "https://lichess.org/a0aj9chp"
+ },
+ {
+  "id": "lichess-2013-01-115229",
+  "fen": "5r1k/8/p6p/3p1NpP/2bP4/2P2P2/P3p1K1/4R3 w - - 2 44",
+  "ply": 86,
+  "human_move": "f5g3",
+  "human_rating": 1635,
+  "time_control": "300+8",
+  "url": "https://lichess.org/7uplijis"
+ },
+ {
+  "id": "lichess-2013-01-115396",
+  "fen": "rnb1k2r/ppp1qppp/4p3/4P3/3Pp3/5N2/PPP1QPPP/R3KB1R b KQkq - 1 9",
+  "ply": 17,
+  "human_move": "e4f3",
+  "human_rating": 1433,
+  "time_control": "600+8",
+  "url": "https://lichess.org/aquzm6nc"
+ },
+ {
+  "id": "lichess-2013-01-115484",
+  "fen": "r5r1/ppp1kp1p/3b1p2/4p3/3nP3/2P5/PP3PPP/RNRB2K1 b - - 0 14",
+  "ply": 27,
+  "human_move": "d4e6",
+  "human_rating": 1515,
+  "time_control": "420+4",
+  "url": "https://lichess.org/pt4ku6of"
+ },
+ {
+  "id": "lichess-2013-01-115551",
+  "fen": "2kr1b1r/pp6/2p1pP1p/3p2pP/8/2NPP3/PP6/RR4K1 b - - 0 21",
+  "ply": 41,
+  "human_move": "f8d6",
+  "human_rating": 1851,
+  "time_control": "60+1",
+  "url": "https://lichess.org/67swo07u"
+ },
+ {
+  "id": "lichess-2013-01-115617",
+  "fen": "5rk1/r3nppp/2p5/1pNp1b2/3P4/P3P3/4BPPP/R4RK1 b - - 5 22",
+  "ply": 43,
+  "human_move": "f8a8",
+  "human_rating": 1585,
+  "time_control": "300+30",
+  "url": "https://lichess.org/29se66f7"
+ },
+ {
+  "id": "lichess-2013-01-116107",
+  "fen": "r1bqk2r/ppp2ppp/1bnp1n2/8/2BPP3/5N2/PP3PPP/RNBQ1RK1 w kq - 0 8",
+  "ply": 14,
+  "human_move": "f1e1",
+  "human_rating": 1680,
+  "time_control": "180+0",
+  "url": "https://lichess.org/agwuk6i2"
+ },
+ {
+  "id": "lichess-2013-01-116129",
+  "fen": "2N5/4R3/2p2k2/8/Pp1b4/1P1B4/2P4r/1K6 b - - 1 41",
+  "ply": 81,
+  "human_move": "h2h1",
+  "human_rating": 1319,
+  "time_control": "600+5",
+  "url": "https://lichess.org/qnbaggoc"
+ },
+ {
+  "id": "lichess-2013-01-116236",
+  "fen": "r1b2rk1/ppN2ppp/2nq4/4p3/3PP3/4PN2/PPP3PP/R2Q1RK1 w - - 1 13",
+  "ply": 24,
+  "human_move": "c7a8",
+  "human_rating": 1572,
+  "time_control": "900+8",
+  "url": "https://lichess.org/o1zrjt0k"
+ },
+ {
+  "id": "lichess-2013-01-116255",
+  "fen": "1r1q2k1/ppp2Bpp/2n5/4p3/4n3/P4b2/P1PP1PPP/1RB1K2R b K - 0 12",
+  "ply": 23,
+  "human_move": "g8f7",
+  "human_rating": 1500,
+  "time_control": "1200+30",
+  "url": "https://lichess.org/rj7nl3p1"
+ },
+ {
+  "id": "lichess-2013-01-116416",
+  "fen": "7k/1p4p1/p1qpp1Q1/5p1P/1P1bPP2/3P2R1/2r5/1R5K b - - 5 33",
+  "ply": 65,
+  "human_move": "f5e4",
+  "human_rating": 1806,
+  "time_control": "360+0",
+  "url": "https://lichess.org/a9roc5hr"
+ },
+ {
+  "id": "lichess-2013-01-116526",
+  "fen": "6k1/pR6/3p3p/6b1/2P5/8/PP5P/KB2r3 b - - 2 37",
+  "ply": 73,
+  "human_move": "g5f4",
+  "human_rating": 1467,
+  "time_control": "900+8",
+  "url": "https://lichess.org/g07ymw6m"
+ },
+ {
+  "id": "lichess-2013-01-116657",
+  "fen": "r1bqkb1r/ppppnppp/2n5/1B6/3NP3/8/PPP2PPP/RNBQK2R b KQkq - 0 5",
+  "ply": 9,
+  "human_move": "c6d4",
+  "human_rating": 1666,
+  "time_control": "240+1",
+  "url": "https://lichess.org/kenuqkjc"
+ },
+ {
+  "id": "lichess-2013-01-117211",
+  "fen": "rn2kbnr/ppp2ppp/4pq2/5b2/2BP1P2/4PN2/PP4PP/RNBQK2R b KQkq - 0 6",
+  "ply": 11,
+  "human_move": "b8c6",
+  "human_rating": 1328,
+  "time_control": "60+2",
+  "url": "https://lichess.org/dne06mdq"
+ },
+ {
+  "id": "lichess-2013-01-117411",
+  "fen": "r1bqk2r/pp1n1ppp/2pbpn2/3p4/2PP4/5NP1/PP1NPPBP/R1BQ1RK1 b kq - 5 7",
+  "ply": 13,
+  "human_move": "e6e5",
+  "human_rating": 1810,
+  "time_control": "180+2",
+  "url": "https://lichess.org/wztbqfoo"
+ },
+ {
+  "id": "lichess-2013-01-117690",
+  "fen": "r2qr1k1/1p3pbp/p4np1/3p1b2/3B4/2NB1P2/PPPQ2PP/R3R1K1 b - - 2 15",
+  "ply": 29,
+  "human_move": "d8d7",
+  "human_rating": 1881,
+  "time_control": "180+0",
+  "url": "https://lichess.org/rs7x0htj"
+ },
+ {
+  "id": "lichess-2013-01-118332",
+  "fen": "rn1q1rk1/p3Bppp/1pp5/3p3b/N2Pn3/1BP2N1P/PP3PP1/R2Q1RK1 b - - 0 15",
+  "ply": 29,
+  "human_move": "d8e7",
+  "human_rating": 1698,
+  "time_control": "720+5",
+  "url": "https://lichess.org/u6yyjl9x"
+ },
+ {
+  "id": "lichess-2013-01-118690",
+  "fen": "2kr4/1pp5/1P6/2q4p/P1Np1p2/3Q1P1P/6P1/R4R1K b - - 0 30",
+  "ply": 59,
+  "human_move": "c7c6",
+  "human_rating": 1360,
+  "time_control": "60+10",
+  "url": "https://lichess.org/omp6w5ok"
+ },
+ {
+  "id": "lichess-2013-01-118707",
+  "fen": "2kr3r/p1qn1b2/2p5/1p3ppp/1PNPp3/1BP4P/P3QPP1/R4RK1 b - - 1 24",
+  "ply": 47,
+  "human_move": "b5c4",
+  "human_rating": 1500,
+  "time_control": "120+0",
+  "url": "https://lichess.org/q7l8h201"
+ },
+ {
+  "id": "lichess-2013-01-118743",
+  "fen": "8/pp4b1/2p5/5kpp/8/1P2K2P/P7/8 w - - 0 39",
+  "ply": 76,
+  "human_move": "e3d3",
+  "human_rating": 1757,
+  "time_control": "60+0",
+  "url": "https://lichess.org/fw8t86nl"
+ },
+ {
+  "id": "lichess-2013-01-118760",
+  "fen": "r2qk1nr/pbpnbppp/1p1pp3/8/3PP3/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 6 7",
+  "ply": 12,
+  "human_move": "f1e1",
+  "human_rating": 2085,
+  "time_control": "0+1",
+  "url": "https://lichess.org/wc4zn2qg"
+ },
+ {
+  "id": "lichess-2013-01-119626",
+  "fen": "1k5r/1pp4p/p1n5/7q/8/1Q2B1P1/1P3P2/2R3K1 b - - 3 32",
+  "ply": 63,
+  "human_move": "h8d8",
+  "human_rating": 1519,
+  "time_control": "300+0",
+  "url": "https://lichess.org/724yh3fk"
+ },
+ {
+  "id": "lichess-2013-01-119872",
+  "fen": "r2qkn1r/pp3p2/2p1b2p/P2pPp2/1b1P2p1/R7/2PN1PPP/2BQNRK1 w kq - 0 15",
+  "ply": 28,
+  "human_move": "a3d3",
+  "human_rating": 1033,
+  "time_control": "180+0",
+  "url": "https://lichess.org/wl7pcp3x"
+ },
+ {
+  "id": "lichess-2013-01-120009",
+  "fen": "r1q1kb1r/1pp2pp1/p1np1nbp/4p3/2B1P1P1/1P1P1N1P/PBP1QP2/RN2K1R1 w Qkq - 0 11",
+  "ply": 20,
+  "human_move": "b1c3",
+  "human_rating": 1416,
+  "time_control": "360+10",
+  "url": "https://lichess.org/q9f5d6j8"
+ },
+ {
+  "id": "lichess-2013-01-120016",
+  "fen": "8/8/P7/6p1/n6p/1k2K1PP/4B3/8 b - - 0 53",
+  "ply": 105,
+  "human_move": "a4b6",
+  "human_rating": 1654,
+  "time_control": "900+0",
+  "url": "https://lichess.org/y68914ai"
+ },
+ {
+  "id": "lichess-2013-01-120101",
+  "fen": "r1b1k1nr/1ppp1p2/p1n2qpp/2b1p3/2B1P1PP/2PP4/PP3P2/RNBQK1NR w KQkq - 1 10",
+  "ply": 18,
+  "human_move": "g4g5",
+  "human_rating": 1382,
+  "time_control": "1740+30",
+  "url": "https://lichess.org/3lg09gyp"
+ },
+ {
+  "id": "lichess-2013-01-120602",
+  "fen": "r2q1rk1/p2p1Bpp/1p3n2/4p3/7B/1Q6/PPP2PbP/R3K2R b KQ - 0 14",
+  "ply": 27,
+  "human_move": "f8f7",
+  "human_rating": 1372,
+  "time_control": "360+0",
+  "url": "https://lichess.org/xsvd727p"
+ },
+ {
+  "id": "lichess-2013-01-121114",
+  "fen": "3r2k1/Qp1q3p/6p1/3pb3/8/6P1/PP5P/3R2K1 w - - 0 32",
+  "ply": 62,
+  "human_move": "a7c5",
+  "human_rating": 1478,
+  "time_control": "300+0",
+  "url": "https://lichess.org/6w8kw1j3"
+ },
+ {
+  "id": "lichess-2013-01-121156",
+  "fen": "r1b1kb1r/ppp2pp1/2n4p/4p3/2P3P1/4BPnP/PP6/RN1K1BNR w kq - 1 10",
+  "ply": 18,
+  "human_move": "h1h2",
+  "human_rating": 1205,
+  "time_control": "300+0",
+  "url": "https://lichess.org/gxt3t5h9"
+ },
+ {
+  "id": "lichess-2013-01-121215",
+  "fen": "r4k2/1p4pp/4Bp2/2bPp3/2P4P/8/5PP1/4R1K1 b - - 0 25",
+  "ply": 49,
+  "human_move": "a8a2",
+  "human_rating": 1694,
+  "time_control": "120+2",
+  "url": "https://lichess.org/b1f5x5da"
+ }
+]

@@ -1,0 +1,1531 @@
+[
+ {
+  "id": "1iLXK",
+  "rating": 775,
+  "themes": "endgame mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "h5d1",
+   "d1e1"
+  ]
+ },
+ {
+  "id": "4BoiQ",
+  "rating": 773,
+  "themes": "endgame fork mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "e6e8",
+   "e8f8"
+  ]
+ },
+ {
+  "id": "3wVt6",
+  "rating": 782,
+  "themes": "endgame fork mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "e6e8",
+   "e8f8"
+  ]
+ },
+ {
+  "id": "0zs91",
+  "rating": 781,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": true,
+  "tried": [
+   "f3d4",
+   "g1g2"
+  ]
+ },
+ {
+  "id": "2h9Hx",
+  "rating": 785,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "g5g2"
+  ]
+ },
+ {
+  "id": "4J42a",
+  "rating": 772,
+  "themes": "advancedPawn crushing endgame short",
+  "solved": true,
+  "tried": [
+   "g4h3",
+   "h3h2"
+  ]
+ },
+ {
+  "id": "3VozD",
+  "rating": 746,
+  "themes": "advantage endgame fork short",
+  "solved": true,
+  "tried": [
+   "e5d3",
+   "d3c1"
+  ]
+ },
+ {
+  "id": "4QVNs",
+  "rating": 781,
+  "themes": "crushing endgame fork master masterVsMaster short",
+  "solved": true,
+  "tried": [
+   "a7c8",
+   "c8b6"
+  ]
+ },
+ {
+  "id": "43col",
+  "rating": 756,
+  "themes": "advancedPawn endgame mate mateIn1 oneMove promotion",
+  "solved": true,
+  "tried": [
+   "d7d8q"
+  ]
+ },
+ {
+  "id": "0FxNY",
+  "rating": 750,
+  "themes": "arabianMate kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "h1h7"
+  ]
+ },
+ {
+  "id": "4JhwU",
+  "rating": 792,
+  "themes": "crushing endgame master masterVsMaster pin short",
+  "solved": true,
+  "tried": [
+   "h3e6",
+   "e6f7"
+  ]
+ },
+ {
+  "id": "04xSr",
+  "rating": 796,
+  "themes": "crushing deflection endgame exposedKing long rookEndgame skewer",
+  "solved": true,
+  "tried": [
+   "h1h7",
+   "h7h6",
+   "h6e6"
+  ]
+ },
+ {
+  "id": "3V8VC",
+  "rating": 689,
+  "themes": "master mate mateIn2 middlegame short",
+  "solved": false,
+  "tried": [
+   "e2c4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "21I1m",
+  "rating": 798,
+  "themes": "kingsideAttack mate mateIn2 middlegame pillsburysMate pin short",
+  "solved": true,
+  "tried": [
+   "e2e8",
+   "e1e8"
+  ]
+ },
+ {
+  "id": "3xU8T",
+  "rating": 746,
+  "themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "h5d1"
+  ]
+ },
+ {
+  "id": "4XnuD",
+  "rating": 998,
+  "themes": "advantage endgame fork master masterVsMaster short",
+  "solved": true,
+  "tried": [
+   "g7e8",
+   "e8f6"
+  ]
+ },
+ {
+  "id": "5ShIM",
+  "rating": 987,
+  "themes": "crushing endgame fork long",
+  "solved": true,
+  "tried": [
+   "g7g5",
+   "g5f4",
+   "h8g8"
+  ]
+ },
+ {
+  "id": "2zZ3l",
+  "rating": 877,
+  "themes": "crushing fork opening short",
+  "solved": false,
+  "tried": [
+   "c5d4",
+   "d4h4"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5RXvB",
+  "rating": 967,
+  "themes": "crushing deflection endgame master short",
+  "solved": true,
+  "tried": [
+   "c4c6",
+   "e4d5"
+  ]
+ },
+ {
+  "id": "5zZnC",
+  "rating": 957,
+  "themes": "endgame mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "g3b8",
+   "b8d8"
+  ]
+ },
+ {
+  "id": "3InqU",
+  "rating": 937,
+  "themes": "crushing opening short",
+  "solved": true,
+  "tried": [
+   "e6d4",
+   "d7d4"
+  ]
+ },
+ {
+  "id": "33Vj3",
+  "rating": 951,
+  "themes": "crushing fork middlegame short",
+  "solved": true,
+  "tried": [
+   "g6e4",
+   "e7e4"
+  ]
+ },
+ {
+  "id": "5W9RU",
+  "rating": 884,
+  "themes": "advantage fork middlegame short",
+  "solved": true,
+  "tried": [
+   "d4e2",
+   "e2g3"
+  ]
+ },
+ {
+  "id": "4P209",
+  "rating": 804,
+  "themes": "crushing endgame short skewer",
+  "solved": false,
+  "tried": [
+   "h1h3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3QlFs",
+  "rating": 935,
+  "themes": "backRankMate endgame mate mateIn2 short xRayAttack",
+  "solved": true,
+  "tried": [
+   "b1d1",
+   "d8d1"
+  ]
+ },
+ {
+  "id": "13YPA",
+  "rating": 852,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "c7h2"
+  ]
+ },
+ {
+  "id": "2oluT",
+  "rating": 930,
+  "themes": "endgame master mate mateIn1 oneMove",
+  "solved": true,
+  "tried": [
+   "g3g2"
+  ]
+ },
+ {
+  "id": "0mjzL",
+  "rating": 985,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": false,
+  "tried": [
+   "d4d3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0JCi1",
+  "rating": 899,
+  "themes": "endgame mate mateIn2 pillsburysMate short",
+  "solved": true,
+  "tried": [
+   "c3h3",
+   "h3h4"
+  ]
+ },
+ {
+  "id": "14oJJ",
+  "rating": 860,
+  "themes": "discoveredCheck doubleCheck epauletteMate mate mateIn1 oneMove opening pillsburysMate",
+  "solved": true,
+  "tried": [
+   "e2b5"
+  ]
+ },
+ {
+  "id": "13GDU",
+  "rating": 1155,
+  "themes": "mate mateIn2 middlegame queensideAttack short",
+  "solved": true,
+  "tried": [
+   "a5a8",
+   "b5b6"
+  ]
+ },
+ {
+  "id": "4Znzs",
+  "rating": 1014,
+  "themes": "endgame mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "f8f1",
+   "e2f1"
+  ]
+ },
+ {
+  "id": "5eOSS",
+  "rating": 1121,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": true,
+  "tried": [
+   "h3h1",
+   "h4h3"
+  ]
+ },
+ {
+  "id": "290AT",
+  "rating": 1145,
+  "themes": "crushing endgame fork long",
+  "solved": true,
+  "tried": [
+   "c8c1",
+   "b3d1",
+   "d1c1"
+  ]
+ },
+ {
+  "id": "3Yvby",
+  "rating": 1145,
+  "themes": "crushing kingsideAttack middlegame sacrifice short",
+  "solved": false,
+  "tried": [
+   "g2g4",
+   "f3g4"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5wqIA",
+  "rating": 1072,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "c3g7"
+  ]
+ },
+ {
+  "id": "3kzYY",
+  "rating": 1189,
+  "themes": "crushing endgame exposedKing fork long",
+  "solved": true,
+  "tried": [
+   "f3f8",
+   "d6b5",
+   "b5c3"
+  ]
+ },
+ {
+  "id": "3jdrH",
+  "rating": 1174,
+  "themes": "advantage endgame long pin",
+  "solved": false,
+  "tried": [
+   "d2c3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0foze",
+  "rating": 1160,
+  "themes": "crushing hangingPiece master middlegame short",
+  "solved": true,
+  "tried": [
+   "g8f7",
+   "e4e2"
+  ]
+ },
+ {
+  "id": "4g73z",
+  "rating": 1156,
+  "themes": "crushing fork long middlegame",
+  "solved": false,
+  "tried": [
+   "b5d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4IJK5",
+  "rating": 1134,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "c2a4"
+  ]
+ },
+ {
+  "id": "1NXWt",
+  "rating": 1110,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": true,
+  "tried": [
+   "e4g4",
+   "g4g2"
+  ]
+ },
+ {
+  "id": "49c1y",
+  "rating": 1078,
+  "themes": "endgame mate mateIn2 short",
+  "solved": false,
+  "tried": [
+   "d7d8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5Rly6",
+  "rating": 1113,
+  "themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+  "solved": true,
+  "tried": [
+   "c2c1"
+  ]
+ },
+ {
+  "id": "3lY8M",
+  "rating": 1178,
+  "themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+  "solved": false,
+  "tried": [
+   "d4d7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0LnLg",
+  "rating": 1386,
+  "themes": "crushing defensiveMove endgame master short",
+  "solved": true,
+  "tried": [
+   "e3d4",
+   "d4c3"
+  ]
+ },
+ {
+  "id": "31MMX",
+  "rating": 1362,
+  "themes": "endgame master mate mateIn2 operaMate short",
+  "solved": false,
+  "tried": [
+   "f5h5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5lfGF",
+  "rating": 1284,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": false,
+  "tried": [
+   "c8c7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4hJmN",
+  "rating": 1230,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": true,
+  "tried": [
+   "h7g7",
+   "g6g7"
+  ]
+ },
+ {
+  "id": "2dczQ",
+  "rating": 1365,
+  "themes": "advancedPawn bishopEndgame crushing endgame long",
+  "solved": true,
+  "tried": [
+   "g5g6",
+   "c4d5",
+   "g6g7"
+  ]
+ },
+ {
+  "id": "4P4zO",
+  "rating": 1206,
+  "themes": "advantage endgame long rookEndgame",
+  "solved": false,
+  "tried": [
+   "g1h1"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2ELJS",
+  "rating": 1388,
+  "themes": "crushing endgame master short",
+  "solved": false,
+  "tried": [
+   "d4c3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4287m",
+  "rating": 1376,
+  "themes": "advantage middlegame short",
+  "solved": true,
+  "tried": [
+   "d5c6",
+   "a5c6"
+  ]
+ },
+ {
+  "id": "1t23L",
+  "rating": 1238,
+  "themes": "advantage long middlegame",
+  "solved": false,
+  "tried": [
+   "d6e6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0HTsP",
+  "rating": 1228,
+  "themes": "backRankMate discoveredCheck doubleCheck fork long mate mateIn3 middlegame",
+  "solved": true,
+  "tried": [
+   "f6e4",
+   "f7f2",
+   "f2e1"
+  ]
+ },
+ {
+  "id": "2TPU0",
+  "rating": 1376,
+  "themes": "endgame mate mateIn2 queenRookEndgame short",
+  "solved": true,
+  "tried": [
+   "f5g5",
+   "f4f6"
+  ]
+ },
+ {
+  "id": "03qIH",
+  "rating": 1364,
+  "themes": "bishopEndgame crushing endgame quietMove short",
+  "solved": true,
+  "tried": [
+   "e4e5",
+   "e5e6"
+  ]
+ },
+ {
+  "id": "0bDx5",
+  "rating": 1319,
+  "themes": "crushing endgame exposedKing rookEndgame veryLong",
+  "solved": false,
+  "tried": [
+   "g6g5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0rCH1",
+  "rating": 1380,
+  "themes": "crushing fork middlegame short",
+  "solved": true,
+  "tried": [
+   "d8a5",
+   "a5b5"
+  ]
+ },
+ {
+  "id": "4nxia",
+  "rating": 1265,
+  "themes": "advantage middlegame pin short",
+  "solved": false,
+  "tried": [
+   "e7g5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1gxFL",
+  "rating": 1564,
+  "themes": "advantage fork middlegame short",
+  "solved": false,
+  "tried": [
+   "d6e7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2haQB",
+  "rating": 1459,
+  "themes": "endgame mate mateIn4 sacrifice veryLong",
+  "solved": false,
+  "tried": [
+   "f8f7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3ynqC",
+  "rating": 1453,
+  "themes": "middlegame",
+  "solved": true,
+  "tried": [
+   "g5d8",
+   "h6g7"
+  ]
+ },
+ {
+  "id": "4XN4S",
+  "rating": 1441,
+  "themes": "crushing kingsideAttack long middlegame sacrifice",
+  "solved": false,
+  "tried": [
+   "f3g3",
+   "h3g3",
+   "g3e5"
+  ],
+  "failed_at": 5
+ },
+ {
+  "id": "4VHo6",
+  "rating": 1555,
+  "themes": "advantage fork intermezzo middlegame short",
+  "solved": false,
+  "tried": [
+   "g8h8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1UATE",
+  "rating": 1459,
+  "themes": "crushing endgame short",
+  "solved": false,
+  "tried": [
+   "b6e6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5t8Mh",
+  "rating": 1586,
+  "themes": "advantage long middlegame pin",
+  "solved": false,
+  "tried": [
+   "e4c4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1sTYU",
+  "rating": 1506,
+  "themes": "crushing endgame pawnEndgame short",
+  "solved": true,
+  "tried": [
+   "h3g4",
+   "e4f4"
+  ]
+ },
+ {
+  "id": "2k5QM",
+  "rating": 1471,
+  "themes": "crushing endgame short",
+  "solved": false,
+  "tried": [
+   "e6f7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1cEQA",
+  "rating": 1563,
+  "themes": "crushing endgame long pawnEndgame",
+  "solved": false,
+  "tried": [
+   "c4c5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3GyJf",
+  "rating": 1443,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": true,
+  "tried": [
+   "d6d8"
+  ]
+ },
+ {
+  "id": "1t5Lq",
+  "rating": 1598,
+  "themes": "advantage master middlegame short",
+  "solved": false,
+  "tried": [
+   "f3d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3Rwyx",
+  "rating": 1572,
+  "themes": "advancedPawn crushing endgame exposedKing long promotion",
+  "solved": false,
+  "tried": [
+   "f4d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "26eij",
+  "rating": 1494,
+  "themes": "endgame mate mateIn2 short",
+  "solved": false,
+  "tried": [
+   "e8d8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "04nw7",
+  "rating": 1578,
+  "themes": "advantage endgame master short",
+  "solved": true,
+  "tried": [
+   "e2e1",
+   "e8e1"
+  ]
+ },
+ {
+  "id": "4I05w",
+  "rating": 1708,
+  "themes": "crushing long master middlegame quietMove",
+  "solved": false,
+  "tried": [
+   "g5g4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0RaPu",
+  "rating": 1753,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "c3b4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4ucGS",
+  "rating": 1668,
+  "themes": "advantage long middlegame",
+  "solved": false,
+  "tried": [
+   "f5e4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "09OoO",
+  "rating": 1790,
+  "themes": "advantage fork middlegame short",
+  "solved": false,
+  "tried": [
+   "c1c7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2f8Xh",
+  "rating": 1716,
+  "themes": "advantage fork long middlegame",
+  "solved": false,
+  "tried": [
+   "g6f6",
+   "g4g5"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "1pkSN",
+  "rating": 1758,
+  "themes": "crushing endgame interference short",
+  "solved": true,
+  "tried": [
+   "b1h7",
+   "h7g7"
+  ]
+ },
+ {
+  "id": "4ZuAL",
+  "rating": 1677,
+  "themes": "capturingDefender crushing middlegame short",
+  "solved": true,
+  "tried": [
+   "d2b2",
+   "g7c3"
+  ]
+ },
+ {
+  "id": "3Jc4L",
+  "rating": 1799,
+  "themes": "advantage endgame short",
+  "solved": false,
+  "tried": [
+   "d1d4",
+   "f4d5"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "2AYtO",
+  "rating": 1618,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": false,
+  "tried": [
+   "e4b7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4JdCo",
+  "rating": 1788,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "g6h4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4NjBK",
+  "rating": 1675,
+  "themes": "crushing master masterVsMaster middlegame short",
+  "solved": true,
+  "tried": [
+   "d1d6",
+   "e4e5"
+  ]
+ },
+ {
+  "id": "2JcT4",
+  "rating": 1782,
+  "themes": "advantage opening pin sacrifice veryLong",
+  "solved": false,
+  "tried": [
+   "b5c3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1JNNE",
+  "rating": 1662,
+  "themes": "advancedPawn advantage endgame promotion short",
+  "solved": false,
+  "tried": [
+   "b3b1",
+   "b1b2"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "2coav",
+  "rating": 1743,
+  "themes": "advantage endgame fork short",
+  "solved": true,
+  "tried": [
+   "d4e2",
+   "e6e2"
+  ]
+ },
+ {
+  "id": "1N6No",
+  "rating": 1628,
+  "themes": "crushing long middlegame pin",
+  "solved": true,
+  "tried": [
+   "a1a8",
+   "c5d7",
+   "d7f6"
+  ]
+ },
+ {
+  "id": "4GcQG",
+  "rating": 1979,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "e6d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0yRfw",
+  "rating": 1939,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "e2b5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "119Uc",
+  "rating": 1874,
+  "themes": "attraction crushing exposedKing fork middlegame veryLong",
+  "solved": false,
+  "tried": [
+   "h2g2",
+   "f6g5"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5sG8N",
+  "rating": 1828,
+  "themes": "advantage opening short",
+  "solved": true,
+  "tried": [
+   "h3g4",
+   "e1e4"
+  ]
+ },
+ {
+  "id": "3A4J3",
+  "rating": 1802,
+  "themes": "advantage kingsideAttack middlegame short",
+  "solved": false,
+  "tried": [
+   "e7h4",
+   "b7c6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "3H0yF",
+  "rating": 1878,
+  "themes": "crushing endgame short",
+  "solved": false,
+  "tried": [
+   "g8f7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2Cxba",
+  "rating": 1960,
+  "themes": "advantage hangingPiece long middlegame",
+  "solved": false,
+  "tried": [
+   "g4g7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4IOrV",
+  "rating": 1819,
+  "themes": "advantage attraction fork long middlegame",
+  "solved": false,
+  "tried": [
+   "e4e5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1g7Md",
+  "rating": 1919,
+  "themes": "advantage long middlegame",
+  "solved": false,
+  "tried": [
+   "h4f5",
+   "g4g6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "0o4fJ",
+  "rating": 1822,
+  "themes": "attraction endgame long mate mateIn3 queenEndgame",
+  "solved": false,
+  "tried": [
+   "e7e8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3Im9Y",
+  "rating": 1839,
+  "themes": "advancedPawn attraction crushing endgame exposedKing fork long",
+  "solved": true,
+  "tried": [
+   "f3g2",
+   "e5e2",
+   "e2d3"
+  ]
+ },
+ {
+  "id": "29I3K",
+  "rating": 1899,
+  "themes": "advantage middlegame pin veryLong",
+  "solved": false,
+  "tried": [
+   "g6g3",
+   "g3h4"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5YysM",
+  "rating": 1837,
+  "themes": "crushing endgame long pawnEndgame zugzwang",
+  "solved": true,
+  "tried": [
+   "e5d5",
+   "d5c4",
+   "g5f4"
+  ]
+ },
+ {
+  "id": "4QCeI",
+  "rating": 1869,
+  "themes": "advantage discoveredAttack endgame rookEndgame short",
+  "solved": false,
+  "tried": [
+   "g5g6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2f8Jr",
+  "rating": 1827,
+  "themes": "attraction crushing kingsideAttack middlegame sacrifice short",
+  "solved": false,
+  "tried": [
+   "f3f6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3V2Ll",
+  "rating": 2077,
+  "themes": "crushing endgame long queenEndgame",
+  "solved": true,
+  "tried": [
+   "c3f3",
+   "h6g5",
+   "g5f4"
+  ]
+ },
+ {
+  "id": "0KJeI",
+  "rating": 2163,
+  "themes": "crushing endgame queenEndgame quietMove veryLong",
+  "solved": false,
+  "tried": [
+   "f1c4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3Wq33",
+  "rating": 2144,
+  "themes": "crushing deflection discoveredAttack kingsideAttack master middlegame veryLong",
+  "solved": false,
+  "tried": [
+   "e5f3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1KqLD",
+  "rating": 2039,
+  "themes": "advancedPawn crushing endgame long promotion",
+  "solved": false,
+  "tried": [
+   "b5c5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1iPjJ",
+  "rating": 2021,
+  "themes": "crushing middlegame sacrifice short",
+  "solved": false,
+  "tried": [
+   "e5f6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "02Gyp",
+  "rating": 2021,
+  "themes": "crushing endgame long rookEndgame",
+  "solved": true,
+  "tried": [
+   "e5f5",
+   "e7f6",
+   "f6f5"
+  ]
+ },
+ {
+  "id": "45Jjd",
+  "rating": 2001,
+  "themes": "crushing kingsideAttack long middlegame",
+  "solved": false,
+  "tried": [
+   "b4b7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5IK0M",
+  "rating": 2146,
+  "themes": "crushing hangingPiece middlegame short",
+  "solved": false,
+  "tried": [
+   "g1g6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4M47D",
+  "rating": 2010,
+  "themes": "advancedPawn crushing endgame intermezzo master short",
+  "solved": false,
+  "tried": [
+   "d3e3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3iSID",
+  "rating": 2003,
+  "themes": "endgame mate mateIn2 short",
+  "solved": true,
+  "tried": [
+   "e8d8",
+   "e1e5"
+  ]
+ },
+ {
+  "id": "4k3q8",
+  "rating": 2097,
+  "themes": "advantage endgame short",
+  "solved": false,
+  "tried": [
+   "e1g2",
+   "e8e2"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "64yl9",
+  "rating": 2058,
+  "themes": "crushing endgame quietMove short",
+  "solved": false,
+  "tried": [
+   "d4d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1uQN6",
+  "rating": 2195,
+  "themes": "advancedPawn advantage endgame master short",
+  "solved": false,
+  "tried": [
+   "e7b4",
+   "b7g2"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "0IYKy",
+  "rating": 2063,
+  "themes": "crushing middlegame short",
+  "solved": true,
+  "tried": [
+   "g5h4",
+   "f8f3"
+  ]
+ },
+ {
+  "id": "3uYwL",
+  "rating": 2077,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": true,
+  "tried": [
+   "g6e6",
+   "e6d7"
+  ]
+ },
+ {
+  "id": "2YevV",
+  "rating": 2374,
+  "themes": "advantage long middlegame pin",
+  "solved": false,
+  "tried": [
+   "d8f6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0E792",
+  "rating": 2297,
+  "themes": "advantage master middlegame short",
+  "solved": false,
+  "tried": [
+   "a1d1"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5aNUB",
+  "rating": 2322,
+  "themes": "crushing defensiveMove long middlegame",
+  "solved": false,
+  "tried": [
+   "f4e6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5iboF",
+  "rating": 2274,
+  "themes": "crushing discoveredAttack kingsideAttack long middlegame",
+  "solved": false,
+  "tried": [
+   "d5f7",
+   "d1d8",
+   "e5f7"
+  ],
+  "failed_at": 5
+ },
+ {
+  "id": "4Md61",
+  "rating": 2201,
+  "themes": "advantage hangingPiece long master middlegame",
+  "solved": false,
+  "tried": [
+   "e7c5",
+   "d5b6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "0Ztng",
+  "rating": 2218,
+  "themes": "mate mateIn2 middlegame short xRayAttack",
+  "solved": false,
+  "tried": [
+   "h8g7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1EU0K",
+  "rating": 2330,
+  "themes": "advantage fork long middlegame",
+  "solved": false,
+  "tried": [
+   "e1e6",
+   "g5h6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "3cN8H",
+  "rating": 2248,
+  "themes": "endgame fork long mate mateIn3 sacrifice",
+  "solved": false,
+  "tried": [
+   "g5h6",
+   "e8f8"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "1N4V7",
+  "rating": 2249,
+  "themes": "advantage discoveredAttack middlegame short",
+  "solved": false,
+  "tried": [
+   "f3g3"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2hWSM",
+  "rating": 2353,
+  "themes": "crushing long middlegame",
+  "solved": false,
+  "tried": [
+   "b7d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "5kpL2",
+  "rating": 2225,
+  "themes": "advantage attraction endgame short",
+  "solved": false,
+  "tried": [
+   "f8f1",
+   "c8c1"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "563EJ",
+  "rating": 2241,
+  "themes": "advantage long middlegame",
+  "solved": false,
+  "tried": [
+   "g2d5"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0ev81",
+  "rating": 2276,
+  "themes": "crushing exposedKing fork long middlegame",
+  "solved": false,
+  "tried": [
+   "h2h7"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3jKk3",
+  "rating": 2269,
+  "themes": "crushing intermezzo middlegame skewer veryLong",
+  "solved": false,
+  "tried": [
+   "f5f6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "2NK6L",
+  "rating": 2232,
+  "themes": "crushing endgame pawnEndgame quietMove veryLong zugzwang",
+  "solved": true,
+  "tried": [
+   "a5b6",
+   "d3d4",
+   "b4c5",
+   "c5d6",
+   "e3f4"
+  ]
+ },
+ {
+  "id": "0VA8m",
+  "rating": 2423,
+  "themes": "crushing endgame fork long",
+  "solved": false,
+  "tried": [
+   "h6f8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "1Lw5R",
+  "rating": 2417,
+  "themes": "advantage master middlegame veryLong",
+  "solved": false,
+  "tried": [
+   "c7b8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0XsFq",
+  "rating": 2421,
+  "themes": "advantage long middlegame pin",
+  "solved": false,
+  "tried": [
+   "e5h8"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0jDRt",
+  "rating": 2452,
+  "themes": "crushing endgame long pawnEndgame quietMove",
+  "solved": false,
+  "tried": [
+   "c3c2"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "4uiFX",
+  "rating": 2506,
+  "themes": "advancedPawn crushing endgame exposedKing hangingPiece quietMove veryLong",
+  "solved": false,
+  "tried": [
+   "e6f7",
+   "g5g6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "0LhMl",
+  "rating": 2407,
+  "themes": "crushing endgame long rookEndgame",
+  "solved": false,
+  "tried": [
+   "g6h6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0yzOg",
+  "rating": 2544,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "f4g4",
+   "g4f3"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5FZTL",
+  "rating": 2402,
+  "themes": "advancedPawn crushing long middlegame",
+  "solved": false,
+  "tried": [
+   "b3c5",
+   "c5e6"
+  ],
+  "failed_at": 3
+ },
+ {
+  "id": "5A173",
+  "rating": 2433,
+  "themes": "advantage endgame exposedKing fork long",
+  "solved": false,
+  "tried": [
+   "c2f2"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "522Py",
+  "rating": 2457,
+  "themes": "advantage attraction endgame fork sacrifice veryLong",
+  "solved": false,
+  "tried": [
+   "g2g1q"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3MXK4",
+  "rating": 2495,
+  "themes": "bishopEndgame crushing defensiveMove endgame long",
+  "solved": false,
+  "tried": [
+   "e1g3",
+   "b5c4",
+   "d7e7"
+  ],
+  "failed_at": 5
+ },
+ {
+  "id": "1fmCB",
+  "rating": 2400,
+  "themes": "crushing endgame pawnEndgame quietMove veryLong zugzwang",
+  "solved": false,
+  "tried": [
+   "f6f5",
+   "f5g4",
+   "g4f5"
+  ],
+  "failed_at": 5
+ },
+ {
+  "id": "3LqKY",
+  "rating": 2403,
+  "themes": "advantage middlegame short",
+  "solved": false,
+  "tried": [
+   "c5b6"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "0k9Ni",
+  "rating": 2455,
+  "themes": "crushing endgame pawnEndgame quietMove short",
+  "solved": false,
+  "tried": [
+   "c5c4"
+  ],
+  "failed_at": 1
+ },
+ {
+  "id": "3hPrZ",
+  "rating": 2496,
+  "themes": "advantage endgame long",
+  "solved": false,
+  "tried": [
+   "g8g6"
+  ],
+  "failed_at": 1
+ }
+]

@@ -1,0 +1,517 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jev at chess</title>
+<meta name="description" content="Jev 1.13 chooses chess moves from the full list of legal moves. Stockfish 19 grades every choice: game rating, puzzle rating and move quality, with Sonnet 5 and simple rules for comparison.">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --ring: rgba(11,11,11,0.10);
+  --code-bg: #f1f0ec;
+  --jev: #2a78d6;
+  --llm: #eb6834;
+  --cap: #1baf7a;
+  --hum: #eda100;
+  --rnd: #a3a19b;
+  --ref: #898781;
+  --sq-light: #ebe6d9;
+  --sq-dark: #b9ab92;
+  --hl-jev: rgba(42,120,214,0.45);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --ring: rgba(255,255,255,0.10);
+    --code-bg: #232322;
+    --jev: #3987e5;
+    --llm: #d95926;
+    --cap: #199e70;
+    --hum: #c98500;
+    --rnd: #6d6b66;
+    --ref: #898781;
+    --hl-jev: rgba(57,135,229,0.55);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --muted: #898781;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --ring: rgba(255,255,255,0.10);
+  --code-bg: #232322;
+  --jev: #3987e5;
+  --llm: #d95926;
+  --cap: #199e70;
+  --hum: #c98500;
+  --rnd: #6d6b66;
+  --ref: #898781;
+  --hl-jev: rgba(57,135,229,0.55);
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+main { max-width: 860px; margin: 0 auto; padding: 40px 16px 64px; }
+h1 { font-size: 2.1rem; line-height: 1.15; margin: 0 0 12px; letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin: 56px 0 8px; line-height: 1.25; }
+h3 { font-size: 1.05rem; margin: 28px 0 6px; }
+p { margin: 0 0 14px; }
+.lede { font-size: 1.1rem; color: var(--ink-2); max-width: 44em; }
+a { color: inherit; text-decoration-color: var(--axis); text-underline-offset: 3px; }
+a:hover { text-decoration-color: var(--ink); }
+.meta { color: var(--muted); font-size: .9rem; margin-bottom: 28px; }
+.tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 28px 0 8px; }
+.tile { background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 14px 14px 12px; }
+.tile .label { font-size: .85rem; color: var(--ink-2); }
+.tile .value { font-size: 1.9rem; font-weight: 600; line-height: 1.2; margin: 4px 0 2px; }
+.tile .sub { font-size: .8rem; color: var(--muted); line-height: 1.35; }
+@media (max-width: 720px) { .tiles { grid-template-columns: repeat(2, 1fr); } }
+ul.findings { padding-left: 1.1em; margin: 18px 0 0; }
+ul.findings li { margin-bottom: 8px; }
+figure { margin: 18px 0 8px; background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 16px; }
+figcaption { font-size: .88rem; color: var(--ink-2); margin-top: 10px; }
+.fig-title { font-weight: 600; font-size: .95rem; margin-bottom: 2px; }
+.fig-sub { font-size: .82rem; color: var(--muted); margin-bottom: 12px; }
+pre { background: var(--code-bg); border-radius: 8px; padding: 14px; overflow-x: auto; font-size: .78rem; line-height: 1.45; margin: 12px 0; }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .9em; }
+.table-wrap { overflow-x: auto; margin: 12px 0; }
+table { border-collapse: collapse; width: 100%; font-size: .88rem; }
+th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+th { font-weight: 600; color: var(--ink-2); font-size: .8rem; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr.chosen td { font-weight: 600; }
+details { margin-top: 10px; font-size: .88rem; }
+summary { cursor: pointer; color: var(--ink-2); }
+.key { display: inline-flex; align-items: center; gap: 6px; margin-right: 14px; font-size: .82rem; color: var(--ink-2); white-space: nowrap; }
+.key i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.key i.line { width: 14px; height: 3px; border-radius: 2px; }
+.legend { margin-bottom: 10px; line-height: 1.9; }
+.seg { display: inline-flex; border: 1px solid var(--ring); border-radius: 8px; overflow: hidden; margin-bottom: 12px; flex-wrap: wrap; }
+.seg button { font: inherit; font-size: .82rem; background: transparent; color: var(--ink-2); border: 0; padding: 6px 12px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--page); }
+/* dot + interval rows */
+.rows { position: relative; }
+.row { display: grid; grid-template-columns: minmax(120px, 34%) 1fr 64px; align-items: center; gap: 10px; min-height: 30px; }
+.row .name { font-size: .84rem; color: var(--ink-2); line-height: 1.25; }
+.row .name b { color: var(--ink); font-weight: 600; }
+.row .val { font-size: .84rem; text-align: right; font-variant-numeric: tabular-nums; }
+.track { position: relative; height: 26px; }
+.track .gl { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--grid); }
+.track .ci { position: absolute; top: 12px; height: 2px; border-radius: 1px; }
+.track .dot { position: absolute; top: 8px; width: 10px; height: 10px; border-radius: 50%; margin-left: -5px; box-shadow: 0 0 0 2px var(--surface); }
+.track .bar { position: absolute; top: 5px; height: 16px; border-radius: 0 4px 4px 0; left: 0; }
+.track .hit { position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+.axis { display: grid; grid-template-columns: minmax(120px, 34%) 1fr 64px; gap: 10px; }
+.axis .ticks { position: relative; height: 20px; font-size: .75rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.axis .ticks span { position: absolute; transform: translateX(-50%); top: 2px; white-space: nowrap; }
+@media (max-width: 560px) {
+  .row, .axis { grid-template-columns: 38% 1fr 48px; gap: 6px; }
+}
+#tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--page); font-size: .78rem; line-height: 1.4; padding: 6px 9px; border-radius: 6px; max-width: 260px; opacity: 0; transition: opacity .08s; z-index: 10; }
+/* line chart */
+#bands svg { display: block; width: 100%; overflow: visible; }
+#bands text { font: 12px system-ui, -apple-system, "Segoe UI", sans-serif; fill: var(--muted); }
+/* examples */
+.ex-nav { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+.ex-nav button { font: inherit; font-size: .82rem; background: var(--surface); color: var(--ink-2); border: 1px solid var(--ring); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+.ex-nav button[aria-pressed="true"] { background: var(--ink); color: var(--page); border-color: var(--ink); }
+.ex { display: grid; grid-template-columns: minmax(0, 320px) 1fr; gap: 20px; align-items: start; }
+@media (max-width: 640px) { .ex { grid-template-columns: 1fr; } }
+.board { display: grid; grid-template-columns: 14px repeat(8, 1fr); width: 100%; max-width: 320px; font-size: .7rem; color: var(--muted); }
+.board .sq { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; position: relative; font-size: clamp(20px, 7.5vw, 30px); line-height: 1; }
+.board .sq.l { background: var(--sq-light); }
+.board .sq.d { background: var(--sq-dark); }
+.board .sq.jev::before { content: ""; position: absolute; inset: 0; background: var(--hl-jev); }
+.board .sq.best::after { content: ""; position: absolute; inset: 2px; border: 3px solid #0b0b0b; border-radius: 3px; }
+.board .pc { position: relative; z-index: 1; }
+.board .pc.w { color: #ffffff; text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 2px #000; }
+.board .pc.b { color: #111111; }
+.board .rk { display: flex; align-items: center; justify-content: center; }
+.board .fl { text-align: center; padding-top: 2px; }
+.ex-legend { font-size: .8rem; color: var(--ink-2); margin-top: 8px; display: flex; gap: 14px; flex-wrap: wrap; }
+.ex-legend span::before { content: ""; display: inline-block; width: 12px; height: 12px; vertical-align: -2px; margin-right: 5px; border-radius: 2px; }
+.ex-legend .lj::before { background: var(--hl-jev); }
+.ex-legend .lb::before { border: 2px solid var(--ink); box-sizing: border-box; }
+.probs td { vertical-align: middle; }
+.probs td.bar { width: 40%; }
+.pbar { height: 10px; border-radius: 0 3px 3px 0; background: var(--jev); min-width: 2px; }
+.ex h3 { margin-top: 0; }
+.small { font-size: .84rem; color: var(--ink-2); }
+footer { margin-top: 64px; padding-top: 16px; border-top: 1px solid var(--grid); font-size: .85rem; color: var(--muted); }
+ol.sources { font-size: .85rem; padding-left: 1.3em; }
+ol.sources li { margin-bottom: 4px; }
+@media (forced-colors: active) { .track .dot, .track .bar, .pbar { forced-color-adjust: none; } }
+</style>
+</head>
+<body>
+<main>
+<h1>Jev at chess</h1>
+<p class="lede">TypeSafe's Jev 1.13 was given chess positions and asked for the best move, choosing from the complete list of legal moves. It saw nothing else. Stockfish 19 graded every choice. The test covers 559 positions from rated Lichess games, 400 Lichess puzzles and 740 games against players of known strength.</p>
+<p class="meta">Run on 27 September 2026 with <code>jev-latest</code> (Jev 1.13.0), Stockfish 19 and Claude Sonnet 5. Code and data: <a href="https://github.com/eriestra/jev-chess">github.com/eriestra/jev-chess</a>.</p>
+
+<div class="tiles">
+  <div class="tile"><div class="label">Game rating</div><div class="value">448</div><div class="sub">Elo, CCRL Blitz scale<br>95% interval 241–598</div></div>
+  <div class="tile"><div class="label">Puzzle rating</div><div class="value">1,114</div><div class="sub">Lichess puzzle scale<br>95% interval 1,056–1,172</div></div>
+  <div class="tile"><div class="label">Average loss per move</div><div class="value">397</div><div class="sub">centipawns<br>random legal move: 392</div></div>
+  <div class="tile"><div class="label">Cost per move</div><div class="value">$0.00004</div><div class="sub">962 input tokens<br>263 ms median</div></div>
+</div>
+
+<ul class="findings">
+  <li><b>Move quality matches a random legal move.</b> Across 559 positions, Jev's moves lose 397 centipawns on average against 392 for a random move; the paired difference is +4 (95% interval −31 to +41). It blunders in 47% of positions; a random move blunders in 46%.</li>
+  <li><b>Jev plays captures and checks.</b> It finds Stockfish's best move 19.3% of the time, 4 times the 4.8% expected by chance. 77% of its moves are captures, against 30% for the human players and 6.5% of legal moves.</li>
+  <li><b>Puzzles reward that habit.</b> Jev's puzzle rating is 1,114. A capture-first rule with no model rates 1,017; a random mover rates 219.</li>
+  <li><b>Game rating: 448.</b> Jev rates between the capture-first rule (442) and Stockfish 1320 with 50% random moves (468). Head to head it scored 82% against the random mover, 78% against Stockfish 1320 with 75% random moves, 48% against the capture-first rule and 51% against Stockfish 1320 with 50% random moves. Stockfish's lowest calibrated setting is 1,320. Sonnet 5, given the same request as text, rated 1,129 (963–1,248).</li>
+</ul>
+
+<h2>The question Jev answers</h2>
+<p>Each move is one TypeSafe request with a single Choice question. The <code>state</code> is the board; the options are every legal move in standard algebraic notation (SAN), each with a plain description. Jev returns a probability for every option, and the player plays the most probable one. This is the request for the second position in the examples below, with the option list shortened for display:</p>
+<pre><code>{
+  &quot;model&quot;: &quot;jev-latest&quot;,
+  &quot;state&quot;: {
+    &quot;board&quot;: [
+      &quot;8 . . k r . b n r&quot;,
+      &quot;7 p . p . . . . p&quot;,
+      &quot;6 . p . p q p p .&quot;,
+      &quot;5 . . . N p . . .&quot;,
+      &quot;4 B . . . P . . .&quot;,
+      &quot;3 . . . P B . Q P&quot;,
+      &quot;2 P P . . . P P .&quot;,
+      &quot;1 n . . . . K . R&quot;,
+      &quot;  a b c d e f g h&quot;
+    ],
+    &quot;legend&quot;: &quot;Uppercase letters are White pieces, lowercase are Black, &#x27;.&#x27; is an empty square. K king, Q queen, R rook, B bishop, N knight, P pawn.&quot;,
+    &quot;side_to_move&quot;: &quot;Black&quot;,
+    &quot;castling_rights&quot;: &quot;White: none; Black: none&quot;,
+    &quot;en_passant_square&quot;: &quot;none&quot;
+  },
+  &quot;questions&quot;: {
+    &quot;move&quot;: {
+      &quot;type&quot;: &quot;choice&quot;,
+      &quot;instructions&quot;: &quot;Choose the best move for Black in this chess position.&quot;,
+      &quot;criteria&quot;: {
+        &quot;Ne7&quot;: &quot;Black knight from g8 to e7&quot;,
+        &quot;Nh6&quot;: &quot;Black knight from g8 to h6&quot;,
+        &quot;Bg7&quot;: &quot;Black bishop from f8 to g7&quot;,
+        &quot;Be7&quot;: &quot;Black bishop from f8 to e7&quot;,
+        … 24 more legal moves
+      }
+    }
+  }
+}</code></pre>
+<p>The request carries piece placement, side to move, castling rights and the en passant square. It carries no move history, no evaluation and no search. Because every option is legal, Jev cannot make an illegal move; the test measures move selection alone. A Choice accepts up to 255 options, more than the 218 legal moves a chess position can have.</p>
+
+<h2>Move quality</h2>
+<p>Positions come from rated Lichess games played in January 2013, one position per game at a random point between move 5 and move 60. Stockfish 19 scores every legal move of each position, and each chosen move is graded by how much it loses against the best one. Sonnet 5 answered the first 100 of these positions with the same request as text.</p>
+<figure>
+  <div class="fig-title" id="moves-title">Average loss per move, 99 shared positions</div>
+  <div class="fig-sub" id="moves-sub">Centipawns lost against Stockfish's best move (lower is better)</div>
+  <div class="seg" role="group" aria-label="Measure">
+    <button type="button" data-m="acpl" aria-pressed="true">Average loss</button>
+    <button type="button" data-m="blunder_rate" aria-pressed="false">Blunder rate</button>
+    <button type="button" data-m="top1" aria-pressed="false">Best move found</button>
+    <button type="button" data-m="accuracy" aria-pressed="false">Accuracy</button>
+  </div>
+  <div id="moves" class="rows"></div>
+  <figcaption>Stockfish 19 at depth 12 scores every legal move. Blunder: a drop of 0.3 in winning chances; accuracy: Lichess's per-move formula. Random legal move is the expected value over all legal moves. Sonnet 5 answered 100 positions; 1 reply named no move from the list and is excluded.</figcaption>
+  <details><summary>Table</summary><div class="table-wrap" id="moves-table"></div></details>
+</figure>
+<p>On all 559 held-out positions:</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Player</th><th class="num">Average loss</th><th class="num">Accuracy</th><th class="num">Best move found</th><th class="num">Blunder rate</th></tr></thead>
+<tbody>
+<tr><td>Humans in the source games (median rating 1,614)</td><td class="num">83</td><td class="num">84.8</td><td class="num">33.8%</td><td class="num">11%</td></tr>
+<tr><td>Capture-first rule</td><td class="num">339</td><td class="num">59.3</td><td class="num">19.7%</td><td class="num">41%</td></tr>
+<tr><td>Random legal move</td><td class="num">392</td><td class="num">53.0</td><td class="num">4.8%</td><td class="num">46%</td></tr>
+<tr><td><b>Jev</b></td><td class="num"><b>397</b></td><td class="num"><b>54.9</b></td><td class="num"><b>19.3%</b></td><td class="num"><b>47%</b></td></tr>
+</tbody></table></div>
+<p>Jev's confidence carries a little information. In the third of positions where its top option held at least 0.38 of the probability, its moves lost 320 centipawns on average; in the third where it held at most 0.26, they lost 413.</p>
+
+<h2>What Jev chooses</h2>
+<p>The <b>capture-first rule</b> is a control with no model: it plays a mating move if one exists, otherwise captures the most valuable piece it can, otherwise gives check, otherwise plays a random legal move. It does not look at whether the captured piece is defended.</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Player</th><th class="num">Captures</th><th class="num">Checks</th><th class="num">Queen moves</th><th class="num">Positions</th></tr></thead>
+<tbody><tr><td>Jev</td><td class=num>77%</td><td class=num>32%</td><td class=num>26%</td><td class=num>559</td></tr><tr><td>Capture-first rule</td><td class=num>85%</td><td class=num>18%</td><td class=num>18%</td><td class=num>559</td></tr><tr><td>Sonnet 5</td><td class=num>41%</td><td class=num>13%</td><td class=num>14%</td><td class=num>99</td></tr><tr><td>Humans (median 1,614)</td><td class=num>30%</td><td class=num>11%</td><td class=num>14%</td><td class=num>559</td></tr><tr><td>Random legal move (share of legal moves)</td><td class=num>6.5%</td><td class=num>2.8%</td><td class=num>17.1%</td><td class=num>559</td></tr></tbody></table></div>
+<p>Jev's choices look like the rule's. It takes material whether or not the piece is defended, and it gives check when a quiet move is better. Four positions from the held-out set:</p>
+<figure>
+  <div class="ex-nav" id="ex-nav" role="group" aria-label="Example positions"></div>
+  <div class="ex" id="ex"></div>
+</figure>
+
+<h2>Puzzles</h2>
+<p>400 puzzles from the Lichess puzzle database, 40 in each 200-point band from 600 to 2,599, limited to puzzles with at least 1,000 plays, a rating deviation of 80 or less and a popularity of 80 or more. A puzzle counts as solved only if every move of the solution is found; any checkmating move is accepted. The rating is the one that best explains the solved and failed puzzles given their Lichess ratings.</p>
+<figure>
+  <div class="fig-title">Puzzles solved by rating band</div>
+  <div class="legend"><span class="key"><i class="line" style="background:var(--jev)"></i>Jev</span><span class="key"><i class="line" style="background:var(--llm)"></i>Sonnet 5</span><span class="key"><i class="line" style="background:var(--cap)"></i>Capture-first rule</span><span class="key"><i class="line" style="background:var(--rnd)"></i>Random legal move</span></div>
+  <div id="bands"></div>
+  <figcaption>Jev, the capture-first rule and the random mover were tested on all 40 puzzles per band; Sonnet 5 on 15 per band. The random mover's values are exact expected rates.</figcaption>
+  <details><summary>Table</summary><div class="table-wrap" id="bands-table"></div></details>
+</figure>
+<div class="table-wrap"><table>
+<thead><tr><th>Player</th><th class="num">Puzzle rating</th><th class="num">95% interval</th><th class="num">Solved</th></tr></thead>
+<tbody>
+<tr><td>Sonnet 5</td><td class="num">1,440</td><td class="num">1,347–1,533</td><td class="num">62 of 150</td></tr>
+<tr><td><b>Jev</b></td><td class="num"><b>1,114</b></td><td class="num">1,056–1,172</td><td class="num">100 of 400</td></tr>
+<tr><td>Capture-first rule</td><td class="num">1,017</td><td class="num">958–1,076</td><td class="num">81 of 400</td></tr>
+<tr><td>Random legal move</td><td class="num">219</td><td class="num"></td><td class="num">2 of 400 (expected)</td></tr>
+</tbody></table></div>
+<p>Jev does better than the rule on the same puzzles: it solved 35 that the rule missed, and the rule solved 16 that Jev missed (sign test p = 0.011). On the 150 puzzles Sonnet 5 also answered, Jev's rating is 1,040.</p>
+
+<h2>Games</h2>
+<p>Stockfish can limit its strength to a chosen Elo, but not below 1,320. That setting is the anchor: its <code>UCI_Elo</code> scale was fitted to the CCRL Blitz rating list with games from the <code>8moves_v3</code> opening book at 120 seconds plus 1 second per move. All games here start from that book, and Stockfish 1320 at 120 + 1 is fixed at 1,320.</p>
+<p>At this setting Stockfish picks its move from a depth-1 search and plays that pick however long it searches afterwards (<a href="https://github.com/official-stockfish/Stockfish/blob/master/src/search.cpp">search.cpp</a>, <code>Skill::time_to_pick</code>). To keep the games short, the other Stockfish players run on a 10 + 0.1 second clock, and a 40-game match between Stockfish 1320 on the two clocks measures the difference: on the fast clock it rates 1,218 (1,118–1,312). Below the anchor, the scale is extended with reference players whose strength is measured here: Stockfish 1320 playing a random legal move 10%, 25%, 50% or 75% of the time, the capture-first rule, and a random mover. Each opening is played twice with colours reversed. Only Stockfish plays on a clock; Sonnet 5 plays against the anchor itself.</p>
+<figure>
+  <div class="fig-title">Game ratings</div>
+  <div class="fig-sub">Elo on the CCRL Blitz scale, with 95% intervals</div>
+  <div id="ladder" class="rows"></div>
+  <figcaption>Maximum-likelihood ratings from all 740 games, with Stockfish 1320 at 120 + 1 fixed at 1,320, two virtual draws per pairing, and intervals from 500 bootstrap resamples of each pairing's games. An interval includes the uncertainty of every link between a player and the anchor, so neighbouring players' intervals overlap even where their head-to-head results separate them.</figcaption>
+  <details><summary>Table</summary><div class="table-wrap" id="ladder-table"></div></details>
+</figure>
+<div class="table-wrap"><table>
+<thead><tr><th>Player</th><th>Opponent</th><th class="num">Games</th><th class="num">Won</th><th class="num">Drawn</th><th class="num">Lost</th><th class="num">Score</th></tr></thead>
+<tbody><tr><td>Jev</td><td>Stockfish 1320, 50% random moves</td><td class=num>60</td><td class=num>8</td><td class=num>45</td><td class=num>7</td><td class=num>51%</td></tr><tr><td>Jev</td><td>Capture-first rule</td><td class=num>60</td><td class=num>4</td><td class=num>50</td><td class=num>6</td><td class=num>48%</td></tr><tr><td>Jev</td><td>Stockfish 1320, 75% random moves</td><td class=num>60</td><td class=num>33</td><td class=num>27</td><td class=num>0</td><td class=num>78%</td></tr><tr><td>Jev</td><td>Random legal move</td><td class=num>60</td><td class=num>39</td><td class=num>21</td><td class=num>0</td><td class=num>82%</td></tr><tr><td>Sonnet 5</td><td>Stockfish 1320, 120 + 1 (anchor)</td><td class=num>20</td><td class=num>2</td><td class=num>5</td><td class=num>13</td><td class=num>22%</td></tr><tr><td>Stockfish 1320, 120 + 1 (anchor)</td><td>Stockfish 1320, 10 + 0.1</td><td class=num>40</td><td class=num>25</td><td class=num>2</td><td class=num>13</td><td class=num>65%</td></tr><tr><td>Stockfish 1320, 10 + 0.1</td><td>Stockfish 1320, 10% random moves</td><td class=num>40</td><td class=num>32</td><td class=num>3</td><td class=num>5</td><td class=num>84%</td></tr><tr><td>Stockfish 1320, 10 + 0.1</td><td>Stockfish 1320, 25% random moves</td><td class=num>40</td><td class=num>39</td><td class=num>0</td><td class=num>1</td><td class=num>98%</td></tr><tr><td>Stockfish 1320, 10 + 0.1</td><td>Stockfish 1320, 50% random moves</td><td class=num>40</td><td class=num>40</td><td class=num>0</td><td class=num>0</td><td class=num>100%</td></tr><tr><td>Stockfish 1320, 10% random moves</td><td>Stockfish 1320, 25% random moves</td><td class=num>40</td><td class=num>32</td><td class=num>3</td><td class=num>5</td><td class=num>84%</td></tr><tr><td>Stockfish 1320, 25% random moves</td><td>Stockfish 1320, 50% random moves</td><td class=num>40</td><td class=num>31</td><td class=num>2</td><td class=num>7</td><td class=num>80%</td></tr><tr><td>Stockfish 1320, 25% random moves</td><td>Stockfish 1320, 75% random moves</td><td class=num>40</td><td class=num>38</td><td class=num>1</td><td class=num>1</td><td class=num>96%</td></tr><tr><td>Stockfish 1320, 50% random moves</td><td>Capture-first rule</td><td class=num>40</td><td class=num>9</td><td class=num>21</td><td class=num>10</td><td class=num>49%</td></tr><tr><td>Stockfish 1320, 50% random moves</td><td>Stockfish 1320, 75% random moves</td><td class=num>40</td><td class=num>30</td><td class=num>7</td><td class=num>3</td><td class=num>84%</td></tr><tr><td>Stockfish 1320, 75% random moves</td><td>Capture-first rule</td><td class=num>40</td><td class=num>1</td><td class=num>25</td><td class=num>14</td><td class=num>34%</td></tr><tr><td>Stockfish 1320, 75% random moves</td><td>Random legal move</td><td class=num>40</td><td class=num>31</td><td class=num>9</td><td class=num>0</td><td class=num>89%</td></tr><tr><td>Capture-first rule</td><td>Random legal move</td><td class=num>40</td><td class=num>29</td><td class=num>11</td><td class=num>0</td><td class=num>86%</td></tr></tbody></table></div>
+<p>In its games against the random mover, Jev won 39 of 60 (39 by checkmate), drew 21 (20 by repetition) and lost 0; against the capture-first rule, Jev won 4 of 60 (4 by checkmate), drew 50 (28 by repetition) and lost 6; against Stockfish 1320 with 75% random moves, Jev won 33 of 60 (33 by checkmate), drew 27 (26 by repetition) and lost 0; against Stockfish 1320 with 50% random moves, Jev won 8 of 60 (8 by checkmate), drew 45 (40 by repetition) and lost 7. Sonnet 5 played 20 games against the Stockfish 1320 anchor (717 moves, USD 12.08); 7 of its replies named no legal move and were replaced by a random legal move.</p>
+
+<h2>Choosing the input format</h2>
+<p>Before the main run, Jev answered 100 separate positions in six formats: three ways to write the board, each with bare SAN options or options with a description (“Black queen from e6 to d5, captures White knight”). Graded at depth 16:</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Board</th><th>Options</th><th class="num">Average loss</th><th class="num">Accuracy</th><th class="num">Best move</th><th class="num">Blunders</th><th class="num">Tokens</th></tr></thead>
+<tbody><tr><td>FEN string</td><td>SAN only</td><td class=num>424</td><td class=num>55.7</td><td class=num>15%</td><td class=num>47%</td><td class=num>552</td></tr><tr><td>FEN string</td><td>SAN + description</td><td class=num>374</td><td class=num>60.3</td><td class=num>23%</td><td class=num>43%</td><td class=num>942</td></tr><tr><td>8×8 text grid</td><td>SAN only</td><td class=num>442</td><td class=num>55.7</td><td class=num>19%</td><td class=num>46%</td><td class=num>686</td></tr><tr class=chosen><td>8×8 text grid</td><td>SAN + description</td><td class=num>371</td><td class=num>60.7</td><td class=num>22%</td><td class=num>41%</td><td class=num>1,076</td></tr><tr><td>Piece lists</td><td>SAN only</td><td class=num>386</td><td class=num>60.1</td><td class=num>23%</td><td class=num>41%</td><td class=num>725</td></tr><tr><td>Piece lists</td><td>SAN + description</td><td class=num>404</td><td class=num>58.0</td><td class=num>22%</td><td class=num>44%</td><td class=num>1,114</td></tr></tbody></table></div>
+<p>A random legal move loses 363 centipawns on the same positions; the humans who played them lose 94. No format beats another at 95% confidence (paired bootstrap), so the main run uses the one with the lowest average loss, shown in bold. Jev's answers are nearly deterministic: asked the same 20 questions twice, it picked the same move 17 times out of 20, and no probability moved by more than 0.05.</p>
+
+<h2>Speed and cost</h2>
+<div class="table-wrap"><table>
+<thead><tr><th></th><th class="num">Jev 1.13</th><th class="num">Sonnet 5</th></tr></thead>
+<tbody>
+<tr><td>Cost per move (USD, list price)</td><td class="num">0.000040</td><td class="num">0.0170</td></tr>
+<tr><td>Median time per move</td><td class="num">263 ms</td><td class="num">9,490 ms</td></tr>
+<tr><td>Tokens per move</td><td class="num">962 in</td><td class="num">838 out, mostly thinking</td></tr>
+<tr><td>Requests in this study</td><td class="num">11,277</td><td class="num">1,131</td></tr>
+<tr><td>Total cost of this study</td><td class="num">$0.46</td><td class="num">$19.26</td></tr>
+</tbody></table></div>
+<p>Per move, Sonnet 5 costs about 421 times as much as Jev and takes about 36 times as long. Jev is billed per input token only, at USD 0.042 per million. Sonnet 5 ran through the Claude Code CLI at its default effort; its cost is the CLI's reported list-price cost.</p>
+
+<h2>Method</h2>
+<h3>Players</h3>
+<p><b>Jev</b>: <code>jev-latest</code> (Jev 1.13.0), one Choice request per move as shown above, highest-probability option played. <b>Sonnet 5</b>: the same state, instruction and move list sent as text through the Claude Code CLI with default settings, asked to reply with one move from the list; a reply that names no legal move is counted and replaced by a random legal move in games. <b>Capture-first rule</b> and <b>random legal move</b>: no model. <b>Stockfish 19</b>: 1 thread, 16 MB hash, <code>UCI_LimitStrength</code> with <code>UCI_Elo</code> 1320; the anchor plays on a 120 + 1 second clock and the other Stockfish players on 10 + 0.1; the random-move variants replace Stockfish's move with a uniformly random legal move at the stated rate.</p>
+<h3>Grading</h3>
+<p>Stockfish 19 at full strength searches every legal move of a position to depth 12 (MultiPV over all moves). Scores are clipped to ±1,000 centipawns. Loss is the best move's score minus the chosen move's score. Accuracy and blunders use the Lichess definitions: win% = 50 + 50 · (2 / (1 + e<sup>−0.00368208 · cp</sup>) − 1); accuracy = 103.1668 · e<sup>−0.04354 · Δwin%</sup> − 3.1669; a blunder is a drop of 0.3 in winning chances (15 points of win%). On the 100 pilot positions, depth 12 and depth 16 rank moves alike (median Spearman correlation 0.95, same best move in 70 of 100) and give Jev the same average loss (368 and 371).</p>
+<h3>Games and ratings</h3>
+<p>Openings are drawn from <code>8moves_v3.pgn</code> (eight moves per side); Jev plays 30 openings against each opponent, twice each with colours reversed. Games end by checkmate, stalemate, insufficient material, threefold repetition, the 50-move rule, or 400 plies (scored as a draw); Stockfish loses on time if its clock runs out. Ratings maximise the likelihood of all results under P(A beats B) = 1 / (1 + 10<sup>(R<sub>B</sub> − R<sub>A</sub>)/400</sup>), with draws as half points.</p>
+
+<h2>Limits</h2>
+<ul>
+  <li>The game rating sits on the CCRL Blitz scale that Stockfish's <code>UCI_Elo</code> was fitted to in January 2023. It is not a FIDE or Lichess rating, and Stockfish 19 at the same setting may play somewhat differently from the version that was calibrated.</li>
+  <li>Ratings below 1,320 are carried down from the anchor through reference players that mix engine moves with random ones. Their play differs from human play at the same rating.</li>
+  <li>Jev sees each position without its history, so it cannot avoid or aim for a threefold repetition. Jev and Sonnet 5 play without a clock.</li>
+  <li>The held-out positions come from Lichess games of January 2013 (median player rating 1,614). Positions are graded at depth 12.</li>
+  <li>The games, positions and puzzles are public and may appear in Jev's training data. The move options carry facts computed by code: SAN marks checks and mates, and the descriptions name the captured piece.</li>
+  <li>One instruction wording was tested, in six input formats. Sonnet 5 was tested at its default effort through one client; other settings would give other numbers.</li>
+  <li>Sonnet 5 answered 99 positions and 150 puzzles, fewer than Jev, so its intervals are wider.</li>
+</ul>
+
+<h2>Next steps</h2>
+<ul>
+  <li>Next step: keep the legality and safety checks in code (for example, drop options that leave a piece to be taken for free) and give Jev the Choice among the moves that remain.</li>
+  <li>Next step: ask per-move Noul questions (“does this move leave the queen where it can be captured?”) and combine the probabilities in code, instead of one Choice over all moves.</li>
+  <li>Next step: add positions from games played after Jev 1.13's release, colour-flipped copies of every position, and a bare-coordinate option format (<code>g1f3</code>), so that a future gain can be told apart from memorisation or from reading the hints in the options.</li>
+  <li>Next step: re-run the same request set on each new Jev release; every request is stored, so the comparison needs only the new answers.</li>
+</ul>
+
+<h2>Sources</h2>
+<ol class="sources"><li><a href="https://docs.typesafe.ai/api.md">TypeSafe API reference (Choice, up to 255 options)</a></li><li><a href="https://docs.typesafe.ai/models.md">TypeSafe models and pricing (Jev 1.13, USD 0.042 per million input tokens)</a></li><li><a href="https://github.com/official-stockfish/Stockfish/pull/4341">Stockfish UCI_Elo calibration: PR #4341, 8moves_v3 book at 120+1, CCRL Blitz scale</a></li><li><a href="https://github.com/official-stockfish/Stockfish/blob/master/src/search.h">Stockfish Skill implementation (search.h, search.cpp)</a></li><li><a href="https://github.com/official-stockfish/books">Opening book 8moves_v3.pgn</a></li><li><a href="https://database.lichess.org/">Lichess standard games database, January 2013 (CC0)</a></li><li><a href="https://database.lichess.org/#puzzles">Lichess puzzle database (CC0)</a></li><li><a href="https://lichess.org/page/accuracy">Lichess accuracy and win% formulas</a></li><li><a href="https://github.com/lichess-org/lila/blob/master/modules/analyse/src/main/AccuracyPercent.scala">Lichess accuracy source (AccuracyPercent.scala)</a></li><li><a href="https://github.com/lichess-org/lila/blob/master/modules/tree/src/main/Advice.scala">Lichess blunder thresholds (Advice.scala)</a></li><li><a href="https://python-chess.readthedocs.io/">python-chess</a></li><li><a href="https://platform.claude.com/docs/en/about-claude/pricing">Claude API pricing (Sonnet 5: USD 2 per million input tokens, USD 10 per million output tokens)</a></li></ol>
+
+<footer>Code, cached answers and game records: <a href="https://github.com/eriestra/jev-chess">github.com/eriestra/jev-chess</a>. Lichess data is released under CC0.</footer>
+</main>
+<div id="tip" role="tooltip"></div>
+<script>
+const D = {"elo": [{"key": "SF1320@120+1", "name": "Stockfish 1320, 120 + 1 (anchor)", "rating": 1320, "ci": [1320, 1320], "entity": "ref", "anchor": true}, {"key": "SF1320", "name": "Stockfish 1320, 10 + 0.1", "rating": 1218, "ci": [1118, 1312], "entity": "ref", "anchor": false}, {"key": "Sonnet 5", "name": "Sonnet 5", "rating": 1129, "ci": [963, 1248], "entity": "llm", "anchor": false}, {"key": "SF1320-rand10", "name": "Stockfish 1320, 10% random moves", "rating": 962, "ci": [809, 1095], "entity": "ref", "anchor": false}, {"key": "SF1320-rand25", "name": "Stockfish 1320, 25% random moves", "rating": 707, "ci": [536, 839], "entity": "ref", "anchor": false}, {"key": "SF1320-rand50", "name": "Stockfish 1320, 50% random moves", "rating": 468, "ci": [278, 611], "entity": "ref", "anchor": false}, {"key": "Jev", "name": "Jev", "rating": 448, "ci": [241, 598], "entity": "jev", "anchor": false}, {"key": "Capture-first", "name": "Capture-first rule", "rating": 442, "ci": [251, 586], "entity": "cap", "anchor": false}, {"key": "SF1320-rand75", "name": "Stockfish 1320, 75% random moves", "rating": 288, "ci": [101, 429], "entity": "ref", "anchor": false}, {"key": "Random", "name": "Random legal move", "rating": 103, "ci": [-101, 248], "entity": "rnd", "anchor": false}], "moves": [{"name": "Humans (median 1614)", "entity": "hum", "n": 99, "acpl": 89.5, "median_cp_loss": 31.0, "accuracy": 84.9, "top1": 0.303, "blunder_rate": 0.101}, {"name": "Sonnet 5", "entity": "llm", "n": 99, "acpl": 115.5, "median_cp_loss": 34.0, "accuracy": 81.4, "top1": 0.283, "blunder_rate": 0.152}, {"name": "Capture-first rule", "entity": "cap", "n": 99, "acpl": 339.1, "median_cp_loss": 173.0, "accuracy": 60.1, "top1": 0.162, "blunder_rate": 0.404}, {"name": "Random legal move", "entity": "rnd", "n": 99, "acpl": 341.3, "accuracy": 57.6, "top1": 0.037, "blunder_rate": 0.401}, {"name": "Jev", "entity": "jev", "n": 99, "acpl": 458.7, "median_cp_loss": 444.0, "accuracy": 51.1, "top1": 0.152, "blunder_rate": 0.515}], "bands": {"jev": {"600": 0.75, "800": 0.425, "1000": 0.475, "1200": 0.2, "1400": 0.3, "1600": 0.15, "1800": 0.125, "2000": 0.05, "2200": 0.025, "2400": 0.0}, "llm": {"600": 0.933, "800": 0.8, "1000": 0.667, "1200": 0.533, "1400": 0.267, "1600": 0.333, "1800": 0.2, "2000": 0.333, "2200": 0.067, "2400": 0.0}, "capture": {"600": 0.65, "800": 0.4, "1000": 0.3, "1200": 0.15, "1400": 0.325, "1600": 0.05, "1800": 0.1, "2000": 0.025, "2200": 0.025, "2400": 0.0}, "random": {"600": 0.021, "800": 0.008, "1000": 0.007, "1200": 0.009, "1400": 0.008, "1600": 0.003, "1800": 0.007, "2000": 0.006, "2200": 0.0, "2400": 0.001}}, "examples": [{"id": "lichess-2013-01-3514", "title": "Jev's pick is the best move", "fen": "2k2b1r/ppp3pp/8/5p2/3rbP2/P1B5/1P2B2P/2KRR3 b - - 1 18", "side": "Black", "n_moves": 37, "rows": [{"san": "Rxd1+", "p": 0.77, "loss": 0, "from": "d4", "to": "d1"}, {"san": "Bxa3", "p": 0.05, "loss": 974, "from": "f8", "to": "a3"}, {"san": "Rd3", "p": 0.04, "loss": 1000, "from": "d4", "to": "d3"}, {"san": "Rd2", "p": 0.03, "loss": 1000, "from": "d4", "to": "d2"}, {"san": "Bd3", "p": 0.02, "loss": 1000, "from": "e4", "to": "d3"}], "best": "Rxd1+", "best_from": "d4", "best_to": "d1", "llm": "Rxd1+", "human": "Rxd1+", "human_rating": 1973, "human_loss": 0, "url": "https://lichess.org/b2q1mpwc"}, {"id": "lichess-2013-01-12643", "title": "The queen takes a defended knight", "fen": "2kr1bnr/p1p4p/1p1pqpp1/3Np3/B3P3/3PB1QP/PP3PP1/n4K1R b - - 5 15", "side": "Black", "n_moves": 28, "rows": [{"san": "Qxd5", "p": 0.82, "loss": 1000, "from": "e6", "to": "d5"}, {"san": "Qxh3", "p": 0.05, "loss": 1000, "from": "e6", "to": "h3"}, {"san": "Nb3", "p": 0.03, "loss": 293, "from": "a1", "to": "b3"}, {"san": "Nc2", "p": 0.02, "loss": 35, "from": "a1", "to": "c2"}, {"san": "Qg4", "p": 0.02, "loss": 1000, "from": "e6", "to": "g4"}], "best": "Ne7", "best_from": "g8", "best_to": "e7", "llm": "Nc2", "human": "Ne7", "human_rating": 1704, "human_loss": 0, "url": "https://lichess.org/58cpjqm4"}, {"id": "lichess-2013-01-16648", "title": "The queen takes a defended knight, with check", "fen": "rnb1k1nr/3p1ppp/8/4p3/1q6/8/P2NPPPP/R2QKBNR b KQkq - 1 9", "side": "Black", "n_moves": 46, "rows": [{"san": "Qxd2+", "p": 0.67, "loss": 851, "from": "b4", "to": "d2"}, {"san": "Rxa2", "p": 0.05, "loss": 735, "from": "a8", "to": "a2"}, {"san": "Nf6", "p": 0.04, "loss": 11, "from": "g8", "to": "f6"}, {"san": "e4", "p": 0.04, "loss": 61, "from": "e5", "to": "e4"}, {"san": "Nc6", "p": 0.03, "loss": 0, "from": "b8", "to": "c6"}], "best": "Nc6", "best_from": "b8", "best_to": "c6", "llm": "Nc6", "human": "Qb2", "human_rating": 1594, "human_loss": 77, "url": "https://lichess.org/e00m1zeh"}, {"id": "lichess-2013-01-10", "title": "A check instead of the quiet best move", "fen": "1R6/p4r1k/2p1rp2/6pp/bPpP4/2P4P/P2B1PP1/2R3K1 b - - 1 28", "side": "Black", "n_moves": 27, "rows": [{"san": "Re1+", "p": 0.5, "loss": 766, "from": "e6", "to": "e1"}, {"san": "Bc2", "p": 0.04, "loss": 509, "from": "a4", "to": "c2"}, {"san": "Re3", "p": 0.03, "loss": 695, "from": "e6", "to": "e3"}, {"san": "Re4", "p": 0.03, "loss": 52, "from": "e6", "to": "e4"}, {"san": "Rd6", "p": 0.03, "loss": 97, "from": "e6", "to": "d6"}], "best": "Re2", "best_from": "e6", "best_to": "e2", "llm": "Re2", "human": "Re2", "human_rating": 1544, "human_loss": 0, "url": "https://lichess.org/1hi3aveq"}]};
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const COLOR = { jev: '--jev', llm: '--llm', cap: '--cap', hum: '--hum', rnd: '--rnd', ref: '--ref' };
+const tip = document.getElementById('tip');
+function showTip(e, html) {
+  tip.innerHTML = html; tip.style.opacity = 1;
+  const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8);
+  const y = Math.max(8, e.clientY - tip.offsetHeight - 10);
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(el, html) {
+  el.addEventListener('pointermove', e => showTip(e, html));
+  el.addEventListener('pointerleave', hideTip);
+}
+const fmt = n => Math.round(n).toLocaleString('en-US').replace('-', '\u2212');
+function niceTicks(lo, hi, count) {
+  // Ticks that enclose [lo, hi]: the first at or below lo, the last at or above hi.
+  const span = hi - lo, raw = span / count, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+  const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => span / s <= count) || 10 * mag;
+  const out = []; for (let v = Math.floor(lo / step) * step; v < hi + step - 1e-9; v += step) out.push(+v.toFixed(6));
+  return out;
+}
+function table(el, head, rows) {
+  el.innerHTML = '<table><thead><tr>' + head.map((h, i) => `<th${i ? ' class=num' : ''}>${h}</th>`).join('') + '</tr></thead><tbody>' +
+    rows.map(r => '<tr>' + r.map((c, i) => `<td${i ? ' class=num' : ''}>${c}</td>`).join('') + '</tr>').join('') + '</tbody></table>';
+}
+
+/* ---- move quality bars ---- */
+const MEASURES = {
+  acpl: { title: 'Average loss per move', sub: "Centipawns lost against Stockfish's best move (lower is better)", f: v => fmt(v), max: null },
+  blunder_rate: { title: 'Blunder rate', sub: 'Share of moves that drop winning chances by 0.3 or more (lower is better)', f: v => Math.round(v * 100) + '%', max: 1 },
+  top1: { title: 'Best move found', sub: "Share of moves that match Stockfish's best move (higher is better)", f: v => Math.round(v * 100) + '%', max: null },
+  accuracy: { title: 'Accuracy', sub: 'Lichess per-move accuracy, 0 to 100 (higher is better)', f: v => v.toFixed(1), max: 100 },
+};
+function renderMoves(m) {
+  const M = MEASURES[m];
+  document.getElementById('moves-title').textContent = M.title + ', 99 shared positions';
+  document.getElementById('moves-sub').textContent = M.sub;
+  const vals = D.moves.map(r => r[m]);
+  const max = M.max || Math.max(...vals) * 1.08;
+  const el = document.getElementById('moves');
+  el.innerHTML = D.moves.map(r => `<div class="row"><div class="name">${r.entity === 'jev' ? '<b>' + r.name + '</b>' : r.name}</div>
+    <div class="track"><div class="bar" style="width:${(r[m] / max * 100).toFixed(2)}%;background:var(${COLOR[r.entity]})"></div><div class="hit"></div></div>
+    <div class="val">${M.f(r[m])}</div></div>`).join('');
+  [...el.querySelectorAll('.row')].forEach((row, i) => {
+    const r = D.moves[i];
+    bindTip(row.querySelector('.hit'), `<b>${r.name}</b><br>Average loss ${fmt(r.acpl)} cp<br>Blunder rate ${Math.round(r.blunder_rate * 100)}%<br>Best move ${Math.round(r.top1 * 100)}%<br>Accuracy ${r.accuracy.toFixed(1)}`);
+  });
+}
+document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  renderMoves(b.dataset.m);
+}));
+renderMoves('acpl');
+table(document.getElementById('moves-table'), ['Player', 'Average loss', 'Accuracy', 'Best move', 'Blunder rate'],
+  D.moves.map(r => [r.name, fmt(r.acpl), r.accuracy.toFixed(1), Math.round(r.top1 * 100) + '%', Math.round(r.blunder_rate * 100) + '%']));
+
+/* ---- game ratings ---- */
+function renderLadder() {
+  const rows = [...D.elo].sort((a, b) => b.rating - a.rating);
+  const lo = Math.min(...rows.map(r => r.ci[0])), hi = Math.max(...rows.map(r => r.ci[1]));
+  const ticks = niceTicks(lo, hi, 5);
+  const x0 = ticks[0], x1 = ticks[ticks.length - 1];
+  const X = v => ((v - x0) / (x1 - x0) * 100).toFixed(2) + '%';
+  const grid = ticks.map(t => `<div class="gl" style="left:${X(t)}"></div>`).join('');
+  const el = document.getElementById('ladder');
+  el.innerHTML = rows.map(r => {
+    const c = `var(${COLOR[r.entity]})`;
+    const ci = r.anchor ? '' : `<div class="ci" style="left:${X(r.ci[0])};width:calc(${X(r.ci[1])} - ${X(r.ci[0])});background:${c}"></div>`;
+    const name = (r.entity === 'jev' || r.entity === 'llm') ? `<b>${r.name}</b>` : r.name;
+    return `<div class="row"><div class="name">${name}</div><div class="track">${grid}${ci}<div class="dot" style="left:${X(r.rating)};background:${c}"></div><div class="hit"></div></div><div class="val">${fmt(r.rating)}</div></div>`;
+  }).join('') + `<div class="axis"><div></div><div class="ticks">${ticks.map(t => `<span style="left:${X(t)}">${fmt(t)}</span>`).join('')}</div><div></div></div>`;
+  [...el.querySelectorAll('.row')].forEach((row, i) => {
+    const r = rows[i];
+    bindTip(row.querySelector('.hit'), `<b>${r.name}</b><br>${fmt(r.rating)} Elo` + (r.anchor ? '<br>fixed anchor' : `<br>95% interval ${fmt(r.ci[0])}–${fmt(r.ci[1])}`));
+  });
+  table(document.getElementById('ladder-table'), ['Player', 'Elo', '95% interval'],
+    rows.map(r => [r.name, fmt(r.rating), r.anchor ? 'fixed' : fmt(r.ci[0]) + '–' + fmt(r.ci[1])]));
+}
+renderLadder();
+
+/* ---- puzzle bands (SVG, drawn at the container's width) ---- */
+const SERIES = [['jev', 'Jev'], ['llm', 'Sonnet 5'], ['capture', 'Capture-first rule'], ['random', 'Random legal move']];
+const SCOLOR = { jev: '--jev', llm: '--llm', capture: '--cap', random: '--rnd' };
+function renderBands() {
+  const el = document.getElementById('bands');
+  const W = el.clientWidth || 600, H = 260, m = { l: 40, r: 14, t: 10, b: 30 };
+  const bands = Object.keys(D.bands.jev).map(Number);
+  const X = i => m.l + (W - m.l - m.r) * i / (bands.length - 1);
+  const Y = v => m.t + (H - m.t - m.b) * (1 - v);
+  let s = `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Share of puzzles solved by rating band">`;
+  [0, .25, .5, .75, 1].forEach(v => {
+    s += `<line x1="${m.l}" x2="${W - m.r}" y1="${Y(v)}" y2="${Y(v)}" stroke="${css('--grid')}" stroke-width="1"/>`;
+    s += `<text x="${m.l - 6}" y="${Y(v) + 4}" text-anchor="end">${v * 100}%</text>`;
+  });
+  const every = W < 480 ? 2 : 1;
+  bands.forEach((b, i) => { if (i % every === 0) s += `<text x="${X(i)}" y="${H - 8}" text-anchor="middle">${fmt(b)}</text>`; });
+  SERIES.forEach(([k]) => {
+    if (!D.bands[k]) return;
+    const pts = bands.map((b, i) => [X(i), Y(D.bands[k][b])]);
+    s += `<polyline fill="none" stroke="${css(SCOLOR[k])}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="${pts.map(p => p.join(',')).join(' ')}"/>`;
+    pts.forEach(p => s += `<circle cx="${p[0]}" cy="${p[1]}" r="4" fill="${css(SCOLOR[k])}" stroke="${css('--surface')}" stroke-width="2"/>`);
+  });
+  s += `<line id="xh" x1="0" x2="0" y1="${m.t}" y2="${H - m.b}" stroke="${css('--axis')}" stroke-width="1" opacity="0"/>`;
+  s += `<rect x="${m.l - 10}" y="0" width="${W - m.l - m.r + 20}" height="${H}" fill="transparent" id="bands-hit"/></svg>`;
+  el.innerHTML = s;
+  const hit = el.querySelector('#bands-hit'), xh = el.querySelector('#xh');
+  hit.addEventListener('pointermove', e => {
+    const r = el.querySelector('svg').getBoundingClientRect();
+    const px = (e.clientX - r.left) * W / r.width;
+    const i = Math.max(0, Math.min(bands.length - 1, Math.round((px - m.l) / ((W - m.l - m.r) / (bands.length - 1)))));
+    xh.setAttribute('x1', X(i)); xh.setAttribute('x2', X(i)); xh.setAttribute('opacity', 1);
+    const b = bands[i];
+    showTip(e, `<b>Puzzles rated ${b}–${b + 199}</b><br>` + SERIES.filter(([k]) => D.bands[k]).map(([k, n]) => `${n}: ${Math.round(D.bands[k][b] * 100)}%`).join('<br>'));
+  });
+  hit.addEventListener('pointerleave', () => { xh.setAttribute('opacity', 0); hideTip(); });
+}
+renderBands();
+{
+  const bands = Object.keys(D.bands.jev).map(Number);
+  table(document.getElementById('bands-table'), ['Band', ...SERIES.filter(([k]) => D.bands[k]).map(s => s[1])],
+    bands.map(b => [b + '–' + (b + 199), ...SERIES.filter(([k]) => D.bands[k]).map(([k]) => Math.round(D.bands[k][b] * 100) + '%')]));
+}
+let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(renderBands, 120); });
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', renderBands);
+
+/* ---- example positions ---- */
+const GLYPH = { k: '♚', q: '♛', r: '♜', b: '♝', n: '♞', p: '♟' };
+function boardHTML(fen, side, jevSq, bestSq) {
+  const rows = fen.split(' ')[0].split('/');
+  const grid = rows.map(r => r.replace(/\d/g, d => '.'.repeat(+d)).split(''));
+  const files = 'abcdefgh';
+  const ranks = side === 'White' ? [0, 1, 2, 3, 4, 5, 6, 7] : [7, 6, 5, 4, 3, 2, 1, 0];
+  const fileOrder = side === 'White' ? [0, 1, 2, 3, 4, 5, 6, 7] : [7, 6, 5, 4, 3, 2, 1, 0];
+  let h = '';
+  ranks.forEach(ri => {
+    h += `<div class="rk">${8 - ri}</div>`;
+    fileOrder.forEach(fi => {
+      const sq = files[fi] + (8 - ri), c = grid[ri][fi];
+      const cls = ((ri + fi) % 2 ? 'd' : 'l') + (jevSq.includes(sq) ? ' jev' : '') + (bestSq.includes(sq) ? ' best' : '');
+      const pc = c === '.' ? '' : `<span class="pc ${c === c.toUpperCase() ? 'w' : 'b'}">${GLYPH[c.toLowerCase()]}︎</span>`;
+      h += `<div class="sq ${cls}" aria-label="${sq}">${pc}</div>`;
+    });
+  });
+  h += '<div></div>' + fileOrder.map(fi => `<div class="fl">${files[fi]}</div>`).join('');
+  return `<div class="board" role="img" aria-label="Chess position, ${side} to move">${h}</div>`;
+}
+function renderExample(i) {
+  const e = D.examples[i];
+  document.querySelectorAll('#ex-nav button').forEach((b, j) => b.setAttribute('aria-pressed', i === j));
+  const pick = e.rows[0];
+  const maxp = Math.max(...e.rows.map(r => r.p));
+  const rows = e.rows.map(r => `<tr><td><code>${r.san}</code></td><td class="bar"><div class="pbar" style="width:${(r.p / maxp * 100).toFixed(1)}%"></div></td><td class="num">${Math.round(r.p * 100)}%</td><td class="num">${r.loss === 0 ? 'best' : r.loss >= 1000 ? '1,000+' : fmt(r.loss)}</td></tr>`).join('');
+  const others = [`Stockfish's best: <code>${e.best}</code>`,
+    e.llm ? `Sonnet 5 played <code>${e.llm}</code>` : '',
+    `the human (rated ${e.human_rating}) played <code>${e.human}</code>${e.human_loss === 0 ? ', the best move' : `, losing ${e.human_loss >= 1000 ? '1,000+' : fmt(e.human_loss)}`}`].filter(Boolean).join('; ');
+  document.getElementById('ex').innerHTML = `<div>${boardHTML(e.fen, e.side, [pick.from, pick.to], [e.best_from, e.best_to])}
+    <div class="ex-legend"><span class="lj">Jev's move</span><span class="lb">Stockfish's best move</span></div></div>
+    <div><h3>${e.title}</h3><p class="small">${e.side} to move, ${e.n_moves} legal moves. Jev's five most probable options, with the centipawns each loses against the best move:</p>
+    <div class="table-wrap probs"><table><thead><tr><th>Move</th><th></th><th class="num">Jev</th><th class="num">Loss (cp)</th></tr></thead><tbody>${rows}</tbody></table></div>
+    <p class="small">${others}. <a href="${e.url}">Source game</a>.</p></div>`;
+}
+document.getElementById('ex-nav').innerHTML = D.examples.map((e, i) => `<button type="button" aria-pressed="false">${i + 1}. ${e.title}</button>`).join('');
+document.querySelectorAll('#ex-nav button').forEach((b, i) => b.addEventListener('click', () => renderExample(i)));
+renderExample(0);
+</script>
+</body>
+</html>

@@ -1,0 +1,4474 @@
+[
+ {
+  "id": "lichess-2013-01-10",
+  "uci": "e6e1",
+  "san": "Re1+",
+  "confidence": 0.48,
+  "input_tokens": 1042,
+  "latency_ms": 616.3411660236306
+ },
+ {
+  "id": "lichess-2013-01-64",
+  "uci": "g1f3",
+  "san": "Nf3",
+  "confidence": 0.2,
+  "input_tokens": 1180,
+  "latency_ms": 587.2330829733983
+ },
+ {
+  "id": "lichess-2013-01-432",
+  "uci": "e1e8",
+  "san": "Rxe8",
+  "confidence": 0.42,
+  "input_tokens": 1369,
+  "latency_ms": 615.0283750030212
+ },
+ {
+  "id": "lichess-2013-01-731",
+  "uci": "f3e5",
+  "san": "Nxe5",
+  "confidence": 0.45,
+  "input_tokens": 1052,
+  "latency_ms": 571.2934170151129
+ },
+ {
+  "id": "lichess-2013-01-1012",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "confidence": 0.18,
+  "input_tokens": 1165,
+  "latency_ms": 452.71045801928267
+ },
+ {
+  "id": "lichess-2013-01-1115",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.23,
+  "input_tokens": 1150,
+  "latency_ms": 426.7071670037694
+ },
+ {
+  "id": "lichess-2013-01-1140",
+  "uci": "a5c4",
+  "san": "Nxc4",
+  "confidence": 0.63,
+  "input_tokens": 1084,
+  "latency_ms": 423.8580840174109
+ },
+ {
+  "id": "lichess-2013-01-1660",
+  "uci": "e8e4",
+  "san": "Rxe4",
+  "confidence": 0.27,
+  "input_tokens": 1313,
+  "latency_ms": 408.6229579988867
+ },
+ {
+  "id": "lichess-2013-01-2634",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.2,
+  "input_tokens": 1319,
+  "latency_ms": 436.75716599682346
+ },
+ {
+  "id": "lichess-2013-01-2776",
+  "uci": "e2b5",
+  "san": "Qxb5",
+  "confidence": 0.17,
+  "input_tokens": 1180,
+  "latency_ms": 594.3599590100348
+ },
+ {
+  "id": "lichess-2013-01-2954",
+  "uci": "d5g5",
+  "san": "Rxg5+",
+  "confidence": 0.31,
+  "input_tokens": 1158,
+  "latency_ms": 632.9239999759011
+ },
+ {
+  "id": "lichess-2013-01-3459",
+  "uci": "a8c8",
+  "san": "Rc8+",
+  "confidence": 0.39,
+  "input_tokens": 721,
+  "latency_ms": 421.3918329915032
+ },
+ {
+  "id": "lichess-2013-01-3514",
+  "uci": "d4d1",
+  "san": "Rxd1+",
+  "confidence": 0.75,
+  "input_tokens": 1249,
+  "latency_ms": 601.0510839987546
+ },
+ {
+  "id": "lichess-2013-01-3813",
+  "uci": "f1c4",
+  "san": "Bxc4",
+  "confidence": 0.23,
+  "input_tokens": 1247,
+  "latency_ms": 407.6546669821255
+ },
+ {
+  "id": "lichess-2013-01-3878",
+  "uci": "e3c5",
+  "san": "Bxc5",
+  "confidence": 0.14,
+  "input_tokens": 1521,
+  "latency_ms": 598.2237919815816
+ },
+ {
+  "id": "lichess-2013-01-4274",
+  "uci": "e5d5",
+  "san": "Qxd5",
+  "confidence": 0.36,
+  "input_tokens": 1302,
+  "latency_ms": 431.62575003225356
+ },
+ {
+  "id": "lichess-2013-01-4412",
+  "uci": "g7e8",
+  "san": "Ne8",
+  "confidence": 0.18,
+  "input_tokens": 769,
+  "latency_ms": 248.7316250335425
+ },
+ {
+  "id": "lichess-2013-01-4646",
+  "uci": "d2c4",
+  "san": "Nxc4",
+  "confidence": 0.27,
+  "input_tokens": 1059,
+  "latency_ms": 267.31291704345495
+ },
+ {
+  "id": "lichess-2013-01-5057",
+  "uci": "a4c6",
+  "san": "Qxc6+",
+  "confidence": 0.33,
+  "input_tokens": 1268,
+  "latency_ms": 313.670750008896
+ },
+ {
+  "id": "lichess-2013-01-5259",
+  "uci": "d6b4",
+  "san": "Bxb4+",
+  "confidence": 0.44,
+  "input_tokens": 1366,
+  "latency_ms": 337.32262504054233
+ },
+ {
+  "id": "lichess-2013-01-5364",
+  "uci": "c3d5",
+  "san": "Nd5",
+  "confidence": 0.17,
+  "input_tokens": 1290,
+  "latency_ms": 262.4657079577446
+ },
+ {
+  "id": "lichess-2013-01-5455",
+  "uci": "b5d7",
+  "san": "Qxd7+",
+  "confidence": 0.33,
+  "input_tokens": 1266,
+  "latency_ms": 266.6422500042245
+ },
+ {
+  "id": "lichess-2013-01-5706",
+  "uci": "f1c4",
+  "san": "Bxc4",
+  "confidence": 0.17,
+  "input_tokens": 1339,
+  "latency_ms": 277.6615420007147
+ },
+ {
+  "id": "lichess-2013-01-5807",
+  "uci": "e3a7",
+  "san": "Qxa7",
+  "confidence": 0.11,
+  "input_tokens": 1172,
+  "latency_ms": 291.53212503297254
+ },
+ {
+  "id": "lichess-2013-01-6189",
+  "uci": "d3d4",
+  "san": "Qxd4",
+  "confidence": 0.85,
+  "input_tokens": 1174,
+  "latency_ms": 303.0670420266688
+ },
+ {
+  "id": "lichess-2013-01-6283",
+  "uci": "e1e7",
+  "san": "Re7+",
+  "confidence": 0.29,
+  "input_tokens": 1067,
+  "latency_ms": 229.8186250263825
+ },
+ {
+  "id": "lichess-2013-01-6347",
+  "uci": "d3d7",
+  "san": "Qxd7+",
+  "confidence": 0.39,
+  "input_tokens": 1332,
+  "latency_ms": 255.79224998364225
+ },
+ {
+  "id": "lichess-2013-01-6460",
+  "uci": "g8g3",
+  "san": "Rg3+",
+  "confidence": 0.32,
+  "input_tokens": 1184,
+  "latency_ms": 291.20016598608345
+ },
+ {
+  "id": "lichess-2013-01-6539",
+  "uci": "b3c3",
+  "san": "Rc3+",
+  "confidence": 0.31,
+  "input_tokens": 862,
+  "latency_ms": 236.2495840061456
+ },
+ {
+  "id": "lichess-2013-01-6628",
+  "uci": "f5d4",
+  "san": "Nxd4",
+  "confidence": 0.33,
+  "input_tokens": 1224,
+  "latency_ms": 484.48025004472584
+ },
+ {
+  "id": "lichess-2013-01-6637",
+  "uci": "e8e1",
+  "san": "Re1+",
+  "confidence": 0.39,
+  "input_tokens": 1027,
+  "latency_ms": 278.46766699803993
+ },
+ {
+  "id": "lichess-2013-01-6692",
+  "uci": "a5a3",
+  "san": "Qxa3",
+  "confidence": 0.1,
+  "input_tokens": 1459,
+  "latency_ms": 253.99075000314042
+ },
+ {
+  "id": "lichess-2013-01-6771",
+  "uci": "c4e6",
+  "san": "Bxe6",
+  "confidence": 0.31,
+  "input_tokens": 1265,
+  "latency_ms": 224.16487499140203
+ },
+ {
+  "id": "lichess-2013-01-6940",
+  "uci": "h4f2",
+  "san": "Qxf2+",
+  "confidence": 0.36,
+  "input_tokens": 1304,
+  "latency_ms": 239.35516603523865
+ },
+ {
+  "id": "lichess-2013-01-7406",
+  "uci": "f5d3",
+  "san": "Bxd3",
+  "confidence": 0.28,
+  "input_tokens": 1243,
+  "latency_ms": 223.6568329972215
+ },
+ {
+  "id": "lichess-2013-01-7424",
+  "uci": "d7d2",
+  "san": "Qxd2+",
+  "confidence": 0.39,
+  "input_tokens": 1457,
+  "latency_ms": 237.7714579924941
+ },
+ {
+  "id": "lichess-2013-01-7569",
+  "uci": "e8e2",
+  "san": "Rxe2",
+  "confidence": 0.27,
+  "input_tokens": 1627,
+  "latency_ms": 254.39295801334083
+ },
+ {
+  "id": "lichess-2013-01-7908",
+  "uci": "e8e2",
+  "san": "Re2+",
+  "confidence": 0.36,
+  "input_tokens": 982,
+  "latency_ms": 244.52104099327698
+ },
+ {
+  "id": "lichess-2013-01-7909",
+  "uci": "e6e5",
+  "san": "Qxe5",
+  "confidence": 0.33,
+  "input_tokens": 1290,
+  "latency_ms": 332.91299996199086
+ },
+ {
+  "id": "lichess-2013-01-8025",
+  "uci": "g5e6",
+  "san": "Nxe6",
+  "confidence": 0.2,
+  "input_tokens": 1292,
+  "latency_ms": 316.37020799098536
+ },
+ {
+  "id": "lichess-2013-01-8342",
+  "uci": "a2d5",
+  "san": "Bxd5+",
+  "confidence": 0.42,
+  "input_tokens": 1236,
+  "latency_ms": 297.6307920180261
+ },
+ {
+  "id": "lichess-2013-01-8388",
+  "uci": "b2e5",
+  "san": "Bxe5",
+  "confidence": 0.22,
+  "input_tokens": 1252,
+  "latency_ms": 273.13616598257795
+ },
+ {
+  "id": "lichess-2013-01-8392",
+  "uci": "f3f6",
+  "san": "Qxf6",
+  "confidence": 0.23,
+  "input_tokens": 1273,
+  "latency_ms": 246.49995798245072
+ },
+ {
+  "id": "lichess-2013-01-8711",
+  "uci": "d8d4",
+  "san": "Qxd4",
+  "confidence": 0.22,
+  "input_tokens": 1172,
+  "latency_ms": 253.19800002034754
+ },
+ {
+  "id": "lichess-2013-01-8728",
+  "uci": "f6d4",
+  "san": "Qxd4",
+  "confidence": 0.32,
+  "input_tokens": 1166,
+  "latency_ms": 235.4591250186786
+ },
+ {
+  "id": "lichess-2013-01-9302",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.19,
+  "input_tokens": 1195,
+  "latency_ms": 274.42695799982175
+ },
+ {
+  "id": "lichess-2013-01-9858",
+  "uci": "d5d4",
+  "san": "d4",
+  "confidence": 0.18,
+  "input_tokens": 1013,
+  "latency_ms": 274.67000001342967
+ },
+ {
+  "id": "lichess-2013-01-10194",
+  "uci": "g3e1",
+  "san": "Qxe1+",
+  "confidence": 0.25,
+  "input_tokens": 1684,
+  "latency_ms": 290.33354204148054
+ },
+ {
+  "id": "lichess-2013-01-10312",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "confidence": 0.34,
+  "input_tokens": 605,
+  "latency_ms": 223.6610420513898
+ },
+ {
+  "id": "lichess-2013-01-10428",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.29,
+  "input_tokens": 1284,
+  "latency_ms": 228.3349169883877
+ },
+ {
+  "id": "lichess-2013-01-10464",
+  "uci": "e3e4",
+  "san": "Qxe4",
+  "confidence": 0.26,
+  "input_tokens": 1190,
+  "latency_ms": 250.39079203270376
+ },
+ {
+  "id": "lichess-2013-01-10526",
+  "uci": "e4c3",
+  "san": "Nxc3",
+  "confidence": 0.46,
+  "input_tokens": 1167,
+  "latency_ms": 270.8305830019526
+ },
+ {
+  "id": "lichess-2013-01-10655",
+  "uci": "f3f6",
+  "san": "Qxf6",
+  "confidence": 0.37,
+  "input_tokens": 1330,
+  "latency_ms": 225.88041599374264
+ },
+ {
+  "id": "lichess-2013-01-11834",
+  "uci": "f5f3",
+  "san": "Rxf3",
+  "confidence": 0.41,
+  "input_tokens": 1078,
+  "latency_ms": 272.5372909917496
+ },
+ {
+  "id": "lichess-2013-01-12511",
+  "uci": "a2b3",
+  "san": "axb3",
+  "confidence": 0.19,
+  "input_tokens": 1275,
+  "latency_ms": 272.22712500952184
+ },
+ {
+  "id": "lichess-2013-01-12643",
+  "uci": "e6d5",
+  "san": "Qxd5",
+  "confidence": 0.8,
+  "input_tokens": 1059,
+  "latency_ms": 224.7919169603847
+ },
+ {
+  "id": "lichess-2013-01-12968",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.27,
+  "input_tokens": 1241,
+  "latency_ms": 223.03024999564514
+ },
+ {
+  "id": "lichess-2013-01-13026",
+  "uci": "c1c5",
+  "san": "Rxc5",
+  "confidence": 0.27,
+  "input_tokens": 1358,
+  "latency_ms": 221.43162495922297
+ },
+ {
+  "id": "lichess-2013-01-13076",
+  "uci": "c2g6",
+  "san": "Qxg6+",
+  "confidence": 0.53,
+  "input_tokens": 1128,
+  "latency_ms": 252.84120795549825
+ },
+ {
+  "id": "lichess-2013-01-13163",
+  "uci": "c2c1",
+  "san": "Rc1+",
+  "confidence": 0.21,
+  "input_tokens": 1233,
+  "latency_ms": 225.09870899375528
+ },
+ {
+  "id": "lichess-2013-01-13319",
+  "uci": "c5d3",
+  "san": "Nxd3+",
+  "confidence": 0.29,
+  "input_tokens": 1431,
+  "latency_ms": 234.51354203280061
+ },
+ {
+  "id": "lichess-2013-01-13483",
+  "uci": "c3e2",
+  "san": "Ne2+",
+  "confidence": 0.26,
+  "input_tokens": 1402,
+  "latency_ms": 266.7901249951683
+ },
+ {
+  "id": "lichess-2013-01-13672",
+  "uci": "a5b4",
+  "san": "axb4",
+  "confidence": 0.45,
+  "input_tokens": 839,
+  "latency_ms": 234.1371250222437
+ },
+ {
+  "id": "lichess-2013-01-13965",
+  "uci": "d3c4",
+  "san": "Bxc4",
+  "confidence": 0.58,
+  "input_tokens": 650,
+  "latency_ms": 241.43116699997336
+ },
+ {
+  "id": "lichess-2013-01-14288",
+  "uci": "f1b5",
+  "san": "Bb5+",
+  "confidence": 0.15,
+  "input_tokens": 914,
+  "latency_ms": 236.53866699896753
+ },
+ {
+  "id": "lichess-2013-01-14291",
+  "uci": "d3g6",
+  "san": "Bxg6",
+  "confidence": 0.17,
+  "input_tokens": 1160,
+  "latency_ms": 224.44912500213832
+ },
+ {
+  "id": "lichess-2013-01-14511",
+  "uci": "d7f6",
+  "san": "Nf6+",
+  "confidence": 0.2,
+  "input_tokens": 1136,
+  "latency_ms": 248.46887501189485
+ },
+ {
+  "id": "lichess-2013-01-14750",
+  "uci": "c4f7",
+  "san": "Qxf7+",
+  "confidence": 0.47,
+  "input_tokens": 1307,
+  "latency_ms": 235.0964589859359
+ },
+ {
+  "id": "lichess-2013-01-15094",
+  "uci": "c2f5",
+  "san": "Qxf5",
+  "confidence": 0.24,
+  "input_tokens": 1251,
+  "latency_ms": 236.79325002012774
+ },
+ {
+  "id": "lichess-2013-01-15310",
+  "uci": "a6d3",
+  "san": "Bxd3",
+  "confidence": 0.31,
+  "input_tokens": 1104,
+  "latency_ms": 287.331625004299
+ },
+ {
+  "id": "lichess-2013-01-15386",
+  "uci": "e6d5",
+  "san": "Qxd5",
+  "confidence": 0.17,
+  "input_tokens": 1392,
+  "latency_ms": 286.6126669687219
+ },
+ {
+  "id": "lichess-2013-01-15410",
+  "uci": "e5c6",
+  "san": "Nxc6+",
+  "confidence": 0.47,
+  "input_tokens": 1188,
+  "latency_ms": 283.89441600302234
+ },
+ {
+  "id": "lichess-2013-01-15563",
+  "uci": "b5d4",
+  "san": "Nxd4",
+  "confidence": 0.2,
+  "input_tokens": 1151,
+  "latency_ms": 277.21920795738697
+ },
+ {
+  "id": "lichess-2013-01-15572",
+  "uci": "e5f7",
+  "san": "Nxf7",
+  "confidence": 0.2,
+  "input_tokens": 1412,
+  "latency_ms": 263.7893749633804
+ },
+ {
+  "id": "lichess-2013-01-16250",
+  "uci": "e4e6",
+  "san": "Qxe6+",
+  "confidence": 0.27,
+  "input_tokens": 1501,
+  "latency_ms": 247.0707080210559
+ },
+ {
+  "id": "lichess-2013-01-16458",
+  "uci": "c3e3",
+  "san": "Rxe3",
+  "confidence": 0.53,
+  "input_tokens": 1296,
+  "latency_ms": 268.44029198400676
+ },
+ {
+  "id": "lichess-2013-01-16504",
+  "uci": "e2e4",
+  "san": "Rxe4+",
+  "confidence": 0.34,
+  "input_tokens": 1245,
+  "latency_ms": 255.44495898066089
+ },
+ {
+  "id": "lichess-2013-01-16510",
+  "uci": "e8g8",
+  "san": "O-O",
+  "confidence": 0.21,
+  "input_tokens": 1324,
+  "latency_ms": 254.27562498953193
+ },
+ {
+  "id": "lichess-2013-01-16648",
+  "uci": "b4d2",
+  "san": "Qxd2+",
+  "confidence": 0.65,
+  "input_tokens": 1447,
+  "latency_ms": 248.96229099249467
+ },
+ {
+  "id": "lichess-2013-01-16820",
+  "uci": "c7d8",
+  "san": "Qd8+",
+  "confidence": 0.13,
+  "input_tokens": 1442,
+  "latency_ms": 264.24158399458975
+ },
+ {
+  "id": "lichess-2013-01-17037",
+  "uci": "c2a1",
+  "san": "Nxa1",
+  "confidence": 0.46,
+  "input_tokens": 1040,
+  "latency_ms": 217.49574999557808
+ },
+ {
+  "id": "lichess-2013-01-17529",
+  "uci": "e8d7",
+  "san": "Kxd7",
+  "confidence": 0.67,
+  "input_tokens": 734,
+  "latency_ms": 246.4037500321865
+ },
+ {
+  "id": "lichess-2013-01-17729",
+  "uci": "f8f1",
+  "san": "Rxf1+",
+  "confidence": 0.43,
+  "input_tokens": 1200,
+  "latency_ms": 287.65908401692286
+ },
+ {
+  "id": "lichess-2013-01-17950",
+  "uci": "g6e5",
+  "san": "Ne5",
+  "confidence": 0.19,
+  "input_tokens": 975,
+  "latency_ms": 225.05937499227002
+ },
+ {
+  "id": "lichess-2013-01-18085",
+  "uci": "e4e3",
+  "san": "e3",
+  "confidence": 0.25,
+  "input_tokens": 872,
+  "latency_ms": 232.40049998275936
+ },
+ {
+  "id": "lichess-2013-01-18950",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.33,
+  "input_tokens": 1313,
+  "latency_ms": 228.41262503061444
+ },
+ {
+  "id": "lichess-2013-01-19138",
+  "uci": "e6c7",
+  "san": "Nc7",
+  "confidence": 0.29,
+  "input_tokens": 662,
+  "latency_ms": 223.48950000014156
+ },
+ {
+  "id": "lichess-2013-01-19345",
+  "uci": "f6e4",
+  "san": "Ne4",
+  "confidence": 0.19,
+  "input_tokens": 972,
+  "latency_ms": 267.17700000153854
+ },
+ {
+  "id": "lichess-2013-01-19426",
+  "uci": "e4e5",
+  "san": "Qxe5+",
+  "confidence": 0.43,
+  "input_tokens": 1465,
+  "latency_ms": 274.4505410082638
+ },
+ {
+  "id": "lichess-2013-01-19873",
+  "uci": "e5f3",
+  "san": "Nxf3",
+  "confidence": 0.43,
+  "input_tokens": 1471,
+  "latency_ms": 260.76037500752136
+ },
+ {
+  "id": "lichess-2013-01-20235",
+  "uci": "d8g5",
+  "san": "Qxg5",
+  "confidence": 0.24,
+  "input_tokens": 1078,
+  "latency_ms": 250.19666698062792
+ },
+ {
+  "id": "lichess-2013-01-20616",
+  "uci": "f8b4",
+  "san": "Bb4+",
+  "confidence": 0.32,
+  "input_tokens": 936,
+  "latency_ms": 263.2670839666389
+ },
+ {
+  "id": "lichess-2013-01-20710",
+  "uci": "c3c4",
+  "san": "c4+",
+  "confidence": 0.32,
+  "input_tokens": 687,
+  "latency_ms": 273.00854097120464
+ },
+ {
+  "id": "lichess-2013-01-20933",
+  "uci": "g7d4",
+  "san": "Bxd4",
+  "confidence": 0.31,
+  "input_tokens": 1164,
+  "latency_ms": 235.39704200811684
+ },
+ {
+  "id": "lichess-2013-01-21094",
+  "uci": "d8d3",
+  "san": "Qxd3",
+  "confidence": 0.23,
+  "input_tokens": 1103,
+  "latency_ms": 282.8074590070173
+ },
+ {
+  "id": "lichess-2013-01-21546",
+  "uci": "c2b1",
+  "san": "Qxb1",
+  "confidence": 0.35,
+  "input_tokens": 1392,
+  "latency_ms": 235.34549999749288
+ },
+ {
+  "id": "lichess-2013-01-21591",
+  "uci": "c6d4",
+  "san": "Nd4",
+  "confidence": 0.19,
+  "input_tokens": 1216,
+  "latency_ms": 242.5356670282781
+ },
+ {
+  "id": "lichess-2013-01-22050",
+  "uci": "d5e5",
+  "san": "Qxe5",
+  "confidence": 0.73,
+  "input_tokens": 1391,
+  "latency_ms": 233.88729197904468
+ },
+ {
+  "id": "lichess-2013-01-22503",
+  "uci": "e8e5",
+  "san": "Rxe5",
+  "confidence": 0.75,
+  "input_tokens": 998,
+  "latency_ms": 257.68366700503975
+ },
+ {
+  "id": "lichess-2013-01-22552",
+  "uci": "g6g2",
+  "san": "Qxg2+",
+  "confidence": 0.37,
+  "input_tokens": 1120,
+  "latency_ms": 223.60933298477903
+ },
+ {
+  "id": "lichess-2013-01-22893",
+  "uci": "h4e7",
+  "san": "Be7+",
+  "confidence": 0.21,
+  "input_tokens": 777,
+  "latency_ms": 220.46137502184138
+ },
+ {
+  "id": "lichess-2013-01-23082",
+  "uci": "h8g8",
+  "san": "Qxg8+",
+  "confidence": 0.31,
+  "input_tokens": 1253,
+  "latency_ms": 291.8930830201134
+ },
+ {
+  "id": "lichess-2013-01-23083",
+  "uci": "f3g4",
+  "san": "Qxg4",
+  "confidence": 0.24,
+  "input_tokens": 1275,
+  "latency_ms": 293.17587497644126
+ },
+ {
+  "id": "lichess-2013-01-23088",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.23,
+  "input_tokens": 1298,
+  "latency_ms": 449.1120839957148
+ },
+ {
+  "id": "lichess-2013-01-23258",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.93,
+  "input_tokens": 1040,
+  "latency_ms": 274.4321249774657
+ },
+ {
+  "id": "lichess-2013-01-23264",
+  "uci": "e2e7",
+  "san": "Qxe7+",
+  "confidence": 0.63,
+  "input_tokens": 1340,
+  "latency_ms": 446.52354100253433
+ },
+ {
+  "id": "lichess-2013-01-23437",
+  "uci": "e2g4",
+  "san": "Bxg4",
+  "confidence": 0.47,
+  "input_tokens": 1215,
+  "latency_ms": 274.6830830001272
+ },
+ {
+  "id": "lichess-2013-01-23772",
+  "uci": "c2f5",
+  "san": "Qxf5",
+  "confidence": 0.51,
+  "input_tokens": 1048,
+  "latency_ms": 444.5507919881493
+ },
+ {
+  "id": "lichess-2013-01-24058",
+  "uci": "d8d1",
+  "san": "Qxd1",
+  "confidence": 0.53,
+  "input_tokens": 1279,
+  "latency_ms": 241.79179198108613
+ },
+ {
+  "id": "lichess-2013-01-24226",
+  "uci": "c2e4",
+  "san": "Qe4+",
+  "confidence": 0.34,
+  "input_tokens": 1235,
+  "latency_ms": 235.35487498156726
+ },
+ {
+  "id": "lichess-2013-01-24327",
+  "uci": "e4c3",
+  "san": "Nc3+",
+  "confidence": 0.08,
+  "input_tokens": 1296,
+  "latency_ms": 278.22833304526284
+ },
+ {
+  "id": "lichess-2013-01-24476",
+  "uci": "g7c3",
+  "san": "Bxc3",
+  "confidence": 0.32,
+  "input_tokens": 1101,
+  "latency_ms": 412.75120800128207
+ },
+ {
+  "id": "lichess-2013-01-24599",
+  "uci": "g7g2",
+  "san": "Rxg2+",
+  "confidence": 0.37,
+  "input_tokens": 1246,
+  "latency_ms": 246.97212502360344
+ },
+ {
+  "id": "lichess-2013-01-24841",
+  "uci": "c4d5",
+  "san": "Qxd5",
+  "confidence": 0.51,
+  "input_tokens": 1399,
+  "latency_ms": 250.69087505107746
+ },
+ {
+  "id": "lichess-2013-01-25715",
+  "uci": "f3e5",
+  "san": "Nxe5",
+  "confidence": 0.45,
+  "input_tokens": 1114,
+  "latency_ms": 385.3585409815423
+ },
+ {
+  "id": "lichess-2013-01-25813",
+  "uci": "f7e6",
+  "san": "fxe6",
+  "confidence": 0.52,
+  "input_tokens": 548,
+  "latency_ms": 282.52729203086346
+ },
+ {
+  "id": "lichess-2013-01-26282",
+  "uci": "e2e6",
+  "san": "Qxe6",
+  "confidence": 0.53,
+  "input_tokens": 1321,
+  "latency_ms": 257.2165000019595
+ },
+ {
+  "id": "lichess-2013-01-26697",
+  "uci": "h5c5",
+  "san": "Rc5+",
+  "confidence": 0.36,
+  "input_tokens": 862,
+  "latency_ms": 264.5050000282936
+ },
+ {
+  "id": "lichess-2013-01-26980",
+  "uci": "e5d7",
+  "san": "Nxd7",
+  "confidence": 0.35,
+  "input_tokens": 1492,
+  "latency_ms": 254.55937499646097
+ },
+ {
+  "id": "lichess-2013-01-27179",
+  "uci": "d8d1",
+  "san": "Rd1+",
+  "confidence": 0.46,
+  "input_tokens": 897,
+  "latency_ms": 231.60204099258408
+ },
+ {
+  "id": "lichess-2013-01-27331",
+  "uci": "g7h6",
+  "san": "Bxh6",
+  "confidence": 0.37,
+  "input_tokens": 1140,
+  "latency_ms": 243.58504096744582
+ },
+ {
+  "id": "lichess-2013-01-27373",
+  "uci": "f6f3",
+  "san": "Qxf3",
+  "confidence": 0.32,
+  "input_tokens": 1476,
+  "latency_ms": 222.13762503815815
+ },
+ {
+  "id": "lichess-2013-01-27403",
+  "uci": "f2f5",
+  "san": "Rxf5",
+  "confidence": 0.15,
+  "input_tokens": 1403,
+  "latency_ms": 270.3428749809973
+ },
+ {
+  "id": "lichess-2013-01-27659",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.91,
+  "input_tokens": 1020,
+  "latency_ms": 234.43362495163456
+ },
+ {
+  "id": "lichess-2013-01-27875",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "confidence": 0.3,
+  "input_tokens": 976,
+  "latency_ms": 226.53279203223065
+ },
+ {
+  "id": "lichess-2013-01-28474",
+  "uci": "b2a3",
+  "san": "Bxa3",
+  "confidence": 0.3,
+  "input_tokens": 959,
+  "latency_ms": 221.10691701527685
+ },
+ {
+  "id": "lichess-2013-01-28585",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.22,
+  "input_tokens": 1481,
+  "latency_ms": 256.8795420229435
+ },
+ {
+  "id": "lichess-2013-01-28798",
+  "uci": "d3h7",
+  "san": "Qxh7",
+  "confidence": 0.27,
+  "input_tokens": 1248,
+  "latency_ms": 245.24295795708895
+ },
+ {
+  "id": "lichess-2013-01-29091",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.3,
+  "input_tokens": 1167,
+  "latency_ms": 230.36249994765967
+ },
+ {
+  "id": "lichess-2013-01-29172",
+  "uci": "g4e6",
+  "san": "Qxe6+",
+  "confidence": 0.27,
+  "input_tokens": 1375,
+  "latency_ms": 318.61437496263534
+ },
+ {
+  "id": "lichess-2013-01-29343",
+  "uci": "d1d5",
+  "san": "Qxd5",
+  "confidence": 0.32,
+  "input_tokens": 1257,
+  "latency_ms": 226.34945798199624
+ },
+ {
+  "id": "lichess-2013-01-30131",
+  "uci": "e5d6",
+  "san": "exd6",
+  "confidence": 0.12,
+  "input_tokens": 1261,
+  "latency_ms": 331.3858750043437
+ },
+ {
+  "id": "lichess-2013-01-30375",
+  "uci": "g5g4",
+  "san": "g4",
+  "confidence": 0.06,
+  "input_tokens": 1018,
+  "latency_ms": 330.34162496915087
+ },
+ {
+  "id": "lichess-2013-01-30524",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.22,
+  "input_tokens": 1185,
+  "latency_ms": 285.44395801145583
+ },
+ {
+  "id": "lichess-2013-01-30749",
+  "uci": "e1e4",
+  "san": "Rxe4",
+  "confidence": 0.34,
+  "input_tokens": 1108,
+  "latency_ms": 284.03874998912215
+ },
+ {
+  "id": "lichess-2013-01-30797",
+  "uci": "f5f4",
+  "san": "f4",
+  "confidence": 0.13,
+  "input_tokens": 623,
+  "latency_ms": 278.16637500654906
+ },
+ {
+  "id": "lichess-2013-01-30901",
+  "uci": "d4f3",
+  "san": "Nf3+",
+  "confidence": 0.26,
+  "input_tokens": 1375,
+  "latency_ms": 271.5476250159554
+ },
+ {
+  "id": "lichess-2013-01-31061",
+  "uci": "e5c4",
+  "san": "Nxc4+",
+  "confidence": 0.68,
+  "input_tokens": 919,
+  "latency_ms": 261.9084999896586
+ },
+ {
+  "id": "lichess-2013-01-31171",
+  "uci": "d3g6",
+  "san": "Bxg6",
+  "confidence": 0.19,
+  "input_tokens": 1201,
+  "latency_ms": 278.6659999983385
+ },
+ {
+  "id": "lichess-2013-01-31196",
+  "uci": "d5d8",
+  "san": "Qxd8+",
+  "confidence": 0.64,
+  "input_tokens": 1489,
+  "latency_ms": 249.8552089673467
+ },
+ {
+  "id": "lichess-2013-01-31693",
+  "uci": "f5f6",
+  "san": "f6",
+  "confidence": 0.13,
+  "input_tokens": 1247,
+  "latency_ms": 273.34841701667756
+ },
+ {
+  "id": "lichess-2013-01-31855",
+  "uci": "g1g7",
+  "san": "Rxg7",
+  "confidence": 0.19,
+  "input_tokens": 1168,
+  "latency_ms": 262.14070903370157
+ },
+ {
+  "id": "lichess-2013-01-32009",
+  "uci": "h3f1",
+  "san": "Bxf1",
+  "confidence": 0.29,
+  "input_tokens": 1210,
+  "latency_ms": 297.5647500134073
+ },
+ {
+  "id": "lichess-2013-01-32157",
+  "uci": "g7e5",
+  "san": "Bxe5",
+  "confidence": 0.29,
+  "input_tokens": 1012,
+  "latency_ms": 275.8096249890514
+ },
+ {
+  "id": "lichess-2013-01-32530",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.18,
+  "input_tokens": 1174,
+  "latency_ms": 247.80050001572818
+ },
+ {
+  "id": "lichess-2013-01-32724",
+  "uci": "e3e6",
+  "san": "Qxe6+",
+  "confidence": 0.4,
+  "input_tokens": 1404,
+  "latency_ms": 624.4862920138985
+ },
+ {
+  "id": "lichess-2013-01-33223",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.27,
+  "input_tokens": 1298,
+  "latency_ms": 241.8841669568792
+ },
+ {
+  "id": "lichess-2013-01-33525",
+  "uci": "c6d4",
+  "san": "Nd4",
+  "confidence": 0.18,
+  "input_tokens": 1198,
+  "latency_ms": 242.3310829908587
+ },
+ {
+  "id": "lichess-2013-01-34058",
+  "uci": "e7h4",
+  "san": "Bxh4",
+  "confidence": 0.23,
+  "input_tokens": 1215,
+  "latency_ms": 254.5447499724105
+ },
+ {
+  "id": "lichess-2013-01-34082",
+  "uci": "d4f6",
+  "san": "Bxf6",
+  "confidence": 0.42,
+  "input_tokens": 1021,
+  "latency_ms": 247.30220896890387
+ },
+ {
+  "id": "lichess-2013-01-34438",
+  "uci": "e4f5",
+  "san": "exf5",
+  "confidence": 0.16,
+  "input_tokens": 1273,
+  "latency_ms": 523.1414170120843
+ },
+ {
+  "id": "lichess-2013-01-34460",
+  "uci": "c8c1",
+  "san": "Rc1+",
+  "confidence": 0.25,
+  "input_tokens": 1158,
+  "latency_ms": 522.8895000182092
+ },
+ {
+  "id": "lichess-2013-01-34644",
+  "uci": "f4g5",
+  "san": "fxg5",
+  "confidence": 0.55,
+  "input_tokens": 1015,
+  "latency_ms": 255.47087501036003
+ },
+ {
+  "id": "lichess-2013-01-34896",
+  "uci": "c8c1",
+  "san": "Rc1+",
+  "confidence": 0.14,
+  "input_tokens": 1427,
+  "latency_ms": 263.84824997512624
+ },
+ {
+  "id": "lichess-2013-01-34963",
+  "uci": "e1e5",
+  "san": "Qxe5+",
+  "confidence": 0.83,
+  "input_tokens": 1218,
+  "latency_ms": 249.02016698615626
+ },
+ {
+  "id": "lichess-2013-01-35430",
+  "uci": "h4g3",
+  "san": "Qxg3+",
+  "confidence": 0.61,
+  "input_tokens": 1206,
+  "latency_ms": 503.2232500379905
+ },
+ {
+  "id": "lichess-2013-01-35537",
+  "uci": "c3e3",
+  "san": "Re3",
+  "confidence": 0.07,
+  "input_tokens": 751,
+  "latency_ms": 503.23079101508483
+ },
+ {
+  "id": "lichess-2013-01-36111",
+  "uci": "h4f5",
+  "san": "Nxf5+",
+  "confidence": 0.33,
+  "input_tokens": 1437,
+  "latency_ms": 272.10154198110104
+ },
+ {
+  "id": "lichess-2013-01-36357",
+  "uci": "f3f7",
+  "san": "Qxf7+",
+  "confidence": 0.26,
+  "input_tokens": 1361,
+  "latency_ms": 245.71825005114079
+ },
+ {
+  "id": "lichess-2013-01-36449",
+  "uci": "d1h1",
+  "san": "Qxh1+",
+  "confidence": 0.7,
+  "input_tokens": 1147,
+  "latency_ms": 254.0188339771703
+ },
+ {
+  "id": "lichess-2013-01-36892",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.46,
+  "input_tokens": 1165,
+  "latency_ms": 390.32762503484264
+ },
+ {
+  "id": "lichess-2013-01-37092",
+  "uci": "h7f6",
+  "san": "Nf6",
+  "confidence": 0.07,
+  "input_tokens": 913,
+  "latency_ms": 293.2217920315452
+ },
+ {
+  "id": "lichess-2013-01-37265",
+  "uci": "g7c3",
+  "san": "Bxc3+",
+  "confidence": 0.44,
+  "input_tokens": 1105,
+  "latency_ms": 288.9732079929672
+ },
+ {
+  "id": "lichess-2013-01-37524",
+  "uci": "b2f6",
+  "san": "Bxf6",
+  "confidence": 0.14,
+  "input_tokens": 1455,
+  "latency_ms": 282.23366697784513
+ },
+ {
+  "id": "lichess-2013-01-37553",
+  "uci": "c5d4",
+  "san": "Bxd4",
+  "confidence": 0.55,
+  "input_tokens": 1225,
+  "latency_ms": 280.04187502665445
+ },
+ {
+  "id": "lichess-2013-01-37796",
+  "uci": "b1b6",
+  "san": "Rxb6",
+  "confidence": 0.46,
+  "input_tokens": 1266,
+  "latency_ms": 262.39741599420086
+ },
+ {
+  "id": "lichess-2013-01-37894",
+  "uci": "d6d3",
+  "san": "Qxd3",
+  "confidence": 0.19,
+  "input_tokens": 1303,
+  "latency_ms": 255.55654102936387
+ },
+ {
+  "id": "lichess-2013-01-38109",
+  "uci": "b5c6",
+  "san": "Bxc6+",
+  "confidence": 0.48,
+  "input_tokens": 1404,
+  "latency_ms": 240.7986669568345
+ },
+ {
+  "id": "lichess-2013-01-38228",
+  "uci": "c4a6",
+  "san": "Bxa6",
+  "confidence": 0.55,
+  "input_tokens": 1080,
+  "latency_ms": 249.1654580226168
+ },
+ {
+  "id": "lichess-2013-01-38239",
+  "uci": "d1d5",
+  "san": "Qxd5",
+  "confidence": 0.3,
+  "input_tokens": 1099,
+  "latency_ms": 231.6647080006078
+ },
+ {
+  "id": "lichess-2013-01-38343",
+  "uci": "f5f2",
+  "san": "Rxf2",
+  "confidence": 0.25,
+  "input_tokens": 1356,
+  "latency_ms": 249.66087500797585
+ },
+ {
+  "id": "lichess-2013-01-38469",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.25,
+  "input_tokens": 1177,
+  "latency_ms": 253.58829199103639
+ },
+ {
+  "id": "lichess-2013-01-38581",
+  "uci": "d8d7",
+  "san": "Qxd7",
+  "confidence": 0.71,
+  "input_tokens": 979,
+  "latency_ms": 254.60333400405943
+ },
+ {
+  "id": "lichess-2013-01-39143",
+  "uci": "e5e1",
+  "san": "Re1",
+  "confidence": 0.26,
+  "input_tokens": 963,
+  "latency_ms": 276.63445798680186
+ },
+ {
+  "id": "lichess-2013-01-39295",
+  "uci": "b6a7",
+  "san": "Qxa7",
+  "confidence": 0.27,
+  "input_tokens": 1440,
+  "latency_ms": 266.5957499993965
+ },
+ {
+  "id": "lichess-2013-01-39483",
+  "uci": "b3d5",
+  "san": "Bxd5",
+  "confidence": 0.39,
+  "input_tokens": 995,
+  "latency_ms": 319.8808339657262
+ },
+ {
+  "id": "lichess-2013-01-39682",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.88,
+  "input_tokens": 959,
+  "latency_ms": 274.45066696964204
+ },
+ {
+  "id": "lichess-2013-01-39829",
+  "uci": "b4d6",
+  "san": "Bxd6",
+  "confidence": 0.54,
+  "input_tokens": 1046,
+  "latency_ms": 306.2993750208989
+ },
+ {
+  "id": "lichess-2013-01-40163",
+  "uci": "d3b4",
+  "san": "Nxb4",
+  "confidence": 0.37,
+  "input_tokens": 1202,
+  "latency_ms": 281.572290987242
+ },
+ {
+  "id": "lichess-2013-01-40417",
+  "uci": "g5g3",
+  "san": "Qxg3",
+  "confidence": 0.74,
+  "input_tokens": 1470,
+  "latency_ms": 291.824790998362
+ },
+ {
+  "id": "lichess-2013-01-40656",
+  "uci": "e1e3",
+  "san": "Re3",
+  "confidence": 0.16,
+  "input_tokens": 586,
+  "latency_ms": 271.72866702312604
+ },
+ {
+  "id": "lichess-2013-01-40842",
+  "uci": "g1f3",
+  "san": "Nf3",
+  "confidence": 0.29,
+  "input_tokens": 1027,
+  "latency_ms": 222.33495797263458
+ },
+ {
+  "id": "lichess-2013-01-40893",
+  "uci": "g6g4",
+  "san": "Qxg4",
+  "confidence": 0.22,
+  "input_tokens": 1025,
+  "latency_ms": 280.4713340010494
+ },
+ {
+  "id": "lichess-2013-01-41750",
+  "uci": "b7b5",
+  "san": "Rxb5",
+  "confidence": 0.68,
+  "input_tokens": 1013,
+  "latency_ms": 257.5232079834677
+ },
+ {
+  "id": "lichess-2013-01-41765",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.4,
+  "input_tokens": 1407,
+  "latency_ms": 232.81933303223923
+ },
+ {
+  "id": "lichess-2013-01-41861",
+  "uci": "e8e1",
+  "san": "Rxe1+",
+  "confidence": 0.58,
+  "input_tokens": 1154,
+  "latency_ms": 237.54649999318644
+ },
+ {
+  "id": "lichess-2013-01-41974",
+  "uci": "d4c5",
+  "san": "dxc5",
+  "confidence": 0.6,
+  "input_tokens": 1253,
+  "latency_ms": 219.7708750027232
+ },
+ {
+  "id": "lichess-2013-01-42177",
+  "uci": "c8g4",
+  "san": "Bxg4+",
+  "confidence": 0.37,
+  "input_tokens": 1347,
+  "latency_ms": 278.4600420272909
+ },
+ {
+  "id": "lichess-2013-01-42291",
+  "uci": "e8g8",
+  "san": "O-O",
+  "confidence": 0.34,
+  "input_tokens": 915,
+  "latency_ms": 394.69887502491474
+ },
+ {
+  "id": "lichess-2013-01-42634",
+  "uci": "g5f6",
+  "san": "Bxf6",
+  "confidence": 0.29,
+  "input_tokens": 1279,
+  "latency_ms": 262.1094579808414
+ },
+ {
+  "id": "lichess-2013-01-42675",
+  "uci": "b7e4",
+  "san": "Bxe4",
+  "confidence": 0.29,
+  "input_tokens": 1143,
+  "latency_ms": 394.58050002576783
+ },
+ {
+  "id": "lichess-2013-01-43047",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.38,
+  "input_tokens": 1215,
+  "latency_ms": 252.98150000162423
+ },
+ {
+  "id": "lichess-2013-01-43331",
+  "uci": "b5d7",
+  "san": "Bxd7+",
+  "confidence": 0.42,
+  "input_tokens": 1140,
+  "latency_ms": 255.2023750031367
+ },
+ {
+  "id": "lichess-2013-01-43604",
+  "uci": "a7f2",
+  "san": "Bxf2+",
+  "confidence": 0.4,
+  "input_tokens": 1160,
+  "latency_ms": 237.91604198049754
+ },
+ {
+  "id": "lichess-2013-01-44119",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.48,
+  "input_tokens": 1071,
+  "latency_ms": 382.7481659827754
+ },
+ {
+  "id": "lichess-2013-01-44444",
+  "uci": "d1d7",
+  "san": "Qxd7",
+  "confidence": 0.45,
+  "input_tokens": 1219,
+  "latency_ms": 425.0444579520263
+ },
+ {
+  "id": "lichess-2013-01-45071",
+  "uci": "g5f6",
+  "san": "Bxf6",
+  "confidence": 0.27,
+  "input_tokens": 1274,
+  "latency_ms": 243.58037498313934
+ },
+ {
+  "id": "lichess-2013-01-45191",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.28,
+  "input_tokens": 1162,
+  "latency_ms": 264.1030829981901
+ },
+ {
+  "id": "lichess-2013-01-45280",
+  "uci": "d1d5",
+  "san": "Qxd5",
+  "confidence": 0.22,
+  "input_tokens": 1190,
+  "latency_ms": 268.4099589823745
+ },
+ {
+  "id": "lichess-2013-01-45584",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.34,
+  "input_tokens": 1189,
+  "latency_ms": 229.70812499988824
+ },
+ {
+  "id": "lichess-2013-01-45592",
+  "uci": "d2e4",
+  "san": "Nxe4",
+  "confidence": 0.42,
+  "input_tokens": 1229,
+  "latency_ms": 222.32020896626636
+ },
+ {
+  "id": "lichess-2013-01-45781",
+  "uci": "d4c6",
+  "san": "Nxc6",
+  "confidence": 0.31,
+  "input_tokens": 1310,
+  "latency_ms": 354.2829580255784
+ },
+ {
+  "id": "lichess-2013-01-45897",
+  "uci": "f4e5",
+  "san": "Bxe5",
+  "confidence": 0.4,
+  "input_tokens": 1421,
+  "latency_ms": 235.04433297785
+ },
+ {
+  "id": "lichess-2013-01-45915",
+  "uci": "g1f3",
+  "san": "Nf3",
+  "confidence": 0.23,
+  "input_tokens": 827,
+  "latency_ms": 222.6293749990873
+ },
+ {
+  "id": "lichess-2013-01-46018",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.57,
+  "input_tokens": 1144,
+  "latency_ms": 222.572416998446
+ },
+ {
+  "id": "lichess-2013-01-46321",
+  "uci": "f3e5",
+  "san": "Nxe5",
+  "confidence": 0.25,
+  "input_tokens": 1421,
+  "latency_ms": 232.67220798879862
+ },
+ {
+  "id": "lichess-2013-01-46390",
+  "uci": "d3f5",
+  "san": "Bxf5",
+  "confidence": 0.25,
+  "input_tokens": 1093,
+  "latency_ms": 268.7260829843581
+ },
+ {
+  "id": "lichess-2013-01-46517",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.27,
+  "input_tokens": 1337,
+  "latency_ms": 242.45870899176225
+ },
+ {
+  "id": "lichess-2013-01-46928",
+  "uci": "c2c4",
+  "san": "Qxc4",
+  "confidence": 0.35,
+  "input_tokens": 1084,
+  "latency_ms": 226.16820799885318
+ },
+ {
+  "id": "lichess-2013-01-46963",
+  "uci": "h3d7",
+  "san": "Bxd7",
+  "confidence": 0.23,
+  "input_tokens": 1165,
+  "latency_ms": 227.64558298513293
+ },
+ {
+  "id": "lichess-2013-01-47309",
+  "uci": "g4d4",
+  "san": "Qd4+",
+  "confidence": 0.13,
+  "input_tokens": 1510,
+  "latency_ms": 257.7618339564651
+ },
+ {
+  "id": "lichess-2013-01-47631",
+  "uci": "e5f7",
+  "san": "Nxf7",
+  "confidence": 0.2,
+  "input_tokens": 1349,
+  "latency_ms": 256.5465419902466
+ },
+ {
+  "id": "lichess-2013-01-47660",
+  "uci": "f6d4",
+  "san": "Bxd4",
+  "confidence": 0.29,
+  "input_tokens": 980,
+  "latency_ms": 242.80212499434128
+ },
+ {
+  "id": "lichess-2013-01-47788",
+  "uci": "e6d4",
+  "san": "Nd4",
+  "confidence": 0.14,
+  "input_tokens": 1088,
+  "latency_ms": 244.5316250086762
+ },
+ {
+  "id": "lichess-2013-01-48153",
+  "uci": "d7f7",
+  "san": "Rxf7",
+  "confidence": 0.15,
+  "input_tokens": 974,
+  "latency_ms": 214.49308400042355
+ },
+ {
+  "id": "lichess-2013-01-48732",
+  "uci": "c7g3",
+  "san": "Qxg3",
+  "confidence": 0.19,
+  "input_tokens": 1322,
+  "latency_ms": 219.9229160323739
+ },
+ {
+  "id": "lichess-2013-01-49094",
+  "uci": "d2d8",
+  "san": "Qd8",
+  "confidence": 0.14,
+  "input_tokens": 1342,
+  "latency_ms": 220.36770801059902
+ },
+ {
+  "id": "lichess-2013-01-49157",
+  "uci": "c5e7",
+  "san": "Be7",
+  "confidence": 0.11,
+  "input_tokens": 806,
+  "latency_ms": 264.5180000108667
+ },
+ {
+  "id": "lichess-2013-01-49210",
+  "uci": "g8f6",
+  "san": "Nxf6",
+  "confidence": 0.83,
+  "input_tokens": 985,
+  "latency_ms": 233.94866700982675
+ },
+ {
+  "id": "lichess-2013-01-49801",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.27,
+  "input_tokens": 1342,
+  "latency_ms": 318.4352500247769
+ },
+ {
+  "id": "lichess-2013-01-49843",
+  "uci": "b7b8",
+  "san": "Rb8+",
+  "confidence": 0.31,
+  "input_tokens": 903,
+  "latency_ms": 313.9108329778537
+ },
+ {
+  "id": "lichess-2013-01-49910",
+  "uci": "c2h7",
+  "san": "Bxh7+",
+  "confidence": 0.39,
+  "input_tokens": 1401,
+  "latency_ms": 294.04416697798297
+ },
+ {
+  "id": "lichess-2013-01-49939",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.25,
+  "input_tokens": 1281,
+  "latency_ms": 300.0945830135606
+ },
+ {
+  "id": "lichess-2013-01-49993",
+  "uci": "e4h7",
+  "san": "Bxh7+",
+  "confidence": 0.33,
+  "input_tokens": 1170,
+  "latency_ms": 285.78941704472527
+ },
+ {
+  "id": "lichess-2013-01-50282",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.58,
+  "input_tokens": 1318,
+  "latency_ms": 286.1889160121791
+ },
+ {
+  "id": "lichess-2013-01-50407",
+  "uci": "f4f3",
+  "san": "f3+",
+  "confidence": 0.19,
+  "input_tokens": 822,
+  "latency_ms": 258.4545420249924
+ },
+ {
+  "id": "lichess-2013-01-50521",
+  "uci": "d7e7",
+  "san": "Kxe7",
+  "confidence": 0.56,
+  "input_tokens": 555,
+  "latency_ms": 255.26612502289936
+ },
+ {
+  "id": "lichess-2013-01-50769",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.45,
+  "input_tokens": 1288,
+  "latency_ms": 248.34266601828858
+ },
+ {
+  "id": "lichess-2013-01-50831",
+  "uci": "d3h7",
+  "san": "Bxh7+",
+  "confidence": 0.25,
+  "input_tokens": 1283,
+  "latency_ms": 242.3937499988824
+ },
+ {
+  "id": "lichess-2013-01-51025",
+  "uci": "h6f6",
+  "san": "Qxf6+",
+  "confidence": 0.29,
+  "input_tokens": 1328,
+  "latency_ms": 248.1381249963306
+ },
+ {
+  "id": "lichess-2013-01-51402",
+  "uci": "g7g5",
+  "san": "Rxg5",
+  "confidence": 0.57,
+  "input_tokens": 653,
+  "latency_ms": 216.60874999361113
+ },
+ {
+  "id": "lichess-2013-01-51768",
+  "uci": "g7f7",
+  "san": "Rxf7+",
+  "confidence": 0.56,
+  "input_tokens": 1067,
+  "latency_ms": 239.15754101471975
+ },
+ {
+  "id": "lichess-2013-01-52043",
+  "uci": "d3d4",
+  "san": "Rxd4",
+  "confidence": 0.62,
+  "input_tokens": 1110,
+  "latency_ms": 233.3044169936329
+ },
+ {
+  "id": "lichess-2013-01-52232",
+  "uci": "g5f6",
+  "san": "Bxf6",
+  "confidence": 0.34,
+  "input_tokens": 1230,
+  "latency_ms": 233.29508397728205
+ },
+ {
+  "id": "lichess-2013-01-52240",
+  "uci": "h4g4",
+  "san": "Rxg4+",
+  "confidence": 0.44,
+  "input_tokens": 1247,
+  "latency_ms": 224.0260419785045
+ },
+ {
+  "id": "lichess-2013-01-52675",
+  "uci": "f3e5",
+  "san": "Nxe5",
+  "confidence": 0.16,
+  "input_tokens": 1283,
+  "latency_ms": 294.7766249999404
+ },
+ {
+  "id": "lichess-2013-01-52709",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.3,
+  "input_tokens": 1171,
+  "latency_ms": 256.7230840213597
+ },
+ {
+  "id": "lichess-2013-01-52908",
+  "uci": "c3d5",
+  "san": "Nxd5",
+  "confidence": 0.2,
+  "input_tokens": 1303,
+  "latency_ms": 266.8843329884112
+ },
+ {
+  "id": "lichess-2013-01-52958",
+  "uci": "e7c5",
+  "san": "Bxc5",
+  "confidence": 0.4,
+  "input_tokens": 1059,
+  "latency_ms": 234.88895897753537
+ },
+ {
+  "id": "lichess-2013-01-53133",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.22,
+  "input_tokens": 1244,
+  "latency_ms": 264.9184169713408
+ },
+ {
+  "id": "lichess-2013-01-53258",
+  "uci": "f3d5",
+  "san": "Qxd5+",
+  "confidence": 0.27,
+  "input_tokens": 1163,
+  "latency_ms": 264.7398749832064
+ },
+ {
+  "id": "lichess-2013-01-53313",
+  "uci": "c7c5",
+  "san": "Qxc5",
+  "confidence": 0.72,
+  "input_tokens": 1333,
+  "latency_ms": 272.02812500763685
+ },
+ {
+  "id": "lichess-2013-01-53362",
+  "uci": "f3f2",
+  "san": "f2",
+  "confidence": 0.35,
+  "input_tokens": 623,
+  "latency_ms": 353.60791702987626
+ },
+ {
+  "id": "lichess-2013-01-53410",
+  "uci": "e7c5",
+  "san": "Qxc5",
+  "confidence": 0.45,
+  "input_tokens": 1156,
+  "latency_ms": 256.89895800314844
+ },
+ {
+  "id": "lichess-2013-01-53850",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.29,
+  "input_tokens": 1379,
+  "latency_ms": 243.70587500743568
+ },
+ {
+  "id": "lichess-2013-01-53942",
+  "uci": "h1h7",
+  "san": "Rxh7",
+  "confidence": 0.23,
+  "input_tokens": 1213,
+  "latency_ms": 241.0018329974264
+ },
+ {
+  "id": "lichess-2013-01-54059",
+  "uci": "e1e2",
+  "san": "Rxe2",
+  "confidence": 0.65,
+  "input_tokens": 982,
+  "latency_ms": 240.32712500775233
+ },
+ {
+  "id": "lichess-2013-01-54288",
+  "uci": "b8b1",
+  "san": "Rxb1",
+  "confidence": 0.73,
+  "input_tokens": 846,
+  "latency_ms": 217.82970800995827
+ },
+ {
+  "id": "lichess-2013-01-54464",
+  "uci": "d3e4",
+  "san": "Be4",
+  "confidence": 0.28,
+  "input_tokens": 628,
+  "latency_ms": 224.55204103607684
+ },
+ {
+  "id": "lichess-2013-01-54726",
+  "uci": "c3d5",
+  "san": "Nxd5",
+  "confidence": 0.29,
+  "input_tokens": 1304,
+  "latency_ms": 257.46404100209475
+ },
+ {
+  "id": "lichess-2013-01-54791",
+  "uci": "d1g4",
+  "san": "Qxg4",
+  "confidence": 0.24,
+  "input_tokens": 1468,
+  "latency_ms": 218.89812499284744
+ },
+ {
+  "id": "lichess-2013-01-54816",
+  "uci": "f3f6",
+  "san": "Qxf6",
+  "confidence": 0.39,
+  "input_tokens": 1298,
+  "latency_ms": 278.13995798351243
+ },
+ {
+  "id": "lichess-2013-01-55073",
+  "uci": "d3f5",
+  "san": "Bxf5",
+  "confidence": 0.26,
+  "input_tokens": 1157,
+  "latency_ms": 269.5340839563869
+ },
+ {
+  "id": "lichess-2013-01-55155",
+  "uci": "d7e5",
+  "san": "Nxe5",
+  "confidence": 0.32,
+  "input_tokens": 1070,
+  "latency_ms": 263.0302499746904
+ },
+ {
+  "id": "lichess-2013-01-55198",
+  "uci": "b7d5",
+  "san": "Bxd5",
+  "confidence": 0.27,
+  "input_tokens": 1344,
+  "latency_ms": 260.98404196090996
+ },
+ {
+  "id": "lichess-2013-01-55809",
+  "uci": "f3e5",
+  "san": "Ne5",
+  "confidence": 0.12,
+  "input_tokens": 1193,
+  "latency_ms": 266.8342919787392
+ },
+ {
+  "id": "lichess-2013-01-55834",
+  "uci": "f5e6",
+  "san": "Bxe6",
+  "confidence": 0.95,
+  "input_tokens": 568,
+  "latency_ms": 252.95516604091972
+ },
+ {
+  "id": "lichess-2013-01-55971",
+  "uci": "d8d3",
+  "san": "Qxd3",
+  "confidence": 0.32,
+  "input_tokens": 1244,
+  "latency_ms": 246.53349997242913
+ },
+ {
+  "id": "lichess-2013-01-56058",
+  "uci": "c6e4",
+  "san": "Bxe4",
+  "confidence": 0.23,
+  "input_tokens": 1239,
+  "latency_ms": 256.27004099078476
+ },
+ {
+  "id": "lichess-2013-01-56256",
+  "uci": "d3d4",
+  "san": "Qxd4",
+  "confidence": 0.61,
+  "input_tokens": 1078,
+  "latency_ms": 249.2332499823533
+ },
+ {
+  "id": "lichess-2013-01-56492",
+  "uci": "d8d3",
+  "san": "Qxd3",
+  "confidence": 0.27,
+  "input_tokens": 1220,
+  "latency_ms": 249.3735000025481
+ },
+ {
+  "id": "lichess-2013-01-56528",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.45,
+  "input_tokens": 1187,
+  "latency_ms": 260.8305410249159
+ },
+ {
+  "id": "lichess-2013-01-56609",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.22,
+  "input_tokens": 1069,
+  "latency_ms": 275.5070829880424
+ },
+ {
+  "id": "lichess-2013-01-56872",
+  "uci": "g6h6",
+  "san": "Kxh6",
+  "confidence": 0.21,
+  "input_tokens": 840,
+  "latency_ms": 247.61683295946568
+ },
+ {
+  "id": "lichess-2013-01-57356",
+  "uci": "d4c3",
+  "san": "Bxc3+",
+  "confidence": 0.38,
+  "input_tokens": 1289,
+  "latency_ms": 222.8287499747239
+ },
+ {
+  "id": "lichess-2013-01-57377",
+  "uci": "e5f7",
+  "san": "Nxf7",
+  "confidence": 0.24,
+  "input_tokens": 1385,
+  "latency_ms": 274.27933301078156
+ },
+ {
+  "id": "lichess-2013-01-57932",
+  "uci": "c3d5",
+  "san": "Nd5",
+  "confidence": 0.26,
+  "input_tokens": 1064,
+  "latency_ms": 219.81800004141405
+ },
+ {
+  "id": "lichess-2013-01-57972",
+  "uci": "f8c5",
+  "san": "Bxc5",
+  "confidence": 0.32,
+  "input_tokens": 1105,
+  "latency_ms": 282.385999977123
+ },
+ {
+  "id": "lichess-2013-01-58047",
+  "uci": "e4e1",
+  "san": "Qe1+",
+  "confidence": 0.14,
+  "input_tokens": 1093,
+  "latency_ms": 339.7051249630749
+ },
+ {
+  "id": "lichess-2013-01-58208",
+  "uci": "d5f3",
+  "san": "Qxf3",
+  "confidence": 0.7,
+  "input_tokens": 1454,
+  "latency_ms": 362.41991695715114
+ },
+ {
+  "id": "lichess-2013-01-58284",
+  "uci": "d5d4",
+  "san": "Qxd4+",
+  "confidence": 0.5,
+  "input_tokens": 1344,
+  "latency_ms": 320.56500000180677
+ },
+ {
+  "id": "lichess-2013-01-58396",
+  "uci": "c2h7",
+  "san": "Bh7+",
+  "confidence": 0.14,
+  "input_tokens": 1202,
+  "latency_ms": 355.2931660087779
+ },
+ {
+  "id": "lichess-2013-01-58729",
+  "uci": "a2e6",
+  "san": "Bxe6",
+  "confidence": 0.19,
+  "input_tokens": 1267,
+  "latency_ms": 231.7662499845028
+ },
+ {
+  "id": "lichess-2013-01-58918",
+  "uci": "h2g3",
+  "san": "Kg3",
+  "confidence": 0.22,
+  "input_tokens": 582,
+  "latency_ms": 314.4767080084421
+ },
+ {
+  "id": "lichess-2013-01-59023",
+  "uci": "g4f3",
+  "san": "Bxf3",
+  "confidence": 0.42,
+  "input_tokens": 1189,
+  "latency_ms": 351.62158304592595
+ },
+ {
+  "id": "lichess-2013-01-59414",
+  "uci": "d5e7",
+  "san": "Nxe7+",
+  "confidence": 0.35,
+  "input_tokens": 1362,
+  "latency_ms": 312.1388329891488
+ },
+ {
+  "id": "lichess-2013-01-59440",
+  "uci": "f3f6",
+  "san": "Qxf6",
+  "confidence": 0.39,
+  "input_tokens": 1275,
+  "latency_ms": 238.8076249626465
+ },
+ {
+  "id": "lichess-2013-01-59669",
+  "uci": "h4g5",
+  "san": "hxg5",
+  "confidence": 0.15,
+  "input_tokens": 1035,
+  "latency_ms": 234.9690420087427
+ },
+ {
+  "id": "lichess-2013-01-59807",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.38,
+  "input_tokens": 1199,
+  "latency_ms": 214.71287502208725
+ },
+ {
+  "id": "lichess-2013-01-59942",
+  "uci": "g4e4",
+  "san": "Qxe4",
+  "confidence": 0.09,
+  "input_tokens": 1081,
+  "latency_ms": 216.3385419989936
+ },
+ {
+  "id": "lichess-2013-01-60232",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.32,
+  "input_tokens": 1290,
+  "latency_ms": 269.88066599005833
+ },
+ {
+  "id": "lichess-2013-01-60267",
+  "uci": "e1e4",
+  "san": "Rxe4+",
+  "confidence": 0.19,
+  "input_tokens": 1351,
+  "latency_ms": 236.5293750190176
+ },
+ {
+  "id": "lichess-2013-01-60439",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.18,
+  "input_tokens": 1322,
+  "latency_ms": 255.68683299934492
+ },
+ {
+  "id": "lichess-2013-01-60462",
+  "uci": "e7f6",
+  "san": "Qf6",
+  "confidence": 0.33,
+  "input_tokens": 563,
+  "latency_ms": 287.83520800061524
+ },
+ {
+  "id": "lichess-2013-01-60469",
+  "uci": "e5b2",
+  "san": "Bxb2",
+  "confidence": 0.47,
+  "input_tokens": 1152,
+  "latency_ms": 271.88412501709536
+ },
+ {
+  "id": "lichess-2013-01-60470",
+  "uci": "d8d5",
+  "san": "Qxd5",
+  "confidence": 0.48,
+  "input_tokens": 568,
+  "latency_ms": 265.4548329883255
+ },
+ {
+  "id": "lichess-2013-01-60739",
+  "uci": "f6e5",
+  "san": "Ke5",
+  "confidence": 0.08,
+  "input_tokens": 563,
+  "latency_ms": 262.2829169849865
+ },
+ {
+  "id": "lichess-2013-01-60837",
+  "uci": "f6f3",
+  "san": "Qxf3+",
+  "confidence": 0.29,
+  "input_tokens": 1386,
+  "latency_ms": 256.64124998729676
+ },
+ {
+  "id": "lichess-2013-01-61202",
+  "uci": "g2h3",
+  "san": "Bh3",
+  "confidence": 0.01,
+  "input_tokens": 522,
+  "latency_ms": 243.8320830115117
+ },
+ {
+  "id": "lichess-2013-01-61207",
+  "uci": "c5d3",
+  "san": "Nd3",
+  "confidence": 0.16,
+  "input_tokens": 1192,
+  "latency_ms": 227.88658301578835
+ },
+ {
+  "id": "lichess-2013-01-61247",
+  "uci": "d3d7",
+  "san": "Rxd7",
+  "confidence": 0.28,
+  "input_tokens": 1412,
+  "latency_ms": 235.3356249514036
+ },
+ {
+  "id": "lichess-2013-01-61274",
+  "uci": "b3f3",
+  "san": "Rxf3+",
+  "confidence": 0.52,
+  "input_tokens": 1050,
+  "latency_ms": 231.15537501871586
+ },
+ {
+  "id": "lichess-2013-01-61828",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.58,
+  "input_tokens": 1059,
+  "latency_ms": 239.54016697825864
+ },
+ {
+  "id": "lichess-2013-01-62178",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.25,
+  "input_tokens": 1182,
+  "latency_ms": 284.1204580035992
+ },
+ {
+  "id": "lichess-2013-01-62593",
+  "uci": "d2d3",
+  "san": "Kxd3",
+  "confidence": 0.64,
+  "input_tokens": 588,
+  "latency_ms": 252.20429204637185
+ },
+ {
+  "id": "lichess-2013-01-62807",
+  "uci": "d6a3",
+  "san": "Qxa3",
+  "confidence": 0.21,
+  "input_tokens": 1444,
+  "latency_ms": 232.446166977752
+ },
+ {
+  "id": "lichess-2013-01-62845",
+  "uci": "f3e5",
+  "san": "Nxe5",
+  "confidence": 0.3,
+  "input_tokens": 1097,
+  "latency_ms": 277.8072090004571
+ },
+ {
+  "id": "lichess-2013-01-63178",
+  "uci": "d3a6",
+  "san": "Bxa6",
+  "confidence": 0.11,
+  "input_tokens": 1306,
+  "latency_ms": 242.8772080456838
+ },
+ {
+  "id": "lichess-2013-01-63402",
+  "uci": "g6b6",
+  "san": "Rb6+",
+  "confidence": 0.28,
+  "input_tokens": 822,
+  "latency_ms": 337.05637499224395
+ },
+ {
+  "id": "lichess-2013-01-63863",
+  "uci": "e3c5",
+  "san": "Bxc5",
+  "confidence": 0.59,
+  "input_tokens": 1237,
+  "latency_ms": 231.29708302440122
+ },
+ {
+  "id": "lichess-2013-01-64070",
+  "uci": "d4c6",
+  "san": "Nxc6",
+  "confidence": 0.57,
+  "input_tokens": 1397,
+  "latency_ms": 318.0777500383556
+ },
+ {
+  "id": "lichess-2013-01-64088",
+  "uci": "e7f6",
+  "san": "Bxf6+",
+  "confidence": 0.52,
+  "input_tokens": 987,
+  "latency_ms": 331.71358302934095
+ },
+ {
+  "id": "lichess-2013-01-64125",
+  "uci": "h3g2",
+  "san": "Kg2",
+  "confidence": 0.44,
+  "input_tokens": 542,
+  "latency_ms": 222.30258298804983
+ },
+ {
+  "id": "lichess-2013-01-64429",
+  "uci": "g4f4",
+  "san": "Kf4",
+  "confidence": 0.2,
+  "input_tokens": 544,
+  "latency_ms": 225.3993329941295
+ },
+ {
+  "id": "lichess-2013-01-64718",
+  "uci": "f5f7",
+  "san": "Qxf7+",
+  "confidence": 0.21,
+  "input_tokens": 1346,
+  "latency_ms": 317.536583985202
+ },
+ {
+  "id": "lichess-2013-01-65310",
+  "uci": "e1f2",
+  "san": "Qxf2",
+  "confidence": 0.28,
+  "input_tokens": 1248,
+  "latency_ms": 245.85570802446455
+ },
+ {
+  "id": "lichess-2013-01-65376",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.41,
+  "input_tokens": 1289,
+  "latency_ms": 233.62404201179743
+ },
+ {
+  "id": "lichess-2013-01-65803",
+  "uci": "c2d4",
+  "san": "Nxd4",
+  "confidence": 0.36,
+  "input_tokens": 1104,
+  "latency_ms": 352.3449170170352
+ },
+ {
+  "id": "lichess-2013-01-65874",
+  "uci": "f3f7",
+  "san": "Qxf7+",
+  "confidence": 0.34,
+  "input_tokens": 1148,
+  "latency_ms": 245.87491696001962
+ },
+ {
+  "id": "lichess-2013-01-66110",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.33,
+  "input_tokens": 1446,
+  "latency_ms": 227.0958329900168
+ },
+ {
+  "id": "lichess-2013-01-66200",
+  "uci": "d3e4",
+  "san": "Qxe4",
+  "confidence": 0.8,
+  "input_tokens": 1295,
+  "latency_ms": 304.9325000029057
+ },
+ {
+  "id": "lichess-2013-01-66382",
+  "uci": "b6c4",
+  "san": "Nxc4",
+  "confidence": 0.36,
+  "input_tokens": 1210,
+  "latency_ms": 234.87254203064367
+ },
+ {
+  "id": "lichess-2013-01-66419",
+  "uci": "d3h7",
+  "san": "Bxh7",
+  "confidence": 0.17,
+  "input_tokens": 1327,
+  "latency_ms": 243.8229579711333
+ },
+ {
+  "id": "lichess-2013-01-66476",
+  "uci": "f2c2",
+  "san": "Rxc2+",
+  "confidence": 0.35,
+  "input_tokens": 987,
+  "latency_ms": 267.7130420343019
+ },
+ {
+  "id": "lichess-2013-01-67245",
+  "uci": "h5f3",
+  "san": "Bxf3",
+  "confidence": 0.33,
+  "input_tokens": 1269,
+  "latency_ms": 332.80624996405095
+ },
+ {
+  "id": "lichess-2013-01-67261",
+  "uci": "f2e1",
+  "san": "Bxe1",
+  "confidence": 0.7,
+  "input_tokens": 954,
+  "latency_ms": 293.5355420340784
+ },
+ {
+  "id": "lichess-2013-01-67398",
+  "uci": "d1d8",
+  "san": "Qxd8+",
+  "confidence": 0.63,
+  "input_tokens": 1224,
+  "latency_ms": 289.9268749752082
+ },
+ {
+  "id": "lichess-2013-01-67466",
+  "uci": "e2b5",
+  "san": "Qb5",
+  "confidence": 0.06,
+  "input_tokens": 1189,
+  "latency_ms": 288.9773749629967
+ },
+ {
+  "id": "lichess-2013-01-67552",
+  "uci": "c3d2",
+  "san": "Qxd2+",
+  "confidence": 0.35,
+  "input_tokens": 1563,
+  "latency_ms": 268.98712501861155
+ },
+ {
+  "id": "lichess-2013-01-67769",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.34,
+  "input_tokens": 1144,
+  "latency_ms": 286.109916982241
+ },
+ {
+  "id": "lichess-2013-01-68126",
+  "uci": "d4e3",
+  "san": "Qxe3",
+  "confidence": 0.42,
+  "input_tokens": 1118,
+  "latency_ms": 240.79337500734255
+ },
+ {
+  "id": "lichess-2013-01-68265",
+  "uci": "f3g4",
+  "san": "fxg4",
+  "confidence": 0.28,
+  "input_tokens": 906,
+  "latency_ms": 260.2554580080323
+ },
+ {
+  "id": "lichess-2013-01-68273",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.3,
+  "input_tokens": 1209,
+  "latency_ms": 218.3225000044331
+ },
+ {
+  "id": "lichess-2013-01-68377",
+  "uci": "e2d3",
+  "san": "Qd3",
+  "confidence": 0.15,
+  "input_tokens": 590,
+  "latency_ms": 275.85766604170203
+ },
+ {
+  "id": "lichess-2013-01-68696",
+  "uci": "d5e6",
+  "san": "dxe6",
+  "confidence": 0.32,
+  "input_tokens": 1308,
+  "latency_ms": 268.8252499792725
+ },
+ {
+  "id": "lichess-2013-01-68731",
+  "uci": "e7g5",
+  "san": "Bxg5",
+  "confidence": 0.18,
+  "input_tokens": 1291,
+  "latency_ms": 270.1001669629477
+ },
+ {
+  "id": "lichess-2013-01-68765",
+  "uci": "b4d2",
+  "san": "Bxd2",
+  "confidence": 0.22,
+  "input_tokens": 1453,
+  "latency_ms": 259.30441601667553
+ },
+ {
+  "id": "lichess-2013-01-68984",
+  "uci": "c5b3",
+  "san": "Nxb3",
+  "confidence": 0.28,
+  "input_tokens": 1250,
+  "latency_ms": 276.837625016924
+ },
+ {
+  "id": "lichess-2013-01-69116",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.33,
+  "input_tokens": 1365,
+  "latency_ms": 277.56341599160805
+ },
+ {
+  "id": "lichess-2013-01-69271",
+  "uci": "d4f6",
+  "san": "Qxf6",
+  "confidence": 0.25,
+  "input_tokens": 1526,
+  "latency_ms": 291.51287500280887
+ },
+ {
+  "id": "lichess-2013-01-69328",
+  "uci": "g6d3",
+  "san": "Bxd3",
+  "confidence": 0.2,
+  "input_tokens": 1285,
+  "latency_ms": 260.6779159978032
+ },
+ {
+  "id": "lichess-2013-01-69538",
+  "uci": "f5f4",
+  "san": "Qxf4+",
+  "confidence": 0.46,
+  "input_tokens": 1322,
+  "latency_ms": 237.77491599321365
+ },
+ {
+  "id": "lichess-2013-01-69676",
+  "uci": "b1c3",
+  "san": "Nc3",
+  "confidence": 0.16,
+  "input_tokens": 1144,
+  "latency_ms": 375.5901249824092
+ },
+ {
+  "id": "lichess-2013-01-69896",
+  "uci": "g2g5",
+  "san": "Rxg5",
+  "confidence": 0.39,
+  "input_tokens": 1047,
+  "latency_ms": 252.05175002338365
+ },
+ {
+  "id": "lichess-2013-01-69960",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.23,
+  "input_tokens": 1455,
+  "latency_ms": 283.5533749894239
+ },
+ {
+  "id": "lichess-2013-01-70742",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.27,
+  "input_tokens": 1216,
+  "latency_ms": 270.6571250455454
+ },
+ {
+  "id": "lichess-2013-01-71188",
+  "uci": "f5e4",
+  "san": "Kxe4",
+  "confidence": 0.56,
+  "input_tokens": 588,
+  "latency_ms": 256.6182499867864
+ },
+ {
+  "id": "lichess-2013-01-71230",
+  "uci": "d7f6",
+  "san": "Nxf6",
+  "confidence": 0.41,
+  "input_tokens": 970,
+  "latency_ms": 259.088208025787
+ },
+ {
+  "id": "lichess-2013-01-71306",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.35,
+  "input_tokens": 1138,
+  "latency_ms": 241.11599999014288
+ },
+ {
+  "id": "lichess-2013-01-71895",
+  "uci": "d2e4",
+  "san": "Nxe4",
+  "confidence": 0.35,
+  "input_tokens": 1207,
+  "latency_ms": 264.261208998505
+ },
+ {
+  "id": "lichess-2013-01-71938",
+  "uci": "e3f4",
+  "san": "Qxf4+",
+  "confidence": 0.24,
+  "input_tokens": 1299,
+  "latency_ms": 248.57991602038965
+ },
+ {
+  "id": "lichess-2013-01-71965",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.39,
+  "input_tokens": 1273,
+  "latency_ms": 222.0605409820564
+ },
+ {
+  "id": "lichess-2013-01-72654",
+  "uci": "c6c1",
+  "san": "Rc1+",
+  "confidence": 0.41,
+  "input_tokens": 1166,
+  "latency_ms": 291.15516698220745
+ },
+ {
+  "id": "lichess-2013-01-72912",
+  "uci": "a4d7",
+  "san": "Qxd7",
+  "confidence": 0.31,
+  "input_tokens": 1521,
+  "latency_ms": 233.93120802938938
+ },
+ {
+  "id": "lichess-2013-01-73000",
+  "uci": "e3d4",
+  "san": "exd4",
+  "confidence": 0.12,
+  "input_tokens": 1327,
+  "latency_ms": 237.86312498850748
+ },
+ {
+  "id": "lichess-2013-01-73024",
+  "uci": "d4a7",
+  "san": "Bxa7",
+  "confidence": 0.3,
+  "input_tokens": 808,
+  "latency_ms": 223.40750001603737
+ },
+ {
+  "id": "lichess-2013-01-73252",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.52,
+  "input_tokens": 1220,
+  "latency_ms": 280.0780839752406
+ },
+ {
+  "id": "lichess-2013-01-73332",
+  "uci": "g2f1",
+  "san": "Qxf1",
+  "confidence": 0.4,
+  "input_tokens": 1537,
+  "latency_ms": 264.63891699677333
+ },
+ {
+  "id": "lichess-2013-01-73594",
+  "uci": "a8f8",
+  "san": "Rxf8",
+  "confidence": 0.43,
+  "input_tokens": 833,
+  "latency_ms": 262.13154196739197
+ },
+ {
+  "id": "lichess-2013-01-73699",
+  "uci": "c2h7",
+  "san": "Qxh7+",
+  "confidence": 0.3,
+  "input_tokens": 1294,
+  "latency_ms": 250.15620898921043
+ },
+ {
+  "id": "lichess-2013-01-73792",
+  "uci": "d5c6",
+  "san": "dxc6",
+  "confidence": 0.22,
+  "input_tokens": 1437,
+  "latency_ms": 261.45120803266764
+ },
+ {
+  "id": "lichess-2013-01-74159",
+  "uci": "f6f2",
+  "san": "Qxf2+",
+  "confidence": 0.4,
+  "input_tokens": 1357,
+  "latency_ms": 360.4237500112504
+ },
+ {
+  "id": "lichess-2013-01-74588",
+  "uci": "c3d5",
+  "san": "Nd5",
+  "confidence": 0.11,
+  "input_tokens": 1221,
+  "latency_ms": 265.4374589910731
+ },
+ {
+  "id": "lichess-2013-01-74851",
+  "uci": "c6d4",
+  "san": "Nd4",
+  "confidence": 0.23,
+  "input_tokens": 1109,
+  "latency_ms": 268.0716250324622
+ },
+ {
+  "id": "lichess-2013-01-75020",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.16,
+  "input_tokens": 1357,
+  "latency_ms": 249.55470801796764
+ },
+ {
+  "id": "lichess-2013-01-75050",
+  "uci": "c6c3",
+  "san": "Qxc3+",
+  "confidence": 0.39,
+  "input_tokens": 1411,
+  "latency_ms": 415.1987080113031
+ },
+ {
+  "id": "lichess-2013-01-75166",
+  "uci": "d8d5",
+  "san": "Rxd5",
+  "confidence": 0.82,
+  "input_tokens": 1176,
+  "latency_ms": 430.5349169881083
+ },
+ {
+  "id": "lichess-2013-01-75224",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.26,
+  "input_tokens": 1238,
+  "latency_ms": 264.45391605375335
+ },
+ {
+  "id": "lichess-2013-01-75248",
+  "uci": "b2g7",
+  "san": "Bxg7",
+  "confidence": 0.21,
+  "input_tokens": 1115,
+  "latency_ms": 259.4736250466667
+ },
+ {
+  "id": "lichess-2013-01-75651",
+  "uci": "c8f8",
+  "san": "Rxf8+",
+  "confidence": 0.45,
+  "input_tokens": 1365,
+  "latency_ms": 229.97300000861287
+ },
+ {
+  "id": "lichess-2013-01-75713",
+  "uci": "f6d8",
+  "san": "Qxd8",
+  "confidence": 0.46,
+  "input_tokens": 1058,
+  "latency_ms": 403.94091699272394
+ },
+ {
+  "id": "lichess-2013-01-75781",
+  "uci": "b7e4",
+  "san": "Bxe4",
+  "confidence": 0.56,
+  "input_tokens": 1095,
+  "latency_ms": 249.04387502465397
+ },
+ {
+  "id": "lichess-2013-01-76081",
+  "uci": "c7c8q",
+  "san": "c8=Q+",
+  "confidence": 0.71,
+  "input_tokens": 843,
+  "latency_ms": 260.7521660393104
+ },
+ {
+  "id": "lichess-2013-01-76244",
+  "uci": "e7e4",
+  "san": "Re4+",
+  "confidence": 0.21,
+  "input_tokens": 1116,
+  "latency_ms": 225.90595798101276
+ },
+ {
+  "id": "lichess-2013-01-76279",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "confidence": 0.15,
+  "input_tokens": 1115,
+  "latency_ms": 220.4139999812469
+ },
+ {
+  "id": "lichess-2013-01-76311",
+  "uci": "g3g6",
+  "san": "Qxg6+",
+  "confidence": 0.42,
+  "input_tokens": 1089,
+  "latency_ms": 249.60029096109793
+ },
+ {
+  "id": "lichess-2013-01-76445",
+  "uci": "g7g8",
+  "san": "Kg8",
+  "confidence": 0.07,
+  "input_tokens": 669,
+  "latency_ms": 340.3240839834325
+ },
+ {
+  "id": "lichess-2013-01-76622",
+  "uci": "g3f1",
+  "san": "Nxf1",
+  "confidence": 0.3,
+  "input_tokens": 1447,
+  "latency_ms": 334.354207967408
+ },
+ {
+  "id": "lichess-2013-01-76669",
+  "uci": "d8d4",
+  "san": "Qxd4",
+  "confidence": 0.33,
+  "input_tokens": 1245,
+  "latency_ms": 256.8454999709502
+ },
+ {
+  "id": "lichess-2013-01-77150",
+  "uci": "d3g6",
+  "san": "Bxg6+",
+  "confidence": 0.27,
+  "input_tokens": 1272,
+  "latency_ms": 258.7495420011692
+ },
+ {
+  "id": "lichess-2013-01-77355",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.26,
+  "input_tokens": 1355,
+  "latency_ms": 263.86145903961733
+ },
+ {
+  "id": "lichess-2013-01-77363",
+  "uci": "c6a8",
+  "san": "Qxa8",
+  "confidence": 0.34,
+  "input_tokens": 1478,
+  "latency_ms": 252.77666695183143
+ },
+ {
+  "id": "lichess-2013-01-77468",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.53,
+  "input_tokens": 1251,
+  "latency_ms": 292.35445795347914
+ },
+ {
+  "id": "lichess-2013-01-77609",
+  "uci": "g8f6",
+  "san": "Nxf6",
+  "confidence": 0.54,
+  "input_tokens": 594,
+  "latency_ms": 289.725000038743
+ },
+ {
+  "id": "lichess-2013-01-77628",
+  "uci": "g8f7",
+  "san": "Kf7",
+  "confidence": 0.28,
+  "input_tokens": 524,
+  "latency_ms": 411.95941698970273
+ },
+ {
+  "id": "lichess-2013-01-77809",
+  "uci": "e7c6",
+  "san": "Nc6",
+  "confidence": 0.25,
+  "input_tokens": 614,
+  "latency_ms": 306.7507079686038
+ },
+ {
+  "id": "lichess-2013-01-78170",
+  "uci": "d8d3",
+  "san": "Rxd3",
+  "confidence": 0.48,
+  "input_tokens": 1227,
+  "latency_ms": 306.16491701221094
+ },
+ {
+  "id": "lichess-2013-01-78405",
+  "uci": "c3d5",
+  "san": "Nd5",
+  "confidence": 0.13,
+  "input_tokens": 1318,
+  "latency_ms": 296.52891599107534
+ },
+ {
+  "id": "lichess-2013-01-79297",
+  "uci": "d5c4",
+  "san": "dxc4",
+  "confidence": 0.34,
+  "input_tokens": 1145,
+  "latency_ms": 282.50550001394004
+ },
+ {
+  "id": "lichess-2013-01-79299",
+  "uci": "e7f7",
+  "san": "Rxf7+",
+  "confidence": 0.41,
+  "input_tokens": 1386,
+  "latency_ms": 271.67262497823685
+ },
+ {
+  "id": "lichess-2013-01-79453",
+  "uci": "d3g6",
+  "san": "Bxg6",
+  "confidence": 0.47,
+  "input_tokens": 1444,
+  "latency_ms": 274.6122080134228
+ },
+ {
+  "id": "lichess-2013-01-79637",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.45,
+  "input_tokens": 1273,
+  "latency_ms": 266.6814170079306
+ },
+ {
+  "id": "lichess-2013-01-79860",
+  "uci": "d4e6",
+  "san": "Nxe6",
+  "confidence": 0.32,
+  "input_tokens": 1079,
+  "latency_ms": 272.0684999949299
+ },
+ {
+  "id": "lichess-2013-01-79965",
+  "uci": "d5e3",
+  "san": "Nxe3",
+  "confidence": 0.4,
+  "input_tokens": 1245,
+  "latency_ms": 267.30279199546203
+ },
+ {
+  "id": "lichess-2013-01-79969",
+  "uci": "g7h8",
+  "san": "Bxh8",
+  "confidence": 0.34,
+  "input_tokens": 1293,
+  "latency_ms": 254.7072919551283
+ },
+ {
+  "id": "lichess-2013-01-80087",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.33,
+  "input_tokens": 1224,
+  "latency_ms": 224.19370798161253
+ },
+ {
+  "id": "lichess-2013-01-80342",
+  "uci": "f3e5",
+  "san": "Ne5",
+  "confidence": 0.18,
+  "input_tokens": 847,
+  "latency_ms": 234.5829170080833
+ },
+ {
+  "id": "lichess-2013-01-80473",
+  "uci": "e7g5",
+  "san": "Bxg5",
+  "confidence": 0.58,
+  "input_tokens": 1199,
+  "latency_ms": 219.51595798600465
+ },
+ {
+  "id": "lichess-2013-01-80844",
+  "uci": "c4c5",
+  "san": "c5+",
+  "confidence": 0.22,
+  "input_tokens": 966,
+  "latency_ms": 254.9964999780059
+ },
+ {
+  "id": "lichess-2013-01-81067",
+  "uci": "a5b4",
+  "san": "axb4",
+  "confidence": 0.21,
+  "input_tokens": 1006,
+  "latency_ms": 227.16704197227955
+ },
+ {
+  "id": "lichess-2013-01-81361",
+  "uci": "e6e5",
+  "san": "Qxe5",
+  "confidence": 0.21,
+  "input_tokens": 1198,
+  "latency_ms": 243.37566702160984
+ },
+ {
+  "id": "lichess-2013-01-82079",
+  "uci": "a3a6",
+  "san": "Ra6+",
+  "confidence": 0.27,
+  "input_tokens": 1127,
+  "latency_ms": 267.57320802425966
+ },
+ {
+  "id": "lichess-2013-01-82272",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.35,
+  "input_tokens": 1302,
+  "latency_ms": 296.266834018752
+ },
+ {
+  "id": "lichess-2013-01-82894",
+  "uci": "g3g4",
+  "san": "g4+",
+  "confidence": 0.58,
+  "input_tokens": 546,
+  "latency_ms": 269.27904202602804
+ },
+ {
+  "id": "lichess-2013-01-83385",
+  "uci": "d5f3",
+  "san": "Qxf3",
+  "confidence": 0.37,
+  "input_tokens": 1351,
+  "latency_ms": 249.32200001785532
+ },
+ {
+  "id": "lichess-2013-01-83788",
+  "uci": "e5e7",
+  "san": "Qxe7+",
+  "confidence": 0.46,
+  "input_tokens": 1430,
+  "latency_ms": 262.4382919748314
+ },
+ {
+  "id": "lichess-2013-01-84161",
+  "uci": "h3g2",
+  "san": "Kg2",
+  "confidence": 0.16,
+  "input_tokens": 582,
+  "latency_ms": 243.95629100035876
+ },
+ {
+  "id": "lichess-2013-01-84184",
+  "uci": "e3b6",
+  "san": "Bxb6",
+  "confidence": 0.21,
+  "input_tokens": 876,
+  "latency_ms": 274.000666977372
+ },
+ {
+  "id": "lichess-2013-01-84202",
+  "uci": "e6d4",
+  "san": "Nd4",
+  "confidence": 0.06,
+  "input_tokens": 1410,
+  "latency_ms": 223.1364999897778
+ },
+ {
+  "id": "lichess-2013-01-84322",
+  "uci": "g4f3",
+  "san": "Bxf3",
+  "confidence": 0.49,
+  "input_tokens": 1229,
+  "latency_ms": 258.0344169982709
+ },
+ {
+  "id": "lichess-2013-01-84465",
+  "uci": "h5d1",
+  "san": "Bxd1",
+  "confidence": 0.39,
+  "input_tokens": 1298,
+  "latency_ms": 238.83200000273064
+ },
+ {
+  "id": "lichess-2013-01-84697",
+  "uci": "g2f1",
+  "san": "Kf1",
+  "confidence": 0.51,
+  "input_tokens": 528,
+  "latency_ms": 263.80170800257474
+ },
+ {
+  "id": "lichess-2013-01-84722",
+  "uci": "d8d4",
+  "san": "Qxd4",
+  "confidence": 0.19,
+  "input_tokens": 1271,
+  "latency_ms": 239.95850002393126
+ },
+ {
+  "id": "lichess-2013-01-84737",
+  "uci": "f4g3",
+  "san": "fxg3",
+  "confidence": 0.47,
+  "input_tokens": 1253,
+  "latency_ms": 232.66112501733005
+ },
+ {
+  "id": "lichess-2013-01-85862",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.27,
+  "input_tokens": 1262,
+  "latency_ms": 274.5369169861078
+ },
+ {
+  "id": "lichess-2013-01-86450",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.76,
+  "input_tokens": 1156,
+  "latency_ms": 250.90233300579712
+ },
+ {
+  "id": "lichess-2013-01-86762",
+  "uci": "g7g3",
+  "san": "Rxg3+",
+  "confidence": 0.55,
+  "input_tokens": 1033,
+  "latency_ms": 279.0334160090424
+ },
+ {
+  "id": "lichess-2013-01-86995",
+  "uci": "c7e5",
+  "san": "Qxe5",
+  "confidence": 0.19,
+  "input_tokens": 1421,
+  "latency_ms": 297.36049997154623
+ },
+ {
+  "id": "lichess-2013-01-87282",
+  "uci": "c7e6",
+  "san": "Nxe6+",
+  "confidence": 0.55,
+  "input_tokens": 1476,
+  "latency_ms": 263.914333016146
+ },
+ {
+  "id": "lichess-2013-01-87396",
+  "uci": "d4f3",
+  "san": "Nxf3+",
+  "confidence": 0.53,
+  "input_tokens": 1192,
+  "latency_ms": 259.25654196180403
+ },
+ {
+  "id": "lichess-2013-01-87452",
+  "uci": "b3f7",
+  "san": "Bxf7+",
+  "confidence": 0.41,
+  "input_tokens": 999,
+  "latency_ms": 256.2432910199277
+ },
+ {
+  "id": "lichess-2013-01-88290",
+  "uci": "f8b4",
+  "san": "Bxb4+",
+  "confidence": 0.35,
+  "input_tokens": 1067,
+  "latency_ms": 251.46699999459088
+ },
+ {
+  "id": "lichess-2013-01-88389",
+  "uci": "b2e5",
+  "san": "Bxe5",
+  "confidence": 0.28,
+  "input_tokens": 1103,
+  "latency_ms": 248.492791026365
+ },
+ {
+  "id": "lichess-2013-01-88550",
+  "uci": "f6f3",
+  "san": "Qxf3",
+  "confidence": 0.42,
+  "input_tokens": 1210,
+  "latency_ms": 268.5275840340182
+ },
+ {
+  "id": "lichess-2013-01-88767",
+  "uci": "h8h1",
+  "san": "Rh1+",
+  "confidence": 0.21,
+  "input_tokens": 1269,
+  "latency_ms": 282.29829197516665
+ },
+ {
+  "id": "lichess-2013-01-89008",
+  "uci": "e5e6",
+  "san": "e6",
+  "confidence": 0.14,
+  "input_tokens": 866,
+  "latency_ms": 267.8231670288369
+ },
+ {
+  "id": "lichess-2013-01-89237",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.36,
+  "input_tokens": 1211,
+  "latency_ms": 238.27412497485057
+ },
+ {
+  "id": "lichess-2013-01-89400",
+  "uci": "e5e2",
+  "san": "Qxe2+",
+  "confidence": 0.46,
+  "input_tokens": 1402,
+  "latency_ms": 256.05850003194064
+ },
+ {
+  "id": "lichess-2013-01-89518",
+  "uci": "e3e5",
+  "san": "Qxe5",
+  "confidence": 0.51,
+  "input_tokens": 1301,
+  "latency_ms": 227.71804203512147
+ },
+ {
+  "id": "lichess-2013-01-89828",
+  "uci": "e5f7",
+  "san": "Nxf7",
+  "confidence": 0.26,
+  "input_tokens": 1369,
+  "latency_ms": 252.31349997920915
+ },
+ {
+  "id": "lichess-2013-01-90367",
+  "uci": "e2e3",
+  "san": "Ke3",
+  "confidence": 0.07,
+  "input_tokens": 548,
+  "latency_ms": 243.4607080067508
+ },
+ {
+  "id": "lichess-2013-01-90560",
+  "uci": "d4c6",
+  "san": "Nxc6",
+  "confidence": 0.33,
+  "input_tokens": 1357,
+  "latency_ms": 233.2645000424236
+ },
+ {
+  "id": "lichess-2013-01-90639",
+  "uci": "d4e5",
+  "san": "dxe5",
+  "confidence": 0.25,
+  "input_tokens": 1101,
+  "latency_ms": 239.99695800011978
+ },
+ {
+  "id": "lichess-2013-01-90915",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.12,
+  "input_tokens": 1312,
+  "latency_ms": 249.12295799003914
+ },
+ {
+  "id": "lichess-2013-01-91321",
+  "uci": "d8d3",
+  "san": "Rxd3",
+  "confidence": 0.18,
+  "input_tokens": 1420,
+  "latency_ms": 280.81095800735056
+ },
+ {
+  "id": "lichess-2013-01-91516",
+  "uci": "b3f7",
+  "san": "Bxf7+",
+  "confidence": 0.3,
+  "input_tokens": 1249,
+  "latency_ms": 305.1816659863107
+ },
+ {
+  "id": "lichess-2013-01-91747",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.35,
+  "input_tokens": 1351,
+  "latency_ms": 256.1246670084074
+ },
+ {
+  "id": "lichess-2013-01-91879",
+  "uci": "g4f5",
+  "san": "gxf5+",
+  "confidence": 0.55,
+  "input_tokens": 712,
+  "latency_ms": 255.5532080004923
+ },
+ {
+  "id": "lichess-2013-01-92012",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.33,
+  "input_tokens": 1216,
+  "latency_ms": 239.30995899718255
+ },
+ {
+  "id": "lichess-2013-01-92064",
+  "uci": "d1d7",
+  "san": "Qxd7+",
+  "confidence": 0.42,
+  "input_tokens": 1254,
+  "latency_ms": 228.48241700557992
+ },
+ {
+  "id": "lichess-2013-01-92107",
+  "uci": "e4d2",
+  "san": "Nxd2",
+  "confidence": 0.26,
+  "input_tokens": 1434,
+  "latency_ms": 263.6546670109965
+ },
+ {
+  "id": "lichess-2013-01-92151",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.43,
+  "input_tokens": 1434,
+  "latency_ms": 241.942958033178
+ },
+ {
+  "id": "lichess-2013-01-92681",
+  "uci": "h4f2",
+  "san": "Bxf2+",
+  "confidence": 0.36,
+  "input_tokens": 1206,
+  "latency_ms": 243.34391701268032
+ },
+ {
+  "id": "lichess-2013-01-92900",
+  "uci": "c3c2",
+  "san": "Qxc2",
+  "confidence": 0.1,
+  "input_tokens": 1424,
+  "latency_ms": 243.70574997738004
+ },
+ {
+  "id": "lichess-2013-01-93087",
+  "uci": "f6f2",
+  "san": "Qxf2+",
+  "confidence": 0.42,
+  "input_tokens": 1361,
+  "latency_ms": 241.53137498069555
+ },
+ {
+  "id": "lichess-2013-01-93142",
+  "uci": "g7h7",
+  "san": "Rxh7+",
+  "confidence": 0.32,
+  "input_tokens": 1142,
+  "latency_ms": 228.16366702318192
+ },
+ {
+  "id": "lichess-2013-01-93262",
+  "uci": "d8h4",
+  "san": "Qxh4",
+  "confidence": 0.64,
+  "input_tokens": 1053,
+  "latency_ms": 237.79045802075416
+ },
+ {
+  "id": "lichess-2013-01-93516",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.42,
+  "input_tokens": 1295,
+  "latency_ms": 239.04091701842844
+ },
+ {
+  "id": "lichess-2013-01-94064",
+  "uci": "d5e7",
+  "san": "Ne7+",
+  "confidence": 0.21,
+  "input_tokens": 1391,
+  "latency_ms": 292.15579095762223
+ },
+ {
+  "id": "lichess-2013-01-94714",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.37,
+  "input_tokens": 1229,
+  "latency_ms": 271.81683300295845
+ },
+ {
+  "id": "lichess-2013-01-94726",
+  "uci": "f3f6",
+  "san": "Qxf6",
+  "confidence": 0.36,
+  "input_tokens": 1237,
+  "latency_ms": 276.2191250221804
+ },
+ {
+  "id": "lichess-2013-01-96023",
+  "uci": "b5c6",
+  "san": "Qxc6+",
+  "confidence": 0.68,
+  "input_tokens": 1172,
+  "latency_ms": 275.70250001735985
+ },
+ {
+  "id": "lichess-2013-01-96231",
+  "uci": "e8e3",
+  "san": "Rxe3",
+  "confidence": 0.35,
+  "input_tokens": 1221,
+  "latency_ms": 267.96791702508926
+ },
+ {
+  "id": "lichess-2013-01-96598",
+  "uci": "d2d5",
+  "san": "Rxd5",
+  "confidence": 0.45,
+  "input_tokens": 946,
+  "latency_ms": 268.8111250172369
+ },
+ {
+  "id": "lichess-2013-01-96696",
+  "uci": "c6b7",
+  "san": "cxb7",
+  "confidence": 0.46,
+  "input_tokens": 1268,
+  "latency_ms": 260.5492500006221
+ },
+ {
+  "id": "lichess-2013-01-96733",
+  "uci": "d1h5",
+  "san": "Qh5+",
+  "confidence": 0.21,
+  "input_tokens": 1125,
+  "latency_ms": 244.5594579912722
+ },
+ {
+  "id": "lichess-2013-01-97031",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.23,
+  "input_tokens": 1172,
+  "latency_ms": 268.12304195482284
+ },
+ {
+  "id": "lichess-2013-01-97037",
+  "uci": "d6d3",
+  "san": "Qxd3+",
+  "confidence": 0.47,
+  "input_tokens": 1300,
+  "latency_ms": 233.59183396678418
+ },
+ {
+  "id": "lichess-2013-01-97665",
+  "uci": "f8b4",
+  "san": "Bb4+",
+  "confidence": 0.17,
+  "input_tokens": 1282,
+  "latency_ms": 245.5007919925265
+ },
+ {
+  "id": "lichess-2013-01-98503",
+  "uci": "c3d5",
+  "san": "Nxd5",
+  "confidence": 0.29,
+  "input_tokens": 1217,
+  "latency_ms": 246.36416701832786
+ },
+ {
+  "id": "lichess-2013-01-98685",
+  "uci": "c6e5",
+  "san": "Ncxe5",
+  "confidence": 0.17,
+  "input_tokens": 1072,
+  "latency_ms": 249.19587501790375
+ },
+ {
+  "id": "lichess-2013-01-99751",
+  "uci": "c6d4",
+  "san": "Nd4",
+  "confidence": 0.25,
+  "input_tokens": 1032,
+  "latency_ms": 227.60187496896833
+ },
+ {
+  "id": "lichess-2013-01-100017",
+  "uci": "d6f8",
+  "san": "Qf8+",
+  "confidence": 0.22,
+  "input_tokens": 1070,
+  "latency_ms": 324.35687497491017
+ },
+ {
+  "id": "lichess-2013-01-100189",
+  "uci": "d2d3",
+  "san": "Rd3+",
+  "confidence": 0.26,
+  "input_tokens": 904,
+  "latency_ms": 221.29037498962134
+ },
+ {
+  "id": "lichess-2013-01-100319",
+  "uci": "e6d5",
+  "san": "exd5",
+  "confidence": 0.22,
+  "input_tokens": 1274,
+  "latency_ms": 318.890625028871
+ },
+ {
+  "id": "lichess-2013-01-100365",
+  "uci": "e8g8",
+  "san": "O-O",
+  "confidence": 0.35,
+  "input_tokens": 1115,
+  "latency_ms": 326.40887500019744
+ },
+ {
+  "id": "lichess-2013-01-100427",
+  "uci": "b4c3",
+  "san": "Bxc3",
+  "confidence": 0.27,
+  "input_tokens": 1272,
+  "latency_ms": 278.70774996699765
+ },
+ {
+  "id": "lichess-2013-01-100817",
+  "uci": "d2f3",
+  "san": "Nxf3",
+  "confidence": 0.28,
+  "input_tokens": 1193,
+  "latency_ms": 394.25383298657835
+ },
+ {
+  "id": "lichess-2013-01-100902",
+  "uci": "h7e4",
+  "san": "Be4+",
+  "confidence": 0.18,
+  "input_tokens": 972,
+  "latency_ms": 330.12449997477233
+ },
+ {
+  "id": "lichess-2013-01-101353",
+  "uci": "e5e4",
+  "san": "Rxe4",
+  "confidence": 0.31,
+  "input_tokens": 1244,
+  "latency_ms": 314.3323329859413
+ },
+ {
+  "id": "lichess-2013-01-101457",
+  "uci": "f3e5",
+  "san": "Ne5",
+  "confidence": 0.2,
+  "input_tokens": 1160,
+  "latency_ms": 327.54475000547245
+ },
+ {
+  "id": "lichess-2013-01-101777",
+  "uci": "a5b3",
+  "san": "Nxb3",
+  "confidence": 0.26,
+  "input_tokens": 1040,
+  "latency_ms": 341.4450000273064
+ },
+ {
+  "id": "lichess-2013-01-102392",
+  "uci": "f6f4",
+  "san": "Rxf4",
+  "confidence": 0.27,
+  "input_tokens": 1099,
+  "latency_ms": 308.8962499750778
+ },
+ {
+  "id": "lichess-2013-01-103038",
+  "uci": "e6d5",
+  "san": "exd5",
+  "confidence": 0.35,
+  "input_tokens": 1095,
+  "latency_ms": 339.68883304623887
+ },
+ {
+  "id": "lichess-2013-01-103428",
+  "uci": "b8c8",
+  "san": "Rc8+",
+  "confidence": 0.34,
+  "input_tokens": 804,
+  "latency_ms": 513.9264579629526
+ },
+ {
+  "id": "lichess-2013-01-103481",
+  "uci": "d5f4",
+  "san": "Nf4+",
+  "confidence": 0.37,
+  "input_tokens": 956,
+  "latency_ms": 507.01308296993375
+ },
+ {
+  "id": "lichess-2013-01-103729",
+  "uci": "a4c4",
+  "san": "Rxc4",
+  "confidence": 0.47,
+  "input_tokens": 1060,
+  "latency_ms": 375.182332994882
+ },
+ {
+  "id": "lichess-2013-01-103877",
+  "uci": "e2e1",
+  "san": "Re1+",
+  "confidence": 0.27,
+  "input_tokens": 1151,
+  "latency_ms": 488.20354096824303
+ },
+ {
+  "id": "lichess-2013-01-103899",
+  "uci": "a6e6",
+  "san": "Qxe6+",
+  "confidence": 0.24,
+  "input_tokens": 1327,
+  "latency_ms": 309.6129999612458
+ },
+ {
+  "id": "lichess-2013-01-103929",
+  "uci": "g8h7",
+  "san": "Kxh7",
+  "confidence": 0.75,
+  "input_tokens": 527,
+  "latency_ms": 264.8763750330545
+ },
+ {
+  "id": "lichess-2013-01-104021",
+  "uci": "e8g8",
+  "san": "O-O",
+  "confidence": 0.25,
+  "input_tokens": 1158,
+  "latency_ms": 268.8562500406988
+ },
+ {
+  "id": "lichess-2013-01-104234",
+  "uci": "h6g4",
+  "san": "Ng4",
+  "confidence": 0.05,
+  "input_tokens": 1031,
+  "latency_ms": 292.4294580006972
+ },
+ {
+  "id": "lichess-2013-01-104352",
+  "uci": "b3c4",
+  "san": "bxc4",
+  "confidence": 0.41,
+  "input_tokens": 1022,
+  "latency_ms": 274.0914580062963
+ },
+ {
+  "id": "lichess-2013-01-104811",
+  "uci": "g7b2",
+  "san": "Bxb2",
+  "confidence": 0.17,
+  "input_tokens": 1306,
+  "latency_ms": 226.90833400702104
+ },
+ {
+  "id": "lichess-2013-01-104902",
+  "uci": "d1e1",
+  "san": "Qxe1",
+  "confidence": 0.83,
+  "input_tokens": 528,
+  "latency_ms": 270.4425410483964
+ },
+ {
+  "id": "lichess-2013-01-105276",
+  "uci": "b4d5",
+  "san": "Nxd5",
+  "confidence": 0.29,
+  "input_tokens": 1391,
+  "latency_ms": 253.95183300133795
+ },
+ {
+  "id": "lichess-2013-01-105505",
+  "uci": "f6e4",
+  "san": "Ne4+",
+  "confidence": 0.29,
+  "input_tokens": 1173,
+  "latency_ms": 257.1709160110913
+ },
+ {
+  "id": "lichess-2013-01-105535",
+  "uci": "d1d8",
+  "san": "Rxd8",
+  "confidence": 0.75,
+  "input_tokens": 1465,
+  "latency_ms": 247.71595804486424
+ },
+ {
+  "id": "lichess-2013-01-105766",
+  "uci": "e4e5",
+  "san": "e5",
+  "confidence": 0.09,
+  "input_tokens": 1040,
+  "latency_ms": 283.854249981232
+ },
+ {
+  "id": "lichess-2013-01-106127",
+  "uci": "d3b5",
+  "san": "Bb5+",
+  "confidence": 0.15,
+  "input_tokens": 1492,
+  "latency_ms": 245.6111659994349
+ },
+ {
+  "id": "lichess-2013-01-106133",
+  "uci": "d6e5",
+  "san": "dxe5",
+  "confidence": 0.31,
+  "input_tokens": 1252,
+  "latency_ms": 270.86820895783603
+ },
+ {
+  "id": "lichess-2013-01-106148",
+  "uci": "c7g7",
+  "san": "Rxg7+",
+  "confidence": 0.21,
+  "input_tokens": 1005,
+  "latency_ms": 268.04654201259837
+ },
+ {
+  "id": "lichess-2013-01-106788",
+  "uci": "e5e4",
+  "san": "Qxe4+",
+  "confidence": 0.34,
+  "input_tokens": 1465,
+  "latency_ms": 235.8502499992028
+ },
+ {
+  "id": "lichess-2013-01-106881",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.3,
+  "input_tokens": 1146,
+  "latency_ms": 331.6342090256512
+ },
+ {
+  "id": "lichess-2013-01-107079",
+  "uci": "g4g7",
+  "san": "Qxg7+",
+  "confidence": 0.27,
+  "input_tokens": 1493,
+  "latency_ms": 327.56454101763666
+ },
+ {
+  "id": "lichess-2013-01-107143",
+  "uci": "f6d5",
+  "san": "Nxd5",
+  "confidence": 0.31,
+  "input_tokens": 1148,
+  "latency_ms": 262.81016698339954
+ },
+ {
+  "id": "lichess-2013-01-107360",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.26,
+  "input_tokens": 1002,
+  "latency_ms": 304.1947499732487
+ },
+ {
+  "id": "lichess-2013-01-107489",
+  "uci": "c2c1",
+  "san": "Rxc1+",
+  "confidence": 0.51,
+  "input_tokens": 1100,
+  "latency_ms": 219.99083302216604
+ },
+ {
+  "id": "lichess-2013-01-107533",
+  "uci": "e6e3",
+  "san": "Qxe3",
+  "confidence": 0.24,
+  "input_tokens": 1329,
+  "latency_ms": 285.0304580060765
+ },
+ {
+  "id": "lichess-2013-01-107549",
+  "uci": "e3e7",
+  "san": "Rxe7",
+  "confidence": 0.25,
+  "input_tokens": 1096,
+  "latency_ms": 271.66995796142146
+ },
+ {
+  "id": "lichess-2013-01-107734",
+  "uci": "f6d4",
+  "san": "Qxd4",
+  "confidence": 0.85,
+  "input_tokens": 1333,
+  "latency_ms": 271.9682499882765
+ },
+ {
+  "id": "lichess-2013-01-107755",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.18,
+  "input_tokens": 1273,
+  "latency_ms": 287.43233397835866
+ },
+ {
+  "id": "lichess-2013-01-107774",
+  "uci": "f6e4",
+  "san": "Nxe4",
+  "confidence": 0.25,
+  "input_tokens": 1310,
+  "latency_ms": 279.0565000032075
+ },
+ {
+  "id": "lichess-2013-01-107808",
+  "uci": "f6f2",
+  "san": "Qxf2+",
+  "confidence": 0.37,
+  "input_tokens": 1305,
+  "latency_ms": 262.3545419774018
+ },
+ {
+  "id": "lichess-2013-01-108110",
+  "uci": "c2d1",
+  "san": "Qxd1#",
+  "confidence": 0.89,
+  "input_tokens": 1100,
+  "latency_ms": 273.511333973147
+ },
+ {
+  "id": "lichess-2013-01-108180",
+  "uci": "f4f7",
+  "san": "Qxf7+",
+  "confidence": 0.27,
+  "input_tokens": 1291,
+  "latency_ms": 301.94933305028826
+ },
+ {
+  "id": "lichess-2013-01-108301",
+  "uci": "e7e2",
+  "san": "Qxe2",
+  "confidence": 0.8,
+  "input_tokens": 1144,
+  "latency_ms": 282.6416250318289
+ },
+ {
+  "id": "lichess-2013-01-108307",
+  "uci": "c4e4",
+  "san": "Qxe4",
+  "confidence": 0.42,
+  "input_tokens": 1206,
+  "latency_ms": 245.90099998749793
+ },
+ {
+  "id": "lichess-2013-01-108506",
+  "uci": "d8d1",
+  "san": "Rd1",
+  "confidence": 0.11,
+  "input_tokens": 605,
+  "latency_ms": 249.23841701820493
+ },
+ {
+  "id": "lichess-2013-01-108530",
+  "uci": "a5a4",
+  "san": "Qxa4",
+  "confidence": 0.2,
+  "input_tokens": 1283,
+  "latency_ms": 268.1462919572368
+ },
+ {
+  "id": "lichess-2013-01-108927",
+  "uci": "d8d2",
+  "san": "Rxd2",
+  "confidence": 0.37,
+  "input_tokens": 1059,
+  "latency_ms": 249.87533397506922
+ },
+ {
+  "id": "lichess-2013-01-108932",
+  "uci": "b4c3",
+  "san": "Bxc3+",
+  "confidence": 0.34,
+  "input_tokens": 1263,
+  "latency_ms": 221.49875003378838
+ },
+ {
+  "id": "lichess-2013-01-109074",
+  "uci": "g5f6",
+  "san": "Bxf6",
+  "confidence": 0.34,
+  "input_tokens": 1316,
+  "latency_ms": 584.6674580243416
+ },
+ {
+  "id": "lichess-2013-01-109333",
+  "uci": "d3g6",
+  "san": "Bxg6",
+  "confidence": 0.18,
+  "input_tokens": 1221,
+  "latency_ms": 583.7220419780351
+ },
+ {
+  "id": "lichess-2013-01-109358",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.26,
+  "input_tokens": 1225,
+  "latency_ms": 215.18970798933879
+ },
+ {
+  "id": "lichess-2013-01-109680",
+  "uci": "d4e3",
+  "san": "Qxe3",
+  "confidence": 0.54,
+  "input_tokens": 1199,
+  "latency_ms": 276.38995804591104
+ },
+ {
+  "id": "lichess-2013-01-109715",
+  "uci": "d6e5",
+  "san": "Qxe5",
+  "confidence": 0.74,
+  "input_tokens": 1156,
+  "latency_ms": 230.66137498244643
+ },
+ {
+  "id": "lichess-2013-01-109784",
+  "uci": "f4f1",
+  "san": "Qxf1",
+  "confidence": 0.28,
+  "input_tokens": 1203,
+  "latency_ms": 483.0802920041606
+ },
+ {
+  "id": "lichess-2013-01-110143",
+  "uci": "h6f8",
+  "san": "Qxf8+",
+  "confidence": 0.35,
+  "input_tokens": 1372,
+  "latency_ms": 566.4549999637529
+ },
+ {
+  "id": "lichess-2013-01-110191",
+  "uci": "e8e4",
+  "san": "Rxe4",
+  "confidence": 0.47,
+  "input_tokens": 998,
+  "latency_ms": 346.68537497054785
+ },
+ {
+  "id": "lichess-2013-01-110208",
+  "uci": "f7g8",
+  "san": "Bxg8",
+  "confidence": 0.33,
+  "input_tokens": 1094,
+  "latency_ms": 269.3419170100242
+ },
+ {
+  "id": "lichess-2013-01-110686",
+  "uci": "c5e5",
+  "san": "Rxe5",
+  "confidence": 0.49,
+  "input_tokens": 1124,
+  "latency_ms": 218.45724998274818
+ },
+ {
+  "id": "lichess-2013-01-110834",
+  "uci": "d8d2",
+  "san": "Qxd2+",
+  "confidence": 0.2,
+  "input_tokens": 1269,
+  "latency_ms": 251.1388330021873
+ },
+ {
+  "id": "lichess-2013-01-110838",
+  "uci": "d3e4",
+  "san": "Bxe4",
+  "confidence": 0.11,
+  "input_tokens": 1441,
+  "latency_ms": 225.8117919554934
+ },
+ {
+  "id": "lichess-2013-01-111093",
+  "uci": "c1h6",
+  "san": "Bxh6",
+  "confidence": 0.11,
+  "input_tokens": 1109,
+  "latency_ms": 235.6873750104569
+ },
+ {
+  "id": "lichess-2013-01-111346",
+  "uci": "d8d1",
+  "san": "Rxd1+",
+  "confidence": 0.47,
+  "input_tokens": 1256,
+  "latency_ms": 273.7602079869248
+ },
+ {
+  "id": "lichess-2013-01-111642",
+  "uci": "e1g1",
+  "san": "O-O",
+  "confidence": 0.16,
+  "input_tokens": 1346,
+  "latency_ms": 396.90954197430983
+ },
+ {
+  "id": "lichess-2013-01-112102",
+  "uci": "a4b3",
+  "san": "Bxb3",
+  "confidence": 0.79,
+  "input_tokens": 967,
+  "latency_ms": 362.28591698454693
+ },
+ {
+  "id": "lichess-2013-01-112522",
+  "uci": "d8h4",
+  "san": "Qxh4",
+  "confidence": 0.14,
+  "input_tokens": 1086,
+  "latency_ms": 228.8124999613501
+ },
+ {
+  "id": "lichess-2013-01-112579",
+  "uci": "g4f5",
+  "san": "Bxf5",
+  "confidence": 0.32,
+  "input_tokens": 1180,
+  "latency_ms": 241.99491599574685
+ },
+ {
+  "id": "lichess-2013-01-112620",
+  "uci": "a8a1",
+  "san": "Ra1",
+  "confidence": 0.12,
+  "input_tokens": 960,
+  "latency_ms": 217.63445803662762
+ },
+ {
+  "id": "lichess-2013-01-112624",
+  "uci": "c3a3",
+  "san": "Rxa3",
+  "confidence": 0.22,
+  "input_tokens": 931,
+  "latency_ms": 228.15004200674593
+ },
+ {
+  "id": "lichess-2013-01-113118",
+  "uci": "c6e5",
+  "san": "Nxe5",
+  "confidence": 0.42,
+  "input_tokens": 1108,
+  "latency_ms": 251.99808296747506
+ },
+ {
+  "id": "lichess-2013-01-113164",
+  "uci": "g3h2",
+  "san": "Qxh2+",
+  "confidence": 0.27,
+  "input_tokens": 1310,
+  "latency_ms": 237.73629101924598
+ },
+ {
+  "id": "lichess-2013-01-113705",
+  "uci": "f8f2",
+  "san": "Qxf2+",
+  "confidence": 0.25,
+  "input_tokens": 1436,
+  "latency_ms": 218.44508399954066
+ },
+ {
+  "id": "lichess-2013-01-113714",
+  "uci": "b1c3",
+  "san": "Nc3",
+  "confidence": 0.16,
+  "input_tokens": 1182,
+  "latency_ms": 223.82191702490672
+ },
+ {
+  "id": "lichess-2013-01-114199",
+  "uci": "d2e4",
+  "san": "Ne4+",
+  "confidence": 0.2,
+  "input_tokens": 739,
+  "latency_ms": 229.2744590085931
+ },
+ {
+  "id": "lichess-2013-01-114427",
+  "uci": "b5c6",
+  "san": "Bxc6",
+  "confidence": 0.37,
+  "input_tokens": 1106,
+  "latency_ms": 273.077916004695
+ },
+ {
+  "id": "lichess-2013-01-114490",
+  "uci": "d4d6",
+  "san": "Rxd6",
+  "confidence": 0.38,
+  "input_tokens": 799,
+  "latency_ms": 250.7820000173524
+ },
+ {
+  "id": "lichess-2013-01-114600",
+  "uci": "d5f6",
+  "san": "Nxf6+",
+  "confidence": 0.38,
+  "input_tokens": 1253,
+  "latency_ms": 246.48295796941966
+ },
+ {
+  "id": "lichess-2013-01-115229",
+  "uci": "e1e2",
+  "san": "Rxe2",
+  "confidence": 0.23,
+  "input_tokens": 981,
+  "latency_ms": 238.28937503276393
+ },
+ {
+  "id": "lichess-2013-01-115396",
+  "uci": "e4f3",
+  "san": "exf3",
+  "confidence": 0.6,
+  "input_tokens": 1188,
+  "latency_ms": 296.83170799398795
+ },
+ {
+  "id": "lichess-2013-01-115484",
+  "uci": "g8g2",
+  "san": "Rxg2+",
+  "confidence": 0.32,
+  "input_tokens": 1366,
+  "latency_ms": 303.0175000312738
+ },
+ {
+  "id": "lichess-2013-01-115551",
+  "uci": "d5d4",
+  "san": "d4",
+  "confidence": 0.15,
+  "input_tokens": 928,
+  "latency_ms": 226.60429100506008
+ },
+ {
+  "id": "lichess-2013-01-115617",
+  "uci": "a7a3",
+  "san": "Rxa3",
+  "confidence": 0.39,
+  "input_tokens": 1142,
+  "latency_ms": 249.5843750075437
+ },
+ {
+  "id": "lichess-2013-01-116107",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.35,
+  "input_tokens": 1305,
+  "latency_ms": 255.3112919558771
+ },
+ {
+  "id": "lichess-2013-01-116129",
+  "uci": "h2h1",
+  "san": "Rh1+",
+  "confidence": 0.33,
+  "input_tokens": 984,
+  "latency_ms": 277.1108750021085
+ },
+ {
+  "id": "lichess-2013-01-116236",
+  "uci": "c7a8",
+  "san": "Nxa8",
+  "confidence": 0.23,
+  "input_tokens": 1208,
+  "latency_ms": 231.35816701687872
+ },
+ {
+  "id": "lichess-2013-01-116255",
+  "uci": "g8f7",
+  "san": "Kxf7",
+  "confidence": 0.74,
+  "input_tokens": 549,
+  "latency_ms": 242.42929101455957
+ },
+ {
+  "id": "lichess-2013-01-116416",
+  "uci": "c6e4",
+  "san": "Qxe4+",
+  "confidence": 0.3,
+  "input_tokens": 1342,
+  "latency_ms": 395.7566670142114
+ },
+ {
+  "id": "lichess-2013-01-116526",
+  "uci": "e1b1",
+  "san": "Rxb1+",
+  "confidence": 0.74,
+  "input_tokens": 1047,
+  "latency_ms": 397.38954103086144
+ },
+ {
+  "id": "lichess-2013-01-116657",
+  "uci": "c6d4",
+  "san": "Nxd4",
+  "confidence": 0.69,
+  "input_tokens": 940,
+  "latency_ms": 397.05758303171024
+ },
+ {
+  "id": "lichess-2013-01-117211",
+  "uci": "f6d4",
+  "san": "Qxd4",
+  "confidence": 0.32,
+  "input_tokens": 1295,
+  "latency_ms": 297.1589170047082
+ },
+ {
+  "id": "lichess-2013-01-117411",
+  "uci": "d6g3",
+  "san": "Bxg3",
+  "confidence": 0.25,
+  "input_tokens": 1303,
+  "latency_ms": 222.11433300981298
+ },
+ {
+  "id": "lichess-2013-01-117690",
+  "uci": "e8e1",
+  "san": "Rxe1+",
+  "confidence": 0.46,
+  "input_tokens": 1335,
+  "latency_ms": 276.31279203342274
+ },
+ {
+  "id": "lichess-2013-01-118332",
+  "uci": "d8e7",
+  "san": "Qxe7",
+  "confidence": 0.42,
+  "input_tokens": 1107,
+  "latency_ms": 285.45770898927003
+ },
+ {
+  "id": "lichess-2013-01-118690",
+  "uci": "c5c4",
+  "san": "Qxc4",
+  "confidence": 0.63,
+  "input_tokens": 1032,
+  "latency_ms": 267.8825000184588
+ },
+ {
+  "id": "lichess-2013-01-118707",
+  "uci": "b5c4",
+  "san": "bxc4",
+  "confidence": 0.21,
+  "input_tokens": 1299,
+  "latency_ms": 314.2675419803709
+ },
+ {
+  "id": "lichess-2013-01-118743",
+  "uci": "e3f3",
+  "san": "Kf3",
+  "confidence": 0.09,
+  "input_tokens": 664,
+  "latency_ms": 289.0436669695191
+ },
+ {
+  "id": "lichess-2013-01-118760",
+  "uci": "e4e5",
+  "san": "e5",
+  "confidence": 0.13,
+  "input_tokens": 1193,
+  "latency_ms": 285.7514999923296
+ },
+ {
+  "id": "lichess-2013-01-119626",
+  "uci": "h5d1",
+  "san": "Qd1+",
+  "confidence": 0.21,
+  "input_tokens": 1254,
+  "latency_ms": 291.47875000489876
+ },
+ {
+  "id": "lichess-2013-01-119872",
+  "uci": "d1g4",
+  "san": "Qxg4",
+  "confidence": 0.37,
+  "input_tokens": 1107,
+  "latency_ms": 314.555625023786
+ },
+ {
+  "id": "lichess-2013-01-120009",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.26,
+  "input_tokens": 1264,
+  "latency_ms": 269.8863749974407
+ },
+ {
+  "id": "lichess-2013-01-120016",
+  "uci": "h4g3",
+  "san": "hxg3",
+  "confidence": 0.21,
+  "input_tokens": 729,
+  "latency_ms": 261.07975002378225
+ },
+ {
+  "id": "lichess-2013-01-120101",
+  "uci": "c4f7",
+  "san": "Bxf7+",
+  "confidence": 0.28,
+  "input_tokens": 1240,
+  "latency_ms": 303.23170899646357
+ },
+ {
+  "id": "lichess-2013-01-120602",
+  "uci": "f8f7",
+  "san": "Rxf7",
+  "confidence": 0.75,
+  "input_tokens": 533,
+  "latency_ms": 535.1737920427695
+ },
+ {
+  "id": "lichess-2013-01-121114",
+  "uci": "d1d5",
+  "san": "Rxd5",
+  "confidence": 0.27,
+  "input_tokens": 1148,
+  "latency_ms": 301.2481250334531
+ },
+ {
+  "id": "lichess-2013-01-121156",
+  "uci": "e3h6",
+  "san": "Bxh6",
+  "confidence": 0.13,
+  "input_tokens": 1102,
+  "latency_ms": 845.2500000130385
+ },
+ {
+  "id": "lichess-2013-01-121215",
+  "uci": "c5f2",
+  "san": "Bxf2+",
+  "confidence": 0.64,
+  "input_tokens": 1102,
+  "latency_ms": 845.0349999475293
+ }
+]

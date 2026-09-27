@@ -1,0 +1,361 @@
+{
+ "config": {
+  "board_format": "grid",
+  "option_style": "described",
+  "llm_model": "claude-sonnet-5",
+  "llm_label": "Sonnet 5",
+  "llm_effort": null,
+  "book_seed": 11,
+  "ladder_openings": 20,
+  "ladder_pairs": [
+   [
+    "SF1320@120+1",
+    "SF1320",
+    20
+   ],
+   [
+    "SF1320",
+    "SF1320-rand25"
+   ],
+   [
+    "SF1320-rand25",
+    "SF1320-rand50"
+   ],
+   [
+    "SF1320-rand50",
+    "SF1320-rand75"
+   ],
+   [
+    "SF1320-rand75",
+    "Random"
+   ],
+   [
+    "SF1320",
+    "SF1320-rand50"
+   ],
+   [
+    "SF1320-rand25",
+    "SF1320-rand75"
+   ],
+   [
+    "SF1320-rand75",
+    "Capture-first"
+   ],
+   [
+    "Capture-first",
+    "Random"
+   ],
+   [
+    "SF1320-rand50",
+    "Capture-first"
+   ],
+   [
+    "SF1320",
+    "SF1320-rand10"
+   ],
+   [
+    "SF1320-rand10",
+    "SF1320-rand25"
+   ]
+  ],
+  "jev_openings": 30,
+  "jev_opponents": [
+   "Random",
+   "Capture-first",
+   "SF1320-rand75",
+   "SF1320-rand50"
+  ],
+  "llm_openings": 10,
+  "llm_opponents": [
+   "SF1320@120+1"
+  ],
+  "llm_positions": 100,
+  "llm_puzzles_per_bin": 15,
+  "positions_file": "data/positions_600_s21.json",
+  "grade_depth": 12,
+  "anchors": {
+   "SF1320@120+1": 1320
+  },
+  "elo_prior": 2,
+  "bootstrap": 500
+ },
+ "elo": {
+  "SF1320@120+1": {
+   "rating": 1320,
+   "ci95": [
+    1320,
+    1320
+   ]
+  },
+  "SF1320": {
+   "rating": 1218,
+   "ci95": [
+    1118,
+    1312
+   ]
+  },
+  "Sonnet 5": {
+   "rating": 1129,
+   "ci95": [
+    963,
+    1248
+   ]
+  },
+  "SF1320-rand10": {
+   "rating": 962,
+   "ci95": [
+    809,
+    1095
+   ]
+  },
+  "SF1320-rand25": {
+   "rating": 707,
+   "ci95": [
+    536,
+    839
+   ]
+  },
+  "SF1320-rand50": {
+   "rating": 468,
+   "ci95": [
+    278,
+    611
+   ]
+  },
+  "Jev": {
+   "rating": 448,
+   "ci95": [
+    241,
+    598
+   ]
+  },
+  "Capture-first": {
+   "rating": 442,
+   "ci95": [
+    251,
+    586
+   ]
+  },
+  "SF1320-rand75": {
+   "rating": 288,
+   "ci95": [
+    101,
+    429
+   ]
+  },
+  "Random": {
+   "rating": 103,
+   "ci95": [
+    -101,
+    248
+   ]
+  }
+ },
+ "matches": {
+  "Jev vs Capture-first": {
+   "games": 60,
+   "points": 29.0,
+   "w": 4,
+   "d": 50,
+   "l": 6
+  },
+  "Jev vs Random": {
+   "games": 60,
+   "points": 49.5,
+   "w": 39,
+   "d": 21,
+   "l": 0
+  },
+  "Jev vs SF1320-rand50": {
+   "games": 60,
+   "points": 30.5,
+   "w": 8,
+   "d": 45,
+   "l": 7
+  },
+  "Jev vs SF1320-rand75": {
+   "games": 60,
+   "points": 46.5,
+   "w": 33,
+   "d": 27,
+   "l": 0
+  },
+  "Capture-first vs Random": {
+   "games": 40,
+   "points": 34.5,
+   "w": 29,
+   "d": 11,
+   "l": 0
+  },
+  "SF1320-rand10 vs SF1320-rand25": {
+   "games": 40,
+   "points": 33.5,
+   "w": 32,
+   "d": 3,
+   "l": 5
+  },
+  "SF1320-rand25 vs SF1320-rand50": {
+   "games": 40,
+   "points": 32.0,
+   "w": 31,
+   "d": 2,
+   "l": 7
+  },
+  "SF1320-rand25 vs SF1320-rand75": {
+   "games": 40,
+   "points": 38.5,
+   "w": 38,
+   "d": 1,
+   "l": 1
+  },
+  "SF1320-rand50 vs Capture-first": {
+   "games": 40,
+   "points": 19.5,
+   "w": 9,
+   "d": 21,
+   "l": 10
+  },
+  "SF1320-rand50 vs SF1320-rand75": {
+   "games": 40,
+   "points": 33.5,
+   "w": 30,
+   "d": 7,
+   "l": 3
+  },
+  "SF1320-rand75 vs Capture-first": {
+   "games": 40,
+   "points": 13.5,
+   "w": 1,
+   "d": 25,
+   "l": 14
+  },
+  "SF1320-rand75 vs Random": {
+   "games": 40,
+   "points": 35.5,
+   "w": 31,
+   "d": 9,
+   "l": 0
+  },
+  "SF1320@120+1 vs SF1320": {
+   "games": 40,
+   "points": 26.0,
+   "w": 25,
+   "d": 2,
+   "l": 13
+  },
+  "SF1320 vs SF1320-rand10": {
+   "games": 40,
+   "points": 33.5,
+   "w": 32,
+   "d": 3,
+   "l": 5
+  },
+  "SF1320 vs SF1320-rand25": {
+   "games": 40,
+   "points": 39.0,
+   "w": 39,
+   "d": 0,
+   "l": 1
+  },
+  "SF1320 vs SF1320-rand50": {
+   "games": 40,
+   "points": 40.0,
+   "w": 40,
+   "d": 0,
+   "l": 0
+  },
+  "Sonnet 5 vs SF1320@120+1": {
+   "games": 20,
+   "points": 4.5,
+   "w": 2,
+   "d": 5,
+   "l": 13
+  }
+ },
+ "puzzles_jev": {
+  "rating": 1114,
+  "ci95": [
+   1056,
+   1172
+  ],
+  "n": 400,
+  "solved": 100
+ },
+ "puzzles_llm": {
+  "rating": 1440,
+  "ci95": [
+   1347,
+   1533
+  ],
+  "n": 150,
+  "solved": 62
+ },
+ "puzzles_capture": {
+  "rating": 1017,
+  "ci95": [
+   958,
+   1076
+  ],
+  "n": 400,
+  "solved": 81
+ },
+ "puzzles_random": {
+  "rating": 219,
+  "ci95": [
+   11,
+   428
+  ],
+  "n": 400,
+  "solved": 2
+ },
+ "move_quality": {
+  "jev": {
+   "n": 559,
+   "acpl": 396.6,
+   "median_cp_loss": 252,
+   "accuracy": 54.9,
+   "top1": 0.193,
+   "blunder_rate": 0.474,
+   "illegal_or_unparsed": 0
+  },
+  "human@jev": {
+   "n": 559,
+   "acpl": 83.3,
+   "median_cp_loss": 25,
+   "accuracy": 84.8,
+   "top1": 0.338,
+   "blunder_rate": 0.106
+  },
+  "random@jev": {
+   "n": 559,
+   "acpl": 392.5,
+   "accuracy": 53.0,
+   "top1": 0.048,
+   "blunder_rate": 0.459
+  },
+  "llm": {
+   "n": 99,
+   "acpl": 115.5,
+   "median_cp_loss": 34,
+   "accuracy": 81.4,
+   "top1": 0.283,
+   "blunder_rate": 0.152,
+   "illegal_or_unparsed": 1
+  },
+  "human@llm": {
+   "n": 100,
+   "acpl": 88.6,
+   "median_cp_loss": 31.0,
+   "accuracy": 85.0,
+   "top1": 0.31,
+   "blunder_rate": 0.1
+  },
+  "random@llm": {
+   "n": 100,
+   "acpl": 338.6,
+   "accuracy": 57.9,
+   "top1": 0.038,
+   "blunder_rate": 0.397
+  }
+ }
+}

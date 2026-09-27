@@ -1,0 +1,80 @@
+{
+  "board_format": "grid",
+  "option_style": "described",
+  "llm_model": "claude-sonnet-5",
+  "llm_label": "Sonnet 5",
+  "llm_effort": null,
+  "book_seed": 11,
+  "ladder_openings": 20,
+  "ladder_pairs": [
+    [
+      "SF1320@120+1",
+      "SF1320",
+      20
+    ],
+    [
+      "SF1320",
+      "SF1320-rand25"
+    ],
+    [
+      "SF1320-rand25",
+      "SF1320-rand50"
+    ],
+    [
+      "SF1320-rand50",
+      "SF1320-rand75"
+    ],
+    [
+      "SF1320-rand75",
+      "Random"
+    ],
+    [
+      "SF1320",
+      "SF1320-rand50"
+    ],
+    [
+      "SF1320-rand25",
+      "SF1320-rand75"
+    ],
+    [
+      "SF1320-rand75",
+      "Capture-first"
+    ],
+    [
+      "Capture-first",
+      "Random"
+    ],
+    [
+      "SF1320-rand50",
+      "Capture-first"
+    ],
+    [
+      "SF1320",
+      "SF1320-rand10"
+    ],
+    [
+      "SF1320-rand10",
+      "SF1320-rand25"
+    ]
+  ],
+  "jev_openings": 30,
+  "jev_opponents": [
+    "Random",
+    "Capture-first",
+    "SF1320-rand75",
+    "SF1320-rand50"
+  ],
+  "llm_openings": 10,
+  "llm_opponents": [
+    "SF1320@120+1"
+  ],
+  "llm_positions": 100,
+  "llm_puzzles_per_bin": 15,
+  "positions_file": "data/positions_600_s21.json",
+  "grade_depth": 12,
+  "anchors": {
+    "SF1320@120+1": 1320
+  },
+  "elo_prior": 2,
+  "bootstrap": 500
+}

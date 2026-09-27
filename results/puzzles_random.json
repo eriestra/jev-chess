@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "1iLXK",
+  "rating": 775,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0016835016835016834
+ },
+ {
+  "id": "4BoiQ",
+  "rating": 773,
+  "themes": "endgame fork mate mateIn2 short",
+  "solved": 0.0008417508417508418
+ },
+ {
+  "id": "3wVt6",
+  "rating": 782,
+  "themes": "endgame fork mate mateIn2 short",
+  "solved": 0.0007722007722007722
+ },
+ {
+  "id": "0zs91",
+  "rating": 781,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": 0.00101010101010101
+ },
+ {
+  "id": "2h9Hx",
+  "rating": 785,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02631578947368421
+ },
+ {
+  "id": "4J42a",
+  "rating": 772,
+  "themes": "advancedPawn crushing endgame short",
+  "solved": 0.023809523809523808
+ },
+ {
+  "id": "3VozD",
+  "rating": 746,
+  "themes": "advantage endgame fork short",
+  "solved": 0.0010405827263267429
+ },
+ {
+  "id": "4QVNs",
+  "rating": 781,
+  "themes": "crushing endgame fork master masterVsMaster short",
+  "solved": 0.0021645021645021645
+ },
+ {
+  "id": "43col",
+  "rating": 756,
+  "themes": "advancedPawn endgame mate mateIn1 oneMove promotion",
+  "solved": 0.09523809523809523
+ },
+ {
+  "id": "0FxNY",
+  "rating": 750,
+  "themes": "arabianMate kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.03225806451612903
+ },
+ {
+  "id": "4JhwU",
+  "rating": 792,
+  "themes": "crushing endgame master masterVsMaster pin short",
+  "solved": 0.001736111111111111
+ },
+ {
+  "id": "04xSr",
+  "rating": 796,
+  "themes": "crushing deflection endgame exposedKing long rookEndgame skewer",
+  "solved": 0.00024715768660405336
+ },
+ {
+  "id": "3V8VC",
+  "rating": 689,
+  "themes": "master mate mateIn2 middlegame short",
+  "solved": 0.0008163265306122448
+ },
+ {
+  "id": "21I1m",
+  "rating": 798,
+  "themes": "kingsideAttack mate mateIn2 middlegame pillsburysMate pin short",
+  "solved": 0.0005750431282346176
+ },
+ {
+  "id": "3xU8T",
+  "rating": 746,
+  "themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+  "solved": 0.029411764705882353
+ },
+ {
+  "id": "1gvRn",
+  "rating": 753,
+  "themes": "endgame mate mateIn1 oneMove",
+  "solved": 0.02702702702702703
+ },
+ {
+  "id": "1RyE7",
+  "rating": 684,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.0006968641114982578
+ },
+ {
+  "id": "589si",
+  "rating": 782,
+  "themes": "attackingF2F7 mate mateIn1 oneMove opening",
+  "solved": 0.024390243902439025
+ },
+ {
+  "id": "5Xynt",
+  "rating": 749,
+  "themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+  "solved": 0.058823529411764705
+ },
+ {
+  "id": "3uFbs",
+  "rating": 777,
+  "themes": "endgame master mate mateIn1 oneMove",
+  "solved": 0.03571428571428571
+ },
+ {
+  "id": "3xIdX",
+  "rating": 796,
+  "themes": "advancedPawn crushing endgame pawnEndgame short",
+  "solved": 0.008333333333333333
+ },
+ {
+  "id": "5orMU",
+  "rating": 790,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02127659574468085
+ },
+ {
+  "id": "2v3Iv",
+  "rating": 779,
+  "themes": "endgame master mate mateIn1 oneMove rookEndgame",
+  "solved": 0.04
+ },
+ {
+  "id": "4YmOa",
+  "rating": 741,
+  "themes": "endgame epauletteMate hangingPiece mate mateIn1 oneMove",
+  "solved": 0.02857142857142857
+ },
+ {
+  "id": "1CJ5K",
+  "rating": 798,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.0018315018315018315
+ },
+ {
+  "id": "5TQNN",
+  "rating": 712,
+  "themes": "master mate mateIn1 middlegame oneMove",
+  "solved": 0.03125
+ },
+ {
+  "id": "4UVMc",
+  "rating": 704,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02702702702702703
+ },
+ {
+  "id": "55cPa",
+  "rating": 730,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.02564102564102564
+ },
+ {
+  "id": "3mO7K",
+  "rating": 780,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.021739130434782608
+ },
+ {
+  "id": "2rCfn",
+  "rating": 768,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.020833333333333332
+ },
+ {
+  "id": "5Z3Ss",
+  "rating": 754,
+  "themes": "endgame master mate mateIn1 oneMove",
+  "solved": 0.03571428571428571
+ },
+ {
+  "id": "4rQ7F",
+  "rating": 753,
+  "themes": "advantage endgame hangingPiece short",
+  "solved": 0.1111111111111111
+ },
+ {
+  "id": "5dbBx",
+  "rating": 698,
+  "themes": "endgame mate mateIn1 oneMove",
+  "solved": 0.02631578947368421
+ },
+ {
+  "id": "1Crpw",
+  "rating": 796,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.0007739938080495355
+ },
+ {
+  "id": "5z3jT",
+  "rating": 797,
+  "themes": "crushing fork middlegame short",
+  "solved": 0.0009191176470588235
+ },
+ {
+  "id": "0Aclz",
+  "rating": 774,
+  "themes": "endgame mate mateIn1 oneMove",
+  "solved": 0.034482758620689655
+ },
+ {
+  "id": "2JDuY",
+  "rating": 787,
+  "themes": "crushing endgame fork short",
+  "solved": 0.0022675736961451248
+ },
+ {
+  "id": "07fRV",
+  "rating": 610,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.002105263157894737
+ },
+ {
+  "id": "23fFY",
+  "rating": 797,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.0007326007326007326
+ },
+ {
+  "id": "5AS79",
+  "rating": 759,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.022222222222222223
+ },
+ {
+  "id": "4XnuD",
+  "rating": 998,
+  "themes": "advantage endgame fork master masterVsMaster short",
+  "solved": 0.002770083102493075
+ },
+ {
+  "id": "5ShIM",
+  "rating": 987,
+  "themes": "crushing endgame fork long",
+  "solved": 0.0010869565217391304
+ },
+ {
+  "id": "2zZ3l",
+  "rating": 877,
+  "themes": "crushing fork opening short",
+  "solved": 0.0005668934240362812
+ },
+ {
+  "id": "5RXvB",
+  "rating": 967,
+  "themes": "crushing deflection endgame master short",
+  "solved": 0.0043859649122807015
+ },
+ {
+  "id": "5zZnC",
+  "rating": 957,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0007949125596184419
+ },
+ {
+  "id": "3InqU",
+  "rating": 937,
+  "themes": "crushing opening short",
+  "solved": 0.0009191176470588235
+ },
+ {
+  "id": "33Vj3",
+  "rating": 951,
+  "themes": "crushing fork middlegame short",
+  "solved": 0.001058201058201058
+ },
+ {
+  "id": "5W9RU",
+  "rating": 884,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.0010416666666666667
+ },
+ {
+  "id": "4P209",
+  "rating": 804,
+  "themes": "crushing endgame short skewer",
+  "solved": 0.002976190476190476
+ },
+ {
+  "id": "3QlFs",
+  "rating": 935,
+  "themes": "backRankMate endgame mate mateIn2 short xRayAttack",
+  "solved": 0.001466275659824047
+ },
+ {
+  "id": "13YPA",
+  "rating": 852,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.02040816326530612
+ },
+ {
+  "id": "2oluT",
+  "rating": 930,
+  "themes": "endgame master mate mateIn1 oneMove",
+  "solved": 0.03125
+ },
+ {
+  "id": "0mjzL",
+  "rating": 985,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.0007304601899196494
+ },
+ {
+  "id": "0JCi1",
+  "rating": 899,
+  "themes": "endgame mate mateIn2 pillsburysMate short",
+  "solved": 0.0007309941520467836
+ },
+ {
+  "id": "14oJJ",
+  "rating": 860,
+  "themes": "discoveredCheck doubleCheck epauletteMate mate mateIn1 oneMove opening pillsburysMate",
+  "solved": 0.030303030303030304
+ },
+ {
+  "id": "3mawY",
+  "rating": 996,
+  "themes": "endgame mate mateIn2 rookEndgame short",
+  "solved": 0.0014814814814814814
+ },
+ {
+  "id": "1i7t2",
+  "rating": 893,
+  "themes": "anastasiaMate endgame master mate mateIn2 short",
+  "solved": 0.0011947431302270011
+ },
+ {
+  "id": "21SGM",
+  "rating": 927,
+  "themes": "advantage fork long middlegame",
+  "solved": 6.858710562414266e-05
+ },
+ {
+  "id": "57arJ",
+  "rating": 985,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.004048582995951417
+ },
+ {
+  "id": "3M2bU",
+  "rating": 973,
+  "themes": "mate mateIn1 oneMove opening",
+  "solved": 0.022727272727272728
+ },
+ {
+  "id": "5v2kt",
+  "rating": 963,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.0008403361344537815
+ },
+ {
+  "id": "4lxBD",
+  "rating": 860,
+  "themes": "endgame kingsideAttack mate mateIn2 short xRayAttack",
+  "solved": 0.0007047216349541931
+ },
+ {
+  "id": "2LWHH",
+  "rating": 960,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0006644518272425248
+ },
+ {
+  "id": "3Ffur",
+  "rating": 895,
+  "themes": "crushing fork long middlegame",
+  "solved": 4.480286738351254e-05
+ },
+ {
+  "id": "3tQPd",
+  "rating": 925,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.0006006006006006006
+ },
+ {
+  "id": "2yHPK",
+  "rating": 965,
+  "themes": "discoveredCheck doubleCheck mate mateIn1 middlegame oneMove",
+  "solved": 0.037037037037037035
+ },
+ {
+  "id": "4NaOq",
+  "rating": 910,
+  "themes": "advancedPawn crushing endgame long pawnEndgame promotion",
+  "solved": 0.0013888888888888887
+ },
+ {
+  "id": "2ipKc",
+  "rating": 984,
+  "themes": "advantage opening pin short",
+  "solved": 0.0007112375533428164
+ },
+ {
+  "id": "44YO8",
+  "rating": 995,
+  "themes": "crushing endgame fork veryLong",
+  "solved": 1.2860082304526749e-05
+ },
+ {
+  "id": "4TBcd",
+  "rating": 926,
+  "themes": "crushing middlegame queensideAttack short skewer",
+  "solved": 0.0016722408026755855
+ },
+ {
+  "id": "38rqA",
+  "rating": 817,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.027777777777777776
+ },
+ {
+  "id": "4SI8L",
+  "rating": 995,
+  "themes": "attraction endgame mate mateIn2 pillsburysMate sacrifice short",
+  "solved": 0.0013175230566534915
+ },
+ {
+  "id": "1oO9s",
+  "rating": 965,
+  "themes": "advantage endgame fork short",
+  "solved": 0.0011160714285714285
+ },
+ {
+  "id": "2cudV",
+  "rating": 979,
+  "themes": "exposedKing long mate mateIn3 middlegame",
+  "solved": 2.262136361579876e-05
+ },
+ {
+  "id": "5D9Zl",
+  "rating": 877,
+  "themes": "arabianMate endgame mate mateIn2 short",
+  "solved": 0.0006747638326585695
+ },
+ {
+  "id": "0G6Rr",
+  "rating": 909,
+  "themes": "endgame master masterVsMaster mate mateIn1 oneMove",
+  "solved": 0.05
+ },
+ {
+  "id": "2AUiq",
+  "rating": 987,
+  "themes": "advantage endgame rookEndgame short",
+  "solved": 0.002557544757033248
+ },
+ {
+  "id": "4cpqP",
+  "rating": 911,
+  "themes": "advantage kingsideAttack opening short",
+  "solved": 0.0016722408026755853
+ },
+ {
+  "id": "57Bfl",
+  "rating": 990,
+  "themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+  "solved": 2.6379656009285636e-05
+ },
+ {
+  "id": "5Jh8O",
+  "rating": 952,
+  "themes": "arabianMate mate mateIn1 middlegame oneMove",
+  "solved": 0.043478260869565216
+ },
+ {
+  "id": "13GDU",
+  "rating": 1155,
+  "themes": "mate mateIn2 middlegame queensideAttack short",
+  "solved": 0.0009487666034155598
+ },
+ {
+  "id": "4Znzs",
+  "rating": 1014,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0010526315789473684
+ },
+ {
+  "id": "5eOSS",
+  "rating": 1121,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.001976284584980237
+ },
+ {
+  "id": "290AT",
+  "rating": 1145,
+  "themes": "crushing endgame fork long",
+  "solved": 3.129106952875649e-05
+ },
+ {
+  "id": "3Yvby",
+  "rating": 1145,
+  "themes": "crushing kingsideAttack middlegame sacrifice short",
+  "solved": 0.0011160714285714285
+ },
+ {
+  "id": "5wqIA",
+  "rating": 1072,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.023255813953488372
+ },
+ {
+  "id": "3kzYY",
+  "rating": 1189,
+  "themes": "crushing endgame exposedKing fork long",
+  "solved": 2.4757377698554172e-05
+ },
+ {
+  "id": "3jdrH",
+  "rating": 1174,
+  "themes": "advantage endgame long pin",
+  "solved": 3.1175957101883024e-05
+ },
+ {
+  "id": "0foze",
+  "rating": 1160,
+  "themes": "crushing hangingPiece master middlegame short",
+  "solved": 0.007407407407407408
+ },
+ {
+  "id": "4g73z",
+  "rating": 1156,
+  "themes": "crushing fork long middlegame",
+  "solved": 2.7107617240444567e-05
+ },
+ {
+  "id": "4IJK5",
+  "rating": 1134,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02
+ },
+ {
+  "id": "1NXWt",
+  "rating": 1110,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.0005681818181818182
+ },
+ {
+  "id": "49c1y",
+  "rating": 1078,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.003456221198156682
+ },
+ {
+  "id": "5Rly6",
+  "rating": 1113,
+  "themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+  "solved": 0.0625
+ },
+ {
+  "id": "3lY8M",
+  "rating": 1178,
+  "themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+  "solved": 2.5015634771732333e-05
+ },
+ {
+  "id": "1k4cE",
+  "rating": 1157,
+  "themes": "crushing endgame short",
+  "solved": 0.0007122507122507122
+ },
+ {
+  "id": "1rV24",
+  "rating": 1189,
+  "themes": "advantage opening short",
+  "solved": 0.02040816326530612
+ },
+ {
+  "id": "0np54",
+  "rating": 1119,
+  "themes": "advantage opening short",
+  "solved": 0.0007501875468867217
+ },
+ {
+  "id": "0Pu1k",
+  "rating": 1173,
+  "themes": "advantage endgame fork master short",
+  "solved": 0.001976284584980237
+ },
+ {
+  "id": "3ASPf",
+  "rating": 1025,
+  "themes": "crushing middlegame short",
+  "solved": 0.0010822510822510823
+ },
+ {
+  "id": "5bWXh",
+  "rating": 1170,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.0005285412262156448
+ },
+ {
+  "id": "4C9qP",
+  "rating": 1108,
+  "themes": "crushing endgame queenEndgame short skewer",
+  "solved": 0.0013227513227513227
+ },
+ {
+  "id": "3B0g4",
+  "rating": 1195,
+  "themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+  "solved": 0.0008658008658008658
+ },
+ {
+  "id": "0ZiW1",
+  "rating": 1067,
+  "themes": "endgame master mate mateIn1 oneMove",
+  "solved": 0.041666666666666664
+ },
+ {
+  "id": "2G4JG",
+  "rating": 1094,
+  "themes": "discoveredAttack mate mateIn2 middlegame sacrifice short",
+  "solved": 0.0013175230566534915
+ },
+ {
+  "id": "5FGar",
+  "rating": 1180,
+  "themes": "crushing middlegame pin short",
+  "solved": 0.0009191176470588235
+ },
+ {
+  "id": "0QteQ",
+  "rating": 1164,
+  "themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+  "solved": 0.024390243902439025
+ },
+ {
+  "id": "2gc9O",
+  "rating": 1179,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.001610305958132045
+ },
+ {
+  "id": "5t70h",
+  "rating": 1078,
+  "themes": "backRankMate endgame long mate mateIn3 sacrifice",
+  "solved": 4.170837504170838e-05
+ },
+ {
+  "id": "0y8cu",
+  "rating": 1130,
+  "themes": "crushing discoveredCheck doubleCheck endgame fork short",
+  "solved": 0.0018315018315018315
+ },
+ {
+  "id": "08UuA",
+  "rating": 1129,
+  "themes": "crushing deflection endgame exposedKing fork sacrifice veryLong",
+  "solved": 3.023413312693498e-06
+ },
+ {
+  "id": "1v4QW",
+  "rating": 1096,
+  "themes": "advantage middlegame short",
+  "solved": 0.000925925925925926
+ },
+ {
+  "id": "2nxvw",
+  "rating": 1131,
+  "themes": "crushing endgame fork short",
+  "solved": 0.0011947431302270011
+ },
+ {
+  "id": "52NMX",
+  "rating": 1043,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.022727272727272728
+ },
+ {
+  "id": "2iaJy",
+  "rating": 1126,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": 0.0009487666034155598
+ },
+ {
+  "id": "5jXtp",
+  "rating": 1178,
+  "themes": "endgame mate mateIn2 operaMate short",
+  "solved": 0.0013227513227513227
+ },
+ {
+  "id": "0lTrQ",
+  "rating": 1181,
+  "themes": "endgame mate mateIn1 oneMove",
+  "solved": 0.034482758620689655
+ },
+ {
+  "id": "0Isaq",
+  "rating": 1150,
+  "themes": "advantage hangingPiece kingsideAttack master middlegame short",
+  "solved": 0.0006925207756232687
+ },
+ {
+  "id": "3ySzO",
+  "rating": 1177,
+  "themes": "mate mateIn2 middlegame queensideAttack short",
+  "solved": 0.0008012820512820513
+ },
+ {
+  "id": "42aCj",
+  "rating": 1123,
+  "themes": "mate mateIn2 middlegame queensideAttack short",
+  "solved": 0.0013183915622940014
+ },
+ {
+  "id": "0LnLg",
+  "rating": 1386,
+  "themes": "crushing defensiveMove endgame master short",
+  "solved": 0.041666666666666664
+ },
+ {
+  "id": "31MMX",
+  "rating": 1362,
+  "themes": "endgame master mate mateIn2 operaMate short",
+  "solved": 0.001984126984126984
+ },
+ {
+  "id": "5lfGF",
+  "rating": 1284,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": 0.015151515151515152
+ },
+ {
+  "id": "4hJmN",
+  "rating": 1230,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.000641025641025641
+ },
+ {
+  "id": "2dczQ",
+  "rating": 1365,
+  "themes": "advancedPawn bishopEndgame crushing endgame long",
+  "solved": 0.00510204081632653
+ },
+ {
+  "id": "4P4zO",
+  "rating": 1206,
+  "themes": "advantage endgame long rookEndgame",
+  "solved": 0.16666666666666666
+ },
+ {
+  "id": "2ELJS",
+  "rating": 1388,
+  "themes": "crushing endgame master short",
+  "solved": 0.0007047216349541931
+ },
+ {
+  "id": "4287m",
+  "rating": 1376,
+  "themes": "advantage middlegame short",
+  "solved": 0.0007501875468867217
+ },
+ {
+  "id": "1t23L",
+  "rating": 1238,
+  "themes": "advantage long middlegame",
+  "solved": 2.2562667809841834e-05
+ },
+ {
+  "id": "0HTsP",
+  "rating": 1228,
+  "themes": "backRankMate discoveredCheck doubleCheck fork long mate mateIn3 middlegame",
+  "solved": 1.173048048048048e-05
+ },
+ {
+  "id": "2TPU0",
+  "rating": 1376,
+  "themes": "endgame mate mateIn2 queenRookEndgame short",
+  "solved": 0.0014992503748125937
+ },
+ {
+  "id": "03qIH",
+  "rating": 1364,
+  "themes": "bishopEndgame crushing endgame quietMove short",
+  "solved": 0.02040816326530612
+ },
+ {
+  "id": "0bDx5",
+  "rating": 1319,
+  "themes": "crushing endgame exposedKing rookEndgame veryLong",
+  "solved": 4.464285714285714e-05
+ },
+ {
+  "id": "0rCH1",
+  "rating": 1380,
+  "themes": "crushing fork middlegame short",
+  "solved": 0.000946969696969697
+ },
+ {
+  "id": "4nxia",
+  "rating": 1265,
+  "themes": "advantage middlegame pin short",
+  "solved": 0.0013227513227513227
+ },
+ {
+  "id": "4HYpP",
+  "rating": 1228,
+  "themes": "crushing discoveredAttack kingsideAttack long middlegame pin",
+  "solved": 2.2045855379188714e-05
+ },
+ {
+  "id": "0FP1I",
+  "rating": 1351,
+  "themes": "crushing fork middlegame short",
+  "solved": 0.0007309941520467836
+ },
+ {
+  "id": "1a8VJ",
+  "rating": 1266,
+  "themes": "fork master mate mateIn2 middlegame short",
+  "solved": 0.0007507507507507507
+ },
+ {
+  "id": "3GTnx",
+  "rating": 1321,
+  "themes": "crushing endgame short",
+  "solved": 0.0014245014245014244
+ },
+ {
+  "id": "2Kbqc",
+  "rating": 1235,
+  "themes": "crushing endgame fork long queenRookEndgame",
+  "solved": 8.753501400560224e-05
+ },
+ {
+  "id": "4tRQ8",
+  "rating": 1394,
+  "themes": "advantage attraction long middlegame",
+  "solved": 1.2531328320802006e-05
+ },
+ {
+  "id": "26f1n",
+  "rating": 1254,
+  "themes": "advancedPawn advantage endgame master short",
+  "solved": 0.0036363636363636364
+ },
+ {
+  "id": "1ErAp",
+  "rating": 1310,
+  "themes": "advantage endgame short",
+  "solved": 0.00641025641025641
+ },
+ {
+  "id": "5WmIY",
+  "rating": 1288,
+  "themes": "endgame mate mateIn2 pillsburysMate short",
+  "solved": 0.0016233766233766233
+ },
+ {
+  "id": "0KQhX",
+  "rating": 1349,
+  "themes": "advantage fork master middlegame short",
+  "solved": 0.0003439972480220158
+ },
+ {
+  "id": "2iAN0",
+  "rating": 1367,
+  "themes": "kingsideAttack mate mateIn2 middlegame short triangleMate",
+  "solved": 0.0009487666034155598
+ },
+ {
+  "id": "2VeLg",
+  "rating": 1354,
+  "themes": "advantage endgame master short",
+  "solved": 0.0014285714285714286
+ },
+ {
+  "id": "2sqd0",
+  "rating": 1280,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.034482758620689655
+ },
+ {
+  "id": "15xkp",
+  "rating": 1375,
+  "themes": "advancedPawn crushing endgame long promotion",
+  "solved": 0.00030637254901960784
+ },
+ {
+  "id": "30vLP",
+  "rating": 1244,
+  "themes": "advantage endgame master short",
+  "solved": 0.018518518518518517
+ },
+ {
+  "id": "3gPNM",
+  "rating": 1274,
+  "themes": "crushing endgame fork master short",
+  "solved": 0.0015432098765432098
+ },
+ {
+  "id": "49jB2",
+  "rating": 1305,
+  "themes": "crushing endgame short",
+  "solved": 0.005555555555555555
+ },
+ {
+  "id": "35bcx",
+  "rating": 1235,
+  "themes": "advantage middlegame short",
+  "solved": 0.0016129032258064516
+ },
+ {
+  "id": "5A00z",
+  "rating": 1281,
+  "themes": "crushing defensiveMove endgame long",
+  "solved": 0.006172839506172839
+ },
+ {
+  "id": "4m360",
+  "rating": 1330,
+  "themes": "advantage long middlegame",
+  "solved": 0.0021367521367521365
+ },
+ {
+  "id": "5S7JU",
+  "rating": 1319,
+  "themes": "crushing long middlegame",
+  "solved": 2.8011204481792718e-05
+ },
+ {
+  "id": "4TW5J",
+  "rating": 1220,
+  "themes": "advantage endgame short",
+  "solved": 0.0008445945945945946
+ },
+ {
+  "id": "0oBCP",
+  "rating": 1241,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0008650519031141869
+ },
+ {
+  "id": "4yVXv",
+  "rating": 1353,
+  "themes": "endgame mate mateIn2 operaMate sacrifice short",
+  "solved": 0.0010683760683760683
+ },
+ {
+  "id": "42rzB",
+  "rating": 1379,
+  "themes": "advancedPawn crushing endgame rookEndgame short",
+  "solved": 0.012345679012345678
+ },
+ {
+  "id": "1gxFL",
+  "rating": 1564,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.0007541478129713423
+ },
+ {
+  "id": "2haQB",
+  "rating": 1459,
+  "themes": "endgame mate mateIn4 sacrifice veryLong",
+  "solved": 1.740053419639983e-06
+ },
+ {
+  "id": "3ynqC",
+  "rating": 1453,
+  "themes": "middlegame",
+  "solved": 0.0006349206349206349
+ },
+ {
+  "id": "4XN4S",
+  "rating": 1441,
+  "themes": "crushing kingsideAttack long middlegame sacrifice",
+  "solved": 2.9441205911794144e-05
+ },
+ {
+  "id": "4VHo6",
+  "rating": 1555,
+  "themes": "advantage fork intermezzo middlegame short",
+  "solved": 0.0007304601899196494
+ },
+ {
+  "id": "1UATE",
+  "rating": 1459,
+  "themes": "crushing endgame short",
+  "solved": 0.0010504201680672268
+ },
+ {
+  "id": "5t8Mh",
+  "rating": 1586,
+  "themes": "advantage long middlegame pin",
+  "solved": 2.468648168263059e-05
+ },
+ {
+  "id": "1sTYU",
+  "rating": 1506,
+  "themes": "crushing endgame pawnEndgame short",
+  "solved": 0.0125
+ },
+ {
+  "id": "2k5QM",
+  "rating": 1471,
+  "themes": "crushing endgame short",
+  "solved": 0.0018975332068311196
+ },
+ {
+  "id": "1cEQA",
+  "rating": 1563,
+  "themes": "crushing endgame long pawnEndgame",
+  "solved": 0.0013888888888888887
+ },
+ {
+  "id": "3GyJf",
+  "rating": 1443,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.017857142857142856
+ },
+ {
+  "id": "1t5Lq",
+  "rating": 1598,
+  "themes": "advantage master middlegame short",
+  "solved": 0.0004166666666666667
+ },
+ {
+  "id": "3Rwyx",
+  "rating": 1572,
+  "themes": "advancedPawn crushing endgame exposedKing long promotion",
+  "solved": 0.0011574074074074073
+ },
+ {
+  "id": "26eij",
+  "rating": 1494,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0014814814814814814
+ },
+ {
+  "id": "04nw7",
+  "rating": 1578,
+  "themes": "advantage endgame master short",
+  "solved": 0.0008547008547008547
+ },
+ {
+  "id": "4xjVY",
+  "rating": 1406,
+  "themes": "crushing middlegame short",
+  "solved": 0.005376344086021505
+ },
+ {
+  "id": "2bDQe",
+  "rating": 1495,
+  "themes": "advantage clearance middlegame pin veryLong",
+  "solved": 7.0952178231871725e-06
+ },
+ {
+  "id": "3eJMQ",
+  "rating": 1430,
+  "themes": "advantage fork long master middlegame",
+  "solved": 2.540650406504065e-05
+ },
+ {
+  "id": "1xbAl",
+  "rating": 1417,
+  "themes": "endgame mate mateIn1 oneMove",
+  "solved": 0.037037037037037035
+ },
+ {
+  "id": "08BxE",
+  "rating": 1548,
+  "themes": "advantage endgame exposedKing veryLong",
+  "solved": 3.594432942259029e-06
+ },
+ {
+  "id": "2LmfD",
+  "rating": 1543,
+  "themes": "advantage hangingPiece long middlegame skewer",
+  "solved": 0.0004608294930875576
+ },
+ {
+  "id": "3s5Zo",
+  "rating": 1490,
+  "themes": "attraction mate mateIn2 middlegame pin sacrifice short",
+  "solved": 0.0011947431302270011
+ },
+ {
+  "id": "3hx7x",
+  "rating": 1581,
+  "themes": "advantage middlegame short",
+  "solved": 0.0004164931278633902
+ },
+ {
+  "id": "3xuLe",
+  "rating": 1422,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02702702702702703
+ },
+ {
+  "id": "0pX30",
+  "rating": 1405,
+  "themes": "advantage intermezzo middlegame short",
+  "solved": 0.0006756756756756757
+ },
+ {
+  "id": "0NVTp",
+  "rating": 1527,
+  "themes": "crushing endgame fork short",
+  "solved": 0.000946969696969697
+ },
+ {
+  "id": "3yX0G",
+  "rating": 1574,
+  "themes": "advantage middlegame short",
+  "solved": 0.00045351473922902497
+ },
+ {
+  "id": "3wC2c",
+  "rating": 1419,
+  "themes": "advancedPawn attraction discoveredAttack mate mateIn2 middlegame queensideAttack short",
+  "solved": 0.0007716049382716049
+ },
+ {
+  "id": "24F8k",
+  "rating": 1507,
+  "themes": "mate mateIn1 middlegame oneMove",
+  "solved": 0.02702702702702703
+ },
+ {
+  "id": "2vVyP",
+  "rating": 1456,
+  "themes": "attraction crushing endgame exposedKing fork long sacrifice",
+  "solved": 0.0005144032921810699
+ },
+ {
+  "id": "2CIEv",
+  "rating": 1486,
+  "themes": "crushing middlegame short",
+  "solved": 0.16666666666666666
+ },
+ {
+  "id": "4GHPJ",
+  "rating": 1513,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0010449320794148381
+ },
+ {
+  "id": "5leJM",
+  "rating": 1401,
+  "themes": "advantage endgame rookEndgame short",
+  "solved": 0.003125
+ },
+ {
+  "id": "2C4W4",
+  "rating": 1435,
+  "themes": "advantage clearance fork long master middlegame sacrifice",
+  "solved": 2.0368258106566724e-05
+ },
+ {
+  "id": "3pFPi",
+  "rating": 1516,
+  "themes": "crushing master middlegame short",
+  "solved": 0.0006775067750677507
+ },
+ {
+  "id": "4RtLW",
+  "rating": 1478,
+  "themes": "discoveredAttack endgame mate mateIn2 short",
+  "solved": 0.0009765625
+ },
+ {
+  "id": "1jwCv",
+  "rating": 1440,
+  "themes": "advancedPawn crushing deflection endgame long promotion",
+  "solved": 0.0002805836139169472
+ },
+ {
+  "id": "4eH3L",
+  "rating": 1559,
+  "themes": "advantage middlegame short",
+  "solved": 0.001349527665317139
+ },
+ {
+  "id": "34Fee",
+  "rating": 1452,
+  "themes": "advantage hangingPiece long opening",
+  "solved": 1.7538321231891683e-05
+ },
+ {
+  "id": "08ubk",
+  "rating": 1539,
+  "themes": "deflection endgame long mate mateIn3 sacrifice",
+  "solved": 6.459948320413438e-05
+ },
+ {
+  "id": "4I05w",
+  "rating": 1708,
+  "themes": "crushing long master middlegame quietMove",
+  "solved": 1.7999856001151992e-05
+ },
+ {
+  "id": "0RaPu",
+  "rating": 1753,
+  "themes": "advantage middlegame short",
+  "solved": 0.0015527950310559005
+ },
+ {
+  "id": "4ucGS",
+  "rating": 1668,
+  "themes": "advantage long middlegame",
+  "solved": 1.4619883040935671e-05
+ },
+ {
+  "id": "09OoO",
+  "rating": 1790,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.0006038647342995169
+ },
+ {
+  "id": "2f8Xh",
+  "rating": 1716,
+  "themes": "advantage fork long middlegame",
+  "solved": 0.0003132832080200501
+ },
+ {
+  "id": "1pkSN",
+  "rating": 1758,
+  "themes": "crushing endgame interference short",
+  "solved": 0.0012771392081736908
+ },
+ {
+  "id": "4ZuAL",
+  "rating": 1677,
+  "themes": "capturingDefender crushing middlegame short",
+  "solved": 0.0007680491551459293
+ },
+ {
+  "id": "3Jc4L",
+  "rating": 1799,
+  "themes": "advantage endgame short",
+  "solved": 0.0008650519031141869
+ },
+ {
+  "id": "2AYtO",
+  "rating": 1618,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": 0.000641025641025641
+ },
+ {
+  "id": "4JdCo",
+  "rating": 1788,
+  "themes": "advantage middlegame short",
+  "solved": 0.013157894736842105
+ },
+ {
+  "id": "4NjBK",
+  "rating": 1675,
+  "themes": "crushing master masterVsMaster middlegame short",
+  "solved": 0.0007390983000739098
+ },
+ {
+  "id": "2JcT4",
+  "rating": 1782,
+  "themes": "advantage opening pin sacrifice veryLong",
+  "solved": 7.475517679599311e-07
+ },
+ {
+  "id": "1JNNE",
+  "rating": 1662,
+  "themes": "advancedPawn advantage endgame promotion short",
+  "solved": 0.002380952380952381
+ },
+ {
+  "id": "2coav",
+  "rating": 1743,
+  "themes": "advantage endgame fork short",
+  "solved": 0.0008680555555555555
+ },
+ {
+  "id": "1N6No",
+  "rating": 1628,
+  "themes": "crushing long middlegame pin",
+  "solved": 1.1897679952409281e-05
+ },
+ {
+  "id": "2GMx7",
+  "rating": 1743,
+  "themes": "attraction clearance mate mateIn5 middlegame sacrifice veryLong",
+  "solved": 3.0496421976795155e-08
+ },
+ {
+  "id": "5VacN",
+  "rating": 1764,
+  "themes": "advantage endgame intermezzo short",
+  "solved": 0.0015873015873015873
+ },
+ {
+  "id": "4KxcV",
+  "rating": 1645,
+  "themes": "attraction long mate mateIn3 middlegame sacrifice",
+  "solved": 7.246376811594203e-05
+ },
+ {
+  "id": "1vHZo",
+  "rating": 1706,
+  "themes": "kingsideAttack mate mateIn2 middlegame short",
+  "solved": 0.000777000777000777
+ },
+ {
+  "id": "2BMP8",
+  "rating": 1740,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": 0.0005952380952380953
+ },
+ {
+  "id": "5iboP",
+  "rating": 1646,
+  "themes": "advantage fork middlegame short",
+  "solved": 0.000641025641025641
+ },
+ {
+  "id": "2itjO",
+  "rating": 1750,
+  "themes": "advantage middlegame short",
+  "solved": 0.0005668934240362812
+ },
+ {
+  "id": "0mTLV",
+  "rating": 1783,
+  "themes": "endgame mate mateIn2 sacrifice short xRayAttack",
+  "solved": 0.0013774104683195593
+ },
+ {
+  "id": "5bsgt",
+  "rating": 1601,
+  "themes": "crushing endgame master pawnEndgame short zugzwang",
+  "solved": 0.041666666666666664
+ },
+ {
+  "id": "5ua2S",
+  "rating": 1671,
+  "themes": "advantage middlegame short",
+  "solved": 0.007575757575757576
+ },
+ {
+  "id": "0Bm7B",
+  "rating": 1739,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": 0.000625
+ },
+ {
+  "id": "48rQ1",
+  "rating": 1670,
+  "themes": "advantage middlegame short",
+  "solved": 0.0004001600640256102
+ },
+ {
+  "id": "4yK1I",
+  "rating": 1665,
+  "themes": "advantage discoveredAttack fork middlegame veryLong",
+  "solved": 1.7100857436991893e-06
+ },
+ {
+  "id": "5Lla0",
+  "rating": 1741,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.002173913043478261
+ },
+ {
+  "id": "0y3Qf",
+  "rating": 1649,
+  "themes": "middlegame",
+  "solved": 1.352813852813853e-05
+ },
+ {
+  "id": "2FMNv",
+  "rating": 1604,
+  "themes": "crushing long middlegame",
+  "solved": 2.1915406530791147e-05
+ },
+ {
+  "id": "3dXzz",
+  "rating": 1606,
+  "themes": "advantage middlegame short trappedPiece",
+  "solved": 0.0008169934640522876
+ },
+ {
+  "id": "1dNdV",
+  "rating": 1639,
+  "themes": "advantage long middlegame",
+  "solved": 4.887585532746823e-05
+ },
+ {
+  "id": "4kpF9",
+  "rating": 1651,
+  "themes": "advancedPawn crushing endgame master masterVsMaster sacrifice short",
+  "solved": 0.008333333333333333
+ },
+ {
+  "id": "5qS9b",
+  "rating": 1667,
+  "themes": "advantage long opening",
+  "solved": 1.238696890870804e-05
+ },
+ {
+  "id": "1xVxX",
+  "rating": 1717,
+  "themes": "attraction crushing fork long middlegame sacrifice",
+  "solved": 3.0788177339901475e-05
+ },
+ {
+  "id": "1kH80",
+  "rating": 1614,
+  "themes": "bishopEndgame crushing endgame short",
+  "solved": 0.018518518518518517
+ },
+ {
+  "id": "2MxbN",
+  "rating": 1712,
+  "themes": "endgame mate mateIn4 veryLong",
+  "solved": 6.773690984217301e-07
+ },
+ {
+  "id": "1O9vO",
+  "rating": 1623,
+  "themes": "endgame",
+  "solved": 4.4893378226711566e-05
+ },
+ {
+  "id": "4vY5F",
+  "rating": 1787,
+  "themes": "advantage attraction fork long middlegame",
+  "solved": 1.6869095816464237e-05
+ },
+ {
+  "id": "4GcQG",
+  "rating": 1979,
+  "themes": "advantage middlegame short",
+  "solved": 0.0005681818181818182
+ },
+ {
+  "id": "0yRfw",
+  "rating": 1939,
+  "themes": "advantage middlegame short",
+  "solved": 0.00047281323877068556
+ },
+ {
+  "id": "119Uc",
+  "rating": 1874,
+  "themes": "attraction crushing exposedKing fork middlegame veryLong",
+  "solved": 3.2346464272683285e-07
+ },
+ {
+  "id": "5sG8N",
+  "rating": 1828,
+  "themes": "advantage opening short",
+  "solved": 0.0008912655971479501
+ },
+ {
+  "id": "3A4J3",
+  "rating": 1802,
+  "themes": "advantage kingsideAttack middlegame short",
+  "solved": 0.0006285355122564425
+ },
+ {
+  "id": "3H0yF",
+  "rating": 1878,
+  "themes": "crushing endgame short",
+  "solved": 0.027777777777777776
+ },
+ {
+  "id": "2Cxba",
+  "rating": 1960,
+  "themes": "advantage hangingPiece long middlegame",
+  "solved": 0.00625
+ },
+ {
+  "id": "4IOrV",
+  "rating": 1819,
+  "themes": "advantage attraction fork long middlegame",
+  "solved": 2.9855202268995374e-05
+ },
+ {
+  "id": "1g7Md",
+  "rating": 1919,
+  "themes": "advantage long middlegame",
+  "solved": 2.626050420168067e-05
+ },
+ {
+  "id": "0o4fJ",
+  "rating": 1822,
+  "themes": "attraction endgame long mate mateIn3 queenEndgame",
+  "solved": 9.838646202282565e-05
+ },
+ {
+  "id": "3Im9Y",
+  "rating": 1839,
+  "themes": "advancedPawn attraction crushing endgame exposedKing fork long",
+  "solved": 3.20666987333654e-05
+ },
+ {
+  "id": "29I3K",
+  "rating": 1899,
+  "themes": "advantage middlegame pin veryLong",
+  "solved": 2.690524081804846e-07
+ },
+ {
+  "id": "5YysM",
+  "rating": 1837,
+  "themes": "crushing endgame long pawnEndgame zugzwang",
+  "solved": 0.006666666666666666
+ },
+ {
+  "id": "4QCeI",
+  "rating": 1869,
+  "themes": "advantage discoveredAttack endgame rookEndgame short",
+  "solved": 0.0011160714285714285
+ },
+ {
+  "id": "2f8Jr",
+  "rating": 1827,
+  "themes": "attraction crushing kingsideAttack middlegame sacrifice short",
+  "solved": 0.0007002801120448179
+ },
+ {
+  "id": "2DP66",
+  "rating": 1984,
+  "themes": "advantage discoveredAttack long middlegame pin",
+  "solved": 0.0001729804532087874
+ },
+ {
+  "id": "1CNrm",
+  "rating": 1939,
+  "themes": "advantage attraction discoveredAttack master middlegame pin sacrifice veryLong",
+  "solved": 6.405001024800164e-07
+ },
+ {
+  "id": "0Kqm7",
+  "rating": 1901,
+  "themes": "advantage master middlegame short",
+  "solved": 0.16666666666666666
+ },
+ {
+  "id": "5BQAH",
+  "rating": 1915,
+  "themes": "advancedPawn advantage discoveredAttack discoveredCheck endgame promotion veryLong xRayAttack",
+  "solved": 5.710891812865497e-07
+ },
+ {
+  "id": "1stii",
+  "rating": 1983,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": 0.0009496676163342829
+ },
+ {
+  "id": "36Cp3",
+  "rating": 1823,
+  "themes": "crushing discoveredAttack long middlegame",
+  "solved": 8.86053517632465e-05
+ },
+ {
+  "id": "5cthE",
+  "rating": 1814,
+  "themes": "crushing defensiveMove endgame quietMove rookEndgame veryLong",
+  "solved": 0.0005208333333333333
+ },
+ {
+  "id": "1oDZT",
+  "rating": 1961,
+  "themes": "crushing endgame quietMove short",
+  "solved": 0.0007974481658692185
+ },
+ {
+  "id": "2jPjR",
+  "rating": 1827,
+  "themes": "bishopEndgame crushing endgame short",
+  "solved": 0.03333333333333333
+ },
+ {
+  "id": "3Ku05",
+  "rating": 1862,
+  "themes": "deflection endgame mate mateIn2 short",
+  "solved": 0.003095975232198142
+ },
+ {
+  "id": "0rPq7",
+  "rating": 1941,
+  "themes": "advantage kingsideAttack middlegame veryLong",
+  "solved": 3.8710131951226783e-07
+ },
+ {
+  "id": "63GsM",
+  "rating": 1951,
+  "themes": "advantage fork hangingPiece long middlegame",
+  "solved": 0.00025900025900025896
+ },
+ {
+  "id": "3O2Fh",
+  "rating": 1892,
+  "themes": "crushing endgame master masterVsMaster rookEndgame short",
+  "solved": 0.0044444444444444444
+ },
+ {
+  "id": "5l80t",
+  "rating": 1985,
+  "themes": "crushing endgame short",
+  "solved": 0.001075268817204301
+ },
+ {
+  "id": "1Hq45",
+  "rating": 1909,
+  "themes": "crushing endgame fork short",
+  "solved": 0.0014792899408284025
+ },
+ {
+  "id": "47fsC",
+  "rating": 1979,
+  "themes": "crushing long middlegame",
+  "solved": 0.002777777777777778
+ },
+ {
+  "id": "2s6JA",
+  "rating": 1914,
+  "themes": "crushing exposedKing middlegame veryLong",
+  "solved": 7.141551259198318e-07
+ },
+ {
+  "id": "55AqC",
+  "rating": 1850,
+  "themes": "advantage deflection middlegame queensideAttack short",
+  "solved": 0.0006253908692933083
+ },
+ {
+  "id": "2fOTx",
+  "rating": 1825,
+  "themes": "clearance mate mateIn2 middlegame sacrifice short",
+  "solved": 0.0006591957811470007
+ },
+ {
+  "id": "4Z05p",
+  "rating": 1921,
+  "themes": "discoveredAttack discoveredCheck endgame mate mateIn2 morphysMate short",
+  "solved": 0.0014814814814814814
+ },
+ {
+  "id": "3OkIy",
+  "rating": 1970,
+  "themes": "crushing defensiveMove endgame short",
+  "solved": 0.000946969696969697
+ },
+ {
+  "id": "44rQB",
+  "rating": 1923,
+  "themes": "advantage discoveredAttack intermezzo long middlegame sacrifice",
+  "solved": 2.2022551092318535e-05
+ },
+ {
+  "id": "2r4GL",
+  "rating": 1851,
+  "themes": "crushing endgame master short",
+  "solved": 0.000591016548463357
+ },
+ {
+  "id": "46Y80",
+  "rating": 1917,
+  "themes": "advantage middlegame pin short",
+  "solved": 0.000946969696969697
+ },
+ {
+  "id": "5YwEE",
+  "rating": 1823,
+  "themes": "capturingDefender crushing middlegame short",
+  "solved": 0.0008818342151675485
+ },
+ {
+  "id": "3V2Ll",
+  "rating": 2077,
+  "themes": "crushing endgame long queenEndgame",
+  "solved": 0.0008230452674897118
+ },
+ {
+  "id": "0KJeI",
+  "rating": 2163,
+  "themes": "crushing endgame queenEndgame quietMove veryLong",
+  "solved": 0.0004638218923933209
+ },
+ {
+  "id": "3Wq33",
+  "rating": 2144,
+  "themes": "crushing deflection discoveredAttack kingsideAttack master middlegame veryLong",
+  "solved": 2.679873081210874e-07
+ },
+ {
+  "id": "1KqLD",
+  "rating": 2039,
+  "themes": "advancedPawn crushing endgame long promotion",
+  "solved": 0.0003654970760233918
+ },
+ {
+  "id": "1iPjJ",
+  "rating": 2021,
+  "themes": "crushing middlegame sacrifice short",
+  "solved": 0.0007949125596184419
+ },
+ {
+  "id": "02Gyp",
+  "rating": 2021,
+  "themes": "crushing endgame long rookEndgame",
+  "solved": 0.0013888888888888887
+ },
+ {
+  "id": "45Jjd",
+  "rating": 2001,
+  "themes": "crushing kingsideAttack long middlegame",
+  "solved": 3.26797385620915e-05
+ },
+ {
+  "id": "5IK0M",
+  "rating": 2146,
+  "themes": "crushing hangingPiece middlegame short",
+  "solved": 0.0005208333333333333
+ },
+ {
+  "id": "4M47D",
+  "rating": 2010,
+  "themes": "advancedPawn crushing endgame intermezzo master short",
+  "solved": 0.0023923444976076554
+ },
+ {
+  "id": "3iSID",
+  "rating": 2003,
+  "themes": "endgame mate mateIn2 short",
+  "solved": 0.0009182736455463728
+ },
+ {
+  "id": "4k3q8",
+  "rating": 2097,
+  "themes": "advantage endgame short",
+  "solved": 0.0010775862068965517
+ },
+ {
+  "id": "64yl9",
+  "rating": 2058,
+  "themes": "crushing endgame quietMove short",
+  "solved": 0.005952380952380952
+ },
+ {
+  "id": "1uQN6",
+  "rating": 2195,
+  "themes": "advancedPawn advantage endgame master short",
+  "solved": 0.0007751937984496124
+ },
+ {
+  "id": "0IYKy",
+  "rating": 2063,
+  "themes": "crushing middlegame short",
+  "solved": 0.0008658008658008658
+ },
+ {
+  "id": "3uYwL",
+  "rating": 2077,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.0006097560975609756
+ },
+ {
+  "id": "5d1X1",
+  "rating": 2005,
+  "themes": "crushing deflection endgame exposedKing skewer veryLong",
+  "solved": 2.721177290142807e-06
+ },
+ {
+  "id": "4QXya",
+  "rating": 2039,
+  "themes": "advantage discoveredAttack opening short",
+  "solved": 0.0005167958656330749
+ },
+ {
+  "id": "2U0jN",
+  "rating": 2067,
+  "themes": "crushing defensiveMove endgame pin short",
+  "solved": 0.16666666666666666
+ },
+ {
+  "id": "4cd5l",
+  "rating": 2055,
+  "themes": "advantage endgame fork long sacrifice",
+  "solved": 0.0007692307692307692
+ },
+ {
+  "id": "2wuU9",
+  "rating": 2134,
+  "themes": "advantage capturingDefender long opening",
+  "solved": 1.6218232537018117e-05
+ },
+ {
+  "id": "1xIHs",
+  "rating": 2174,
+  "themes": "bishopEndgame crushing defensiveMove endgame master short",
+  "solved": 0.015625
+ },
+ {
+  "id": "0c4PP",
+  "rating": 2115,
+  "themes": "advantage middlegame short",
+  "solved": 0.0004081632653061224
+ },
+ {
+  "id": "4zFo3",
+  "rating": 2080,
+  "themes": "crushing endgame long rookEndgame",
+  "solved": 0.0014005602240896359
+ },
+ {
+  "id": "2ScFo",
+  "rating": 2171,
+  "themes": "advantage attackingF2F7 long middlegame",
+  "solved": 1.6711229946524065e-05
+ },
+ {
+  "id": "12dC5",
+  "rating": 2028,
+  "themes": "advancedPawn advantage endgame long",
+  "solved": 0.00023148148148148146
+ },
+ {
+  "id": "263B8",
+  "rating": 2106,
+  "themes": "mate mateIn2 middlegame short",
+  "solved": 0.000425531914893617
+ },
+ {
+  "id": "0PM1V",
+  "rating": 2109,
+  "themes": "advantage attraction fork long master middlegame sacrifice",
+  "solved": 1.9936204146730462e-05
+ },
+ {
+  "id": "0K3Ll",
+  "rating": 2185,
+  "themes": "attraction discoveredCheck doubleCheck kingsideAttack mate mateIn4 middlegame pillsburysMate sacrifice veryLong",
+  "solved": 1.4008427469965934e-06
+ },
+ {
+  "id": "5tAT2",
+  "rating": 2146,
+  "themes": "crushing endgame short",
+  "solved": 0.006493506493506493
+ },
+ {
+  "id": "4NE70",
+  "rating": 2162,
+  "themes": "crushing endgame knightEndgame long quietMove trappedPiece",
+  "solved": 0.0015432098765432098
+ },
+ {
+  "id": "1hmvl",
+  "rating": 2090,
+  "themes": "crushing long middlegame",
+  "solved": 2.0117486118934576e-05
+ },
+ {
+  "id": "3ftqx",
+  "rating": 2092,
+  "themes": "crushing endgame master masterVsMaster quietMove short superGM",
+  "solved": 0.0058823529411764705
+ },
+ {
+  "id": "4spgh",
+  "rating": 2007,
+  "themes": "advantage middlegame short",
+  "solved": 0.00034305317324185246
+ },
+ {
+  "id": "0ReLA",
+  "rating": 2152,
+  "themes": "bishopEndgame crushing endgame long",
+  "solved": 0.0008012820512820513
+ },
+ {
+  "id": "0793K",
+  "rating": 2036,
+  "themes": "crushing long middlegame",
+  "solved": 1.1865211200759373e-05
+ },
+ {
+  "id": "47SAG",
+  "rating": 2083,
+  "themes": "clearance discoveredAttack discoveredCheck mate mateIn2 middlegame sacrifice short",
+  "solved": 0.0006666666666666666
+ },
+ {
+  "id": "134JR",
+  "rating": 2067,
+  "themes": "advantage hangingPiece middlegame short",
+  "solved": 0.0012345679012345679
+ },
+ {
+  "id": "1U7ud",
+  "rating": 2072,
+  "themes": "advancedPawn crushing endgame quietMove veryLong",
+  "solved": 3.616898148148148e-05
+ },
+ {
+  "id": "4INo7",
+  "rating": 2086,
+  "themes": "advantage kingsideAttack long middlegame sacrifice",
+  "solved": 1.3098949464252966e-05
+ },
+ {
+  "id": "2akcQ",
+  "rating": 2079,
+  "themes": "crushing endgame fork short",
+  "solved": 0.0007541478129713423
+ },
+ {
+  "id": "2YevV",
+  "rating": 2374,
+  "themes": "advantage long middlegame pin",
+  "solved": 1.5782828282828283e-05
+ },
+ {
+  "id": "0E792",
+  "rating": 2297,
+  "themes": "advantage master middlegame short",
+  "solved": 0.0005302226935312831
+ },
+ {
+  "id": "5aNUB",
+  "rating": 2322,
+  "themes": "crushing defensiveMove long middlegame",
+  "solved": 0.0014285714285714286
+ },
+ {
+  "id": "5iboF",
+  "rating": 2274,
+  "themes": "crushing discoveredAttack kingsideAttack long middlegame",
+  "solved": 2.6455026455026453e-05
+ },
+ {
+  "id": "4Md61",
+  "rating": 2201,
+  "themes": "advantage hangingPiece long master middlegame",
+  "solved": 5.009016229212583e-05
+ },
+ {
+  "id": "0Ztng",
+  "rating": 2218,
+  "themes": "mate mateIn2 middlegame short xRayAttack",
+  "solved": 0.0005807200929152149
+ },
+ {
+  "id": "1EU0K",
+  "rating": 2330,
+  "themes": "advantage fork long middlegame",
+  "solved": 1.925001925001925e-05
+ },
+ {
+  "id": "3cN8H",
+  "rating": 2248,
+  "themes": "endgame fork long mate mateIn3 sacrifice",
+  "solved": 5.463286713286713e-05
+ },
+ {
+  "id": "1N4V7",
+  "rating": 2249,
+  "themes": "advantage discoveredAttack middlegame short",
+  "solved": 0.0006644518272425248
+ },
+ {
+  "id": "2hWSM",
+  "rating": 2353,
+  "themes": "crushing long middlegame",
+  "solved": 2.271178741766977e-05
+ },
+ {
+  "id": "5kpL2",
+  "rating": 2225,
+  "themes": "advantage attraction endgame short",
+  "solved": 0.00048590864917395527
+ },
+ {
+  "id": "563EJ",
+  "rating": 2241,
+  "themes": "advantage long middlegame",
+  "solved": 3.731900283624421e-05
+ },
+ {
+  "id": "0ev81",
+  "rating": 2276,
+  "themes": "crushing exposedKing fork long middlegame",
+  "solved": 1.885369532428356e-05
+ },
+ {
+  "id": "3jKk3",
+  "rating": 2269,
+  "themes": "crushing intermezzo middlegame skewer veryLong",
+  "solved": 1.4762849584278154e-06
+ },
+ {
+  "id": "2NK6L",
+  "rating": 2232,
+  "themes": "crushing endgame pawnEndgame quietMove veryLong zugzwang",
+  "solved": 8.267195767195767e-05
+ },
+ {
+  "id": "28U3f",
+  "rating": 2291,
+  "themes": "clearance crushing defensiveMove endgame master short",
+  "solved": 0.0011160714285714285
+ },
+ {
+  "id": "1LF71",
+  "rating": 2208,
+  "themes": "crushing discoveredAttack discoveredCheck long middlegame sacrifice",
+  "solved": 0.00015432098765432098
+ },
+ {
+  "id": "5gnZ0",
+  "rating": 2214,
+  "themes": "deflection kingsideAttack long mate mateIn3 middlegame pillsburysMate sacrifice",
+  "solved": 6.17283950617284e-05
+ },
+ {
+  "id": "1JCvR",
+  "rating": 2247,
+  "themes": "advantage attraction long middlegame",
+  "solved": 2.2843567251461987e-05
+ },
+ {
+  "id": "1qIUO",
+  "rating": 2234,
+  "themes": "advantage long middlegame pin",
+  "solved": 1.4197688616293266e-05
+ },
+ {
+  "id": "2YtCW",
+  "rating": 2270,
+  "themes": "advantage middlegame short",
+  "solved": 0.0007541478129713424
+ },
+ {
+  "id": "2vpg8",
+  "rating": 2220,
+  "themes": "advantage clearance long middlegame trappedPiece",
+  "solved": 0.0002334267040149393
+ },
+ {
+  "id": "1P1u3",
+  "rating": 2203,
+  "themes": "advantage long middlegame",
+  "solved": 1.9357336430507162e-05
+ },
+ {
+  "id": "05HHX",
+  "rating": 2228,
+  "themes": "advantage master middlegame short",
+  "solved": 0.00033101621979476995
+ },
+ {
+  "id": "5CDRf",
+  "rating": 2363,
+  "themes": "attraction crushing deflection endgame sacrifice veryLong",
+  "solved": 3.613284863284863e-08
+ },
+ {
+  "id": "62wBM",
+  "rating": 2349,
+  "themes": "crushing defensiveMove endgame pin rookEndgame veryLong",
+  "solved": 0.0002232142857142857
+ },
+ {
+  "id": "4DVMg",
+  "rating": 2275,
+  "themes": "crushing endgame pawnEndgame veryLong",
+  "solved": 0.0005668934240362812
+ },
+ {
+  "id": "0X1yX",
+  "rating": 2329,
+  "themes": "advantage long middlegame queensideAttack",
+  "solved": 1.8705574261129817e-05
+ },
+ {
+  "id": "2u7gk",
+  "rating": 2380,
+  "themes": "advantage endgame master veryLong",
+  "solved": 3.3057851239669424e-06
+ },
+ {
+  "id": "2dzU7",
+  "rating": 2312,
+  "themes": "advancedPawn crushing endgame promotion rookEndgame veryLong",
+  "solved": 3.8580246913580246e-05
+ },
+ {
+  "id": "2rf6d",
+  "rating": 2222,
+  "themes": "crushing middlegame pin short",
+  "solved": 0.0009191176470588235
+ },
+ {
+  "id": "5bk2D",
+  "rating": 2248,
+  "themes": "advantage exposedKing fork long middlegame",
+  "solved": 1.49947518368571e-05
+ },
+ {
+  "id": "5XCZr",
+  "rating": 2373,
+  "themes": "defensiveMove endgame long mate mateIn3 operaMate",
+  "solved": 0.00028935185185185184
+ },
+ {
+  "id": "4U8ei",
+  "rating": 2274,
+  "themes": "crushing defensiveMove endgame veryLong",
+  "solved": 9.920634920634919e-05
+ },
+ {
+  "id": "0XsOZ",
+  "rating": 2208,
+  "themes": "advancedPawn endgame long mate mateIn3 sacrifice",
+  "solved": 4.830917874396135e-05
+ },
+ {
+  "id": "52VYr",
+  "rating": 2375,
+  "themes": "crushing master masterVsMaster middlegame short",
+  "solved": 0.000693000693000693
+ },
+ {
+  "id": "3PUjG",
+  "rating": 2228,
+  "themes": "advantage master middlegame short",
+  "solved": 0.0005455537370430987
+ },
+ {
+  "id": "01JlU",
+  "rating": 2269,
+  "themes": "crushing deflection exposedKing middlegame veryLong",
+  "solved": 3.772446054021427e-06
+ },
+ {
+  "id": "0akNB",
+  "rating": 2295,
+  "themes": "crushing defensiveMove endgame long pawnEndgame quietMove",
+  "solved": 0.0013888888888888887
+ },
+ {
+  "id": "1OI9a",
+  "rating": 2241,
+  "themes": "advantage middlegame short",
+  "solved": 0.0007507507507507507
+ },
+ {
+  "id": "0VA8m",
+  "rating": 2423,
+  "themes": "crushing endgame fork long",
+  "solved": 3.255208333333333e-05
+ },
+ {
+  "id": "1Lw5R",
+  "rating": 2417,
+  "themes": "advantage master middlegame veryLong",
+  "solved": 2.3577787837633922e-07
+ },
+ {
+  "id": "0XsFq",
+  "rating": 2421,
+  "themes": "advantage long middlegame pin",
+  "solved": 1.7280707817792216e-05
+ },
+ {
+  "id": "0jDRt",
+  "rating": 2452,
+  "themes": "crushing endgame long pawnEndgame quietMove",
+  "solved": 0.008333333333333333
+ },
+ {
+  "id": "4uiFX",
+  "rating": 2506,
+  "themes": "advancedPawn crushing endgame exposedKing hangingPiece quietMove veryLong",
+  "solved": 8.857709750566894e-06
+ },
+ {
+  "id": "0LhMl",
+  "rating": 2407,
+  "themes": "crushing endgame long rookEndgame",
+  "solved": 0.0002805836139169472
+ },
+ {
+  "id": "0yzOg",
+  "rating": 2544,
+  "themes": "advantage middlegame short",
+  "solved": 0.0005291005291005291
+ },
+ {
+  "id": "5FZTL",
+  "rating": 2402,
+  "themes": "advancedPawn crushing long middlegame",
+  "solved": 2.5437525437525436e-05
+ },
+ {
+  "id": "5A173",
+  "rating": 2433,
+  "themes": "advantage endgame exposedKing fork long",
+  "solved": 7.548309178743961e-05
+ },
+ {
+  "id": "522Py",
+  "rating": 2457,
+  "themes": "advantage attraction endgame fork sacrifice veryLong",
+  "solved": 7.398200757575757e-06
+ },
+ {
+  "id": "3MXK4",
+  "rating": 2495,
+  "themes": "bishopEndgame crushing defensiveMove endgame long",
+  "solved": 0.0008928571428571429
+ },
+ {
+  "id": "1fmCB",
+  "rating": 2400,
+  "themes": "crushing endgame pawnEndgame quietMove veryLong zugzwang",
+  "solved": 0.0020833333333333333
+ },
+ {
+  "id": "3LqKY",
+  "rating": 2403,
+  "themes": "advantage middlegame short",
+  "solved": 0.0005302226935312832
+ },
+ {
+  "id": "0k9Ni",
+  "rating": 2455,
+  "themes": "crushing endgame pawnEndgame quietMove short",
+  "solved": 0.009090909090909092
+ },
+ {
+  "id": "3hPrZ",
+  "rating": 2496,
+  "themes": "advantage endgame long",
+  "solved": 2.990430622009569e-05
+ },
+ {
+  "id": "43cJm",
+  "rating": 2438,
+  "themes": "crushing endgame hangingPiece master short",
+  "solved": 0.0030303030303030303
+ },
+ {
+  "id": "45JMV",
+  "rating": 2437,
+  "themes": "crushing endgame long pawnEndgame zugzwang",
+  "solved": 0.0125
+ },
+ {
+  "id": "5wa47",
+  "rating": 2435,
+  "themes": "advantage kingsideAttack long middlegame",
+  "solved": 1.5282107708295127e-05
+ },
+ {
+  "id": "3Dhbr",
+  "rating": 2490,
+  "themes": "crushing defensiveMove endgame long pawnEndgame quietMove",
+  "solved": 0.0015432098765432098
+ },
+ {
+  "id": "3n0cU",
+  "rating": 2416,
+  "themes": "crushing opening short",
+  "solved": 0.0005208333333333333
+ },
+ {
+  "id": "2ojHX",
+  "rating": 2454,
+  "themes": "advancedPawn crushing endgame veryLong",
+  "solved": 1.633026324384349e-05
+ },
+ {
+  "id": "24MQ5",
+  "rating": 2463,
+  "themes": "crushing endgame master quietMove veryLong",
+  "solved": 7.513148009015777e-05
+ },
+ {
+  "id": "3TuDf",
+  "rating": 2519,
+  "themes": "attraction crushing discoveredAttack discoveredCheck exposedKing fork master middlegame sacrifice veryLong",
+  "solved": 4.265629265629266e-07
+ },
+ {
+  "id": "4ReVh",
+  "rating": 2491,
+  "themes": "advantage long middlegame",
+  "solved": 2.8977108084613153e-05
+ },
+ {
+  "id": "1LAEe",
+  "rating": 2535,
+  "themes": "crushing endgame long pawnEndgame quietMove",
+  "solved": 0.0012987012987012987
+ },
+ {
+  "id": "1OojP",
+  "rating": 2425,
+  "themes": "crushing endgame knightEndgame short",
+  "solved": 0.010416666666666666
+ },
+ {
+  "id": "5c9HF",
+  "rating": 2401,
+  "themes": "fork mate mateIn4 middlegame operaMate sacrifice veryLong",
+  "solved": 3.5843321672306013e-07
+ },
+ {
+  "id": "03jUK",
+  "rating": 2459,
+  "themes": "crushing master middlegame short",
+  "solved": 0.0008445945945945946
+ },
+ {
+  "id": "3yGRE",
+  "rating": 2516,
+  "themes": "advantage endgame rookEndgame trappedPiece veryLong",
+  "solved": 3.289473684210526e-05
+ },
+ {
+  "id": "0suZN",
+  "rating": 2460,
+  "themes": "crushing deflection endgame long",
+  "solved": 3.9100684261974585e-05
+ },
+ {
+  "id": "5kMeh",
+  "rating": 2440,
+  "themes": "advancedPawn crushing endgame long",
+  "solved": 0.00036630036630036635
+ },
+ {
+  "id": "1vFJ8",
+  "rating": 2497,
+  "themes": "advantage endgame short",
+  "solved": 0.0007507507507507507
+ },
+ {
+  "id": "0SPK2",
+  "rating": 2409,
+  "themes": "crushing endgame long pawnEndgame quietMove",
+  "solved": 0.0009090909090909091
+ },
+ {
+  "id": "3v2VZ",
+  "rating": 2429,
+  "themes": "crushing endgame long",
+  "solved": 4.266939750810719e-05
+ },
+ {
+  "id": "4kEfc",
+  "rating": 2405,
+  "themes": "advancedPawn crushing endgame long master sacrifice",
+  "solved": 0.0002777777777777778
+ },
+ {
+  "id": "5Wxcl",
+  "rating": 2420,
+  "themes": "attraction fork mate mateIn4 middlegame sacrifice veryLong",
+  "solved": 4.863056333644568e-06
+ },
+ {
+  "id": "0SmoL",
+  "rating": 2473,
+  "themes": "crushing middlegame veryLong",
+  "solved": 4.1994221595108515e-07
+ },
+ {
+  "id": "4Sz0M",
+  "rating": 2439,
+  "themes": "crushing fork long middlegame pin",
+  "solved": 2.370791844476055e-05
+ },
+ {
+  "id": "0aI3n",
+  "rating": 2465,
+  "themes": "advancedPawn crushing endgame short",
+  "solved": 0.0007304601899196494
+ },
+ {
+  "id": "3u4LB",
+  "rating": 2583,
+  "themes": "advantage long middlegame",
+  "solved": 1.231830500123183e-05
+ }
+]

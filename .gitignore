@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+data/*.zst
+data/*.zip
+data/8moves_v3.pgn
+results/cache/*.sqlite-wal
+results/cache/*.sqlite-shm
+results/*.log
+results/run_chain.sh
+results/smoke_game.json
+results/games_archive/

@@ -1,0 +1,108 @@
+{
+ "positions": "data/positions_100_s7.json",
+ "grader_depth": 16,
+ "variants": {
+  "fen/san": {
+   "n": 100,
+   "acpl": 424.0,
+   "median_cp_loss": 306.5,
+   "accuracy": 55.7,
+   "top1": 0.15,
+   "blunder_rate": 0.47,
+   "mean_rank_pct": 0.497,
+   "mean_p_best": 0.114,
+   "mean_input_tokens": 552,
+   "median_latency_ms": 259
+  },
+  "fen/described": {
+   "n": 100,
+   "acpl": 373.7,
+   "median_cp_loss": 164.5,
+   "accuracy": 60.3,
+   "top1": 0.23,
+   "blunder_rate": 0.43,
+   "mean_rank_pct": 0.433,
+   "mean_p_best": 0.159,
+   "mean_input_tokens": 942,
+   "median_latency_ms": 262
+  },
+  "grid/san": {
+   "n": 100,
+   "acpl": 442.1,
+   "median_cp_loss": 278.0,
+   "accuracy": 55.7,
+   "top1": 0.19,
+   "blunder_rate": 0.46,
+   "mean_rank_pct": 0.52,
+   "mean_p_best": 0.111,
+   "mean_input_tokens": 686,
+   "median_latency_ms": 260
+  },
+  "grid/described": {
+   "n": 100,
+   "acpl": 370.7,
+   "median_cp_loss": 153.5,
+   "accuracy": 60.7,
+   "top1": 0.22,
+   "blunder_rate": 0.41,
+   "mean_rank_pct": 0.452,
+   "mean_p_best": 0.176,
+   "mean_input_tokens": 1076,
+   "median_latency_ms": 259
+  },
+  "pieces/san": {
+   "n": 100,
+   "acpl": 386.5,
+   "median_cp_loss": 214.5,
+   "accuracy": 60.1,
+   "top1": 0.23,
+   "blunder_rate": 0.41,
+   "mean_rank_pct": 0.448,
+   "mean_p_best": 0.134,
+   "mean_input_tokens": 725,
+   "median_latency_ms": 260
+  },
+  "pieces/described": {
+   "n": 100,
+   "acpl": 403.8,
+   "median_cp_loss": 220.5,
+   "accuracy": 58.0,
+   "top1": 0.22,
+   "blunder_rate": 0.44,
+   "mean_rank_pct": 0.445,
+   "mean_p_best": 0.176,
+   "mean_input_tokens": 1114,
+   "median_latency_ms": 256
+  },
+  "human (source game)": {
+   "n": 100,
+   "acpl": 93.9,
+   "median_cp_loss": 19.0,
+   "accuracy": 84.4,
+   "top1": 0.29,
+   "blunder_rate": 0.12,
+   "mean_rank_pct": 0.192
+  },
+  "random legal move": {
+   "n": 100,
+   "acpl": 363.1,
+   "accuracy": 58.9,
+   "top1": 0.075,
+   "blunder_rate": 0.412
+  }
+ },
+ "determinism": {
+  "n": 20,
+  "same_pick": 17,
+  "max_prob_diff": 0.050000000000000044
+ },
+ "usage": {
+  "requests": 640,
+  "cached": 22,
+  "input_tokens": 537151,
+  "billed_input_tokens": 521612,
+  "usd_billed_this_run": 0.0219,
+  "usd_equivalent_all": 0.0226
+ },
+ "human_rating_median": 1637.5
+}

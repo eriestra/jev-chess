@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "lichess-2013-01-10",
+  "uci": "e6e2",
+  "san": "Re2",
+  "input_tokens": 2152,
+  "output_tokens": 1070,
+  "usd": 0.019304,
+  "latency_ms": 12131,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-64",
+  "uci": "g1f3",
+  "san": "Nf3",
+  "input_tokens": 2257,
+  "output_tokens": 660,
+  "usd": 0.015623999999999999,
+  "latency_ms": 7324,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-432",
+  "uci": "e1e8",
+  "san": "Rxe8",
+  "input_tokens": 2391,
+  "output_tokens": 1309,
+  "usd": 0.022650000000000003,
+  "latency_ms": 14703,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-731",
+  "uci": "c1g5",
+  "san": "Bg5",
+  "input_tokens": 2148,
+  "output_tokens": 777,
+  "usd": 0.016357999999999998,
+  "latency_ms": 9490,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-1012",
+  "uci": "c8d7",
+  "san": "Bd7",
+  "input_tokens": 2279,
+  "output_tokens": 620,
+  "usd": 0.015312,
+  "latency_ms": 7966,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-1115",
+  "uci": "c8f5",
+  "san": "Bxf5",
+  "input_tokens": 2275,
+  "output_tokens": 474,
+  "usd": 0.013835999999999998,
+  "latency_ms": 5475,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-1140",
+  "uci": "a5c4",
+  "san": "Nxc4",
+  "input_tokens": 2209,
+  "output_tokens": 324,
+  "usd": 0.012072000000000001,
+  "latency_ms": 4246,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-1660",
+  "uci": "c7c3",
+  "san": "Qxc3",
+  "input_tokens": 2401,
+  "output_tokens": 928,
+  "usd": 0.01888,
+  "latency_ms": 10874,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-2634",
+  "uci": "e8g8",
+  "san": "O-O",
+  "input_tokens": 2429,
+  "output_tokens": 388,
+  "usd": 0.013592,
+  "latency_ms": 4623,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-2776",
+  "uci": "h2h3",
+  "san": "h3",
+  "input_tokens": 2258,
+  "output_tokens": 1085,
+  "usd": 0.019878,
+  "latency_ms": 12072,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-2954",
+  "uci": "d7b6",
+  "san": "Nb6",
+  "input_tokens": 2242,
+  "output_tokens": 1274,
+  "usd": 0.021704,
+  "latency_ms": 14519,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-3459",
+  "uci": "b5b6",
+  "san": "Kb6",
+  "input_tokens": 1878,
+  "output_tokens": 1473,
+  "usd": 0.022238,
+  "latency_ms": 16724,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-3514",
+  "uci": "d4d1",
+  "san": "Rxd1+",
+  "input_tokens": 2356,
+  "output_tokens": 912,
+  "usd": 0.01854,
+  "latency_ms": 10083,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-3813",
+  "uci": "f1c4",
+  "san": "Bxc4",
+  "input_tokens": 2308,
+  "output_tokens": 7,
+  "usd": 0.009297999999999999,
+  "latency_ms": 755,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-3878",
+  "uci": "c3d5",
+  "san": "Nd5",
+  "input_tokens": 2524,
+  "output_tokens": 1054,
+  "usd": 0.020632,
+  "latency_ms": 11574,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-4274",
+  "uci": "a7f2",
+  "san": "Bxf2+",
+  "input_tokens": 2413,
+  "output_tokens": 1404,
+  "usd": 0.023688,
+  "latency_ms": 15222,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-4412",
+  "uci": "g7e6",
+  "san": "Ne6",
+  "input_tokens": 1902,
+  "output_tokens": 1189,
+  "usd": 0.019494,
+  "latency_ms": 13383,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-4646",
+  "uci": "c2g6",
+  "san": "Bxg6",
+  "input_tokens": 2162,
+  "output_tokens": 597,
+  "usd": 0.014613999999999999,
+  "latency_ms": 5193,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5057",
+  "uci": "g5f6",
+  "san": "Bxf6",
+  "input_tokens": 2349,
+  "output_tokens": 1104,
+  "usd": 0.020432,
+  "latency_ms": 12161,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5259",
+  "uci": "d6b4",
+  "san": "Bxb4+",
+  "input_tokens": 2454,
+  "output_tokens": 1994,
+  "usd": 0.029752,
+  "latency_ms": 22279,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5364",
+  "uci": "e3d4",
+  "san": "Bd4",
+  "input_tokens": 2354,
+  "output_tokens": 687,
+  "usd": 0.016281999999999998,
+  "latency_ms": 8383,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5455",
+  "uci": "g1f3",
+  "san": "Nf3",
+  "input_tokens": 2339,
+  "output_tokens": 1223,
+  "usd": 0.021582,
+  "latency_ms": 14852,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5706",
+  "uci": "a4b5",
+  "san": "axb5",
+  "input_tokens": 2397,
+  "output_tokens": 892,
+  "usd": 0.018504,
+  "latency_ms": 10619,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-5807",
+  "uci": "c1c2",
+  "san": "Rxc2",
+  "input_tokens": 2248,
+  "output_tokens": 629,
+  "usd": 0.015278,
+  "latency_ms": 7840,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6189",
+  "uci": "d3d4",
+  "san": "Qxd4",
+  "input_tokens": 2241,
+  "output_tokens": 577,
+  "usd": 0.01473,
+  "latency_ms": 6587,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6283",
+  "uci": "c3d5",
+  "san": "Nxd5",
+  "input_tokens": 2150,
+  "output_tokens": 566,
+  "usd": 0.014256000000000001,
+  "latency_ms": 6668,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6347",
+  "uci": "e3f4",
+  "san": "Bf4",
+  "input_tokens": 2396,
+  "output_tokens": 892,
+  "usd": 0.018500000000000003,
+  "latency_ms": 10427,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6460",
+  "uci": "g8g5",
+  "san": "Rg5",
+  "input_tokens": 2287,
+  "output_tokens": 1406,
+  "usd": 0.023204000000000002,
+  "latency_ms": 16337,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6539",
+  "uci": "e2d3",
+  "san": "Bd3",
+  "input_tokens": 1990,
+  "output_tokens": 1036,
+  "usd": 0.018316000000000002,
+  "latency_ms": 12232,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6628",
+  "uci": "d7b6",
+  "san": "Nb6",
+  "input_tokens": 2329,
+  "output_tokens": 1071,
+  "usd": 0.020021999999999998,
+  "latency_ms": 12198,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6637",
+  "uci": "b6a5",
+  "san": "bxa5",
+  "input_tokens": 2136,
+  "output_tokens": 530,
+  "usd": 0.01384,
+  "latency_ms": 6747,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6692",
+  "uci": "c6b4",
+  "san": "Nxb4",
+  "input_tokens": 2552,
+  "output_tokens": 931,
+  "usd": 0.019514,
+  "latency_ms": 10182,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6771",
+  "uci": "c4e6",
+  "san": "Bxe6",
+  "input_tokens": 2338,
+  "output_tokens": 746,
+  "usd": 0.016808,
+  "latency_ms": 8816,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-6940",
+  "uci": "h4g5",
+  "san": "Qg5",
+  "input_tokens": 2423,
+  "output_tokens": 980,
+  "usd": 0.019488,
+  "latency_ms": 11700,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-7406",
+  "uci": "e7e6",
+  "san": "e6",
+  "input_tokens": 2351,
+  "output_tokens": 286,
+  "usd": 0.01226,
+  "latency_ms": 4264,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-7424",
+  "uci": "c6d4",
+  "san": "Nd4",
+  "input_tokens": 2541,
+  "output_tokens": 795,
+  "usd": 0.01811,
+  "latency_ms": 8760,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-7569",
+  "uci": "a6e2",
+  "san": "Bxe2",
+  "input_tokens": 2685,
+  "output_tokens": 1106,
+  "usd": 0.021796000000000003,
+  "latency_ms": 12231,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-7908",
+  "uci": "e8e7",
+  "san": "Re7",
+  "input_tokens": 2100,
+  "output_tokens": 1025,
+  "usd": 0.018646000000000003,
+  "latency_ms": 10974,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-7909",
+  "uci": "e7f5",
+  "san": "Nf5",
+  "input_tokens": 2379,
+  "output_tokens": 1425,
+  "usd": 0.023762000000000002,
+  "latency_ms": 15691,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8025",
+  "uci": "g5f3",
+  "san": "Nf3",
+  "input_tokens": 2360,
+  "output_tokens": 398,
+  "usd": 0.013415999999999999,
+  "latency_ms": 5201,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8342",
+  "uci": "c3e5",
+  "san": "Qxe5",
+  "input_tokens": 2308,
+  "output_tokens": 898,
+  "usd": 0.018208000000000002,
+  "latency_ms": 9173,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8388",
+  "uci": "e2f3",
+  "san": "Qf3",
+  "input_tokens": 2322,
+  "output_tokens": 1486,
+  "usd": 0.024144,
+  "latency_ms": 15436,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8392",
+  "uci": "e1g1",
+  "san": "O-O",
+  "input_tokens": 2340,
+  "output_tokens": 629,
+  "usd": 0.015646,
+  "latency_ms": 7427,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8711",
+  "uci": "d8h4",
+  "san": "Qh4+",
+  "input_tokens": 2285,
+  "output_tokens": 788,
+  "usd": 0.017016,
+  "latency_ms": 8824,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-8728",
+  "uci": "f6g5",
+  "san": "Qg5",
+  "input_tokens": 2279,
+  "output_tokens": 819,
+  "usd": 0.017301999999999998,
+  "latency_ms": 9279,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-9302",
+  "uci": "e8g8",
+  "san": "O-O",
+  "input_tokens": 2299,
+  "output_tokens": 619,
+  "usd": 0.015382,
+  "latency_ms": 7824,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-9858",
+  "uci": "f7f6",
+  "san": "f6",
+  "input_tokens": 2137,
+  "output_tokens": 1763,
+  "usd": 0.026174000000000003,
+  "latency_ms": 20344,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10194",
+  "uci": "e4f2",
+  "san": "Nf2+",
+  "input_tokens": 2767,
+  "output_tokens": 1344,
+  "usd": 0.024503999999999998,
+  "latency_ms": 14696,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10312",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "input_tokens": 1777,
+  "output_tokens": 626,
+  "usd": 0.013364000000000001,
+  "latency_ms": 6787,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10428",
+  "uci": "e1g1",
+  "san": "O-O",
+  "input_tokens": 2342,
+  "output_tokens": 354,
+  "usd": 0.012904,
+  "latency_ms": 4197,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10464",
+  "uci": "f2f4",
+  "san": "f4",
+  "input_tokens": 2267,
+  "output_tokens": 1189,
+  "usd": 0.020954,
+  "latency_ms": 12861,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10526",
+  "uci": "e4c3",
+  "san": "Nxc3",
+  "input_tokens": 2290,
+  "output_tokens": 1309,
+  "usd": 0.022246000000000002,
+  "latency_ms": 13903,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-10655",
+  "uci": "f3f4",
+  "san": "Qf4",
+  "input_tokens": 2392,
+  "output_tokens": 899,
+  "usd": 0.018554,
+  "latency_ms": 10544,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-11834",
+  "uci": "g7f6",
+  "san": "Bf6",
+  "input_tokens": 2193,
+  "output_tokens": 1174,
+  "usd": 0.020508,
+  "latency_ms": 13427,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-12511",
+  "uci": "a2b3",
+  "san": "axb3",
+  "input_tokens": 2347,
+  "output_tokens": 548,
+  "usd": 0.014863999999999999,
+  "latency_ms": 7080,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-12643",
+  "uci": "a1c2",
+  "san": "Nc2",
+  "input_tokens": 2181,
+  "output_tokens": 1193,
+  "usd": 0.02065,
+  "latency_ms": 13877,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-12968",
+  "uci": "a7b6",
+  "san": "axb6",
+  "input_tokens": 2350,
+  "output_tokens": 1072,
+  "usd": 0.020116000000000002,
+  "latency_ms": 12400,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13026",
+  "uci": "f7e6",
+  "san": "Qxe6",
+  "input_tokens": 2400,
+  "output_tokens": 1076,
+  "usd": 0.020356,
+  "latency_ms": 12104,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13076",
+  "uci": "c2g6",
+  "san": "Qxg6+",
+  "input_tokens": 2212,
+  "output_tokens": 2544,
+  "usd": 0.034283999999999995,
+  "latency_ms": 30900,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13163",
+  "uci": "c2c6",
+  "san": "Rc6",
+  "input_tokens": 2345,
+  "output_tokens": 1103,
+  "usd": 0.020406,
+  "latency_ms": 13299,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13319",
+  "uci": "h7g6",
+  "san": "hxg6",
+  "input_tokens": 2508,
+  "output_tokens": 1320,
+  "usd": 0.023228,
+  "latency_ms": 14435,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13483",
+  "uci": "c3e4",
+  "san": "Nxe4",
+  "input_tokens": 2507,
+  "output_tokens": 740,
+  "usd": 0.017424,
+  "latency_ms": 8612,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13672",
+  "uci": "a5b4",
+  "san": "axb4",
+  "input_tokens": 1980,
+  "output_tokens": 292,
+  "usd": 0.010836,
+  "latency_ms": 3750,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-13965",
+  "uci": null,
+  "san": null,
+  "input_tokens": 1807,
+  "output_tokens": 179,
+  "usd": 0.009014,
+  "latency_ms": 2551,
+  "legal_reply": false
+ },
+ {
+  "id": "lichess-2013-01-14288",
+  "uci": "c1d2",
+  "san": "Bd2",
+  "input_tokens": 2032,
+  "output_tokens": 853,
+  "usd": 0.016654000000000002,
+  "latency_ms": 9398,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-14291",
+  "uci": "f2f3",
+  "san": "f3",
+  "input_tokens": 2243,
+  "output_tokens": 744,
+  "usd": 0.016408,
+  "latency_ms": 8233,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-14511",
+  "uci": "d7f6",
+  "san": "Nf6+",
+  "input_tokens": 2205,
+  "output_tokens": 501,
+  "usd": 0.013826000000000001,
+  "latency_ms": 6596,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-14750",
+  "uci": "b2a3",
+  "san": "bxa3",
+  "input_tokens": 2372,
+  "output_tokens": 969,
+  "usd": 0.019174000000000004,
+  "latency_ms": 11032,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15094",
+  "uci": "f1c4",
+  "san": "Bc4+",
+  "input_tokens": 2311,
+  "output_tokens": 452,
+  "usd": 0.013759999999999998,
+  "latency_ms": 5202,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15310",
+  "uci": "a6d3",
+  "san": "Bxd3",
+  "input_tokens": 2237,
+  "output_tokens": 1045,
+  "usd": 0.019394,
+  "latency_ms": 10958,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15386",
+  "uci": "b7d5",
+  "san": "Bxd5",
+  "input_tokens": 2475,
+  "output_tokens": 1018,
+  "usd": 0.020076,
+  "latency_ms": 11187,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15410",
+  "uci": "e5c6",
+  "san": "Nxc6+",
+  "input_tokens": 2260,
+  "output_tokens": 537,
+  "usd": 0.014406,
+  "latency_ms": 6327,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15563",
+  "uci": "f7e7",
+  "san": "Ke7",
+  "input_tokens": 2270,
+  "output_tokens": 2760,
+  "usd": 0.036676,
+  "latency_ms": 30502,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-15572",
+  "uci": "e5f7",
+  "san": "Nxf7",
+  "input_tokens": 2458,
+  "output_tokens": 895,
+  "usd": 0.018778,
+  "latency_ms": 9915,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16250",
+  "uci": "g6f7",
+  "san": "gxf7+",
+  "input_tokens": 2536,
+  "output_tokens": 1512,
+  "usd": 0.02526,
+  "latency_ms": 16011,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16458",
+  "uci": "h6f5",
+  "san": "Nf5",
+  "input_tokens": 2387,
+  "output_tokens": 1332,
+  "usd": 0.022864000000000002,
+  "latency_ms": 14442,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16504",
+  "uci": "b2c3",
+  "san": "Bc3",
+  "input_tokens": 2311,
+  "output_tokens": 1029,
+  "usd": 0.01953,
+  "latency_ms": 12015,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16510",
+  "uci": "e6f5",
+  "san": "exf5",
+  "input_tokens": 2410,
+  "output_tokens": 313,
+  "usd": 0.012766,
+  "latency_ms": 4338,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16648",
+  "uci": "b8c6",
+  "san": "Nc6",
+  "input_tokens": 2521,
+  "output_tokens": 913,
+  "usd": 0.019209999999999998,
+  "latency_ms": 10087,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-16820",
+  "uci": "c7f4",
+  "san": "Qf4+",
+  "input_tokens": 2500,
+  "output_tokens": 786,
+  "usd": 0.017856,
+  "latency_ms": 9876,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-17037",
+  "uci": "c2a1",
+  "san": "Nxa1",
+  "input_tokens": 2171,
+  "output_tokens": 683,
+  "usd": 0.01551,
+  "latency_ms": 8451,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-17529",
+  "uci": "e8d7",
+  "san": "Kxd7",
+  "input_tokens": 1903,
+  "output_tokens": 224,
+  "usd": 0.009847999999999999,
+  "latency_ms": 3029,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-17729",
+  "uci": "f8f1",
+  "san": "Rxf1+",
+  "input_tokens": 2306,
+  "output_tokens": 1278,
+  "usd": 0.022,
+  "latency_ms": 13694,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-17950",
+  "uci": "c7c5",
+  "san": "c5",
+  "input_tokens": 2098,
+  "output_tokens": 719,
+  "usd": 0.015578000000000002,
+  "latency_ms": 8544,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-18085",
+  "uci": "e8e7",
+  "san": "Ree7",
+  "input_tokens": 2012,
+  "output_tokens": 1518,
+  "usd": 0.023224,
+  "latency_ms": 16008,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-18950",
+  "uci": "e8g8",
+  "san": "O-O",
+  "input_tokens": 2403,
+  "output_tokens": 825,
+  "usd": 0.017858,
+  "latency_ms": 8926,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-19138",
+  "uci": "b4c4",
+  "san": "Qc4",
+  "input_tokens": 1819,
+  "output_tokens": 1210,
+  "usd": 0.019372,
+  "latency_ms": 13394,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-19345",
+  "uci": "f6d5",
+  "san": "Nd5",
+  "input_tokens": 2103,
+  "output_tokens": 374,
+  "usd": 0.012147999999999999,
+  "latency_ms": 4957,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-19426",
+  "uci": "f6e5",
+  "san": "Bxe5",
+  "input_tokens": 2505,
+  "output_tokens": 741,
+  "usd": 0.017426,
+  "latency_ms": 8413,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-19873",
+  "uci": "e5f3",
+  "san": "Nxf3",
+  "input_tokens": 2554,
+  "output_tokens": 1343,
+  "usd": 0.023642000000000003,
+  "latency_ms": 14876,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-20235",
+  "uci": "e5e4",
+  "san": "e4",
+  "input_tokens": 2208,
+  "output_tokens": 852,
+  "usd": 0.017348000000000002,
+  "latency_ms": 11126,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-20616",
+  "uci": "a8d8",
+  "san": "Rd8",
+  "input_tokens": 2074,
+  "output_tokens": 1443,
+  "usd": 0.022722,
+  "latency_ms": 16286,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-20710",
+  "uci": "c3c4",
+  "san": "c4+",
+  "input_tokens": 1834,
+  "output_tokens": 1056,
+  "usd": 0.017892,
+  "latency_ms": 12760,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-20933",
+  "uci": "g5h4",
+  "san": "gxh4",
+  "input_tokens": 2275,
+  "output_tokens": 1146,
+  "usd": 0.020556,
+  "latency_ms": 12909,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-21094",
+  "uci": "g8f6",
+  "san": "Nf6",
+  "input_tokens": 2224,
+  "output_tokens": 516,
+  "usd": 0.014051999999999999,
+  "latency_ms": 6451,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-21546",
+  "uci": "c2c6",
+  "san": "Qc6",
+  "input_tokens": 2470,
+  "output_tokens": 1152,
+  "usd": 0.021396000000000002,
+  "latency_ms": 13399,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-21591",
+  "uci": "e2c4",
+  "san": "Bc4",
+  "input_tokens": 2315,
+  "output_tokens": 1198,
+  "usd": 0.021236,
+  "latency_ms": 12776,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-22050",
+  "uci": "d5e5",
+  "san": "Qxe5",
+  "input_tokens": 2479,
+  "output_tokens": 603,
+  "usd": 0.015942,
+  "latency_ms": 7812,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-22503",
+  "uci": "c8f5",
+  "san": "Bf5",
+  "input_tokens": 2119,
+  "output_tokens": 930,
+  "usd": 0.017772000000000003,
+  "latency_ms": 10588,
+  "legal_reply": true
+ },
+ {
+  "id": "lichess-2013-01-22552",
+  "uci": "f4f3",
+  "san": "f3",
+  "input_tokens": 2245,
+  "output_tokens": 1451,
+  "usd": 0.023486,
+  "latency_ms": 14736,
+  "legal_reply": true
+ }
+]
