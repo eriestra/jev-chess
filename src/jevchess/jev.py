@@ -94,9 +94,15 @@ class Usage:
 class Jev:
     def __init__(self, model: str = MODEL, cache_path: Path | None = None):
         self.model = model
-        self.client = httpx.Client(timeout=120, headers={"Authorization": f"Bearer {_load_key()}"})
+        self._client = None  # created on the first uncached request, so cached rebuilds need no key
         self.cache = Cache(cache_path or ROOT / "results/cache/jev.sqlite")
         self.usage = Usage()
+
+    @property
+    def client(self) -> httpx.Client:
+        if self._client is None:
+            self._client = httpx.Client(timeout=120, headers={"Authorization": f"Bearer {_load_key()}"})
+        return self._client
 
     def ask(self, state, questions: dict, tag: str = "") -> tuple[dict, float, bool]:
         body = {"state": state, "model": self.model, "questions": questions}
